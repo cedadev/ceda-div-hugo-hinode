@@ -202,7 +202,11 @@
       "name": "Ellie Fisher",
       "thumbnail": "/img/people/ellie-fisher.jpg",
       "title": "Graduate Data Scientist"
+        },
+    "matthewwild": {
+      "bio": "Matthew Wild is part of the UK Solar Systems Data Centre (UKSSDC) and works on the fringes of CEDA.",
+      "name": "Matthew Wild",
+      "thumbnail": "/img/people/matt-wild.png",
+      "title": "Senior Data Scientist: UKSSDC"
         }
-
-
   }
