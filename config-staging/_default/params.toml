@@ -1,0 +1,244 @@
+[main]
+    separator = "-"
+    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    enableDarkMode = true
+    modes = ["light", "dark"]
+    canonifyAssetsURLs = false
+    endorse = false
+    [main.externalLinks]
+        cue = false
+        tab = false
+
+[modules]
+    core = ["bootstrap", "fontawesome"] #"flexsearch", 
+    optional = ["leaflet", "katex"]
+    excludeSCSS = ["bootstrap"]
+    disableTemplate = ["katex"]
+    [modules.fontawesome]
+        inline = true
+        debug = true
+        skipMissing = false
+
+[debugging]
+    showJS = false
+    showSCSS = false
+
+[docs]
+    github = "https://github.com/gethinode/hinode"
+    release = "https://github.com/gethinode/hinode/releases/tag/"
+    checkVersion = false
+
+[home]
+    sections = ["news", "services", "about", "events","priorities","projects"]
+    fullCover = false
+    centerHeadline = false
+    style = ""
+
+[navigation]
+    anchor = true
+    logo = "/img/ceda-logo.png" # store -light and -dark variants
+    color = "body-tertiary"
+    fixed = true
+    offset = "3.8em"
+    search = false
+    breadcrumb = true
+    toc = true
+    sidebar = true
+    size = "md"
+
+[messages]
+    placement = "bottom-right"
+
+[sharing]
+    enabled = true
+    sort = "weight"
+    reverse = false
+    webshare = true
+
+[[sharing.providers]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/sharing/share-offsite/?url={url}"
+    icon = "fab linkedin"
+    weight = 10
+
+[[sharing.providers]]
+    name = "Twitter"
+    url = "https://twitter.com/home?status={url}"
+    icon = "fab x-twitter"
+    weight = 20
+
+[[sharing.providers]]
+    name = "Facebook"
+    url = "https://www.facebook.com/sharer.php?u={url}"
+    icon = "fab facebook"
+    weight = 30
+
+[[sharing.providers]]
+    name = "WhatsApp"
+    url = "whatsapp://send?text={title}%20{url}"
+    icon = "fab whatsapp"
+    weight = 40
+
+[[sharing.providers]]
+    name = "email"
+    url = "{url}"
+    icon = "fas link"
+    weight = 50
+    clipboard = true
+
+[sections]
+    [sections.news]
+        title = "News"
+        sort = "date"
+        reverse = true
+        nested = true # TODO check at https://gethinode.com/docs/configuration/layout/
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 3
+        separator = true
+    [sections.priorities]
+        title = "Our priorities at CEDA"
+        layout = "nav"
+        sort = "weight"
+        reverse = false
+        background = "body-tertiary"
+        color = "primary"
+        style = "justify-content-center"
+        pane = "persona"
+        type = "pills"
+        class = "nav-justified"
+        width = 100
+    [sections.events]
+        title = "Events"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        nested = true # TODO check at https://gethinode.com/docs/configuration/layout/
+        cols = 3
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "horizontal"
+        style = "border-0 card-zoom"
+        homepage = 3
+        separator = true
+    [sections.projects]
+        title = "Projects"
+        layout = "card"
+        sort = "date"
+        reverse = true
+        nested = true # TODO check at https://gethinode.com/docs/configuration/layout/
+        cols = 3
+        background = "body-tertiary"
+        color = "body"
+        padding = "3"
+        header = "none"
+        footer = "tags"
+        orientation = "horizontal"
+        style = "border-1 card-emphasize"
+        homepage = 3
+        paginate = 6
+        separator = false
+    [sections.about]
+        title = "Find out more about us"
+        layout = "card"
+        paginate = 3
+    [sections.services]
+        title = "Services we run"
+        layout = "list"
+        sort = "date"
+
+
+
+[favicon]
+    logo = "img/favicon.png"
+    sizes = [16, 32, 48]
+
+[style]
+    primary = "#446E9B"
+    secondary = "#999999"
+    success = "#3CB521"
+    info = "#3399F3"
+    warning = "#D47500"
+    danger = "#CD0200"
+    light = "#EEEEEE"
+    dark = "#333333"
+# toml-docs-end theme-colors
+    themeOpacity = "10"
+# toml-docs-start font
+    themeFont = "Lato"
+    themeFontPath = "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" # external path
+    #themeFontPath = "/fonts" # local path
+    purge = false
+
+[schema]
+    type = "Organization"
+    name = "Hinode"
+    locale = "en-US"
+    # twitter = "https://twitter.com/gethinode"
+    # linkedIn = ""
+    github = "https://github.com/gethinode/hinode"
+    section = "news"
+    [author]
+        name = "Mark Dumay"
+        # twitter = "https://twitter.com/markdumay"
+        linkedin = "https://www.linkedin.com/in/markdumay/"
+        github = "https://github.com/markdumay"
+    [logo]
+        url = "img/logo512x512.png"
+        width = 512
+        height = 512
+    [image]
+        url = "img/logo1280x640.png"
+        width = 1280
+        height = 640
+
+[opengraph]
+    images = ["logo.png"]
+    locale = "en_US"
+
+[comments]
+    enabled = false
+    repo = "" # Replace with your repository.
+    #issueTerm = "pathname" # pathname, url, title, og:title
+    #label = "comment"
+    # By default, light and dark mode correspond to github-light and github-dark, respectively.
+    # Optional values: github-light, github-dark, preferred-color-scheme, github-dark-orange, icy-dark, dark-blue, photon-dark.
+    #theme = "" 
+
+[links]
+    bs_badge_heading = "https://getbootstrap.com/docs/5.2/components/badge/#headings"
+    hinode_docs = "https://gethinode.com/docs"
+    hugo_imaging = "https://gohugo.io/content-management/image-processing/#imaging-configuration"
+    mozilla_image = "https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images"
+    observatory = "https://observatory.mozilla.org/analyze/demo.gethinode.com"
+    pagespeed = "https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethinode.com%2F"
+    utterances = "https://utteranc.es"
+    hugo = "https://gohugo.io"
+    # curated local links
+    ceda = "https://www.ceda.ac.uk"
+    ceda_archive = "https://archive.ceda.ac.uk"
+    ceda_catalogue = "https://catagloue.ceda.ac.uk"
+    ceda_helpdocs = "https://help.ceda.ac.uk"
+    ceda_helpdesk = "https://help.ceda.ac.uk"
+    nceo = "https://www.nceo.ac.uk"
+    ncas = "https://www.ncas.ac.uk"
+    jasmin = "https://www.jasmin.ac.uk"
+    stfc = "https://stfc.ukri.org"
+    nerc = "https://nerc.ukri.org"
+    ukri = "https://ukri.org"
+
+[statusClasses]
+    "down" = "danger"
+    "normal" = "success"
+    "degraded" = "warning"
+    "at risk" = "dark"
+
+[beacon]
+    html = "<p>Beacon</p><script src=\"/static/js/beacon.js\" type=\"text/javascript\">"
