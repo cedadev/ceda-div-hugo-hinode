@@ -5,50 +5,90 @@
                 <div class="container-fluid p-4 px-xxl-0">
                      {{ .Content }}
 
+                    {{- $url := "https://docs.google.com/spreadsheets/d/e/2PACX-1vSIzuyuBccao0boxeSTGDYzK-oVKeU0pNe7gbozTkM1gFtBHqbZ9-9SfgZYgRJptK90BTN2ExmdJmTK/pub?gid=0&single=true&output=csv" }}
+                    {{- $sep := "," }}
+                    {{- $statusData := getCSV $sep $url }}
+
+                    {{- $entry := dict "index" "" "public" "" "datetimeFirstPosted" "" "status" "" "textSummary" "" "servicesAffected" "" "datetimeLatestUpdate" "" "latestUpdate" "" "url" ""}}
+                    {{- $entries := slice $entry }}
+
+                    {{- $public := "FALSE" }}
+                    {{- range $index, $smt := after 1 $statusData }}
+                        {{- $public := index . 0 }}
+                        {{ if compare.Eq $public "TRUE" }}
+                            
+                            {{- $datetimeFirstPosted := index . 1 }}
+                            {{- $status :=  index . 2 }}
+                            {{- $textSummary :=  index . 3 }}
+                            {{- $servicesAffected := index . 4 }}
+                            {{- $datetimeLatestUpdate :=  index . 5 }}
+                            {{- $latestUpdate :=  index . 6 }}
+                            {{- $url :=  index . 7 }}                           
+                            
+                            {{- $entries = $entries | append (dict
+                                "public" $public
+                                "index" $index
+                                "datetimeFirstPosted" (time $datetimeFirstPosted)
+                                "status" $status
+                                "textSummary" $textSummary
+                                "servicesAffected" $servicesAffected
+                                "datetimeLatestUpdate" (time $datetimeLatestUpdate)
+                                "latestUpdate" $latestUpdate
+                                "url" $url
+                                ) }}
+                        {{ else }}
+                            {{- /* do nothing */}}
+                        {{- end }}
+                    {{- end }}
+
+                    {{- $entries := sort $entries ".index" "desc" }}
+
+                    <h2>Current incidents</h2>
+
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Date (of original incident)</th>
+                                <th>Status</th>
+                                <th>Services affected</th>
+                                <th>Summary</th>
+                                <th>Latest</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {{- range $row := where $entries "public" "TRUE" }}
+                                {{- if le ($row.datetimeFirstPosted) now }}
+                                    {{ $statusClass := index $.Site.Params.statusClasses $row.status }}
+                                    {{ partial "incident_row.html" (dict "context" $row "statusClass" $statusClass ) }}
+                                {{- end }}
+                            {{- end }}          
+                        </tbody>
+                    </table>
+
                     <h2>Future incidents</h2>
 
                     <table class="table table-striped">
                         <thead>
                             <tr>
-                                <th>Date</th>
+                                <th>Date (of original incident)</th>
                                 <th>Status</th>
-                                <th>Summary</th>
                                 <th>Services affected</th>
-                                <th>Updates</th>
+                                <th>Summary</th>
+                                <th>Latest</th>
                             </tr>
                         </thead>
                         <tbody>
-                            {{ range $i := sort $.Site.Data.status ".date" "desc" }}
-                                {{ if gt (time $i.date) now }}
-                                    {{ $color := index $.Site.Params.statusClasses $i.status }}
-                                    {{ partial "incident_row.html" (dict "context" . "statusClasses" $.Site.Params.statusClasses) }}
-                                {{ end }}
-                            {{end}}                         
+                            {{- range $row := where $entries "public" "TRUE" }}
+                                {{- if gt ($row.datetimeFirstPosted) now }}
+                                    {{ $statusClass := index $.Site.Params.statusClasses $row.status }}
+                                    {{ partial "incident_row.html" (dict "context" $row "statusClass" $statusClass ) }}
+                                {{- end }}
+                            {{- end }}          
                         </tbody>
                     </table>
 
-                    <h2>Current incidents</h2>
-                    
-                    <table class="table table-striped">
-                        <thead>
-                            <tr>
-                                <th>Date</th>
-                                <th>Status</th>
-                                <th>Summary</th>
-                                <th>Services affected</th>
-                                <th>Updates</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-                            {{ range $i := sort $.Site.Data.status ".date" "desc" }}
-                                {{ if le (time $i.date) now }}
-                                    {{ $color := index $.Site.Params.statusClasses $i.status }}
-                                    {{ partial "incident_row.html" (dict "context" . "statusClasses" $.Site.Params.statusClasses) }}
-                                {{ end }}
-                            {{end}}                         
-                        </tbody>
-                    </table>
-
+                    <hr>
+                    <p>This page was last generated at <code>{{ now | time.Format "2006-01-02 15:04:05" }}</code></p>
                 </div>
             </div>
         </div>
