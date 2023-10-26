@@ -2,16 +2,20 @@
 {{- /* because range makes us lose the page context */}}
 {{ $dateFormat := "2006-01-02 15:04:05" }}
 <tr>
-    <td>{{ .context.datetimeFirstPosted  | time.Format $dateFormat }}</td>
+    <th>{{ .context.datetimeFirstPosted  | time.Format $dateFormat }}</th>
     <td>
         <span class="badge bg-{{ $.statusClass }}">{{ .context.status }}</span>
     </td>
     <td>{{ .context.servicesAffected }}</td>
     <td>{{ .context.textSummary }}</td>
     <td>
-        {{ .context.datetimeLatestUpdate | time.Format $dateFormat }}: {{ .context.latestUpdate }}
-        {{ if .context.url }}
-            | <a href="{{ .context.url }}" class="btn btn-sm btn-primary" role="button" target="_blank">Learn more</a>
+        {{ if .context.latestUpdate }}
+            <strong>{{ .context.datetimeLatestUpdate | time.Format $dateFormat }}</strong>: {{ .context.latestUpdate }}
+            {{ if .context.url }}
+                | <a href="{{ .context.url }}" class="btn btn-sm btn-primary" role="button" target="_blank">Learn more</a>
+            {{ end }}
+        {{ else }}
+            No further updates at present
         {{ end }}
     </td>
 </tr>
