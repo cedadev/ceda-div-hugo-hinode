@@ -18,6 +18,7 @@ ignoreErrors = ["error-remote-getjson"]
 
 timeout = "180s"
 
+timeZone = "Europe/London"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -40,6 +41,10 @@ delimiter = ""
 
 [outputs]
 home = ["HTML", "RSS", "REDIR"]
+
+[caches]
+  [caches.getcsv]
+    maxAge = 0 # set to 0 to always fetch a remote CSV file.
 
 [build]
   writeStats = true
