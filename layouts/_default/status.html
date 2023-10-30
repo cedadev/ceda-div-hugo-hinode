@@ -6,8 +6,7 @@
                     {{ .Content }}
 
                     {{- with $url := .Site.Params.statusData.sourceURL }}
-                        {{ $jsonSource := "https://raw.githubusercontent.com/cedadev/ceda-div-hugo-hinode/main/data/status.json"}}
-                        
+                        {{ $jsonSource := $url }}
 
                         <!-- TABLE CONSTRUCTION-->
         <table id="table" class="table table-striped">
@@ -36,7 +35,7 @@
                             a.date < b.date ? -1 : a.date > b.date ? 1 : 0;
 
                         // FETCHING DATA FROM JSON FILE
-                        $.getJSON("{{ $jsonSource }}",  
+                        $.getJSON("{{ $jsonSource }}", 
                             function (dataObject) { 
                                 var incidents = [];
                                 $.each( dataObject, function (key, value) {
