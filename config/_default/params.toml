@@ -39,7 +39,7 @@
     logo = "/img/ceda-logo.png" # store -light and -dark variants
     color = "body-tertiary"
     fixed = true
-    offset = "3.8em"
+    offset = "5em"
     search = false
     breadcrumb = true
     toc = true
