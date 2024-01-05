@@ -20,7 +20,7 @@ __Philip Kershaw, Head of the Centre for Environmental Data Analysis, said:__ *�
 
 ------------------------------------------------------------
 
-This award is the beginning of exciting opportunities within the EODH programme. We have recently launched the Invitation to Tender (ITT) for the {{< link href="https://www.ceda.ac.uk/news/updates/2023/2023-12-19-eodh-itt-announcement/" >}} EO DataHub Applications and Integrations {{< /link >}}  contract. This ITT’s implementation will mark an important step forward in adding user-orientated service interfaces to the core Hub Platform software. The successful applicants will be expected to work closely with the Platform Development and Operations team for a successful delivery. There are three applications for the ITT which can be applied for as a whole or individually:
+This award is the beginning of exciting opportunities within the EODH programme. We have recently launched the Invitation to Tender (ITT) for the EO DataHub Applications and Integrations contract. This ITT’s implementation will mark an important step forward in adding user-orientated service interfaces to the core Hub Platform software. The successful applicants will be expected to work closely with the Platform Development and Operations team for a successful delivery. There are three applications for the ITT which can be applied for as a whole or individually:
 
 __Lot 1:__ Web-application delivering Combined Information from Climate Observations and Projections;
 
@@ -30,4 +30,3 @@ __Lot 3:__ Open-source code integrations and training: accelerating use of the H
 
 ------------------------------------------------------------
 
-Have a look at our news item for more information about the {{< link href="https://www.ceda.ac.uk/news/updates/2023/2023-12-19-eodh-itt-announcement/" >}} EO DataHub Applications and Integrations ITT {{< /link >}}
