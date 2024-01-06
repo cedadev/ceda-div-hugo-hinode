@@ -128,9 +128,9 @@
 
                 <h2>Source data</h2>
                 <p>
-                {{ $link := partial "utilities/link" (dict "destination" site.Params.statusData.sourceURL "text" "JSON data feed" "class" "btn btn-primary btn-sm") }}
+                {{ $link := partial "assets/link.html" (dict "destination" site.Params.statusData.sourceURL "text" "JSON data feed" "class" "btn btn-primary btn-sm" "page" .Page) }}
                 {{ $link | safeHTML }} used for this page, check 
-                {{ $link := partial "utilities/link" (dict "destination" site.Params.statusData.viewURL "text" "here" "class" "btn btn-primary btn-sm") }}
+                {{ $link := partial "assets/link.html" (dict "destination" site.Params.statusData.viewURL "text" "here" "class" "btn btn-primary btn-sm" "page" .Page) }}
                 {{ $link | safeHTML }} for date/time of last update.</p>
                 </p>
 

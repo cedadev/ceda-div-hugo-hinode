@@ -49,7 +49,7 @@ See also {{< link "#venues" />}}, below.
 
 ### Day 1 Wednesday 1st November
 
-{{< table "table-striped" >}}
+{{< table class="table-striped" >}}
 | Time  |         | Venue |
 | -- | ----------- | --- |
 | 12:15 - 13:15| Arrivals & Registration. Lunch provided from 12:15 | CR12/13, building R68 |
@@ -64,7 +64,7 @@ See also {{< link "#venues" />}}, below.
 
 ### Day 2 Thursday 2nd November
 
-{{< table "table-striped" >}}
+{{< table class="table-striped" >}}
 | Time  |         | Venue |
 | -- | ----------- | --- |
 | 08:45 - 09:00| Arrivals. Tea/coffee available | R22 coffee lounge |
