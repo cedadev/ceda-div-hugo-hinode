@@ -7,6 +7,6 @@ thumbnail:
     #caption: Caption can go here
 actions:
   about:
-    url: "https://gethinode.com/docs"
+    url: "/about"
     title: "What we do"
 ---
