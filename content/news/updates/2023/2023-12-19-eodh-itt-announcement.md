@@ -6,7 +6,11 @@ thumbnail:
 icon: fas circle-info text-info
 ---
 
-NCEO and the EO DataHub team are pleased to announce the release of our latest invitation to tender, the EO DataHub Applications and Integrations ITT. The tender is now open for submissions and will close on the 19th of January at 14:00: 
+{{<alert type="info">}}
+Deadline now extended to 29 January 2024, 14:00
+{{</alert>}}
+
+NCEO and the EO DataHub team are pleased to announce the release of our latest invitation to tender, the EO DataHub Applications and Integrations ITT. The tender is now open for submissions and will close on the **29 January 2024, 14:00**: 
 
 https://www.find-tender.service.gov.uk/Notice/037204-2023 
 
