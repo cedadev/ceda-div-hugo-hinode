@@ -1,7 +1,7 @@
 ---
 title: Telespazio UK win EO DataHub Platform Software Development and Operations contract
 date: 2024-01-05 16:30:00+00:00
-tags: ['news']
+tags: ['news','ceda','eodh']
 thumbnail: /img/news/2024/2024-01-05-telespazio-uk-win-eo-datahub-platform-software-development-and-operations-contract/NCEO-datahub-world.jpg
 icon: fas circle-info text-info
 ---
@@ -30,3 +30,4 @@ __Lot 3:__ Open-source code integrations and training: accelerating use of the H
 
 ------------------------------------------------------------
 
+Visit  our website for more information about the {{< link "../2023/2023-12-19-eodh-itt-announcement.md" >}} EO DataHub Applications and Integrations ITT {{< /link >}}
