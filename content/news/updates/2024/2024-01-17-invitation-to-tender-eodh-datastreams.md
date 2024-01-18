@@ -36,7 +36,7 @@ The EODH project team provide oversight and management of a consortium of expert
 
 The project brings together a strong team of partners from across the public sector and industry, that currently include:
 
-- {{< link href="https://www.nceo.ac.uk/" >}} National Centre for Earth Observation {{< /link>}} (Lead Organisation), specifically the {{< link "https://www.ceda.ac.uk/" >}}Centre for Environmental Data Analysis (CEDA) {{< /link>}} and the University of Leicester
+- {{< link href="https://www.nceo.ac.uk/" >}} National Centre for Earth Observation {{< /link>}} (Lead Organisation), specifically the {{< link ceda >}}Centre for Environmental Data Analysis (CEDA) {{< /link>}} and the University of Leicester
 - {{< link href="https://www.npl.co.uk/" >}}  National Physical Laboratory {{< /link >}}
 - {{< link href="https://www.metoffice.gov.uk/" >}} Met Office {{< /link >}}
 - {{< link href="https://sa.catapult.org.uk/" >}} Satellite Applications Catapult {{< /link >}}
