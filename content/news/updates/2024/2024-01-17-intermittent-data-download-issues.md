@@ -13,6 +13,6 @@ We are aware of intermittent issues affecting users using our data download web 
 We have identified the underlying cause of this problem and working with colleagues to get this resolved as soon as possible.
 FTP downloads and direct access on the JASMIN machines are unaffected.
 
-Apologies for any inconvenience casused.
+Apologies for any inconvenience caused.
 
 CEDA Team
