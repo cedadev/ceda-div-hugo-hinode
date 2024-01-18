@@ -59,6 +59,8 @@ We aim to support environmental science, further environmental data archival pra
 
 <p class="p1">Our services are provided on behalf of the Natural Environment Research Council (<a href="https://nerc.ukri.org/">NERC</a>) via the National Centre for Atmospheric Science (<a href="https://ncas.ac.uk/en/">NCAS</a>) and the National Centre for Earth Observation (<a href="https://www.nceo.ac.uk/">NCEO</a>). CEDA is based within the&nbsp;<a href="http://www.stfc.ac.uk/ralspace/default.aspx"><span class="s1">RAL Space</span></a>&nbsp;department of the&nbsp;<span class="s1">Science and Technology Facilities Council</span>&nbsp;(<a href="https://stfc.ukri.org/">STFC</a>).&nbsp;JASMIN is co-managed by CEDA&nbsp;and STFC's <a href="https://www.scd.stfc.ac.uk/Pages/home.aspx">Scientific Computing Department</a>.&nbsp;&nbsp;</p>
 
+## Check out our latest {{< link href="https://zenodo.org/records/10522822">}}  annual report here! {{< /link >}}
+
 ### Look at our previous Annual Reports:
 
 {{< accordion id="accordion-default" >}}
