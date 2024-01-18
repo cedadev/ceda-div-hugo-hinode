@@ -64,6 +64,7 @@ We aim to support environmental science, further environmental data archival pra
 {{< accordion id="accordion-default" >}}
   {{< accordion-item header="CEDA Annual Report 2022-2023"  >}}
     {{< link href="https://zenodo.org/records/10522822">}} View here {{< /link >}}
+  {{< /accordion-item >}}  
   {{< accordion-item header="CEDA Annual Report 2021-2022"  >}}
     {{< link href="https://zenodo.org/record/7554902">}} View here {{< /link >}}
   {{< /accordion-item >}}  
