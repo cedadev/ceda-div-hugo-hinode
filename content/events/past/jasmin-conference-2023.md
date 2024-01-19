@@ -49,33 +49,43 @@ See also {{< link "#venues" />}}, below.
 
 ### Day 1 Wednesday 1st November
 
-{{< table class="table-striped" >}}
-| Time  |         | Venue |
-| -- | ----------- | --- |
-| 12:15 - 13:15| Arrivals & Registration. Lunch provided from 12:15 | CR12/13, building R68 |
-| 13:15 - 13:30| Welcome & Opening | R22 Lecture Theatre |
-| 13:30 - 14:15| Session 1: JASMIN Update | R22 Lecture Theatre |
-| 14:15 - 15:30| Session 2: User Highlights #1 | R22 Lecture Theatre |
-| 15:30 - 16:00| Refreshments | CR12/13, building R68 |
-| 16:00 - 17:00| Session 3: User Feedback & Future Requirements Discussion | CR12/13, building R68 |
-| 17:00 - 18:00| Networking / drinks | R22 coffee lounge |
-| 18:00        | Evening meal provided: hot buffet | R22 coffee lounge |
-{{< /table >}}
+| Time  |         | Venue | Recording | Slides
+| -- | ----------- | --- | --- | -- |
+| 12:15 - 13:15| Arrivals & Registration. Lunch provided from 12:15 | CR12/13, building R68 | | |
+| 13:15 - 13:30| Welcome & Opening | R22 Lecture Theatre |  | |
+| 13:30 - 14:15| Session 1: JASMIN Update | R22 Lecture Theatre | {{< button color="primary" tooltip="Recording" href="https://youtu.be/oiHaipnuuVk" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://docs.google.com/presentation/d/13e6c0Olun1Wu0R3OIrM3lHQL4YRtLmFS/edit?usp=drive_link&ouid=118288227439380951092&rtpof=true&sd=true" icon="fas file" />}} |
+| 14:15 - 15:30| Session 2: User Highlights #1 | R22 Lecture Theatre | | |
+| | JASMIN Object Storage: Optimizing Performance for Climate Research, Amulya Chevturi and Matt Brown | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/xJ8qEXQAri0" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1tFRcaEQeJvXRstMBGm5WboH5j-WG5XNe/view?usp=drive_link" icon="fas file" />}} |
+| | Simple Loss Model for European Windstorms, Dhirendra Kumar | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/GCh1UOD7Ki4" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/11puNhYHCe9ZVqD2o9dDbfI0Uo7ngUdV0/view?usp=drive_link" icon="fas file" />}} |
+| | Implementing EOCIS services in Jasmin's External Cloud, Niall McCarroll | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/qp9cR1pGT2Y" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1EhIR7CVzWJF8I2D9eRXHdpMW8fl9n6jV/view?usp=drive_link" icon="fas file" />}} |
+| | Use of JASMIN as a collaboration platform for the Met Office atmospheric dispersion model, Benjamin Drummond | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/Gslb71s02Vk" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1xaMoelC4AkPoB6J0BNjB47HwGTY_cujx/view?usp=drive_link" icon="fas file" />}} |
+| 15:30 - 16:00| Refreshments | CR12/13, building R68 | | |
+| 16:00 - 17:00| Session 3: User Feedback & Future Requirements Discussion | CR12/13, building R68 | | |
+| 17:00 - 18:00| Networking / drinks | R22 coffee lounge | | |
+| 18:00        | Evening meal provided: hot buffet | R22 coffee lounge | | |
+{.table .table-striped}
 
 ### Day 2 Thursday 2nd November
 
-{{< table class="table-striped" >}}
-| Time  |         | Venue |
-| -- | ----------- | --- |
-| 08:45 - 09:00| Arrivals. Tea/coffee available | R22 coffee lounge |
-| 09:00 - 09:15| Welcome Back | R22 Lecture Theatre |
-| 09:15 - 10:15| Session 4: New JASMIN tools and services | R22 Lecture Theatre |
-| 10:15 - 11:15| Session 5: User Highlights #2 | R22 Lecture Theatre |
-| 11:15 - 11:45| Refreshments | CR12/13, building R68|
-| 11:45 - 12:45| Session 6: Net zero and environmental sustainability | CR12/13, building R68 |
-| 12:45 - 13:00| Wrap-up & Close of JASMIN2023 | CR12/13, building R68 |
-| 13:00        | Lunch provided | CR12/13, building R68|
-{{< /table >}}
+
+| Time  |         | Venue | Recording | Slides
+| -- | ----------- | --- | --- | -- |
+| 08:45 - 09:00| Arrivals. Tea/coffee available | R22 coffee lounge | | |
+| 09:00 - 09:15| Welcome Back | R22 Lecture Theatre | | |
+| 09:15 - 10:15| Session 4: New JASMIN tools and services | R22 Lecture Theatre | | |
+| | The Near-Line Data Store, Jack Leland | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/vxPdHgjZ6uo" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1RJZrnreiclTLnSrNCpz16FB-lpv4IU_d/view?usp=drive_link" icon="fas file" />}} |
+| | JASMIN Cloud Update, Matt Jones & Matt Pryor | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/n5aLmdfuS3o" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1FY7yXcIC5bHxHBwBQes4qpZTztfcy9vE/view?usp=drive_link" icon="fas file" />}} |
+| | Dask on JASMIN, Alex Manning | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/nsKSYbM2pa8" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1Qv0QdoF4F9jb2NXWv9xNcLc4GGF_uMr1/view?usp=drive_link" icon="fas file" />}} |
+| | Group Workspace Scanner, Alex Manning | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/2XuIFwM-xFU" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1Qv0QdoF4F9jb2NXWv9xNcLc4GGF_uMr1/view?usp=drive_link" icon="fas file" />}} |
+| 10:15 - 11:15| Session 5: User Highlights #2 | R22 Lecture Theatre | | |
+| | Using the JASMIN Object Store and Cloud to Enable Oceanographic Research, Colin Sauze | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/oDSNidQpLjc" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1Zz_rL6Ej7djtAyJ0EO8x93TOuH_Ho-PR/view?usp=drive_link" icon="fas file" />}} |
+| | Climate Modelling in the NERC CANARI science programme, Reinhard Schiemann | | {{< button color="primary" tooltip="Recording" href="https://www.youtube.com/watch?v=SSA2srH5X6U" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1vF4efWQa4GAXi05WQHcMIawFfdWEd7Kj/view?usp=drive_link" icon="fas file" />}} |
+| | Operational forecasting for the WesCon WOEST campaign,  Laurents Marker | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/8SCkPqUjZYQ" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1ZM-goTab46ayx3hMu-JqCo5LkXg4asQb/view?usp=drive_link" icon="fas file" />}} |
+| 11:15 - 11:45| Refreshments | CR12/13, building R68| | |
+| 11:45 - 12:45| Session 6: Net zero and environmental sustainability | CR12/13, building R68 | | |
+| 12:45 - 13:00| Wrap-up & Close of JASMIN2023 | CR12/13, building R68 | | |
+| 13:00        | Lunch provided | CR12/13, building R68| | |
+{.table .table-striped}
 
 ### Venues
 
