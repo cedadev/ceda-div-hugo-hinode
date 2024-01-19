@@ -23,4 +23,6 @@ Some highlights from the report include:
 - The UK Earth Observation Data Hub: CEDA leads the way
 - Revolutionising cloud services: the upgrade journey to VIO7
 
+If you have an example of how CEDA’s work or staff have supported or enhanced your research, we’d love to hear from you – please contact our helpdesk: support@ceda.ac.uk
+
 {{< image src="/img/news/2024/2024-01-18-ceda-annual-report-out-now/harriet-globe.jpg" ratio="16x9" class="rounded" >}}
