@@ -8,7 +8,7 @@ icon: fas triangle-exclamation text-info
 
 {{<alert type="info">}}Issues now resolved, please report any further problems.{{</alert>}}
 
-Further problems occurred over the weekend with JASMIN’s SOF storage, used for `/gws/nopw/j04/*`` group workspaces and the CEDA Archive. With LOTUS batch cluster jobs failing for this reason, hosts have been removed from the cluster for the time being.
+Further problems occurred over the weekend with JASMIN’s SOF storage, used for `/gws/nopw/j04/*` group workspaces and the CEDA Archive. With LOTUS batch cluster jobs failing for this reason, hosts have been removed from the cluster for the time being.
 
 The root cause of the problem has been identified and work is currently underway to resolve it.
 
