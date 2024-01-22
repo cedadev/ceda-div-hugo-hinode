@@ -13,15 +13,6 @@ On Monday 25th June the BADC will be upgrading the Helpdesk system software. The
 
  If you have an urgent query please telephone 01235 44 6432.
 
-
-
  Apologies in advance for any inconvenience this may cause.
 
-
- 
 BADC Support20 June 2007
-
-
- 
-
-
