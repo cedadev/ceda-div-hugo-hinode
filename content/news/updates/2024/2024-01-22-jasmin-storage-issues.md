@@ -1,5 +1,5 @@
 ---
-title: JASMIN storage & related issues - resolved
+title: JASMIN storage issues - resolved
 date: 2024-01-22 09:15:00+00:00
 tags: ['news','jasmin', 'ceda']
 thumbnail:
@@ -16,7 +16,7 @@ Please also be aware of the maintenance period previously announced for JASMIN a
 
 * Mon 22/Tues 23 Jan: tape services closed for software upgrade
 
-Please refer to the {{<link "ceda_status">}}CEDA status{{</link>}} page for updates on each of these.
+Please refer to the {{< link name="ceda_status" cue="false" tab="true" >}}CEDA status{{</link>}} page for updates on each of these.
 
 With apologies for any inconvenience.
 JASMIN Team
