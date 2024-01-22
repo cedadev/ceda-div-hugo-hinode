@@ -1,10 +1,12 @@
 ---
-title: JASMIN Storage issues
+title: JASMIN storage & related issues - resolved
 date: 2024-01-22 09:15:00+00:00
 tags: ['news','jasmin', 'ceda']
 thumbnail:
-icon: fas triangle-exclamation text-danger
+icon: fas triangle-exclamation text-info
 ---
+
+{{<alert type="info">}}Issues now resolved, please report any further problems.{{</alert>}}
 
 Further problems occurred over the weekend with JASMIN’s SOF storage, used for `/gws/nopw/j04/*`` group workspaces and the CEDA Archive. With LOTUS batch cluster jobs failing for this reason, hosts have been removed from the cluster for the time being.
 
