@@ -30,4 +30,4 @@ __Lot 3:__ Open-source code integrations and training: accelerating use of the H
 
 ------------------------------------------------------------
 
-Visit  our website for more information about the {{< link "../2023/2023-12-19-eodh-itt-announcement.md" >}} EO DataHub Applications and Integrations ITT {{< /link >}}
+Visit our website for more information about the {{< link "../2023/2023-12-19-eodh-itt-announcement.md" >}} EO DataHub Applications and Integrations ITT {{< /link >}}
