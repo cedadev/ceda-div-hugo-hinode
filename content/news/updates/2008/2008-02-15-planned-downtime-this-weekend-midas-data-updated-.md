@@ -13,7 +13,9 @@ icon: fas circle-info text-warning
 
  {{</ link >}}
 
-{{< link "../../../events/past/jasmin-conference-2023.md" >}} ALMOST JASMIN Conference Page
+ {{< link href ="https://www.ceda.ac.uk/contact" >}} contact us {{</ link>}}
+
+{{< link "../../../events/past/jasmin-conference-2023.md" >}} JASMIN Conference Page
 
  {{</ link >}}
 
