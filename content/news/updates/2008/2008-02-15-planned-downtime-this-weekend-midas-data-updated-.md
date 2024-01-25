@@ -7,20 +7,8 @@ thumbnail:
 icon: fas circle-info text-warning
 ---
 
-{{< link nerc />}}
-
-{{< link ceda />}}
-{{< link ceda_archive />}}
-
- {{< link href ="https://www.ceda.ac.uk/contact" >}} contact us {{</ link>}}
-
-{{< link href = "https://www.ceda.ac.uk/events/past/jasmin-conference-2023/" >}} CEDA site page for JASMIN Conference {{</ link>}}
-
-{{< link ceda_status >}}Status Page{{</ link >}}
-
-{{< link "../../../events/past/jasmin-conference-2023.md" >}} JASMIN Conference Page
-
- {{</ link >}}
+{{< link name="ceda_helpdesk" >}}Helpdesk{{</link>}}
+{{< link name="ceda" >}}CEDA{{</link>}}
 
 Please note that due to unavoidable electrical work the BADC system will be offline for several hours on Saturday morning 16th February 2008. It is itended that the system will be up and running again by lunchtime.
 
