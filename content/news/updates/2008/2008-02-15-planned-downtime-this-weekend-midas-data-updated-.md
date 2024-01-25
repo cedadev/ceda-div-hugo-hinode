@@ -9,9 +9,7 @@ icon: fas circle-info text-warning
 
 {{< link nerc />}}
 
-{{< link ceda >}} ceda
-
- {{</ link >}}
+{{< link ceda >}}ceda{{</ link >}}
 
  {{< link href ="https://www.ceda.ac.uk/contact" >}} contact us {{</ link>}}
 
