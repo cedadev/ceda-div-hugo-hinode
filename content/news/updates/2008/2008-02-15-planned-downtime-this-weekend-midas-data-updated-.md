@@ -9,15 +9,14 @@ icon: fas circle-info text-warning
 
 {{< link nerc />}}
 
-{{< link ceda >}}ceda{{</ link >}}
+{{< link ceda />}}
+{{< link ceda_archive />}}
 
  {{< link href ="https://www.ceda.ac.uk/contact" >}} contact us {{</ link>}}
 
 {{< link href = "https://www.ceda.ac.uk/events/past/jasmin-conference-2023/" >}} CEDA site page for JASMIN Conference {{</ link>}}
 
 {{< link ceda_status >}}Status Page{{</ link >}}
-
-{{< link href ="https://www.ceda.ac.uk/status" >}} STATUSPAGE {{</ link>}}
 
 {{< link "../../../events/past/jasmin-conference-2023.md" >}} JASMIN Conference Page
 
