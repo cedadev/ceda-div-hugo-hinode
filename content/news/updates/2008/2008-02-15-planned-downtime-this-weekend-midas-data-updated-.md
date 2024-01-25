@@ -8,7 +8,7 @@ icon: fas circle-info text-warning
 ---
 
 {{< link name="ceda_helpdesk" >}}Helpdesk{{</link>}}
-{{< link name="ceda" >}}CEDA{{</link>}}
+{{< link name="ceda_site" >}}CEDA{{</link>}}
 
 Please note that due to unavoidable electrical work the BADC system will be offline for several hours on Saturday morning 16th February 2008. It is itended that the system will be up and running again by lunchtime.
 

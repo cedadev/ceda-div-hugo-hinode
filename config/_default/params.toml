@@ -222,7 +222,7 @@
     utterances = "https://utteranc.es"
     hugo = "https://gohugo.io"
     # curated local links
-    ceda = "https://www.ceda.ac.uk"
+    ceda_site = "/"
     ceda_archive = "https://archive.ceda.ac.uk"
     ceda_catalogue = "https://catalogue.ceda.ac.uk"
     ceda_helpdocs = "https://help.ceda.ac.uk"
