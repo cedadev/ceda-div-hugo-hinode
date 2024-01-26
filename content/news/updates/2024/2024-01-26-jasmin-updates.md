@@ -14,7 +14,7 @@ We have some exciting JASMIN-related updates to share with you:
 
 ##### The JASMIN User Seminar Series is back!
 
-We are restarting the JASMIN user seminar  series on Tuesday February 6th at 1pm. The format will be an online presentation from two JASMIN users for 20 minutes each followed by a Q&A session. Further details and joining instructions will be circulated by email.
+We are restarting the JASMIN user seminar series on __Tuesday February 6th at 1pm!__ The format will be an online presentation from two JASMIN users for 20 minutes each followed by a Q&A session. Further details and joining instructions will be circulated by email.
 
 {{< link "../../../events/past/JASMIN-user-seminar-series.md" >}} You can catch up on previous JASMIN seminars here. {{< /link >}}
 
