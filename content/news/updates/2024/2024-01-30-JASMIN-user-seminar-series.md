@@ -1,15 +1,11 @@
 ---
-categories:
-  - jasmin
-  - webinar
-date: 2024-02-06
-title: JASMIN User Seminar Series - 06/02
-description: JASMIN in Hydrological Innovation and JASMIN's Impact on Hydroclimatic Risk Science
-icon: fa-solid fa-chalkboard-user
-aliases: ['/events/jasmin-user-seminar-series']
+title: JASMIN User Seminar Series restarting 6th February - 1pm
+date: 2024-01-30 12:15:00+00:00
+tags: ['news','jasmin']
+icon: fa-solid fa-chalkboard-user text-success
 ---
 
-Dear JASMIN user,
+Dear JASMIN users,
 
 We are hosting a webinar on **Tuesday 6th of February at 1pm.**
 
@@ -25,22 +21,19 @@ After registering, you will receive a confirmation email containing information 
 
 ##### Agenda:
 
---------------------------------------------------
-
-13:00 - Welcome and opening - JASMIN team
-
-13:05 - Advancing Water Resources Research: Use of JASMIN in Hydrological Innovation
-Speakers: Amulya Chevuturi, Wilson Chan, Burak Bulut, Nathan Rickards, Richard Smith
-
-13:30 - Computing for Climate: JASMIN's Impact on Hydroclimatic Risk Science
-Speakers: Matt Brown, Vicky Bell, Mark Rhodes-Smith, Nathan Missault, Toby Marthews
-
-13:55 - QA
-
-14:15 - Wrap-up and Close, JASMIN team
+| Time | Title | Speakers
+| -- | -- | --
+| 13:00 | Welcome and opening | JASMIN team
+| 13:05 | Advancing Water Resources Research: Use of JASMIN in Hydrological Innovation | Amulya Chevuturi, Wilson Chan, Burak Bulut, Nathan Rickards, Richard Smith
+| 13:30 | Computing for Climate: JASMIN's Impact on Hydroclimatic Risk Science | Matt Brown, Vicky Bell, Mark Rhodes-Smith, Nathan Missault, Toby Marthews
+| 13:55 | Q&A Session | --
+| 14:15 | Wrap-up and Close | JASMIN team
+{.table .table-striped}
 
 --------------------------------------------------
 
 We look forward to seeing you at the webinar next week!
 
 Note: If you are interested in contributing to the next seminar please contact us at support@jasmin.ac.uk
+
+{{< link "../../../events/past/JASMIN-user-seminar-series.md" >}} You can catch up on previous JASMIN seminars here! {{< /link >}}

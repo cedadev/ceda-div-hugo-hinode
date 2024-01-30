@@ -2,14 +2,14 @@
 categories:
   - jasmin
   - webinar
-date: 2021-01-20
+date: 2024-01-30
 title: JASMIN User Seminar Series
 description: User seminars aimed to encourage knowledge sharing and best practice between JASMIN users, showcasing the types of science enabled by JASMIN. 
 icon: fas seedling
 aliases: ['/events/jasmin-user-seminar-series']
 ---
 
-{{<alert type="info">}}**Update January 2024:** Thanks to all who previously contributed to this seminar series. We aim to get a new regular series of user seminars up and running again shortly: watch this space and please contact us if you have an idea for a talk!{{</alert>}}
+{{<alert type="info">}}**Update January 2024:** Thanks to all who previously contributed to this seminar series. We are restarting this series with the next webinar occuring on Tuesday 6th February at 1pm! Please contact us if you have an idea for a talk!{{</alert>}}
 
 Talk | Speaker | Abstract | Recording | Slides | Date
 --- | --- | --- | --- | --- | ---
