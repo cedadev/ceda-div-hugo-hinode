@@ -12,8 +12,7 @@ RUN apt-get update && apt-get install -y ca-certificates openssl git curl && \
     rm -rf /var/lib/apt/lists/* && \
     case ${VERSION} in \
     latest) \
-    export VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | grep "tag_name" | awk '{print substr(
-2)-4)}') ;;\
+    export VERSION=$(curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest | grep "tag_name" | awk '{print substr(2)-4)}') ;;\
     esac && \
     echo ${VERSION} && \
     case $(uname -m) in \
@@ -23,9 +22,7 @@ RUN apt-get update && apt-get install -y ca-certificates openssl git curl && \
     export ARCH=64bit ;; \
     esac && \
     echo ${ARCH} && \
-    wget -O 
-{VERSION}/{VARIANT}_
-{VERSION}_Linux-${ARCH}.tar.gz && \
+    wget -O {VERSION}/{VARIANT}_{VERSION}_Linux-${ARCH}.tar.gz && \
     tar xf ${VERSION}.tar.gz && \
     mv hugo /usr/bin/hugo
 
