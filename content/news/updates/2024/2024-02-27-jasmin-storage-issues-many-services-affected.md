@@ -6,7 +6,7 @@ thumbnail:
 icon: fas triangle-exclamation text-danger
 ---
 
-The current issue with {{<link href="https://help.jasmin.ac.uk/article/176-storage">}}JASMIN SOF storage{{{</link>}}} continues to affect many JASMIN and CEDA services.
+The current issue with {{<link href="https://help.jasmin.ac.uk/article/176-storage">}}JASMIN SOF storage{{</link>}} continues to affect many JASMIN and CEDA services.
 
 The following services are affected:
 
