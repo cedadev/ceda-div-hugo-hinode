@@ -5,14 +5,15 @@ categories:
 date: 2024-01-30
 title: JASMIN User Seminar Series
 description: User seminars aimed to encourage knowledge sharing and best practice between JASMIN users, showcasing the types of science enabled by JASMIN. 
-icon: fas seedling
+icon: fa-solid fa-chalkboard-user
 aliases: ['/events/jasmin-user-seminar-series']
 ---
 
-{{<alert type="info">}}**Update January 2024:** Thanks to all who previously contributed to this seminar series. We are restarting this series with the next webinar occuring on Tuesday 6th February at 1pm! Please contact us if you have an idea for a talk!{{</alert>}}
+{{<alert type="info">}}**Update January 2024:** Thanks to all who previously contributed to this seminar series. We have restarted this series with the latest webinar having occuring on Tuesday 6th February at 1pm! Please contact us if you have an idea for a talk!{{</alert>}}
 
 Talk | Speaker | Abstract | Recording | Slides | Date
 --- | --- | --- | --- | --- | ---
+Advancing Water Resources Research: Use of JASMIN in Hydrological Innovation & Computing for Climate: JASMIN's Impact on Hydroclimatic Risk Science | Representatives from the UK Centre for Ecology and Hydrology | -- | {{< button color="primary" tooltip="Recording" href="https://www.youtube.com/watch?v=nWd49mqX-qQ" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://zenodo.org/records/10726177" icon="fas file" />}} | February 2024
 Data Management of Multi-Model Climate Simulations from PRIMAVERA at JASMIN | Jon Seddon, UK Met Office | {{< button color="primary" tooltip="Abstract" href="https://docs.google.com/document/d/e/2PACX-1vRDvhh-iidAwCpAqGkOuoVrPjfGv9I_5PuZP4eWYBEWs2YLVZ3CHKvgOcuBROG5LyEGmAWZO5hJDucE/pub" icon="fas file-lines" />}} | {{< button color="primary" tooltip="Recording" href="https://youtu.be/oiHaipnuuVk" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1s1jFhgbDIfSJ2CIn-lhgAor9Ygt3XKqN/view?usp=sharing" icon="fas file" />}} | January 2021
 Oceans in the Cloud: working interactively with huge datasets using Pangeo | Andrew Meijers, British Antarctic Survey | {{< button color="primary" tooltip="Abstract" href="https://docs.google.com/document/d/e/2PACX-1vTsaQl8xiUWeP53s1qseNP3EjOFzE8d38XWinmIi7uVI8jTtfTaJneAc2Z8vcqwwyqkQ0Fm5MqZsrPt/pub" icon="fas file-lines" />}} | {{< button color="primary" tooltip="Recording" href="https://youtu.be/e0qVBwlR2zc" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1MzGzOZ6a5KBGypfKGf5CZQ-kofcV6RoO/view" icon="fas file" />}} | January 2021
 PRISE and Peatlands | Jane Lewis, Assimila | {{< button color="primary" tooltip="Abstract" href="https://docs.google.com/document/d/e/2PACX-1vR2nYugoa_9W8XQtqRrugMcd-O9oLoqTUFWvHhnjQlX7JwwpgwuekOqEUsYwEK7Y4uiLQgZpIKTOYYB/pub" icon="fas file-lines" />}} | {{< button color="primary" tooltip="Recording" href="https://youtu.be/Lc1TNWmenuc" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1p-O6AoclA14PzU8JewHw03DpBlhVX_Tg/view?usp=sharing" icon="fas file" />}} | February 2021
