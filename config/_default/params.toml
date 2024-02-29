@@ -228,6 +228,7 @@
     ceda_helpdocs = "https://help.ceda.ac.uk"
     ceda_helpdesk = "https://help.ceda.ac.uk"
     ceda_status = "/status"
+    ceda_contact = "/contact"
     nceo = "https://www.nceo.ac.uk"
     ncas = "https://www.ncas.ac.uk"
     jasmin = "https://www.jasmin.ac.uk"

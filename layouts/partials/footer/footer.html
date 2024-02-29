@@ -35,7 +35,8 @@
                         {{ $link | safeHTML }}
                     </li>
                     <li>
-                        <a href="javascript:void(0);" id="beacon" onclick="Beacon('toggle')">Helpdesk</a>
+                        {{ $link := partial "assets/link.html" (dict "destination" (index site.Params.links "ceda_contact") "text" "Get in touch" "class" "link-bg-footer" "page" .Page) }}
+                        {{ $link | safeHTML }}
                     </li>
                 </ul>
             </div>

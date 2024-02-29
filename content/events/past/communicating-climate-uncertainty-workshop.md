@@ -4,7 +4,7 @@ categories:
 date: 2023-11-30
 tags: ["news",]
 title: Communicating Climate Uncertainty Workshop
-icon: fas handshake
+icon: fa-solid fa-bullhorn
 description: A workshop to discuss how to communicate uncertainties in climate information.
 ---
 
