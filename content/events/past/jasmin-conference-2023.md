@@ -53,10 +53,10 @@ See also {{< link "#venues" />}}, below.
 | -- | ----------- | --- | --- | -- |
 | 12:15 - 13:15| Arrivals & Registration. Lunch provided from 12:15 | CR12/13, building R68 | | |
 | 13:15 - 13:30| Welcome & Opening | R22 Lecture Theatre |  | |
-| 13:30 - 14:15| Session 1: JASMIN Update | R22 Lecture Theatre | {{< button color="primary" tooltip="Recording" href="https://youtu.be/oiHaipnuuVk" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://docs.google.com/presentation/d/13e6c0Olun1Wu0R3OIrM3lHQL4YRtLmFS/edit?usp=drive_link&ouid=118288227439380951092&rtpof=true&sd=true" icon="fas file" />}} |
+| 13:30 - 14:15| Session 1: JASMIN Update | R22 Lecture Theatre | {{< button color="primary" tooltip="Recording" href="https://youtu.be/JCdvirO3KRg" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1N8JfyLHsdh7hPJtHx1UMDf2TqfdoiSoK/view?usp=sharing" icon="fas file" />}} |
 | 14:15 - 15:30| Session 2: User Highlights #1 | R22 Lecture Theatre | | |
 | | JASMIN Object Storage: Optimizing Performance for Climate Research, Amulya Chevturi and Matt Brown | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/xJ8qEXQAri0" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1tFRcaEQeJvXRstMBGm5WboH5j-WG5XNe/view?usp=drive_link" icon="fas file" />}} |
-| | Simple Loss Model for European Windstorms, Dhirendra Kumar | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/GCh1UOD7Ki4" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/11puNhYHCe9ZVqD2o9dDbfI0Uo7ngUdV0/view?usp=drive_link" icon="fas file" />}} |
+| | High Resolution Loss Modeling for European Windstorms, Dhirendra Kumar | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/GCh1UOD7Ki4" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/11puNhYHCe9ZVqD2o9dDbfI0Uo7ngUdV0/view?usp=drive_link" icon="fas file" />}} |
 | | Implementing EOCIS services in Jasmin's External Cloud, Niall McCarroll | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/qp9cR1pGT2Y" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1EhIR7CVzWJF8I2D9eRXHdpMW8fl9n6jV/view?usp=drive_link" icon="fas file" />}} |
 | | Use of JASMIN as a collaboration platform for the Met Office atmospheric dispersion model, Benjamin Drummond | | {{< button color="primary" tooltip="Recording" href="https://youtu.be/Gslb71s02Vk" icon="fab youtube" />}} | {{< button color="primary" tooltip="Slides" href="https://drive.google.com/file/d/1xaMoelC4AkPoB6J0BNjB47HwGTY_cujx/view?usp=drive_link" icon="fas file" />}} |
 | 15:30 - 16:00| Refreshments | CR12/13, building R68 | | |
@@ -66,7 +66,6 @@ See also {{< link "#venues" />}}, below.
 {.table .table-striped}
 
 ### Day 2 Thursday 2nd November
-
 
 | Time  |         | Venue | Recording | Slides
 | -- | ----------- | --- | --- | -- |
