@@ -2,8 +2,7 @@
 title: Registration still open for NCAS’ Early Career Staff Symposium on 20th-21st March 2024!
 date: 2024-02-19 16:15:00+00:00
 tags: ['ncas','events']
-icon: fa-solid fa-users text-danger
-draft: true
+icon: fa-solid fa-users text-success
 ---
 
 The National Centre for Atmospheric Science **(NCAS)** are hosting the first Harmony in the Skies: Bridging Horizons in Atmospheric Science symposium for the early career atmospheric science community!
