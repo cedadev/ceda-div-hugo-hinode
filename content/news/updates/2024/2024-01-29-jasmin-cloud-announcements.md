@@ -3,7 +3,7 @@ title: JASMIN Cloud Survey and Announcements
 date: 2024-01-29 15:00:00+00:00
 tags: ['news','jasmin']
 thumbnail: 
-icon: fa-solid fa-cloud text-info
+icon: fa-solid fa-cloud text-success
 ---
 
 Dear Users,
