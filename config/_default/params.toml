@@ -238,7 +238,7 @@
 
 [statusClasses]
     "down" = "danger"
-    "normal" = "success"
+    "resolved" = "success"
     "degraded" = "warning"
     "at risk" = "dark"
 
