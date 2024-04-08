@@ -4,7 +4,6 @@ date: 2022-04-11
 updated: 2023-08-02
 showComments: false 
 slug: JASMIN
-headless: true
 thumbnail: img/JASMIN.jpg
 ---
 
