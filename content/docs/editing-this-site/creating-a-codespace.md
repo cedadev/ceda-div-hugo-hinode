@@ -24,3 +24,5 @@ layout: docs
    You should be able to see your new Codespace by clicking {{< link "https://github.com/codespaces" >}} here to go to your Codespaces homepage {{< /link >}}
 
 {{< image src="/assets/img/docs/codespaces/codespace-doc-01.png"  >}}
+
+## Opening your Codespace in Visual Studio Code
