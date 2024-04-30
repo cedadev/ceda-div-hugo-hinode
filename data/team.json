@@ -101,12 +101,6 @@
       "thumbnail": "/img/people/diane-knappett.jpg",
       "title": "Senior Data Scientist - Earth Observation"
         },
-    "jackleland": {
-      "bio": "Jack joined CEDA as a software developer in 2021 after completing a PhD in Plasma Physics at the University of Liverpool. At CEDA, Jack is working on overhauling the joint-storage migration application (JDMA) to make using tape- and object-storage a more seamless process for JASMIN users.",
-      "name": "Jack Leland",
-      "thumbnail": "/img/people/jack-leland.jpg",
-      "title": "Software Engineer"
-        },
     "mollymacrae": {
       "bio": "Molly joined CEDA in 2022 as part of the graduate scheme after completing an MPhys at the University of Oxford specialising in Atmospheric Physics. Her role involves creation of catalogue records, quality control and ingestion of datasets into the archive, predominantly working on long term projects with climate data.",
       "name": "Molly MacRae",
@@ -154,6 +148,12 @@
       "name": "Sam Pepler",
       "thumbnail": "/img/people/sam-pepler.jpg",
       "title": "Head of Curation"
+        },
+    "davepoulter": {
+      "bio": "Dave joined CEDA in 2024 as Technical Manager with over 20 years experience in software engineering in the scientific domain. He started in earth science at the National Oceanography Centre in 2002 as a Research Assistant working in ocean remote sensing under various ESA, EU and BNSC programmes before an internal move to the British Oceanographic Data Centre (Southampton) as a Data Scientist; in both these roles he developed interactive data inter-comparison systems for measurements of ocean temperature, wind and wave datasets. He took a temporary role at the Norwegian Meteorological Institute for 6 months in 2011/2012 before returning to the UK to start a software company - Pelamis Scientific Software Ltd - which built many software systems for various space agencies, meteorological agencies and universities. In 2016 he joined 2degrees Network Ltd, an environmental consultancy in Oxford to help develop a software tool for reducing energy wastage in generic industrial manufacturing processes, and in 2019 he joined Oxford Nanopore Technologies Ltd, eventually leading the Internal Applications Team as Principal Software Engineer. At CEDA, Dave leads the team of developers and oversees the technical aspects of many large projects using his experience as a scientist and a software engineer to bring in best practices from industry.",
+      "name": "Dave Poulter",
+      "thumbnail": "/img/people/dave-poulter.jpg",
+      "title": "Technical Manager"
         },
     "mattpritchard": {
       "bio":  "Matt is responsible for the delivery of JASMIN as a service to its user community, including CEDA. He liaises with staff in STFC’s Scientific Computing Department responsible for operating JASMIN’s infrastructure components (storage, network, compute) and leads the team tasked with supporting users to gain access to, and exploit JASMIN effectively for their scientific needs. He started at RAL in 2000, initially helping to establish the NERC Earth Observation Data Centre (NEODC), now part of the CEDA Archive. He holds a BSc in Geophysics (Geological) from the University of Leicester and a PhD from the University of Durham, where he used global earthquake data to study the structure of the Earth’s mantle beneath Iceland.",
