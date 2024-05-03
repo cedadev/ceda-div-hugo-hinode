@@ -22,8 +22,8 @@ For JASMIN related issues please email: **jasmin@ceda.ac.uk**
 #### Post
 
 Centre for environmental Data Analysis <br/>
-Science & Technologiy Facilities Council <br/>
-R26, F40-F43, Atlas building<br/>
+Science & Technology Facilities Council <br/>
+R26, F40-F43, Atlas Building<br/>
 Rutherford Appleton Laboratory<br/>
 Harwell Campus<br/>
 Didcot<br/>
