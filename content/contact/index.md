@@ -16,18 +16,25 @@ For JASMIN related issues please email: **support@jasmin.ac.uk**
 
 #### Phone
 
-**01235 446432**<br/>
+**01235 446432**
+
 (Please note the most reliable method to contact us is via email, as the phone is not fully supported)
 
 #### Post
 
-Centre for environmental Data Analysis <br/>
-Science & Technology Facilities Council <br/>
-R26, F40-F43, Atlas Building<br/>
-Rutherford Appleton Laboratory<br/>
-Harwell Campus<br/>
-Didcot<br/>
-OX11 0QX<br/>
+Centre for Environmental Data Analysis
+
+Science & Technology Facilities Council
+
+R26, F40-F43, Atlas Building
+
+Rutherford Appleton Laboratory
+
+Harwell Campus
+
+Didcot
+
+OX11 0QX
 
 #### Twitter / X
 
