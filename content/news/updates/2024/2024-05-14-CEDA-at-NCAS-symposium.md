@@ -33,9 +33,8 @@ During Rory’s talk, he walked us through the process of ingesting datasets int
 
 Graduate Software Engineer, Dan Westwood, gave an engaging talk about the cloud-optimised data formats Kerchunk and Zarr and how they can be used to optimise data storage and access. {{< link "https://doi.org/10.5281/zenodo.11109526" >}} You can click here to access his presentation slides {{< /link >}}. He explains the difficulties with storing pure NetCDF files on JASMIN and how it can be restrictive for data analysis across different sites and applications. To find out more about this {{< link "https://cedadev.github.io/kerchunk-builder/" >}} click here to check out Dan’s Pipeline to Aggregate Data for Optimised Cloud Capabilities (Padocc). {{< /link >}}
 
-Dan and Rory then took part in an open panel discussion where they answered questions posed by the attendees. It was evident how keen people were to learn about best practices for data storage and representation, as well as top tips for uploading data into our arrivals service. 
+Dan and Rory then took part in an open panel discussion where they answered questions posed by the attendees. It was evident how keen people were to learn about best practices for data storage and representation, as well as top tips for uploading data into our arrivals service.
 
 Supporting early careers is a strategic priority at CEDA. We currently have six Graduates, two Apprentices, and two Industrial Placement students with more on the way. It’s therefore no surprise that we had a great turnout at the symposium, with 8 delegates from CEDA we made up more than a fifth of the event attendees!
-
 
 There are plans to make this an annual event, with the next symposium pencilled in for January 2025.

@@ -15,7 +15,7 @@ Centred more around storage and data analysis than a “traditional” supercomp
 
 Professor David Stevens, University of East Anglia, Chair of NERC’s High Performance Computing Steering Committee said ‘JASMIN is a critical resource for UK environmental research – enabling ground-breaking research that otherwise would not be possible. This expansion, as a result of the ongoing NERC-STFC collaboration, will significantly enhance its capability for the community.’
 
-This upgrade complements a range of other JASMIN services that enable environmental research, including but not limited to; 
+This upgrade complements a range of other JASMIN services that enable environmental research, including but not limited to;
 
 - {{< link "https://help.jasmin.ac.uk/docs/batch-computing/orchid-gpu-cluster/" >}}a GPU cluster for AI workflows {{< /link >}}
 - {{< link "https://help.jasmin.ac.uk/docs/interactive-computing/" >}}interactive analysis tools {{< /link >}} such as a Notebook service
