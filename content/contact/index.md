@@ -12,7 +12,7 @@ We aim to respond to all queries within 2 working days.
 
 For any general enquiries and issues email: **support@ceda.ac.uk**
 
-For JASMIN related issues please email: **jasmin@ceda.ac.uk**
+For JASMIN related issues please email: **support@jasmin.ac.uk**
 
 #### Phone
 
