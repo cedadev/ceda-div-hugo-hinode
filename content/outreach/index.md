@@ -20,7 +20,7 @@ Talking about our changing climate is one of the most powerful ways we can encou
 
 You could use this data to create a craft project - whether that's with crochet, paint, embroidery, mosaic, cake baking or any other technique it is up to you.
 
-### Try this activity at home: {{< link href="https://ceda-wps-ui.ceda.ac.uk/processes/execute?wps=compliance_checker&process=PlotClimateStripes" >}} Make a personalised climate stripes {{< /link >}}
+### Try this activity at home
 
 The warming stripes are a simple visual way to represent our planet’s changing climate. You can make your own personalised warming stripes at home.
 You can freely access all the data, tools and knowledge you need to produce a climate visualisation for your chosen location - whether that’s your hometown, workplace or favourite holiday destination.
@@ -36,7 +36,7 @@ Try to recycle and reuse wherever possible! Plan how many colours you’d like t
 
 #### Step 3: Get the data for your chosen location
 
-{{< link href="https://ceda-wps-ui.ceda.ac.uk/processes/execute?wps=compliance_checker&process=PlotClimateStripes" >}} **Use this tool to create your own personalised climate stripes!** {{< /link >}}
+{{< button color="danger" href="https://ceda-wps-ui.ceda.ac.uk/processes/execute?wps=compliance_checker&process=PlotClimateStripes" size="sm" >}} Use this tool to create your own personalised climate stripes! {{< /button >}}
 
 It will create a PDF showing the data for a chosen UK location. You can choose the time period, how many colours to use and the latitude and longitude of your chosen location.
 
