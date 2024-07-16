@@ -74,7 +74,7 @@ aliases: ['/events/jasmin2017']
 <tr>
 <td>&nbsp;</td>
 <td>JASMIN: service <em>Dr. Matt Pritchard, CEDA</em></td>
-<td> {{< button icon="fas video" href="https://youtu.be/z0NVDe03aQw" />}}</td>
+<td> {{< button icon="fas video" href="https://youtu.be/rjw1zZPy6Ls" />}}</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
@@ -217,7 +217,7 @@ aliases: ['/events/jasmin2017']
 <tr>
 <td>&nbsp;</td>
 <td>Data transfer using Globus <em>Dr. Matt Pritchard, CEDA</em></td>
-<td>{{< button icon="fas video" href="https://youtu.be/f9tSdoFK0Jk" />}}</td>
+<td>{{< button icon="fas video" href="https://youtu.be/H3s5bVOgyjk" />}}</td>
 </tr>
 <tr>
 <td>&nbsp;</td>
