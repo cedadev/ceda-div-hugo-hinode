@@ -1,7 +1,7 @@
 ---
 title: High-flying Year in Industry Student Kate Winfield’s time with CEDA
 date: 2016-07-29 15:19:06+00:00
-tags: ['news']
+tags: ['news','placement']
 aliases: ['/blog/high-flying-year-in-industry-student-kate-winfields-time-with-ceda']
 thumbnail: 
 icon: fas circle-info

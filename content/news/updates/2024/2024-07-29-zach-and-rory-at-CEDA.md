@@ -1,7 +1,7 @@
 ---
 title: Data, docker and Django - Rory and Zach's Journey at CEDA
 date: 2024-07-29 10:00:00
-tags: ['news', 'ceda']
+tags: ['news', 'ceda', 'placement']
 thumbnail: "../img/news/2024/2024-07-29-zach-and-rory/zach-rory-thumbnail.jpg"
 
 ---
@@ -45,3 +45,9 @@ As their placements come to an end, Rory and Zach are heading back to university
 We’re incredibly proud of the contributions Rory and Zach have made during their time at CEDA and wish them all the best in their future endeavours. Their hard work and dedication have left a lasting impact, and we’re excited to see what they achieve next.
 
 {{< image src="../img/news/2024/2024-07-29-zach-and-rory/zach-rory-CEDA.jpg" caption="Rory and Zach on Zach’s final day. Pictured with some CEDA colleagues (and Tim Peake!)" >}}
+
+If you'd like to read more about the amazing work our other previous industrial placement students have done, you can check them out out here:
+
+- {{< link "../2023/2023-07-27-adrian-debskis-industrial-placement.md" >}} Check out how Adrian Dębski applied his speed-cubing skills to the CEDA catalogue search. {{< /link >}}
+
+- {{< link "../2016/2016-07-29-high-flying-year-in-industry-student-kate-winfields-time-with-ceda.md" >}} Click here to read about Kate Winfield's major overhaul of CEDA's data catalogue. {{< /link >}}

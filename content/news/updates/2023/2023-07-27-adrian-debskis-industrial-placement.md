@@ -1,7 +1,7 @@
 ---
 title: From Rubik's Cubes to Data Cubes Adrian Dębski’s Industrial Placement year with CEDA
 date: 2023-07-27 15:18:48+00:00
-tags: ['news', 'ceda-archive']
+tags: ['news', 'ceda-archive','placement']
 aliases: ['/blog/adrian-debskis-industrial-placement']
 thumbnail: /img/news/2023/2023-07-27-adrian-debskis-industrial-placement/adrian-rubiks.png
 icon: 

@@ -19,14 +19,19 @@
   weight = 40
 
 [[main]]
+  name = "Outreach"
+  pageRef = "/outreach/"
+  weight = 50
+
+[[main]]
   name = "TechBlog"
   url = "https://techblog.ceda.ac.uk/"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "About"
   pageRef = "/about/"
-  weight = 60
+  weight = 70
 
 [[social]]
   name = "X / Twitter"
