@@ -13,8 +13,7 @@ The third annual conference provided an opportunity for some of the 1700 existin
 
 Dr Victoria Bennett, Head of CEDA said, 
 
-"Fantastic to see the turnout at our third JASMIN conference, it's been a great opportunity to update our users on latest developments, but also provide a forum for users to network and share ideas, and to find out what we can do to help them get the best out of JASMIN to do their science"
-{.blockquote}
+>"Fantastic to see the turnout at our third JASMIN conference, it's been a great opportunity to update our users on latest developments, but also provide a forum for users to network and share ideas, and to find out what we can do to help them get the best out of JASMIN to do their science"
 
 The huge range of research enabled by JASMIN was reflected in the breadth of presentations at the conference. Talks ranged from high resolution climate modelling to the exploitation of JASMIN architecture for multi mission land surface temperature analysis.
 
@@ -24,7 +23,6 @@ Existing users learned more about the latest innovations and collaborations incl
 
 Jonathan Churchill, JASMIN Systems Architect and Manager for STFC's Scientific Computing Department said:
 
-"We are really excited to welcome researchers in our JASMIN user community to the conference to find out about the fantastic work they have been using JASMIN for and to discuss how we can improve the platform to aid their future research."
-{.blockquote}
+>"We are really excited to welcome researchers in our JASMIN user community to the conference to find out about the fantastic work they have been using JASMIN for and to discuss how we can improve the platform to aid their future research."
 
 JASMIN is a Natural Environment Research Council Facility (NERC) hosted by the Science and Technology Facilities Council (STFC). The event was hosted by CEDA, who jointly manage JASMIN with STFC's [Scientific Computing Department](http://www.scd.stfc.ac.uk/).​

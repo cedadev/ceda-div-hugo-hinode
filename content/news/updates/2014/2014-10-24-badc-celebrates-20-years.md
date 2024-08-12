@@ -15,15 +15,13 @@ Staff both past and present gathered to share stories, cake and to hear from the
 
 After cutting the cake, Bryan Lawrence, CEDA's director, said,
 
-"The BADC's 20th birthday is a real testament to what has been achieved by its dedicated team over the years. It's been an honour to work with the team as the BADC has grown from humble beginnings to the centre we see today; duly recognised internationally for its excellence in data management, community engagement and support."
-{.blockquote}
+>"The BADC's 20th birthday is a real testament to what has been achieved by its dedicated team over the years. It's been an honour to work with the team as the BADC has grown from humble beginnings to the centre we see today; duly recognised internationally for its excellence in data management, community engagement and support."
 
 {{< image src="/img/news/2014/2014-10-24-badc-celebrates-20-years/watchers.jpg" wrapper="col-5 mx-auto" caption="BADC members past and present watch on as Bryan cuts the cake" class="rounded" >}}
 
 Peter Allan, the first group leader for the BADC, also took the opportunity to recall the BADC's early days and the technological challenges they faced. Reflecting on the advances he has seen in the BADC's services and technology, he said,
 
-"As someone who was there at the start of the BADC, I am amazed at how the technology has advanced and at the things that we can now do with it. The storage capacity has increased a hundred thousand times and users can have their own virtual machines close to the data. This enables science that was completely impractical 20 years ago."
-{.blockquote}
+>"As someone who was there at the start of the BADC, I am amazed at how the technology has advanced and at the things that we can now do with it. The storage capacity has increased a hundred thousand times and users can have their own virtual machines close to the data. This enables science that was completely impractical 20 years ago."
 
 20 years ago the BADC grew out of the Geophysical Data Facility hosted by SERC. Since then its user community has grown globally, with over 5000 users a year accessing an archive now holding in excess of 140 million files. The BADC, within CEDA, has seen many changes during this time and looks forward to those new challenges always on the horizon.
 

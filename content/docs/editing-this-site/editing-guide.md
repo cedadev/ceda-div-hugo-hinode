@@ -163,7 +163,7 @@ By using a well-maintained set of tools and taking care with authoring, reviewin
 #### Links
 
 - Use labelled links instead of describing what to do: avoid "please follow the link below"
-- Use {{<button>}}buttons{{</button>}} to make important links or actions visually distinct
+- Use a {{< button color="primary" href="#!" size="md" >}}button{{< /button >}} to make important links or actions visually distinct
 - In-page links are automatically generated from subheadings (hover to see them), so don't make your own.
 - Use the {{<link "https://gethinode.com/docs/components/link/">}}link{{</link>}} shortcode where possible, as this makes it easier to control their appearance throughout the site. But if you can't bothered, the `[markdown](#url)` format works too.
 - You can link to things by name, slug, url or (if needed) path to the markdown file. See the `link` documentation for examples.
