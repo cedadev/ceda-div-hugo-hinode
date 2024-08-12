@@ -6,7 +6,7 @@ aliases: ['/blog/sentinel-data-weighs-in-at-a-horn-ormous-2pb']
 thumbnail: 
 icon: fas circle-info
 ---
-The CEDA archive now contains more than 2 Petabytes of Sentinel data comprised of a whopping ~1.6 million individual Sentinel data products. If 2PB's were represented by weight (when 1gram = 1GB), the archived Sentinel data would 'weigh' the equivalent of a Rhino - absolutely 'horn'-ormous! In contrast, your average smartphone data capacity would weigh the equivalent of a mouse. See infographic below for more details. 
+The CEDA archive now contains more than 2 Petabytes of Sentinel data comprised of a whopping ~1.6 million individual Sentinel data products. If 2PB's were represented by weight (when 1gram = 1GB), the archived Sentinel data would 'weigh' the equivalent of a Rhino - absolutely 'horn'-ormous! In contrast, your average smartphone data capacity would weigh the equivalent of a mouse. See infographic below for more details.
 
 Each Sentinel mission collects various measurements and images for land, ocean and atmospheric monitoring. There will be a total of 7 Sentinel missions, some of which will be comprised of up to 4 satellites. This maximises global coverage. Some Sentinel missions already have 2 satellites in orbit retrieving data - such as Sentinel1A and Sentinel1B.
 
