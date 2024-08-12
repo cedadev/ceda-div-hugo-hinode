@@ -10,10 +10,7 @@
         tab = false
 
 [modules]
-    core = ["bootstrap", "fontawesome"] #"flexsearch", 
-    optional = ["leaflet", "katex"]
-    excludeSCSS = ["bootstrap"]
-    disableTemplate = ["katex"]
+
     [modules.fontawesome]
         inline = true
         debug = true
