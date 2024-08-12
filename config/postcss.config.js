@@ -21,7 +21,7 @@ const purgecss = require('@fullhuman/postcss-purgecss')({
       './assets/scss/components/_syntax-light.scss',
       './assets/scss/theme/fonts.scss',
       './assets/scss/theme/theme.scss',
-      './_vendor/github.com/gethinode/mod-flexsearch/assets/scss/modules/flexsearch/flexsearch.scss',
+      './_vendor/github.com/gethinode/mod-flexsearch/v2/assets/scss/modules/flexsearch/flexsearch.scss',
       './_vendor/github.com/gethinode/mod-katex/dist/katex.scss',
       './_vendor/github.com/gethinode/mod-leaflet/dist/leaflet.scss',
       './_vendor/github.com/twbs/bootstrap/scss/_carousel.scss',
