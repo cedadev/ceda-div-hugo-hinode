@@ -2,23 +2,23 @@
     separator = "-"
     description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
     enableDarkMode = true
+    enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
     canonifyAssetsURLs = false
-    endorse = false
+    endorse = true
+    footerBelowFold = false
+    loading = "lazy"
+    breakpoint = "md"
     [main.externalLinks]
         cue = false
         tab = false
-
-[modules]
-
-    [modules.fontawesome]
-        inline = true
-        debug = true
-        skipMissing = false
+    [main.build]
+        transpiler = "libsass"
 
 [debugging]
     showJS = false
     showSCSS = false
+    purgeHTMLComments = false
 
 [docs]
     github = "https://github.com/gethinode/hinode"
@@ -30,14 +30,23 @@
     fullCover = false
     centerHeadline = false
     style = ""
+    [home.feature]
+    orientation = "horizontal"
+    color = "primary"
+    width = 4
+    align = "start"
 
 [navigation]
     anchor = true
     logo = "/img/ceda-logo.png" # store -light and -dark variants
     color = "body-tertiary"
     fixed = true
-    offset = "5em"
+    overlay = false
+    overlayMode = "dark"
+    horizontal = false
+    offset = "5.5rem"
     search = false
+    searchModal = false
     breadcrumb = true
     toc = true
     sidebar = true
@@ -95,7 +104,7 @@
         header = "full"
         footer = "none"
         orientation = "stacked"
-        style = "border-0 card-zoom"
+        style = "border-0 card-zoom card-body-margin"
         homepage = 3
         separator = true
     [sections.priorities]
@@ -168,6 +177,8 @@
     dark = "#333333"
 # toml-docs-end theme-colors
     themeOpacity = "10"
+    darkModeShade = "20%"
+    darkModeTint = "40%"
 # toml-docs-start font
     themeFont = "Lato"
     themeFontPath = "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" # external path
