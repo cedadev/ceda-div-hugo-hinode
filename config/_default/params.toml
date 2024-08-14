@@ -45,8 +45,8 @@
     overlayMode = "dark"
     horizontal = false
     offset = "5.5rem"
-    search = false
-    searchModal = false
+    search = true
+    searchModal = true
     breadcrumb = true
     toc = true
     sidebar = true
