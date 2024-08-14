@@ -10,8 +10,8 @@
     loading = "lazy"
     breakpoint = "md"
     [main.externalLinks]
-        cue = false
-        tab = false
+        cue = true
+        tab = true
     [main.build]
         transpiler = "libsass"
 
