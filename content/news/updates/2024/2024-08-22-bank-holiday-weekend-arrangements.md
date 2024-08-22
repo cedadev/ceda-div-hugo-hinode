@@ -8,7 +8,7 @@ icon: fas circle-info text-info
 
 Dear All,  
   
-Services will be unsupported on Monday 26th and Tuesday 26th August due to the bank holiday and RAL site holiday on Tuesday 27th. Staff leave during the remainder of the week will also mean that responses to queries may take longer than usual.
+Services will be unsupported on Monday 26th and Tuesday 27th August due to the bank holiday on Monday 26th and RAL site holiday on Tuesday 27th. Staff leave during the remainder of the week will also mean that responses to queries may take longer than usual.
   
 We apologise in advance for any inconvenience.
 
