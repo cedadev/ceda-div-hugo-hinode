@@ -7083,10 +7083,10 @@ function initIndex() {
         tag: "en",
         href: "/news/updates/2024/2024-08-22-bank-holiday-weekend-arrangements/",
         title: "August bank holiday weekend arrangements - Monday 26th and Tuesday 27th August 2024",
-        description: "Dear All,\nServices will be unsupported on Monday 26th and Tuesday 26th August due to the bank holiday and RAL site holiday on Tuesday 27th.",
+        description: "Dear All,\nServices will be unsupported on Monday 26th and Tuesday 27th August due to the bank holiday on Monday 26th and RAL site holiday on Tuesday 27th.",
         
         
-        content: "Dear All,\nServices will be unsupported on Monday 26th and Tuesday 26th August due to the bank holiday and RAL site holiday on Tuesday 27th. Staff leave during the remainder of the week will also mean that responses to queries may take longer than usual.\nWe apologise in advance for any inconvenience.\nHave a good bank holiday weekend.\nJASMIN \u0026amp; CEDA team"
+        content: "Dear All,\nServices will be unsupported on Monday 26th and Tuesday 27th August due to the bank holiday on Monday 26th and RAL site holiday on Tuesday 27th. Staff leave during the remainder of the week will also mean that responses to queries may take longer than usual.\nWe apologise in advance for any inconvenience.\nHave a good bank holiday weekend.\nJASMIN \u0026amp; CEDA team"
       })
       .add(
       
