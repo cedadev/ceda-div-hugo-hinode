@@ -7086,7 +7086,7 @@ function initIndex() {
         description: "Dear All,\nServices will be unsupported on Monday 26th and Tuesday 26th August due to the bank holiday and RAL site holiday on Tuesday 27th.",
         
         
-        content: "Dear All,\nServices will be unsupported on Monday 26th and Tuesday 26th August due to the bank holiday and RAL site holiday on Tuesday 27th. Staff leave during the remainder of the week will also mean that responses to queries may take longer than usual.\nWe apologise in advance for any inconveniences.\nHave a good bank holiday weekend.\nJASMIN \u0026amp; CEDA team"
+        content: "Dear All,\nServices will be unsupported on Monday 26th and Tuesday 26th August due to the bank holiday and RAL site holiday on Tuesday 27th. Staff leave during the remainder of the week will also mean that responses to queries may take longer than usual.\nWe apologise in advance for any inconvenience.\nHave a good bank holiday weekend.\nJASMIN \u0026amp; CEDA team"
       })
       .add(
       
