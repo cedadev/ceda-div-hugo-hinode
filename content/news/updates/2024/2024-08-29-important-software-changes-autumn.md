@@ -3,7 +3,7 @@ title: Important software changes on JASMIN Autumn 2024
 date: 2024-08-29 15:30:00+00:00
 tags: ['news', 'jasmin']
 thumbnail: 
-icon: fas triangle-exclamation text-warning
+icon: fa-solid fa-code text-warning
 ---
 
 Dear users
