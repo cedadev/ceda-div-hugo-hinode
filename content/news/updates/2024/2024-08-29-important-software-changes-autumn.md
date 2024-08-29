@@ -1,6 +1,6 @@
 ---
 title: Important software changes on JASMIN Autumn 2024
-date: 2024-08-29 12:00:00+00:00
+date: 2024-08-29 15:30:00+00:00
 tags: ['news', 'jasmin']
 thumbnail: 
 icon: fas triangle-exclamation text-warning
@@ -9,11 +9,16 @@ icon: fas triangle-exclamation text-warning
 Dear users
 
 You will already be aware of the migration already underway from the CentOS7 to Rocky
-Linux 9 operating systems: further details of that new environment will follow shortly
-in a separate announcement.
+Linux 9 operating system. **Further details of that new environment are now available below:**
 
-Alongside this, for two reasons, we also need to update how we maintain and provide
-software for our users on JASMIN:
+{{<button href="https://help.jasmin.ac.uk/docs/software-on-jasmin/rocky9-migration-2024/#software">}}Rocky 9 Migration information - software{{</button>}}
+
+Please note in particular the "software" section, but the rest of the article describes other aspects of the new Rocky 9 environment as they take shape, some of which are now available.
+
+Please read the information there, **after** noting the important information below:
+
+For two reasons, we need to update how we maintain and provide
+certain software for our users on JASMIN:
 
 - Due to the effort and technical challenges involved in maintaining older software, our software support policy will now be such that we support **only** -
   - the current version and up to 3 previous versions of JASPY
