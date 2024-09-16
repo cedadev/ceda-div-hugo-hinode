@@ -61,51 +61,17 @@ We aim to support environmental science, further environmental data archival pra
 
 ### Look at our previous Annual Reports:
 
-{{< accordion id="accordion-default" >}}
-  {{< accordion-item header="CEDA Annual Report 2022-2023"  >}}
-    {{< link href="https://zenodo.org/records/10522822">}} View here {{< /link >}}
-  {{< /accordion-item >}}  
-  {{< accordion-item header="CEDA Annual Report 2021-2022"  >}}
-    {{< link href="https://zenodo.org/record/7554902">}} View here {{< /link >}}
-  {{< /accordion-item >}}  
-  {{< accordion-item header="CEDA Annual Report 2020-2021"  >}}
-    {{< link href="https://zenodo.org/record/5592466">}} View here {{< /link >}}
-  {{< /accordion-item >}}
-  {{< accordion-item header="CEDA Annual Report 2019-2020"  >}}
-    {{< link href="https://zenodo.org/record/7357327">}} View here {{< /link >}}
-  {{< /accordion-item >}}
-  {{< accordion-item header="CEDA Annual Report 2018-2019"  >}}
-    {{< link href="https://zenodo.org/record/7357301">}} View here {{< /link >}}
-  {{< /accordion-item >}}
-  {{< accordion-item header="CEDA Annual Report 2017-2018"  >}}
-    {{< link href="https://zenodo.org/record/7357139">}} View here {{< /link >}}
-  {{< /accordion-item >}}
-  {{< accordion-item header="CEDA Annual Report 2016-2017"  >}}
-    {{< link href="https://zenodo.org/record/7357114">}} View here {{< /link >}}
-  {{< /accordion-item >}}
-  {{< accordion-item header="CEDA Annual Report 2015-2016"  >}}
-    {{< link href="https://zenodo.org/record/7357088">}} View here {{< /link >}}
-  {{< /accordion-item >}}
-  {{< accordion-item header="CEDA Annual Report 2014-2015"  >}}
-    {{< link href="https://zenodo.org/record/7356969">}} View here {{< /link >}}
-  {{< /accordion-item >}}
-  {{< accordion-item header="CEDA Annual Report 2013-2014" >}}
-    {{< link href="https://zenodo.org/record/7554902">}} View here0 {{< /link >}}
-  {{< /accordion-item >}}
-  {{< accordion-item header="CEDA Annual Report 2012-2013" >}}
-    {{< link href="https://zenodo.org/record/7356918">}} View here {{< /link >}}
-  {{< /accordion-item >}}
-  {{< accordion-item header="CEDA Annual Report 2011-2012"  >}}
-    {{< link href="https://zenodo.org/record/7356229">}} View here {{< /link >}}
-  {{< /accordion-item >}}
-  {{< accordion-item header="CEDA Annual Report 2010-2011" >}}
-    {{< link href="https://zenodo.org/record/7356969">}} View here {{< /link >}}
-  {{< /accordion-item >}}
-  {{< accordion-item header="CEDA Annual Report 2009-2010" >}}
-    {{< link href="https://zenodo.org/record/7356143">}} View here {{< /link >}}
-  {{< /accordion-item >}}
-  {{< accordion-item header="CEDA Annual Report 2008-2009" >}}
-    {{< link href="https://zenodo.org/record/7356141">}} View here {{< /link >}}
-  {{< /accordion-item >}}
-
-{{< /accordion >}}
+- CEDA Annual Report 2022-2023 - {{< link href="https://doi.org/10.5281/zenodo.10522821">}} Click here {{< /link >}}
+- CEDA Annual Report 2021-2022 - {{< link href="https://doi.org/10.5281/zenodo.7554901">}} Click here {{< /link >}}
+- CEDA Annual Report 2020-2021 - {{< link href="https://doi.org/10.5281/zenodo.5592465">}} Click here {{< /link >}}
+- CEDA Annual Report 2019-2020 - {{< link href="https://doi.org/10.5281/zenodo.7357326">}} Click here {{< /link >}}
+- CEDA Annual Report 2018-2019 - {{< link href="https://doi.org/10.5281/zenodo.7357300">}} Click here {{< /link >}}
+- CEDA Annual Report 2017-2018 - {{< link href="https://doi.org/10.5281/zenodo.7357138">}} Click here {{< /link >}}
+- CEDA Annual Report 2016-2017 - {{< link href="https://doi.org/10.5281/zenodo.7357113">}} Click here {{< /link >}}
+- CEDA Annual Report 2015-2016 - {{< link href="https://doi.org/10.5281/zenodo.7357087">}} Click here {{< /link >}}
+- CEDA Annual Report 2014-2015 - {{< link href="https://doi.org/10.5281/zenodo.7356968">}} Click here {{< /link >}}
+- CEDA Annual Report 2012-2013 - {{< link href="https://doi.org/10.5281/zenodo.7356917">}} Click here {{< /link >}}
+- CEDA Annual Report 2011-2012 - {{< link href="https://doi.org/10.5281/zenodo.7554901">}} Click here {{< /link >}}
+- CEDA Annual Report 2010-2011 - {{< link href="https://doi.org/10.5281/zenodo.7356144">}} Click here {{< /link >}}
+- CEDA Annual Report 2009-2010 - {{< link href="https://doi.org/10.5281/zenodo.7356142">}} Click here {{< /link >}}
+- CEDA Annual Report 2008-2009 - {{< link href="https://doi.org/10.5281/zenodo.7356140">}} Click here {{< /link >}}

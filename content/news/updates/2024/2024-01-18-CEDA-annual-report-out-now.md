@@ -6,7 +6,7 @@ thumbnail: "/img/news/2024/2024-01-18-ceda-annual-report-out-now/ceda-annual-rep
 icon: fas circle-info text-warning
 ---
 
-Our latest {{< link href="https://zenodo.org/records/10522822">}} annual report is now available. {{< /link >}} The report presents key statistics about the Centre for Environmental Data Analysis (CEDA) for the past year (2022 - 2023) as well as a series of snapshots of activity, expressed as short highlight reports.
+Our latest {{< link href="https://zenodo.org/doi/10.5281/zenodo.10522821">}} annual report is now available. {{< /link >}} The report presents key statistics about the Centre for Environmental Data Analysis (CEDA) for the past year (2022 - 2023) as well as a series of snapshots of activity, expressed as short highlight reports.
 
 __Philip Kershaw, Head of CEDA, reflects:__
 *"The sign of a healthy organisation is one that sees a balance between continuity and pursuing new horizons. This year's annual report reflects how CEDA continues to strike this balance; consistently delivering key strategic services to the environmental research community whilst also striving to remain at the forefront of research data practices and pushing their development. CEDA’s dedicated and talented staff, to whom I offer a personal note of thanks for their work, are undoubtedly key to our success."*
