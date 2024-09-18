@@ -18,6 +18,20 @@ if (alert !== null && closeBtn !== null) {
 
 
   
+    
+        var doNotTrack = false;
+        if (false) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-QQ8KP42QSR');
+        }
+    
+  
 
 ;
 function reveal () {
