@@ -70,7 +70,7 @@ home = ["HTML", "RSS", "REDIR"]
   [services.twitter]
     disableInlineCSS = true
   [services.googleAnalytics]
-    #ID = "G-*****"
+    ID = "G-QQ8KP42QSR"
 
 [outputFormats]
   [outputFormats.XML]
