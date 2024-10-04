@@ -1,5 +1,5 @@
 ---
-title: Reminder of upcoming changes and maintenance periods
+title: Reminder of upcoming JASMIN changes and maintenance periods
 date: 2024-10-04 15:00:00+00:00
 tags: ['news', 'jasmin']
 thumbnail: 
@@ -36,7 +36,7 @@ accessible from **any** network, so there is no longer a requirement for some us
 
 If you have problems with the new servers and/or instructions, you should change your existing connection profile to use the old `nx4` instead, until a solution can be found.
 
-Please feed back any other issues. to the JASMIN Helpdesk.
+Please feed back any other issues to the JASMIN Helpdesk.
 
 ### JASPY and JASR python environments
 
@@ -57,11 +57,10 @@ There is the possibility of disruption to other services during this period.
 
 ## 3\. JASMIN scheduled maintenance day, Tuesday 15 October
 
-As previously announced via the [status page](https://www.ceda.ac.uk/status), a regular maintenance is scheduled for
+As previously announced via the [status page](/status), a regular maintenance day is scheduled for
 Tuesday 15th October. This potentially affects all JASMIN and CEDA Services.
 
 As usual, the LOTUS batch processing cluster will be unavailable for the duration of the work on the day, to avoid running jobs being adversely affected. A reservation will start at 05:00 am until 23:59 pm on the day, but any job submitted before 04:00 am with a running time that goes over the reservation period will not start until after the reservation has finished.
-
 
 Please note all the above updates and plan your work accordingly to minimise any inconvenience caused.
 
