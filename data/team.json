@@ -9,7 +9,7 @@
       "bio": "Emily joined CEDA through the graduate scheme in 2022 after completing a Masters in Data Science from Durham University and a BSc in Psychology from the University of Kent. Emily's role within CEDA involves  data management activities for the Natural Environment Research Council as well as communicating with CEDA users.",
       "name": "Emily Anderson",
       "thumbnail": "/img/people/emily-anderson.jpg",
-      "title": "Graduate Environmental Data Scientist"
+      "title": "Environmental Data Scientist"
     },
     "jenniferbulpett": {
       "bio": "Jennifer joined CEDA in 2019 and works as a project manager across a number of different projects. Prior to this she was a Technology Consultant at Accenture for over 5 years working with numerous clients across different industries. Jennifer holds a PhD in Physical Chemistry and an MSci (Hons) in Chemistry, both from the University of Bristol. Her PhD research involved use of both the Diamond Synchrotron, Harwell and ESRF in Grenoble, France.",
@@ -29,6 +29,12 @@
       "thumbnail": "/img/people/esther-conway.jpg",
       "title": "Senior Data Scientist: Earth Observation"
     },
+    "adriandębski": {
+      "bio": "Adrian joined CEDA in 2024 after graduating from Aberystwyth University with a BSc in Computer Science with Artificial Intelligence. As a software developer at CEDA, Adrian focuses on maintaining and improving applications and services that enable scientists to access vital datasets. Previously, Adrian enhanced search functionalities for the CEDA catalogue, facilitated the transfer of documents from the internal repository to Zenodo, and contributed to the Search Future project.",
+      "name": "Adrian Dębski",
+      "thumbnail": "/img/people/adrian-debski.png",
+      "title": "Graduate Software Engineer"  
+        },
     "stevedonegan": {
       "bio": "Steve joined the NEODC in 2003 after completing his PhD at the Open University using remote sensing and field methods to study active Volcanism.  Before this Steve had completed a degree in Earth Science and an MSc in Earth Observation Science at Leicester University.  Steve used his experience in the NEODC looking after such diverse datasets as the ARSF and ATSR and AATSR multimission datasets. As part of CEDA, Steve now looks after the retrieval of Sentinel data and various services associated with this.  Steve continues to look after other EO datasets such as ATSR, and is also a member of the CEDA metadata system team.",
       "name": "Steve Donegan",
@@ -45,7 +51,13 @@
       "bio": "Nicola joined the STFC graduate scheme in 2022 after completing an MPhys degree in Theoretical Physics at the University of York. At CEDA, Nicola is working on a variety of projects including development of the JASMIN Group Workspace Scanner and various tasks related to CEDA’s web services.",
       "name": "Nicola Farmer",
       "thumbnail": "/img/people/nicola-farmer.jpg",
-      "title": "Graduate Software Engineer"   
+      "title": "Software Engineer"   
+     },
+     "elliefisher": {
+      "bio": "Ellie joined CEDA as a graduate data scientist in September 2023 after previously completing a summer placement with the team in 2022. She graduated with a BSc in Geology from Durham University in 2021, and a double MSc in Environmental Changes at Higher Latitudes from the University of Helsinki and Agricultural University of Iceland in 2023. She has a background in atmospheric science, Arctic meteorology and scientific programming, and her Master thesis focused on characterisation of microphysical and optical properties of atmospheric aerosols in Northeast Greenland. Within CEDA, Ellie is responsible for various atmospheric data management activities including processing of UK Met Office radiosonde datasets, archival of IPCC figure data, and developing help documentation for data reviewers at CEDA and other environmental data centres.",
+      "name": "Ellie Fisher",
+      "thumbnail": "/img/people/ellie-fisher.jpg",
+      "title": "Graduate Data Scientist"
      },
     "wendygarland": {
       "bio": "Wendy ensures that CEDA meets its targets to provide data management support for NERC funded projects in the atmospheric and earth observation fields.  She has particular interest in ground-based and airborne observations and is responsible for all of CEDAs aircraft datasets including the FAAM aircraft, NERC-ARF and the European Facility for Airborne Research. She joined CEDA in 2003 following a postdoctoral fellowship studying urban air quality and has a PhD in Atmospheric Physics from Aberystwyth which used sonde and aircraft observations to study tropospheric ozone.",
@@ -101,11 +113,17 @@
       "thumbnail": "/img/people/diane-knappett.jpg",
       "title": "Senior Data Scientist - Earth Observation"
         },
+    "dannylloyd": {
+      "bio": "Danny joined the JASMIN team within CEDA in 2024 on the STFC graduate scheme, having converted from a BA in Classics at UCL and graduating with an MSc in Computer Science from the University of Birmingham. He supports users on the JASMIN helpdesk, improves documentation and training materials, and contributes development towards automating various processes.",
+      "name": "Danny Lloyd",
+      "thumbnail": "/img/people/danny-lloyd.jpg",
+      "title": "Graduate research Computing Service Support"  
+        },    
     "mollymacrae": {
       "bio": "Molly joined CEDA in 2022 as part of the graduate scheme after completing an MPhys at the University of Oxford specialising in Atmospheric Physics. Her role involves creation of catalogue records, quality control and ingestion of datasets into the archive, predominantly working on long term projects with climate data.",
       "name": "Molly MacRae",
       "thumbnail": "/img/people/molly-macrae.jpg",
-      "title": "Graduate Data Scientist"
+      "title": "Data Scientist"
     },
     "alexmanning": {
       "bio": "Alex joined CEDA as a software engineer in 2021 after completing a PhD at the University of Bristol where he modelled the carbon cycle in the ocean during oceanic anoxic event two, about ninety million years ago. He is responsible for improving and maintaining web applications for CEDA and JASMIN, as well as operational support for various JASMIN services such as accounts, cloud and notebooks, helping users to use JASMIN effectively for their scientific computing needs.",
@@ -125,6 +143,18 @@
       "thumbnail": "/img/people/chaminuka-mbanje.jpg",
       "title": "JASMIN Storage and User Support"
         },
+    "federicamoscato": {
+      "bio": "Federica joined CEDA in 2023 with nearly 20 years of experience in software development in the domains of data-intensive and scientific applications. An experienced solutions architect, with a strong background in geospatial and satellite data technologies, she has led numerous international projects from design to delivery and operation. At CEDA Federica supports the Earth observation activities including the EO Datahub",
+      "name": "Federica Moscato",
+      "thumbnail": "/img/people/federica-moscato.jpg",
+      "title": "Head of Earth Observation"  
+        },
+    "matthewpaice": {
+      "bio": "Matthew joined CEDA in 2024 as a data scientist/software developer. Prior to this he has worked at BGS as a data scientist where he visualised data sets and produced machine learning models which were used to predict and classify geospatial and temporal data, as well as provide uncertainty on the modelled results. He has also worked at a med tech startup helping to develop diagnostic and predictive algorithms for those with suspected, or long-term respiratory conditions and also supporting the development of web applications. He has a PhD in wind engineering and experience with computational fluid dynamics and atmospheric modelling. His primary role is to contribute to the development of software to retrieve and deposit data sets in the CEDA archive and analysis of data to produce scientific outputs. Alongside this he develops web applications and services, both external and internal, to support these tasks.",
+      "name": "Matthew Paice",
+      "thumbnail": "/img/people/matthew-paice.png",
+      "title": "Data Scientist & Software Developer"  
+        },       
     "alisonpamment": {
       "bio": "Alison joined CEDA in 2003, having previously worked for 14 years at the Met Office. Alison has experience of working with a wide range of data types, from high-resolution near real time radar data, to satellite remote sensing data and climate model output. She has also worked on climate model development. Her current role at CEDA is to support scientists throughout the international atmospheric and climate science communities in using data standards to facilitate data exchange and interoperability. Alison participates in a number of training activities such as the CEDA webinar series and the NCAS Introduction to Scientific Computing Course.",
       "name": "Alison Pamment",
@@ -185,24 +215,17 @@
       "thumbnail": "/img/people/alison-waterfall.png",
       "title": "Senior Data Scientist: Earth Observation"
         },
+    "danielwestwood": {
+      "bio": "Daniel joined CEDA as a Graduate Software Engineer in September 2022 after graduating from the University of York with a Masters in Physics with Astrophysics. Daniel has previously worked on analysis and visualisation of Earth Observation data from space-based instruments whilst interning at RAL Space's Remote Sensing Group (RSG)His role within CEDA involves deploying and maintaining web services to access datasets within the CEDA archive, as well as developing tools to aggregate and optimise access to data, using cloud data formats like Kerchunk and Zarr.",
+      "name": "Daniel Westwood",
+      "thumbnail": "/img/people/daniel-westwood.jpg",
+      "title": "Software Engineer"
+        },
     "edwilliamson": {
       "bio": "Ed joined CEDA through the graduate scheme following a degree in Meteorology and Climate Science at Reading. Ed’s role within CEDA is working on the Sentinel datasets as well as other large satellite missions.",
       "name": "Ed Williamson",
       "thumbnail": "/img/people/ed-williamson.jpg",
       "title": "Data Scientist: Earth Observation"
-        },
-    "danielwestwood": {
-      "bio": "Daniel joined CEDA as a Graduate Software Engineer in September 2022 after graduating from the University of York with a Masters in Physics with Astrophysics. His role within CEDA is primarily to develop and maintain applications for data retrieval and visualisation by users; web services to access datasets within the CEDA archive and applications to graphically visualise geospatial data. Daniel previously worked on analysis and visualisation of Earth Observation data from space-based instruments whilst interning at RAL Space's Remote Sensing Group (RSG).",
-      "name": "Daniel Westwood",
-      "thumbnail": "/img/people/daniel-westwood.jpg",
-      "title": "Graduate Software Engineer"
-        },
-    "elliefisher": {
-      "bio": "Ellie joined CEDA as a graduate data scientist in September 2023 after previously completing a summer placement with the team in 2022. She graduated with a BSc in Geology from Durham University in 2021, and a double MSc in Environmental Changes at Higher Latitudes from the University of Helsinki and Agricultural University of Iceland in 2023. She has a background in atmospheric science, Arctic meteorology and scientific programming, and her Master thesis focused on characterisation of microphysical and optical properties of atmospheric aerosols in Northeast Greenland. Within CEDA, Ellie is responsible for various atmospheric data management activities including processing of UK Met Office radiosonde datasets, archival of IPCC figure data, and developing help documentation for data reviewers at CEDA and other environmental data centres.",
-      "name": "Ellie Fisher",
-      "thumbnail": "/img/people/ellie-fisher.jpg",
-      "title": "Graduate Data Scientist"
         }
-
 
   }
