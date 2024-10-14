@@ -12,7 +12,7 @@ description: This event will celebrate 30 years of the Centre for Environmental 
 
 {{< image src="../../img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event.png" caption="Image showing the text: Celebrating 30 years of CEDA: help us imagine our future" >}}
 
-{{< button color="success" href="https://engagementhub.ukri.org/stfc-ralspace/copy-of-celebrating-30-years-of-ceda-help-us-imagi!" >}}**Register your interest in attending this event here!**{{< /button >}}
+{{< button color="success" href="https://engagementhub.ukri.org/stfc-ralspace/copy-of-celebrating-30-years-of-ceda-help-us-imagi" >}}**Register your interest in attending this event here!**{{< /button >}}
 
 Join us for a special event marking 30 years of the Centre for Environmental Data Analysis! Over the past three decades, we’ve been dedicated to providing data and information services for environmental science through world-class data curation services, flexible technologies for data analysis and our contributions to national and international communities.
 
@@ -37,11 +37,11 @@ You can find the latest up-to-date programme {{< link "https://drive.google.com/
 
 | Time  |         |  |
 | -- | ----------- | --- |
-| 11:30 - 12:00| Arrivals, Registration and Coffee | RAL Visitors Centre |
+| 11:30 - 12:00| Arrivals, Registration and Coffee | {{< icon "fa-solid fa-mug-hot" >}} |
 | 12:00 - 12:45| Introduction | Phil Kershaw, Head of CEDA |
 | 12:45 - 13:30| Lunch | {{< icon "fa-solid fa-utensils" >}}|
 | 13:30 - 15:00| Showcase Session | Community discussion showcasing the breadth of our work and asking for your thoughts on the future of CEDA! |
-| 15:00 - 15:30| Coffee and Cake | {{< icon "fa-solid fa-mug-hot" >}}|
+| 15:00 - 15:30| Coffee and Cake | {{< icon "fa-solid fa-cake-candles" >}}|
 | 15:30 - 16:30| Parallel Session | JASMIN Tours & Bookable individual Meetings |
 | 16:30 - 16:40| Wrap up | {{< icon "fa-solid fa-handshake" >}}|
 {.table .table-striped}
