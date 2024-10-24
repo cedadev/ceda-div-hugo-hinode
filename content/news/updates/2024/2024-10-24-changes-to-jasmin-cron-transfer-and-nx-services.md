@@ -25,7 +25,7 @@ If you use `cron`, please take action now to move your scheduled tasks to the re
   - OLD server = `xfer3.jasmin.ac.uk`
   - NEW server = `xfer-vm-03.jasmin.ac.uk`
 
-The OLD servers will be **removed on Thursday 21 November 2024**, at which point, the new cron server will take over the alias `cron.jasmin.ac.uk`, but **responsibility for moving each cron jobs lies with the job owner**.
+The OLD servers will be **removed on Thursday 21 November 2024**, at which point, the new cron server will take over the alias `cron.jasmin.ac.uk`, but **responsibility for moving each cron jobs lies with the job owner**. Please remember to use {{<link "https://help.jasmin.ac.uk/docs/workflow-management/using-cron/#crontamer">}}crontamer{{</link>}} to control your job(s).
 
 Users of xfer3 may have previously needed to use specifically that server due to network access rules. The new Rocky 9 xfer servers no longer have this restriction, as all 3 servers xfer-vm-0[123] are identical in this respect and allow connections from anywhere. As a result, the xfer-sp access role is now redundant so will be retired on/around this date. However users needing to schedule transfers should move their cron jobs to `xfer-vm-03`, or use {{<link "https://docs.globus.org/cli/reference/timer_create_transfer/" >}}Globus timers{{</link>}}.
 
