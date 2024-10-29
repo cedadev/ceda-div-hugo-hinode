@@ -159,7 +159,7 @@
       "bio": "Alison joined CEDA in 2003, having previously worked for 14 years at the Met Office. Alison has experience of working with a wide range of data types, from high-resolution near real time radar data, to satellite remote sensing data and climate model output. She has also worked on climate model development. Her current role at CEDA is to support scientists throughout the international atmospheric and climate science communities in using data standards to facilitate data exchange and interoperability. Alison participates in a number of training activities such as the CEDA webinar series and the NCAS Introduction to Scientific Computing Course.",
       "name": "Alison Pamment",
       "thumbnail": "/img/people/alison-pamment.jpg",
-      "title": "Data Scientist: Metadata Standards"
+      "title": "Training and Standards Specialist"
         },
     "charlottepascoe": {
       "bio": "Charlotte has extensive experience of the development and application of data models for climate science. Her work has supported model documentation for both the CMIP5 and CMIP6 climate model intercomparison projects. She is an associate member of the IPCC-Data Task Group and works on the IPCC Data Distribution Centre where the focus of her work is making climate data available to the wider climate science community.",
@@ -207,7 +207,7 @@
       "bio": "William joined CEDA in 2015 after completing a degree in Software Engineering at Aberystwyth University. He utilises his experience with web development and security to improve and maintain CEDA's various web services, as well as the rest of its ever-expanding software infrastructure.",
       "name": "William Tucker",
       "thumbnail": "/img/people/william-tucker.jpg",
-      "title": "Software Engineer"
+      "title": "Senior DevOps Engineer"
         },
     "alisonwaterfall": {
       "bio": "Alison works a lot with data providers, ensuring consistent data standards and strong communication between organisations. Alison is heaavily invloved with the Climate Change Initiave (CCI) and has recently helped build a 'Metadata Bridge' aimed at bridging gaps and improving connectivity between different data centres holding certain datasets",
@@ -225,7 +225,7 @@
       "bio": "Ed joined CEDA through the graduate scheme following a degree in Meteorology and Climate Science at Reading. Ed’s role within CEDA is working on the Sentinel datasets as well as other large satellite missions.",
       "name": "Ed Williamson",
       "thumbnail": "/img/people/ed-williamson.jpg",
-      "title": "Data Scientist: Earth Observation"
+      "title": "Senior Data Scientist: Earth Observation"
         }
 
   }
