@@ -14,9 +14,9 @@ To celebrate 30 years of service in the environmental science community, we're h
 
 30 years ago we saw the formal creation of the British Atmospheric Data Centre - {{< link nerc >}} NERC's {{< /link >}} designated data centre for the Atmospheric Sciences. Born out of the Geophysical Data Facility (GDF) and now known as the Centre for Environmental Data Analysis (CEDA), we have undergone huge changes over the past three decades. We are taking this opportunity not only to look back, but also to look ahead to the next 30 years.
 
-If you are interested in attending the event, you can register your interest {{< link "https://engagementhub.ukri.org/stfc-ralspace/copy-of-celebrating-30-years-of-ceda-help-us-imagi" >}} by filling out this form. {{< /link >}}
-We will then let you know if you've been selected to attend. Unforunately, due to venue restrictions we are unable to offer everyone a place.
+If you are interested in attending the event, you can sign up for it {{< link "https://engagementhub.ukri.org/stfc-ralspace/celebrating-30-years-of-ceda-help-us-imagine-our-f" >}} by filling out this form. {{< /link >}}
+
 
 For more infromation about timings, location, and tranport,  {{< link "../../../events/ceda-30th-stakeholder-event.md" >}} please check out our event page {{< /link >}} for the latest information. Alternatively, {{< link "https://drive.google.com/file/d/1ipLQfFteKrDvCVB4z5TtYYAtwrODWwh-/view?usp=drive_link" >}} click here to see the full event programme. {{< /link >}}
 
-{{< button color="success" href="https://engagementhub.ukri.org/stfc-ralspace/copy-of-celebrating-30-years-of-ceda-help-us-imagi" >}}**Register your interest in attending this event**{{< /button >}}
+{{< button color="success" href="https://engagementhub.ukri.org/stfc-ralspace/celebrating-30-years-of-ceda-help-us-imagine-our-f" >}}**Register your attendance for this event!**{{< /button >}}
