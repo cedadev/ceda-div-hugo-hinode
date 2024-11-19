@@ -17,6 +17,6 @@ To celebrate 30 years of service in the environmental science community, we're h
 If you are interested in attending the event, you can sign up for it {{< link "https://engagementhub.ukri.org/stfc-ralspace/celebrating-30-years-of-ceda-help-us-imagine-our-f" >}} by filling out this form. {{< /link >}}
 
 
-For more infromation about timings, location, and tranport,  {{< link "../../../events/ceda-30th-stakeholder-event.md" >}} please check out our event page {{< /link >}} for the latest information. Alternatively, {{< link "https://drive.google.com/file/d/1ipLQfFteKrDvCVB4z5TtYYAtwrODWwh-/view?usp=drive_link" >}} click here to see the full event programme. {{< /link >}}
+For more infromation about timings, location, and tranport,  {{< link "../../../events/ceda-30th-stakeholder-event.md" >}} please check out our event page {{< /link >}} for the latest information. Alternatively, {{< link "https://drive.google.com/file/d/19O_2bds04kfQHgu-IzKnY6V1AEI3-WZx/view?usp=sharing" >}} click here to see the full event programme. {{< /link >}}
 
 {{< button color="success" href="https://engagementhub.ukri.org/stfc-ralspace/celebrating-30-years-of-ceda-help-us-imagine-our-f" >}}**Register your attendance for this event!**{{< /button >}}
