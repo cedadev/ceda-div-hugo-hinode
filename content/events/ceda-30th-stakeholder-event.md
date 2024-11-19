@@ -31,7 +31,7 @@ We look forward to celebrating with you and envisioning the next chapter of CEDA
 For detailed instructions on how to get here {{< link "https://www.ukri.org/who-we-are/stfc/facilities/rutherford-appleton-laboratory/how-to-get-to-rutherford-appleton-laboratory/" >}} you can click here.  {{< /link >}}
 These instructions are also included in our programme document linked below.
 
-You can find the latest up-to-date programme {{< link "https://drive.google.com/file/d/19O_2bds04kfQHgu-IzKnY6V1AEI3-WZx/view?usp=sharing" >}} by clicking here {{< /link >}}. We have also included our provisional agenda below:
+You can {{< link "https://drive.google.com/drive/folders/15J3HeY7CrJ8BWmCySNJpZyWh-TlOnBeL?usp=drive_link" >}}find the latest up-to-date programme  by clicking here {{< /link >}}. We have also included our provisional agenda below:
 
 #### Programme
 
