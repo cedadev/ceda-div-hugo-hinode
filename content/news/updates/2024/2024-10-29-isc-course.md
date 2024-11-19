@@ -10,7 +10,7 @@ We're teaming up with the {{< link ncas >}}  National Centre for Atmospheric Sci
 
 The course is taught as a series of hands-on workshops. Students may register for the whole course as a package, or individual modules to suit their own learning needs.
 
-You can find out the details of the different modules available {{< link "../../../events/study-scientific-computing-2024.md" >}} over here on our event page. {{< /link >}}
+You can find out the details of the different modules available {{< link "../../../events/past/study-scientific-computing-2024.md" >}} over here on our event page. {{< /link >}}
 
 We aim to equip students with fundamental knowledge and build the skills that are essential for almost all researchers in modern scientific disciplines. Each topic will be introduced and students will then apply their learning by working through practical exercises, supported by the trainers. The course is highly interactive – students are encouraged to ask questions and request support as needed.
 
