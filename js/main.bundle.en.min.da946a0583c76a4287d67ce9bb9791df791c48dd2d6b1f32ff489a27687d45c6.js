@@ -11736,7 +11736,7 @@ function initIndex() {
       {
         id: 402,
         tag: "en",
-        href: "/events/study-scientific-computing-2024/",
+        href: "/events/past/study-scientific-computing-2024/",
         title: "Introduction to Sceintific Computing Course - 2024",
         description: "Join us this November to study an introduction scientific computing with the National Centre for Atmospheric Sceince",
         
