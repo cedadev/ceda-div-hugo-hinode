@@ -13,7 +13,7 @@ icon: fa-solid fa-gear text-warning
 
 ## Upcoming host retirements
 
-As part of our [current migration to the Rocky 9 operating system](), the following timetable of host retirements is planned.
+As part of our [current migration to the Rocky 9 operating system](http://localhost:1313/docs/software-on-jasmin/rocky9-migration-2024/#details-of-the-new-rocky-linux-9-environment), the following timetable of host retirements is planned.
 
 Please take action NOW to move your work to the new hosts detailed here which replace these old hosts.
 We will try and provide further reminders 1 week then 1 day in advance of each group of retirements.
