@@ -17196,6 +17196,19 @@ function initIndex() {
       {
         id: 822,
         tag: "en",
+        href: "/news/updates/2024/2024-11-21-jasmin-host-retirements/",
+        title: "Upcoming JASMIN host retirements",
+        description: "\u0026nbsp; Please read - affects ALL users Upcoming host retirements Update on SOF storage issue Upcoming host retirements \u0026nbsp; As part of our current migration to the Rocky 9 operating system, the following timetable of host retirements is planned.",
+        
+        
+        content: "\u0026nbsp; Please read - affects ALL users Upcoming host retirements Update on SOF storage issue Upcoming host retirements \u0026nbsp; As part of our current migration to the Rocky 9 operating system, the following timetable of host retirements is planned.\nPlease take action NOW to move your work to the new hosts detailed here which replace these old hosts. We will try and provide further reminders 1 week then 1 day in advance of each group of retirements. Retirements marked for today have already been advertised to affected users.\nHost retirement date Group A cron1.ceda aka cron.jasmin\nxfer3\nnx-login[23] 21/11/2024 16:00 today Group B nx4 aka nx-login4 6/12/2024 Group C xfer1\nhpxfer1\nsci[124]\nlogin[12] 6/12/2024 Group D xfer2\nhpxfer2\nsci[568]\nlogin[34] 13/12/2024 All the hosts listed have new Rocky 9 equivalents described in the document above. Please check back regularly in this document\u0026nbsp; to keep up to date.\nUpdate on SOF storage issue \u0026nbsp; Unfortunately the issue is still ongoing, so intermittent problems persist with accessing the CEDA Archive and group workspaces /gws/nopow/j04/* and some other volumes. The infrastructure team is working hard with the storage vendor to try to resolve the issue. Please refer to the CEDA Status Board to keep track of latest updates.\nWith apologies for any inconvenience caused,\nJASMIN Team"
+      })
+      .add(
+      
+      
+      {
+        id: 823,
+        tag: "en",
         href: "/news/updates/2023/2023-01-10-update-some-group-workspaces-and-virtual-machines-unavailable/",
         title: "UPDATE - some group workspaces and virtual machines unavailable",
         description: "Dear users,\nFurther to our earlier message, issues with the affected storage volumes are currently being resolved. Some are now available again while the root cause is still being investigated.",
@@ -17207,7 +17220,7 @@ function initIndex() {
       
       
       {
-        id: 823,
+        id: 824,
         tag: "en",
         href: "/news/updates/2023/2023-02-01-update-2-jasmin-maintenance-work-still-in-progress/",
         title: "UPDATE 2 - JASMIN maintenance work still in progress",
@@ -17220,7 +17233,7 @@ function initIndex() {
       
       
       {
-        id: 824,
+        id: 825,
         tag: "en",
         href: "/news/updates/2020/2020-07-13-datacedaacuk-service-maintenence/",
         title: "Update complete data.ceda.ac.uk",
@@ -17233,7 +17246,7 @@ function initIndex() {
       
       
       {
-        id: 825,
+        id: 826,
         tag: "en",
         href: "/news/updates/2021/2021-01-05-update-covid-19-impact-on-ceda-and-jasmin-operations/",
         title: "Update COVID-19 impact on CEDA and JASMIN operations",
@@ -17246,7 +17259,7 @@ function initIndex() {
       
       
       {
-        id: 826,
+        id: 827,
         tag: "en",
         href: "/news/updates/2019/2019-10-16-update-for-yesterdays-system-maintenance/",
         title: "Update for yesterday’s system maintenance",
@@ -17259,7 +17272,7 @@ function initIndex() {
       
       
       {
-        id: 827,
+        id: 828,
         tag: "en",
         href: "/news/updates/2019/2019-04-18-update-jasmin-cloud-upgrade/",
         title: "Update JASMIN Cloud upgrade",
@@ -17272,7 +17285,7 @@ function initIndex() {
       
       
       {
-        id: 828,
+        id: 829,
         tag: "en",
         href: "/news/updates/2023/2023-06-01-update-jasmin-gws-io-errors/",
         title: "Update JASMIN GWS IO Errors",
@@ -17285,7 +17298,7 @@ function initIndex() {
       
       
       {
-        id: 829,
+        id: 830,
         tag: "en",
         href: "/news/updates/2014/2014-07-22-update-jasmin-vm-disruptions-2207/",
         title: "Update JASMIN VM disruptions 22/07",
@@ -17298,7 +17311,7 @@ function initIndex() {
       
       
       {
-        id: 830,
+        id: 831,
         tag: "en",
         href: "/news/updates/2021/2021-04-30-update-on-jasmin-disk-and-tape-storage-issues/",
         title: "Update on JASMIN disk and tape storage issues",
@@ -17311,7 +17324,7 @@ function initIndex() {
       
       
       {
-        id: 831,
+        id: 832,
         tag: "en",
         href: "/news/updates/2023/2023-08-30-update-on-jasmin-issues-30-aug-2023/",
         title: "Update on JASMIN issues 30 Aug 2023",
@@ -17324,7 +17337,7 @@ function initIndex() {
       
       
       {
-        id: 832,
+        id: 833,
         tag: "en",
         href: "/news/updates/2023/2023-08-31-update-on-jasmin-issues-31-aug-2023/",
         title: "Update on JASMIN issues 31 Aug 2023",
@@ -17337,7 +17350,7 @@ function initIndex() {
       
       
       {
-        id: 833,
+        id: 834,
         tag: "en",
         href: "/news/updates/2020/2020-04-22-update-on-jasmin-maintenance-21-april-2020/",
         title: "Update on JASMIN Maintenance 21 April 2020",
@@ -17350,7 +17363,7 @@ function initIndex() {
       
       
       {
-        id: 834,
+        id: 835,
         tag: "en",
         href: "/news/updates/2023/2023-01-31-update-on-jasmin-maintenance-tues-31-jan-2023-window-extended/",
         title: "Update on JASMIN maintenance Tues 31 Jan 2023 - window extended",
@@ -17363,7 +17376,7 @@ function initIndex() {
       
       
       {
-        id: 835,
+        id: 836,
         tag: "en",
         href: "/news/updates/2023/2023-05-11-update-on-jasmin-tape-services-and-related-issues/",
         title: "Update on JASMIN tape services and related issues",
@@ -17376,7 +17389,7 @@ function initIndex() {
       
       
       {
-        id: 836,
+        id: 837,
         tag: "en",
         href: "/news/updates/2020/2020-08-19-update-on-tape-library-maintenance-1718-aug/",
         title: "Update on tape library maintenance 17/18 Aug",
@@ -17389,7 +17402,7 @@ function initIndex() {
       
       
       {
-        id: 837,
+        id: 838,
         tag: "en",
         href: "/news/updates/2020/2020-10-28-update-on-tape-library-maintenance-26-28-oct/",
         title: "Update on tape library maintenance 26-28 Oct",
@@ -17402,7 +17415,7 @@ function initIndex() {
       
       
       {
-        id: 838,
+        id: 839,
         tag: "en",
         href: "/news/updates/2023/2023-01-12-update-on-tape-services-and-storage-issues/",
         title: "Update on tape services and storage issues",
@@ -17415,7 +17428,7 @@ function initIndex() {
       
       
       {
-        id: 839,
+        id: 840,
         tag: "en",
         href: "/news/updates/2021/2021-02-19-update-problems-with-elastic-tape/",
         title: "Update Problems with Elastic Tape",
@@ -17428,7 +17441,7 @@ function initIndex() {
       
       
       {
-        id: 840,
+        id: 841,
         tag: "en",
         href: "/news/updates/2019/2019-03-15-update-re-offline-group_workspacesjasmin4/",
         title: "Update re. offline /group_workspaces/jasmin4/",
@@ -17441,7 +17454,7 @@ function initIndex() {
       
       
       {
-        id: 841,
+        id: 842,
         tag: "en",
         href: "/news/updates/2019/2019-03-14-update-re-offline-group_workspacesjasmin4-please-check-your-code/",
         title: "Update re. offline /group_workspaces/jasmin4/ - please check your code!",
@@ -17454,7 +17467,7 @@ function initIndex() {
       
       
       {
-        id: 842,
+        id: 843,
         tag: "en",
         href: "/news/updates/2022/2022-08-10-update-tape-services-maintenance-8-9-august-2022/",
         title: "Update Tape services maintenance 8-9 August 2022",
@@ -17467,7 +17480,7 @@ function initIndex() {
       
       
       {
-        id: 843,
+        id: 844,
         tag: "en",
         href: "/news/updates/2020/2020-07-28-update-tape-system-upgrade-completed-services-now-available-for-use/",
         title: "UPDATE Tape system upgrade completed services now available for use",
@@ -17480,7 +17493,7 @@ function initIndex() {
       
       
       {
-        id: 844,
+        id: 845,
         tag: "en",
         href: "/news/updates/2020/2020-07-27-update-tape-systems-unavailable-duration-extended/",
         title: "UPDATE Tape systems unavailable (duration extended)",
@@ -17493,7 +17506,7 @@ function initIndex() {
       
       
       {
-        id: 845,
+        id: 846,
         tag: "en",
         href: "/news/updates/2020/2020-07-20-update-tape-systems-unavailable-21-28-july-duration-extended/",
         title: "UPDATE Tape systems unavailable 21-28 July (duration extended)",
@@ -17506,7 +17519,7 @@ function initIndex() {
       
       
       {
-        id: 846,
+        id: 847,
         tag: "en",
         href: "/news/updates/2021/2021-02-26-update-to-high-performance-data-transfer-services-1/",
         title: "Update to high-performance data transfer services",
@@ -17519,7 +17532,7 @@ function initIndex() {
       
       
       {
-        id: 847,
+        id: 848,
         tag: "en",
         href: "/news/updates/2021/2021-02-01-update-to-high-performance-data-transfer-services/",
         title: "Update to high-performance data transfer services",
@@ -17532,7 +17545,7 @@ function initIndex() {
       
       
       {
-        id: 848,
+        id: 849,
         tag: "en",
         href: "/news/updates/2017/2017-07-11-update-to-jasmin-analysis-platform-software-across-lotus-hosts/",
         title: "Update to JASMIN Analysis Platform software across LOTUS hosts",
@@ -17545,7 +17558,7 @@ function initIndex() {
       
       
       {
-        id: 849,
+        id: 850,
         tag: "en",
         href: "/news/updates/2020/2020-10-06-update-to-opensearchcedaacuk/",
         title: "Update to opensearch.ceda.ac.uk",
@@ -17558,7 +17571,7 @@ function initIndex() {
       
       
       {
-        id: 850,
+        id: 851,
         tag: "en",
         href: "/news/updates/2020/2020-08-06-update-to-the-ceda-user-database-at-9pm-this-evening-06082020/",
         title: "Update to the CEDA User Database at 9pm this evening (06/08/2020)",
@@ -17571,7 +17584,7 @@ function initIndex() {
       
       
       {
-        id: 851,
+        id: 852,
         tag: "en",
         href: "/news/updates/2023/2023-10-31-update-on-jasmin-shutdown/",
         title: "Updates on JASMIN shutdown",
@@ -17584,7 +17597,7 @@ function initIndex() {
       
       
       {
-        id: 852,
+        id: 853,
         tag: "en",
         href: "/news/updates/2024/2024-04-03-updates-to-software-environments/",
         title: "Updates to jaspy and jasr software environments",
@@ -17597,7 +17610,7 @@ function initIndex() {
       
       
       {
-        id: 853,
+        id: 854,
         tag: "en",
         href: "/news/updates/2023/2023-11-24-updates-to-software-environments-jaspy-jasr/",
         title: "Updates to software environments Jaspy and Jasr",
@@ -17610,7 +17623,7 @@ function initIndex() {
       
       
       {
-        id: 854,
+        id: 855,
         tag: "en",
         href: "/news/updates/2018/2018-03-08-upgrade-to-uk-environmental-science-supercomputer-will-make-it-twice-as-capable/",
         title: "Upgrade to UK environmental science supercomputer will make it twice as capable",
@@ -17623,7 +17636,7 @@ function initIndex() {
       
       
       {
-        id: 855,
+        id: 856,
         tag: "en",
         href: "/news/updates/2022/2022-05-26-urgent-network-outage-at-1700-today-26-may/",
         title: "Urgent network outage at 1700 today 26 May",
@@ -17636,7 +17649,7 @@ function initIndex() {
       
       
       {
-        id: 856,
+        id: 857,
         tag: "en",
         href: "/news/updates/2020/2020-06-22-user-survey-to-gauge-needs-in-preparation-for-purchase-of-a-new-gpu-cluster/",
         title: "User survey to gauge needs in preparation for purchase of a new GPU cluster",
@@ -17649,7 +17662,7 @@ function initIndex() {
       
       
       {
-        id: 857,
+        id: 858,
         tag: "en",
         href: "/events/past/stfc-air-quality-network-event/",
         title: "Using CEDA for Air Quality Research - STFC Air Quality Network event",
@@ -17662,7 +17675,7 @@ function initIndex() {
       
       
       {
-        id: 858,
+        id: 859,
         tag: "en",
         href: "/news/updates/2019/2019-10-31-using-jasmin-for-the-largest-ever-uk-wildlife-assessment/",
         title: "Using JASMIN for the largest ever UK wildlife assessment",
@@ -17675,7 +17688,7 @@ function initIndex() {
       
       
       {
-        id: 859,
+        id: 860,
         tag: "en",
         href: "/events/past/python-jasmin-webinar/",
         title: "Using Python on JASMIN webinar",
@@ -17688,7 +17701,7 @@ function initIndex() {
       
       
       {
-        id: 860,
+        id: 861,
         tag: "en",
         href: "/news/updates/2004/2004-07-09-utls-ozone-data-release/",
         title: "UTLS Ozone Data Release",
@@ -17701,7 +17714,7 @@ function initIndex() {
       
       
       {
-        id: 861,
+        id: 862,
         tag: "en",
         href: "/news/updates/2021/2021-12-17-vacancies-head-of-ceda-project-manager/",
         title: "Vacancies Head of CEDA, Project Manager, JASMIN Director",
@@ -17714,7 +17727,7 @@ function initIndex() {
       
       
       {
-        id: 862,
+        id: 863,
         tag: "en",
         href: "/news/updates/2023/2023-02-02-vacancies-2023-feb/",
         title: "Vacancies several opportunities to join our team",
@@ -17727,7 +17740,7 @@ function initIndex() {
       
       
       {
-        id: 863,
+        id: 864,
         tag: "en",
         href: "/news/updates/2022/2022-01-24-vacancies-student-placement-opportunities/",
         title: "Vacancies student placement opportunities",
@@ -17740,7 +17753,7 @@ function initIndex() {
       
       
       {
-        id: 864,
+        id: 865,
         tag: "en",
         href: "/news/updates/2023/2023-06-27-vacancy-ceda-technical-manager/",
         title: "Vacancy CEDA Technical Manager",
@@ -17753,7 +17766,7 @@ function initIndex() {
       
       
       {
-        id: 865,
+        id: 866,
         tag: "en",
         href: "/news/updates/2021/2021-11-12-vacancy-data-specialist-job-opportunity-at-ncas/",
         title: "Vacancy data specialist job opportunity at NCAS",
@@ -17766,7 +17779,7 @@ function initIndex() {
       
       
       {
-        id: 866,
+        id: 867,
         tag: "en",
         href: "/news/updates/2021/2021-06-08-vacancy-jasmin-research-software-engineer/",
         title: "Vacancy JASMIN Research Software Engineer",
@@ -17779,7 +17792,7 @@ function initIndex() {
       
       
       {
-        id: 867,
+        id: 868,
         tag: "en",
         href: "/news/updates/2023/2023-04-24-vacancy-principal-projectprogramme-manager/",
         title: "Vacancy Principal Project/Programme Manager",
@@ -17792,7 +17805,7 @@ function initIndex() {
       
       
       {
-        id: 868,
+        id: 869,
         tag: "en",
         href: "/news/updates/2023/2023-01-12-vacancy-storage-ops-and-user-support/",
         title: "Vacancy Storage Ops and User Support",
@@ -17805,7 +17818,7 @@ function initIndex() {
       
       
       {
-        id: 869,
+        id: 870,
         tag: "en",
         href: "/news/updates/2021/2021-09-10-vacancy-two-graduate-roles/",
         title: "Vacancy two graduate roles",
@@ -17818,7 +17831,7 @@ function initIndex() {
       
       
       {
-        id: 870,
+        id: 871,
         tag: "en",
         href: "/news/updates/2020/2020-02-06-virtualisation-host-reboot-friday-7-feb-am-virtual-machines-affected/",
         title: "Virtualisation host reboot Friday 7 Feb AM virtual machines affected",
@@ -17831,7 +17844,7 @@ function initIndex() {
       
       
       {
-        id: 871,
+        id: 872,
         tag: "en",
         href: "/events/past/jasmin-orchid-webinar/",
         title: "Webinar - JASMIN's new GPU cluster, ORCHID",
@@ -17844,7 +17857,7 @@ function initIndex() {
       
       
       {
-        id: 872,
+        id: 873,
         tag: "en",
         href: "/news/updates/2006/2006-12-20-weybourne-atmospheric-observatory-dataset/",
         title: "Weybourne Atmospheric Observatory Dataset",
@@ -17857,7 +17870,7 @@ function initIndex() {
       
       
       {
-        id: 873,
+        id: 874,
         tag: "en",
         href: "/events/past/jasmin-hands-on-workshop/",
         title: "Working on JASMIN - a hands-on workshop",
@@ -17870,7 +17883,7 @@ function initIndex() {
       
       
       {
-        id: 874,
+        id: 875,
         tag: "en",
         href: "/news/updates/2020/2020-01-10-wps-problems/",
         title: "WPS Problems - now resolved",
@@ -17883,7 +17896,7 @@ function initIndex() {
       
       
       {
-        id: 875,
+        id: 876,
         tag: "en",
         href: "/news/updates/2022/2022-03-18-ai-review-survey/",
         title: "Your current and future needs for AI - Review of UK Digital Research Infrastructure for AI",
