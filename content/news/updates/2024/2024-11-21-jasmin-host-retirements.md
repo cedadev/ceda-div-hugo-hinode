@@ -22,11 +22,11 @@ Retirements marked for today have already been advertised to affected users.
 | Host    | retirement date |
 | ---     | --- |
 | Group A | |
-| `cron1.ceda` aka `cron.jasmin`<br>`xfer3`<br>`nx-login[23]` | 21/11/2024 16:00 **today** |
+| `cron1.ceda` aka `cron.jasmin`<br>`xfer3`<br>`nx-login[23]` | 21/11/2024 16:00 |
 | Group B | 
 | `nx4` aka `nx-login4` | 6/12/2024 |
 | Group C |
-| `xfer1`<br>`hpxfer1`<br>`sci[124]`<br>`login[12]` | 6/12/2024 |
+| `xfer1`<br>`hpxfer1` - already shut down due to technical issue<br>`sci[124]`<br>`login[12]` | 6/12/2024 |
 | Group D | |
 | `xfer2`<br>`hpxfer2`<br>`sci[568]`<br>`login[34]`| 13/12/2024 |
 {.table .table-striped}
