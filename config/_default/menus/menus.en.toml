@@ -34,12 +34,6 @@
   weight = 70
 
 [[social]]
-  name = "X / Twitter"
-  pre = "fab fa-x-twitter"
-  url = "https://twitter.com/cedanews"
-  weight = 10
-
-[[social]]
   name = "YouTube"
   pre = "fab fa-youtube"
   url = "https://www.youtube.com/channel/UCYjSH2ET9nLMhDcXa5y2OMg"

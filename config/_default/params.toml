@@ -68,12 +68,6 @@
     weight = 10
 
 [[sharing.providers]]
-    name = "Twitter"
-    url = "https://twitter.com/home?status={url}"
-    icon = "fab x-twitter"
-    weight = 20
-
-[[sharing.providers]]
     name = "Facebook"
     url = "https://www.facebook.com/sharer.php?u={url}"
     icon = "fab facebook"
