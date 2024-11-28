@@ -51,11 +51,6 @@ home = ["HTML", "RSS", "REDIR"]
     disabled = false
     simple = true
 
-  [privacy.twitter]
-    disabled = false
-    enableDNT = true
-    simple = true
-
   [privacy.instagram]
     disabled = false
     simple = true
@@ -66,8 +61,6 @@ home = ["HTML", "RSS", "REDIR"]
 
 [services]
   [services.instagram]
-    disableInlineCSS = true
-  [services.twitter]
     disableInlineCSS = true
   [services.googleAnalytics]
     ID = "G-QQ8KP42QSR"
