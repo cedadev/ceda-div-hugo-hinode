@@ -11,7 +11,7 @@ icon: fas circle-info text-info
 
 On Monday 25th November 2024, we held a celebration event to mark the 30th anniversary of the Centre for Environmental Data Analysis (CEDA). The event was a great success, with over 70 people attending.
 
-The event kicked off with {{< link "https://doi.org/10.5281/zenodo.14223800" >}} a presentation about our history and successes {{< /link >}} from Phil Kershaw (Head of CEDA) and Sam Pepler (Head of Curation). Attendees learned our journey from a small data facility with 3 staff members and ~5 petabytes of disk storage, to our current team of 39 staff and over 50 petabytes of disk storage.
+The event kicked off with {{< link "https://doi.org/10.5281/zenodo.14223800" >}} a presentation about our history and successes {{< /link >}} from Phil Kershaw (Head of CEDA) and Sam Pepler (Head of Curation). Attendees learned our journey from a small data facility with 3 staff members and minimal data storage, to our current team of 39 staff and over 50 petabytes of disk storage.
 
 After a networking lunch, we had a session consisting of themed stands - showcasing 8 distinct aspects of the work we do. This gave attendees an opportunity to interact with staff and explore the diverse work that we undertake.
 
