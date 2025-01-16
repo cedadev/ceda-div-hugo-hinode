@@ -40,7 +40,7 @@ A further switchover of the **virtual** sci machines will be announced in due co
 
 ## Closure of LOTUS standard partitions
 
-All LOTUS standard partitions (queues) will be closed on **Tuesday 18th January at 16:00**: job submissions to these will be rejected but any pending or running jobs will proceed until completion. The equivalent resources on LOTUS2 are as follows:
+All LOTUS standard partitions (queues) will be closed on **Tuesday 18th February at 16:00**: job submissions to these will be rejected but any pending or running jobs will proceed until completion. The equivalent resources on LOTUS2 are as follows:
 
 - for "short-serial-4hr" jobs, use partition `standard` and QoS `short`
 - for "short-serial" jobs, use the partition `standard` and QoS `standard`
