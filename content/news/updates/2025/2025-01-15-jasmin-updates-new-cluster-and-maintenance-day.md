@@ -53,7 +53,7 @@ To be announced in due course.
 
 ## Retirement of Intel nodes
 
-Intel nodes in the old LOTUS cluster will gradually be decommissioned starting from the upcoming [scheduled maintenance day](#quarterly-scheduled-maintenance-day) on 21 Jan 2025. No Intel hardwear features in the new cluster.
+Intel nodes in the old LOTUS cluster will gradually be decommissioned starting from the upcoming [scheduled maintenance day](#quarterly-scheduled-maintenance-day) on 21 Jan 2025. No Intel hardware features in the new cluster.
 If you have codes in C or Fortran compiled specifically for Intel CPU architecture, these will fail to run on LOTUS2.
 
 ## Changes to usage policy on `pw` scratch disks
