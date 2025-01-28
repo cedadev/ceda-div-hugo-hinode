@@ -34,7 +34,12 @@ The old LOTUS partitions `par-multi` and `long-serial` will be closed on Friday 
 
 Job submission hosts can only be connected with one Slurm cluster, so as part of the introduction of the new cluster, the `sci` machines need to be switched over to use the new cluster, starting with the **physical** `sci` machines.
 
-This will happen on **Thursday 30th January**. Access to `sci-ph-0[1,2].jasmin.ac.uk` will be disabled from 09:00 while the switchover takes place: a downtime of ~2 hours is expected. When these machines come back up, they will only be able to submit to the **new** (LOTUS2) cluster.
+~This will happen on **Thursday 30th January**. Access to `sci-ph-0[1,2].jasmin.ac.uk` will be disabled from 09:00 while the switchover takes place: a downtime of 2 hours is expected. When these machines come back up, they will only be able to submit to the **new** (LOTUS2) cluster.~
+
+Updated 28 Jan:
+
+- `sci-ph-02` will now be switched over for job submissions to the new cluster LOTUS2 straight after shutdown/reboot on Wednesday 29th January from 06:00 (downtime of 1-2 hours expected).
+- `sci-ph-01` will now be switched over for job submissions to the new cluster LOTUS2 straight after shutdown/reboot on Monday, 3rd February, from 06:00 (downtime of 1-2 hours expected).
 
 A further switchover of the **virtual** sci machines will be announced in due course.
 
