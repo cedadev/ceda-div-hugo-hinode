@@ -9,14 +9,14 @@ icon: fas triangle-exclamation text-warning
 
 In this update:
 
-- [New LOTUS2 cluster now available - please use it!](#new-lotus2-cluster-now-availabe---please-use-it)
+- [New LOTUS2 cluster now available - please use it!](#new-lotus2-cluster-now-available---please-use-it)
 - [Scratch quotas now in force - please clean up!](#scratch-quotas-now-in-force---please-clean-up)
 - [Anaconda defaults removal - please check if this affects you!](#anaconda-defaults-removal---please-check-if-this-affects-you)
 - [Reboots and changes to physical sci servers](#reboots-and-changes-to-physical-sci-servers)
 
 Details:
 
-## New LOTUS2 cluster now availabe - please use it!
+## New LOTUS2 cluster now available - please use it!
 
 A reminder that the new 55,000-core LOTUS2 cluster is now available for use. Please now move your processing to this cluster.
 
