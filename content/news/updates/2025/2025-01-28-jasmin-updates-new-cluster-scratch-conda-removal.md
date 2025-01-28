@@ -35,7 +35,7 @@ Do not leave data in scratch volumes for extended time periods after your job(s)
 ## Anaconda defaults removal - please check if this affects you!
 
 As per our [previous announcement]({{% ref "2024-08-29-important-software-changes-autumn.md" %}}), we no longer allow software from the Anaconda ‘defaults’ channel on JASMIN.
-While we have removed this software from environments which we provide for you, in order to help you avoid any liability YOU may face for unlicensed use of this software, in environments you may have created for yourself, we have tried to detect these for you and provide instructions as to how to remove them. Where we have been able to detect enviroments which use the Anaconda defaults channel, we have placed a file in the each user's JASMIN home directory, named `README.anaconda_defaults_usage_<username>.txt`, containing a list of the affected files.
+While we have removed this software from environments which we provide for you, in order to help you avoid any liability YOU may face for unlicensed use of this software, in environments you may have created for yourself, we have tried to detect these for you and provide instructions as to how to remove them. Where we have been able to detect environments which use the Anaconda defaults channel, we have placed a file in the each user's JASMIN home directory, named `README.anaconda_defaults_usage_<username>.txt`, containing a list of the affected files.
 
 **If this file appears for you**, please (ASAP) {{<link "https://help.jasmin.ac.uk/docs/software-on-jasmin/conda-removal/" >}}follow these instructions{{</link>}} to remove the files in the list.
 
