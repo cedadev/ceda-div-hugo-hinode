@@ -20,7 +20,7 @@ Details:
 
 A reminder that the new 55,000-core LOTUS2 cluster is now available for use. Please now move your processing to this cluster.
 
-As hosts are retired from the old cluster, it is now **expected** that jobs will take longer to complete, so please do not report this as an issue in itself. The old cluster will be retired on 18 Feburary 2025. Please see also [Reboots and changes to physical sci servers](#reboots-and-changes-to-physical-sci-servers), below.
+As hosts are retired from the old cluster, it is now **expected** that jobs will take longer to complete, so please do not report this as an issue in itself. The old cluster will be retired on 18 February 2025. Please see also [Reboots and changes to physical sci servers](#reboots-and-changes-to-physical-sci-servers), below.
 
 {{<link "https://help.jasmin.ac.uk/docs/software-on-jasmin/rocky9-migration-2024/#new-lotus2-cluster-initial-submission-guide">}}Initial documentation{{</link>}} about how to submit jobs to the new cluster is provided, with more to follow in due course.
 
