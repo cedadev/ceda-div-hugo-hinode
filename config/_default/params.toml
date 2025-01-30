@@ -1,6 +1,6 @@
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    description = "The Centre for Environmental Data Analysis serves the environmental science community by. the provision of data centres, data analysis & access, and research project participation."
     enableDarkMode = true
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
@@ -26,7 +26,7 @@
     checkVersion = false
 
 [home]
-    sections = ["news", "services", "about", "events","priorities","projects"]
+    sections = ["news", "services", "about", "events", "priorities","projects"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -181,29 +181,24 @@
 
 [schema]
     type = "Organization"
-    name = "Hinode"
-    locale = "en-US"
-    # twitter = "https://twitter.com/gethinode"
-    # linkedIn = ""
-    github = "https://github.com/gethinode/hinode"
+    name = "CEDA"
+    locale = "en-GB"
+    github = "https://github.com/cedadev"
     section = "news"
     [author]
-        name = "Mark Dumay"
-        # twitter = "https://twitter.com/markdumay"
-        linkedin = "https://www.linkedin.com/in/markdumay/"
-        github = "https://github.com/markdumay"
+        name = "Matt Pritchard"
     [logo]
-        url = "img/logo512x512.png"
-        width = 512
-        height = 512
+        url = "img/favicon.png"
+        width = 48
+        height = 48
     [image]
-        url = "img/logo1280x640.png"
-        width = 1280
-        height = 640
+        url = "img/favicon.png"
+        width = 48
+        height = 48
 
 [opengraph]
-    images = ["logo.png"]
-    locale = "en_US"
+    images = ["img/favicon.png"]
+    locale = "en_GB"
 
 [comments]
     enabled = false
