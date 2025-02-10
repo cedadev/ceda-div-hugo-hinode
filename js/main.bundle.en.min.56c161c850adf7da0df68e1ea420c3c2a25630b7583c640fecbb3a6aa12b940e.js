@@ -17599,6 +17599,19 @@ function initIndex() {
       {
         id: 853,
         tag: "en",
+        href: "/news/updates/2025/2025-02-10-ceda-dataset-application-update/",
+        title: "Update to CEDA dataset application system on the 11th of February, from 10am onwards.",
+        description: "On Tuesday 11th February, starting from 10am and continuing all day, we will be rolling out a number of improvements to the way dataset access applications and authorisations are managed for CEDA accounts.",
+        
+        
+        content: "On Tuesday 11th February, starting from 10am and continuing all day, we will be rolling out a number of improvements to the way dataset access applications and authorisations are managed for CEDA accounts. During this time, some CEDA account features will be inaccessible. These include sign up for datasets, users’ dataset overview pages, and JASMIN account linking.\nThis service roll out will bring improved workflows for users, authorisers and CEDA staff, building on the success of a similar system employed for JASMIN service access. For CEDA users the changes are largely cosmetic, whilst for authorisers there will be a new portal for processing applications. Details on the new system are available on our associated help page\u0026nbsp; for authorisers.\nOnce we have confirmed that the rollout has been successful, we will update our status page, letting you know that everything is working again."
+      })
+      .add(
+      
+      
+      {
+        id: 854,
+        tag: "en",
         href: "/news/updates/2021/2021-02-26-update-to-high-performance-data-transfer-services-1/",
         title: "Update to high-performance data transfer services",
         description: "Dear users,\nAs previously announced, we are making further changes to some data transfer services:\nftp.ceda.ac.uk (CEDA Archive FTP server)",
@@ -17610,7 +17623,7 @@ function initIndex() {
       
       
       {
-        id: 854,
+        id: 855,
         tag: "en",
         href: "/news/updates/2021/2021-02-01-update-to-high-performance-data-transfer-services/",
         title: "Update to high-performance data transfer services",
@@ -17623,7 +17636,7 @@ function initIndex() {
       
       
       {
-        id: 855,
+        id: 856,
         tag: "en",
         href: "/news/updates/2017/2017-07-11-update-to-jasmin-analysis-platform-software-across-lotus-hosts/",
         title: "Update to JASMIN Analysis Platform software across LOTUS hosts",
@@ -17636,7 +17649,7 @@ function initIndex() {
       
       
       {
-        id: 856,
+        id: 857,
         tag: "en",
         href: "/news/updates/2020/2020-10-06-update-to-opensearchcedaacuk/",
         title: "Update to opensearch.ceda.ac.uk",
@@ -17649,7 +17662,7 @@ function initIndex() {
       
       
       {
-        id: 857,
+        id: 858,
         tag: "en",
         href: "/news/updates/2020/2020-08-06-update-to-the-ceda-user-database-at-9pm-this-evening-06082020/",
         title: "Update to the CEDA User Database at 9pm this evening (06/08/2020)",
@@ -17662,7 +17675,7 @@ function initIndex() {
       
       
       {
-        id: 858,
+        id: 859,
         tag: "en",
         href: "/news/updates/2023/2023-10-31-update-on-jasmin-shutdown/",
         title: "Updates on JASMIN shutdown",
@@ -17675,7 +17688,7 @@ function initIndex() {
       
       
       {
-        id: 859,
+        id: 860,
         tag: "en",
         href: "/news/updates/2024/2024-04-03-updates-to-software-environments/",
         title: "Updates to jaspy and jasr software environments",
@@ -17688,7 +17701,7 @@ function initIndex() {
       
       
       {
-        id: 860,
+        id: 861,
         tag: "en",
         href: "/news/updates/2023/2023-11-24-updates-to-software-environments-jaspy-jasr/",
         title: "Updates to software environments Jaspy and Jasr",
@@ -17701,7 +17714,7 @@ function initIndex() {
       
       
       {
-        id: 861,
+        id: 862,
         tag: "en",
         href: "/news/updates/2018/2018-03-08-upgrade-to-uk-environmental-science-supercomputer-will-make-it-twice-as-capable/",
         title: "Upgrade to UK environmental science supercomputer will make it twice as capable",
@@ -17714,7 +17727,7 @@ function initIndex() {
       
       
       {
-        id: 862,
+        id: 863,
         tag: "en",
         href: "/news/updates/2022/2022-05-26-urgent-network-outage-at-1700-today-26-may/",
         title: "Urgent network outage at 1700 today 26 May",
@@ -17727,7 +17740,7 @@ function initIndex() {
       
       
       {
-        id: 863,
+        id: 864,
         tag: "en",
         href: "/news/updates/2020/2020-06-22-user-survey-to-gauge-needs-in-preparation-for-purchase-of-a-new-gpu-cluster/",
         title: "User survey to gauge needs in preparation for purchase of a new GPU cluster",
@@ -17740,7 +17753,7 @@ function initIndex() {
       
       
       {
-        id: 864,
+        id: 865,
         tag: "en",
         href: "/events/past/stfc-air-quality-network-event/",
         title: "Using CEDA for Air Quality Research - STFC Air Quality Network event",
@@ -17753,7 +17766,7 @@ function initIndex() {
       
       
       {
-        id: 865,
+        id: 866,
         tag: "en",
         href: "/news/updates/2019/2019-10-31-using-jasmin-for-the-largest-ever-uk-wildlife-assessment/",
         title: "Using JASMIN for the largest ever UK wildlife assessment",
@@ -17766,7 +17779,7 @@ function initIndex() {
       
       
       {
-        id: 866,
+        id: 867,
         tag: "en",
         href: "/events/past/python-jasmin-webinar/",
         title: "Using Python on JASMIN webinar",
@@ -17779,7 +17792,7 @@ function initIndex() {
       
       
       {
-        id: 867,
+        id: 868,
         tag: "en",
         href: "/news/updates/2004/2004-07-09-utls-ozone-data-release/",
         title: "UTLS Ozone Data Release",
@@ -17792,7 +17805,7 @@ function initIndex() {
       
       
       {
-        id: 868,
+        id: 869,
         tag: "en",
         href: "/news/updates/2021/2021-12-17-vacancies-head-of-ceda-project-manager/",
         title: "Vacancies Head of CEDA, Project Manager, JASMIN Director",
@@ -17805,7 +17818,7 @@ function initIndex() {
       
       
       {
-        id: 869,
+        id: 870,
         tag: "en",
         href: "/news/updates/2023/2023-02-02-vacancies-2023-feb/",
         title: "Vacancies several opportunities to join our team",
@@ -17818,7 +17831,7 @@ function initIndex() {
       
       
       {
-        id: 870,
+        id: 871,
         tag: "en",
         href: "/news/updates/2022/2022-01-24-vacancies-student-placement-opportunities/",
         title: "Vacancies student placement opportunities",
@@ -17831,7 +17844,7 @@ function initIndex() {
       
       
       {
-        id: 871,
+        id: 872,
         tag: "en",
         href: "/news/updates/2023/2023-06-27-vacancy-ceda-technical-manager/",
         title: "Vacancy CEDA Technical Manager",
@@ -17844,7 +17857,7 @@ function initIndex() {
       
       
       {
-        id: 872,
+        id: 873,
         tag: "en",
         href: "/news/updates/2021/2021-11-12-vacancy-data-specialist-job-opportunity-at-ncas/",
         title: "Vacancy data specialist job opportunity at NCAS",
@@ -17857,7 +17870,7 @@ function initIndex() {
       
       
       {
-        id: 873,
+        id: 874,
         tag: "en",
         href: "/news/updates/2021/2021-06-08-vacancy-jasmin-research-software-engineer/",
         title: "Vacancy JASMIN Research Software Engineer",
@@ -17870,7 +17883,7 @@ function initIndex() {
       
       
       {
-        id: 874,
+        id: 875,
         tag: "en",
         href: "/news/updates/2023/2023-04-24-vacancy-principal-projectprogramme-manager/",
         title: "Vacancy Principal Project/Programme Manager",
@@ -17883,7 +17896,7 @@ function initIndex() {
       
       
       {
-        id: 875,
+        id: 876,
         tag: "en",
         href: "/news/updates/2023/2023-01-12-vacancy-storage-ops-and-user-support/",
         title: "Vacancy Storage Ops and User Support",
@@ -17896,7 +17909,7 @@ function initIndex() {
       
       
       {
-        id: 876,
+        id: 877,
         tag: "en",
         href: "/news/updates/2021/2021-09-10-vacancy-two-graduate-roles/",
         title: "Vacancy two graduate roles",
@@ -17909,7 +17922,7 @@ function initIndex() {
       
       
       {
-        id: 877,
+        id: 878,
         tag: "en",
         href: "/news/updates/2020/2020-02-06-virtualisation-host-reboot-friday-7-feb-am-virtual-machines-affected/",
         title: "Virtualisation host reboot Friday 7 Feb AM virtual machines affected",
@@ -17922,7 +17935,7 @@ function initIndex() {
       
       
       {
-        id: 878,
+        id: 879,
         tag: "en",
         href: "/events/past/jasmin-orchid-webinar/",
         title: "Webinar - JASMIN's new GPU cluster, ORCHID",
@@ -17935,7 +17948,7 @@ function initIndex() {
       
       
       {
-        id: 879,
+        id: 880,
         tag: "en",
         href: "/news/updates/2006/2006-12-20-weybourne-atmospheric-observatory-dataset/",
         title: "Weybourne Atmospheric Observatory Dataset",
@@ -17948,7 +17961,7 @@ function initIndex() {
       
       
       {
-        id: 880,
+        id: 881,
         tag: "en",
         href: "/events/past/jasmin-hands-on-workshop/",
         title: "Working on JASMIN - a hands-on workshop",
@@ -17961,7 +17974,7 @@ function initIndex() {
       
       
       {
-        id: 881,
+        id: 882,
         tag: "en",
         href: "/news/updates/2020/2020-01-10-wps-problems/",
         title: "WPS Problems - now resolved",
@@ -17974,7 +17987,7 @@ function initIndex() {
       
       
       {
-        id: 882,
+        id: 883,
         tag: "en",
         href: "/news/updates/2022/2022-03-18-ai-review-survey/",
         title: "Your current and future needs for AI - Review of UK Digital Research Infrastructure for AI",
