@@ -23,7 +23,7 @@
                                 seconds--;
                                 countdownElement.textContent = seconds;
                             } else {
-                                location.reload();
+                                location.reload(true); // Reloads the page and bypasses cache
                             }
                         }
 
