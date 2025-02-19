@@ -11,6 +11,25 @@
 
                     <!-- TABLE CONSTRUCTION-->
                 <h2>Current incidents</h2>
+                <p class="small">This page will automatically refresh in <span id="countdown">30</span> seconds.</p>
+
+                    <script>
+                        // Function to update the countdown and refresh the page
+                        function updateCountdown() {
+                            const countdownElement = document.getElementById('countdown');
+                            let seconds = parseInt(countdownElement.textContent);
+
+                            if (seconds > 0) {
+                                seconds--;
+                                countdownElement.textContent = seconds;
+                            } else {
+                                location.reload();
+                            }
+                        }
+
+                        // Set a 1-second timer for updating the countdown
+                        setInterval(updateCountdown, 1000); // 1000 milliseconds = 1 second
+                    </script>
                 <table id="current-table" class="table table-sm table-striped table-responsive">
                     <thead>
                         <tr> 
