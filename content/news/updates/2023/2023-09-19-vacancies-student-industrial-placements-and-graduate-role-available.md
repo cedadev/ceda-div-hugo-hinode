@@ -11,7 +11,7 @@ Interested in joining our amazing team at the Centre for Environmental Data Anal
 If so, you're in luck because we have multiple positions now open for applications!
 
 * We have one role open for recent graduates working with JASMIN, our globally-unique data analysis facility, as a Research Computing Service Support Graduate. [Find out more about this role here](https://www.careersportal.co.uk/UKRI-careers/jobs/graduate-research-computing-service-support-3699), part of the [UK Research and Innovation graduate scheme.](https://stfccareers.co.uk/graduates/)
-* We also have two Software Engineering roles available to students seeking an industrial placement year as part of their degree. [Find out more about this position here.](https://www.careersportal.co.uk/UKRI-careers/jobs/software-developer-industrial-placement-3674) Our placement student last year, Adrian Dębski, recently finished his placement with us and you can read his [blog post](https://www.ceda.ac.uk/blog/adrian-debskis-industrial-placement/) about the amazing work that he did.
+* We also have two Software Engineering roles available to students seeking an industrial placement year as part of their degree. [Find out more about this position here.](https://www.careersportal.co.uk/UKRI-careers/jobs/software-developer-industrial-placement-3674) Our placement student last year, Adrian Dębski, recently finished his placement with us and you can read his [blog post](2023-07-27-adrian-debskis-industrial-placement.md) about the amazing work that he did.
 
 Both of these positions have a closing date on October 29th 2023, although we encourage you to submit your application as soon as possible as we reserve the right to close the vacancies once we have received sufficient applications.
 

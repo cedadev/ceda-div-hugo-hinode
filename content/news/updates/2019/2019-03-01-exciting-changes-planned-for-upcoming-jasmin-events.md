@@ -15,5 +15,5 @@ The webinars will cover broader topics like Software on JASMIN, and the JASMIN c
 We hope that this will encourage knowledge exchange amongst users and provide more opportunities for you to meet the JASMIN team; rather than just once a year at the JASMIN conference. Our current plan is that the conference will return again in 2020.
 
 
-We will also continue to run events that have a stronger focus on data and the CEDA archive. All details for these events will be published on the main CEDA website, under the training tab ([here](http://www.ceda.ac.uk/training/webinars/)) and via our social media channels (particularly [Twitter](https://twitter.com/cedanews)). If you have any ideas for topics, then please let us know via the [helpdesk](mailto:support@ceda.ac.uk).
+We will also continue to run events that have a stronger focus on data and the CEDA archive. All details for these events will be published on the main CEDA website. If you have any ideas for topics, then please let us know via the [helpdesk](mailto:support@ceda.ac.uk).
 

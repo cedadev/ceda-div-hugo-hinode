@@ -21,7 +21,7 @@ Our primary role continues to help the scientific community to do research - and
   
 Over the past 25 years, CEDA has faced many challenges around ever increasing data volumes and user community which has meant that our technology has had to drastically evolve in order to adapt to these needs. We strive to improve our services in order to meet the needs of the community - and hope to continue doing so for the next 25 years too!
   
-If you want to know more about what we’ve been up to, take a look at our previous [annual reports](https://www.ceda.ac.uk/about/highlights/) or our [archive of news items](https://www.ceda.ac.uk/blog/).
+If you want to know more about what we’ve been up to, take a look at our previous [annual reports](https://www.ceda.ac.uk/about/) or our [archive of news items](https://www.ceda.ac.uk/news/).
 
 {{< image src="/img/news/2019/2019-12-20-celebrating-25-years-of-ceda/final_-_25_years_of_ceda_infographic.png" wrapper="col-8 mx-auto" class="rounded" >}}
 
