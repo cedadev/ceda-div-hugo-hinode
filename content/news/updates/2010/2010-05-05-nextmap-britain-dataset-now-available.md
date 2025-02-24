@@ -12,7 +12,7 @@ The NEXTMap Britain dataset, a high-resolution digital terrain model of the UK, 
 
 
 The dataset was purchased by [British Geological Survey](http://www.bgs.ac.uk) on behalf of NERC, and is available for use by NERC staff and award holders (including NERC-funded researchers in universities).
-Further information about the dataset can be found [here](/index.php?option=displaypage&Itemid=85&op=page&SubMenu=-1), including details of how to register to use the dataset.
+Further information about the dataset can be found [here](/no-longer-available), including details of how to register to use the dataset.
 The dataset, which is divided into OS grid 10 km x 10 km tiles, is available as 7 distinct products, varying in resolution from 5 to 50 metre cell size.
 
 

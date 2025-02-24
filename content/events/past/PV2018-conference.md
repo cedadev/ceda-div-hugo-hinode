@@ -810,12 +810,12 @@ We are also entering the era of big data; for this conference year, we would lik
     </div>
   {{< /nav-item >}}
   {{< nav-item header="Committee" >}}
-    <h3>Conference Chairs</h3>
+    <h3 id="conference-chairs">Conference Chairs</h3>
     <p><strong>Conference Chair:</strong> Tony Hey - Chief Data Scientist STFC<br /><strong>Conference Co- chair:</strong> Harald Rothfuss - EUMETSAT</p>
-    <h3>Organising Committee</h3>
+    <h3 id="organising-committee">Organising Committee</h3>
     <p><strong>Head of Organising Committee: </strong>Caroline Callard &ndash; STFC/RALSpace</p>
     <p>Esther Conway &ndash; STFC/CEDA<br />Brian Matthews &ndash; STFC/SCD<br />Poppy Townsend &ndash; STFC/CEDA<br />Richard Hilton &ndash; &nbsp;Satellite Applications Catapult<br />Anastasia Bolton &ndash; &nbsp;Satellite Applications Catapult<br />Jan Fillingham - NCEO</p>
-    <h3>Scientific Programme Committee</h3>
+    <h3 id="scientific-programme-committee">Scientific Programme Committee</h3>
     <p><strong>Head of Scientific Programme Committee:</strong> Esther Conway - CEDA<br />David Giaretta - APA<br />Brian Mathews - STFC<br />Richard Moreno- CNES<br />Nancy Ritchey - NOAA<br />Tom Stein - NASA PDS<br />Reta Beebe - NASA PDS<br />Christophe Arviset - ESA ESAC<br />Mirko Albani - ESA ESRIN<br />Pascal Lecomte - ESA Climate Change Office<br />Kevin Ashley - DCC<br />Jamie Shiers - CERN<br />Eberhard Mikusch - DLR<br />Robert Elliott - RAL Space<br />Phil Kershaw &ndash; CEDA <br />Richard Hilton - Satellite Applications Catapult<br /><br /><br />&nbsp;</p>
     <p>&nbsp;</p>
   {{< /nav-item >}}

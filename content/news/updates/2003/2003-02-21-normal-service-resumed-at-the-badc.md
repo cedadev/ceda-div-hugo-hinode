@@ -11,7 +11,7 @@ icon: fas circle-info
 
 The technical problems affecting the BADC over the past two day 
 ([see previous news
-item](030219.html)) have now been fixed
+item](/no-longer-available)) have now been fixed
 and all areas of the BADC site are now operational. We appologise for any inconvenience
 this disruption may have caused.
 

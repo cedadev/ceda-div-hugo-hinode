@@ -12,13 +12,13 @@ icon: fas circle-info
 Due to database problems, the BADC Datasets catalogue (including the ACSOE
 catalogue) is temporarily unavailable.
   
-For the time being, please use the link to [List of all datasets in BADC catalogue](/data/dataset_index). Please note that the link to
+For the time being, please use the link to [List of all datasets in BADC catalogue](/no-longer-available). Please note that the link to
 *Catalogue Record* is not available due to the same problems. 
 
 
  
 For the same reason, the UKMO Station catalogue is also temporarily unavailable.
-For the time being, please use the link to [List of Station names and numbers](/data/surface/station_lists/midas_stations.html).
+For the time being, please use the link to [List of Station names and numbers](/no-longer-available).
 
 
 

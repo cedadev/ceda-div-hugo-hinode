@@ -1,7 +1,6 @@
 ---
 author: Matt Pritchard
 title: Editing guide
-date: 2024-03-08 09:00
 description: Editing guide for the CEDA website
 layout: docs
 ---

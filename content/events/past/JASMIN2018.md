@@ -16,7 +16,7 @@ aliases: ['/events/jasmin2018']
 <div class="col-md-9 left">
 <div class="panel panel-primary" id="invitation">
 <div class="panel-heading">
-<h3 class="panel-title">Introduction</h3>
+<h3 class="panel-title" id="introduction">Introduction</h3>
 </div>
 <div class="panel-body">
 <p class="text-justify">The third JASMIN user Conference on Advanced Computing for Environmental Science was held on 27th June 2018 at Milton Hill House, with additional training workshop sessions on the following day at JASMIN's host institution, the STFC Rutherford Appleton Laboratory (RAL) on 28th June 2018, with attendees from universities and research institutions across the UK and further afield.&nbsp; <br /> <br />Selected&nbsp;conference presentations&nbsp;are available to download&nbsp;or watch in video form from the links within the programme below.&nbsp;</p>
@@ -25,11 +25,11 @@ aliases: ['/events/jasmin2018']
 </div>
 </div>
 <div class="row"><hr /></div>
-<div class="row" id="conferenceprogramme">
+<div class="row">
 <div class="col-md-12">
 <div class="panel panel-primary">
 <div class="panel-heading">
-<h3 class="panel-title">Conference programme</h3>
+<h3 class="panel-title" id="conferenceprogramme">Conference programme</h3>
 </div>
 <div class="panel-body">
 <div class="col-md-12">
@@ -323,7 +323,7 @@ aliases: ['/events/jasmin2018']
 <div class="col-md-12">
 <div class="panel panel-primary">
 <div class="panel-heading">
-<h3 class="panel-title"></h3>
+<h3 class="panel-title" id="noid"></h3>
 </div>
 <div class="panel-body"></div>
 </div>

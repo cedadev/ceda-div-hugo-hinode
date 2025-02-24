@@ -10,8 +10,8 @@ icon: fas circle-info
  
 
 
-In July 2001, a [user survey](2001_websurvey_result.html) was sent by email to all BADC users
-to sollicitate feedback about the BADC website and services provided
+In July 2001, a user survey was sent by email to all BADC users
+to solicit feedback about the BADC website and services provided
 online.
 
 
@@ -43,7 +43,7 @@ New features include:
  - an extended Help central page
 
 To find out more about our new web site, please read the 
-[site guide](/help/site_guide.html).
+site guide.
 
 
 

@@ -19,7 +19,7 @@ This data is mirrored from the Goddard GES-DISC and is publicly available at BAD
 statistics can be noted. This online registration only takes a few seconds. 
 New users [register here](http://badc.nerc.ac.uk/reg/user_register_info.html). 
 For a reminder of your login details contact the [BADC
-Helpdesk](/help/contact.html).
+Helpdesk](/no-longer-available).
 
 
  

@@ -1,7 +1,6 @@
 ---
 author: Jesse Alexander
 title: Creating a Github Codespace
-date: 2024-04-30 14:00
 description: How to make a Github codespace from scratch
 layout: docs
 ---

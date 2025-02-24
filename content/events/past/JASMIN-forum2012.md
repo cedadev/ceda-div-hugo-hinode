@@ -7,7 +7,9 @@ icon: fas seedling
 description: Forum addressing challenges of large scale data analysis in the atmospheric science community.
 aliases: ['/events/jasmin-forum2012']
 ---
-<h2>Introduction</h2>
+
+
+<h2 id="introduction">Introduction</h2>
 <p>On 25 September 2012, NCAS hosted a research forum at Reading University to address the challenges of large scale data analysis in the numerical weather prediction, oceanographic and climate science community. The forum heard presentations about many NCAS activities including UPSCALE, CASCADE, HiGEM and WISER as well as presentations from the EO, atmospheric composition and oceanographic perspectives.</p>
 <p>The particular context was the recent purchase of the <a href="http://arxiv.org/abs/1204.3553">JASMIN and CEMS facilities</a> which are managed by the Centre for Environmental Data Archival (CEDA) at the Rutherford Appleton Laboratory. JASMIN and CEMS are designed to enable centralised terabyte to petabyte scale data analysis for the NCAS and NCEO communities. The forum also took a wider view of data analysis challenges faced by the community. In discussing these challenges and potential solutions the forum aimed to uncover common problems, how recent improvements in technology can address these problems and identify additional work needed - particularly in the area of parallel data analysis.</p>
 <p>The forum started by introducing the JASMIN architecture and plans for meeting the data analysis needs of NCAS researchers. We then heard presentations from many projects and communities tackling large scale data analysis challenges, starting with those who have had early experience with the JASMIN system. We finished off with presentations on developments in analysis tools and visualisation and a general discussion.</p>

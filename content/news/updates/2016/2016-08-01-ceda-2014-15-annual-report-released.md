@@ -28,8 +28,7 @@ Highlights include:
 
 Other content covers our usage statistics for both our archive and JASMIN infrastructure, funding and our user support statistics.
 
-
-You can find this and previous annual reports on the CEDA site on the [CEDA Annual Reports page](/about/ceda-annual-reports/ "Links to all the CEDA Annual Reports") under the About CEDA section.
+Previous CEDA Annual Reports are also available [here](/about/mission/).
 
 
  

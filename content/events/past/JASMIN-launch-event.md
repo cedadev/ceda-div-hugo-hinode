@@ -11,7 +11,7 @@ aliases: ['/events/jasmin-launch-event']
 <div class="row">
 <div class="col-md-7 middle">
 <p>(copy of <a href="http://www.stfc.ac.uk/3199.aspx">STFC web note</a> released at the JASMIN Launch event on Monday 2nd June 2014)</p>
-<h2>UK science community to benefit from major cloud computing and storage upgrade</h2>
+<h2 id="uk-science-community-to-benefit-from-major-cloud-computing-and-storage-upgrade">UK science community to benefit from major cloud computing and storage upgrade</h2>
 <p>STFC and NERC today (2 June 2014) celebrate the completion of a major upgrade to the JASMIN data analysis infrastructure that plays a key role in the assessment and evaluation of huge sets of environmental data produced by the UK scientific community.</p>
 <p>JASMIN has been designed for the Big Data challenges posed by 21st century environmental science and will expand its role as the infrastructure in which a plethora of science community services are run. The current upgrade will ensure a better understanding of, and a quicker response to, environmental change.</p>
 <p>Run by STFC on behalf of NERC, JASMIN is based at STFC's Rutherford Appleton Laboratory. It is half super-computer and half data-centre and as such provides a globally unique computational environment. It is responsible for two main functions: infrastructure for the data storage and services of the Centre for Environmental Data Archival (CEDA), including the British Atmospheric Data Centre; and providing a platform for data-intensive scientific computation for the environmental science community.</p>
@@ -22,7 +22,7 @@ aliases: ['/events/jasmin-launch-event']
 <div class="col-md-5 right">
 <div class="panel panel-default">
 <div class="panel-heading">
-<h3 class="panel-title">Launch event presentations</h3>
+<h3 class="panel-title" id="launch-event-presentations">Launch event presentations</h3>
 </div>
 <div class="panel-body">
 <table class="table">

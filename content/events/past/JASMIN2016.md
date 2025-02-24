@@ -9,7 +9,7 @@ description: First ever JASMIN User conference sharing knowledge and ideas about
 aliases: ['/events/jasmin2016']
 ---
 
-<h2>Thanks for coming to the JASMIN user conference!</h2>
+<h2 id="thanks-for-coming-to-the-jasmin-user-conference">Thanks for coming to the JASMIN user conference!</h2>
 <p>A big thank you to all who attended and contributed to our first JASMIN User Conference, held at RAL on 27/28 June 2016. Over two days, we shared information about the current scale and capabilities of JASMIN, heard about some of the data-intensive science going on right now, and learned about other environmental science challenges which could be helped by using JASMIN.</p>
 <!-- <p><img height="142" src="/media/uploads/event/jasmin_conf_talk1-300x142.jpg" style="display: block; margin-left: auto; margin-right: auto;" width="300" /></p>
 Prof. Tony Hey (STFC Chief Data Scientist) delivers his presentation on Data Intensive Science at the evening reception of the JASMIN User Conference 2016 (Photos: Matt Pritchard, STFC)

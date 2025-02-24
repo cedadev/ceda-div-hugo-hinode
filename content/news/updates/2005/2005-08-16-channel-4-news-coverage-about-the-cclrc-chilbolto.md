@@ -11,7 +11,7 @@ icon: fas circle-info
 
 On Wednesday 10th August, there was a 6mn long news report about the CCLRC Chilbolton Observatory.
  
-If you missed it, you can now view the footage [here](Ch4News10August2005.wmv).
+If you missed it, you can now view the footage [here](/no-longer-available).
 
 
  

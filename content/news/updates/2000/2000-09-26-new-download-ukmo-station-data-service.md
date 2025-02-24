@@ -13,7 +13,7 @@ download selected UKMO surface station data from multiple stations and
 multiple years. To access this new service, proceed as follows:
 
  
-1. from the BADC homepage ([http://www.badc.rl.ac.uk](/)) go to the Browse
+1. from the BADC homepage ([http://www.badc.rl.ac.uk](/no-longer-available)) go to the Browse
 Archive facility
 2. follow the link to ukmo-surface/data/united\_kingdom/
 3. click on Download\_multiple\_station\_data.html
@@ -22,7 +22,7 @@ Archive facility
 
 
  More information about the UKMO Land Surface Stations Observations can
-be found at [http://www.badc.rl.ac.uk/data/surface/](/data/surface/)
+be found at [http://www.badc.rl.ac.uk/data/surface/](/no-longer-available)
 
 
  

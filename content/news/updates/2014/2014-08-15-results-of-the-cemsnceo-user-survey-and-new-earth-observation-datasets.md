@@ -36,5 +36,5 @@ Cloud and aerosol data products from CALIOP on CALIPSO are currently being trans
  
 
 
-For more details contact [support@ceda.ac.uk](mailto:support@ceda.ac.uk) or see [http://www.ceda.ac.uk/services/dataSearch/](/services/dataSearch/)
+For more details contact [support@ceda.ac.uk](mailto:support@ceda.ac.uk) or see [http://www.ceda.ac.uk/services/dataSearch/](/no-longer-available)
 
