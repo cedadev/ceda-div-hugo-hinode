@@ -16,7 +16,7 @@ icon: fas circle-info
 My name is Katherine Nutt, I am 17 and I go to Blessed George Napier School in Banbury. I study A Level Biology, Physics and Maths and am also doing an EPQ titled “Why are there so few women in STEM?” After 6th form, I would like to go to university to study Civil Engineering, and I ultimately want to become a chartered engineer.
 
 
-I applied for this work experience placement many months ago when I was still uncertain as to what I would like to study after 6th form. I was really pleased when I got a placement in the [RAL Space](https://www.ralspace.stfc.ac.uk/Pages/home.aspx) department (although I didn’t know what it would involve) as I have a personal interest in space and enjoy maths/statistics. This week I have been in the [Centre for Environmental Data Analysis (CEDA)](http://www.ceda.ac.uk) division and my supervisor was Communications Manager and Data Scientist Poppy Townsend.
+I applied for this work experience placement many months ago when I was still uncertain as to what I would like to study after 6th form. I was really pleased when I got a placement in the [RAL Space](https://www.ralspace.stfc.ac.uk/Pages/home.aspx) department (although I didn’t know what it would involve) as I have a personal interest in space and enjoy maths/statistics. This week I have been in the [Centre for Environmental Data Analysis (CEDA)](/) division and my supervisor was Communications Manager and Data Scientist Poppy Townsend.
 
 
 My first project was to look at the new CEDA website which is under construction at the moment and give some feedback. I had to answer some questions to see if information on the new website was easy to understand/locate and wasn’t missing any sections.
