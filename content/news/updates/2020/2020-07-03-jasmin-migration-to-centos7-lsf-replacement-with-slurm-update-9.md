@@ -19,7 +19,7 @@ This message includes information about the following:
 ##### Details of the update
 
 
-1.  More LOTUS hosts have been migrated to CentOS7 and added to the pool of hosts managed by the new batch scheduler SLURM.  All LOTUS users are expected to use SLURM. The recording and PPT presentation of the first webinar on transitioning from LSF to SLURM are now available at <https://www.ceda.ac.uk/events/transitioning-to-slurm-webinar>  
+1.  More LOTUS hosts have been migrated to CentOS7 and added to the pool of hosts managed by the new batch scheduler SLURM.  All LOTUS users are expected to use SLURM. The recording and PPT presentation of the first webinar on transitioning from LSF to SLURM are now available [here](/events/past/slurm-webinar/)  
 
 
 See SLURM documentation: <https://help.jasmin.ac.uk/category/4889-slurm>  

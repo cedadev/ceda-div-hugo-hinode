@@ -111,7 +111,7 @@ A few of you have asked why JASMIN doesn’t have some form of back up, so we th
 #### Future updates:
 
 
-We will update the status of the situation as it progresses via [Twitter](https://twitter.com/cedanews), our [news channel](https://www.ceda.ac.uk/blog/) and the JASMIN mailing lists. Please check here for further updates. 
+We will update the status of the situation as it progresses via [Twitter](https://twitter.com/cedanews), our [news channel](/news) and the JASMIN mailing lists. Please check here for further updates. 
 
 
 We will keep monitoring the situation and will send another update soon.

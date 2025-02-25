@@ -11,7 +11,7 @@ Dear JASMIN user,
 
 As previously announced, we will be hosting the next JASMIN conference at our host institution, RAL, on the Harwell Campus in Oxfordshire. It will occur over two half days on the afternoon of Wednesday 1st November  and the morning of Thursday 2nd of November 2023.
 
-Call for [Registration is now open](https://www.eventbrite.co.uk/e/jasmin2023-user-conference-tickets-721151001057) and  the conference programme is available [here](https://www.ceda.ac.uk/agenda/jasmin-conference-2023/detail/).  
+Call for [Registration is now open](https://www.eventbrite.co.uk/e/jasmin2023-user-conference-tickets-721151001057) and  the conference programme is available [here](/events/past/jasmin-conference-2023/).  
 
 Within the conference sessions we intend to include a selection of presentations from users that cover the technical perspective on how JASMIN has enabled their research. These will be complemented by some post-conference on-line webinars from users which cover the scientific details of the work that JASMIN enables. **The registration form provides the opportunity to express your interest in contributing either a technical or a scientific focused talk.**  
   

@@ -10,7 +10,7 @@ icon: fas circle-info
 Dear users,
 
 
-Further to our [recent announcement about maintenance periods in May/June 2022](https://www.ceda.ac.uk/blog/jasmin-update-on-forthcoming-maintenance-periods-may-june-2022/), please note the following additional item:
+Further to our recent announcement about maintenance periods in May/June 2022, please note the following additional item:
 
 
 **SLURM Scheduler upgrade, week commencing 16 May 2022**

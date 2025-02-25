@@ -8,15 +8,6 @@ icon: fas circle-info
 ---
 This is the second update about our progress towards updating our infrastructure from RedHat Enterprise Linux 6 (RHEL6) to CentOS7.
 
-
-This was first announced here:   
-<https://www.ceda.ac.uk/blog/migration-of-jasmin-virtual-machines-how-will-this-affect-you/>
-
-
-Further details are provided here:  
-<http://www.jasmin.ac.uk/articles/vm-migration/>
-
-
 There are 2 main strands to this activity:  
 1. Replacing the “JASMIN Analysis Platform” (JAP), the software stack deployed on both the JASMIN “sci” servers and LOTUS.  
 2. Migrating virtual machines (VMs) used for hosting component services of JASMIN and CEDA, plus a small number of project-specific VMs.

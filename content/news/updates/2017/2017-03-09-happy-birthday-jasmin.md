@@ -21,7 +21,7 @@ Already, JASMIN has established its own ‘data gravity’ - the ability of data
 {{< image src="/img/news/2017/2017-03-09-happy-birthday-jasmin/upscale.png"  caption="" class="rounded" >}}The [UPSCALE](http://jasmin.ac.uk/jasmin-users/stories/storge/) project is a great example of how complex science questions were able to be answered via the use of JASMIN; processing time for climate model analysis was reduced from 3 months to merely 24 hours - the size and scale of this project would not have been possible without JASMIN.
 
 
-JASMIN now has over 1200 users from a variety of scientific backgrounds and levels of expertise. Over 100 (mostly doctoral) students register to use JASMIN every year; with around 2000 more registering each year to exploit data via the CEDA download services. A variety of [training](http://www.ceda.ac.uk/training/) courses are provided by the CEDA and JASMIN teams, to help users manage, access and visualise data.
+JASMIN now has over 1200 users from a variety of scientific backgrounds and levels of expertise. Over 100 (mostly doctoral) students register to use JASMIN every year; with around 2000 more registering each year to exploit data via the CEDA download services. A variety of training courses are provided by the CEDA and JASMIN teams, to help users manage, access and visualise data.
 
 
 Over the last five years, JASMIN has enabled a vibrant and dynamic UK research community to do new and exciting science. Significant but exciting challenges lie ahead, as the NERC community’s demand for JASMIN’s data storage and computing continues to grow.

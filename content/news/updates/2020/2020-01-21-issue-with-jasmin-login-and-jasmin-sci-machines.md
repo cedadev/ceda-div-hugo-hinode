@@ -9,7 +9,7 @@ icon: fas circle-info
 
 We are aware of an issue with jasmin-login and jasmin-sci\* machines. We are investigating this and are working to resolve it ASAP.  
   
-We will provide updates via our news channel here: <https://www.ceda.ac.uk/blog/>We apologise for the inevitable inconvenience caused.  
+We will provide updates via our news channel [here](/news): We apologise for the inevitable inconvenience caused.  
 JASMIN team
 
 

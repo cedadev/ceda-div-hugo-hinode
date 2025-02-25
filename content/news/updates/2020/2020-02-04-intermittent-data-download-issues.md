@@ -10,9 +10,6 @@ icon: fas circle-info
 We are still experiencing some intermittent issues with downloading data via [dap.ceda.ac.uk](http://dap.ceda.ac.uk/thredds/catalog.html)
 
 
-For further details about alternative download routes please refer back to the previous news item here: <https://www.ceda.ac.uk/blog/data-downloads-have-conked-out/>
-
-
   
 We are working on a solution for this issue and hope to resolve it soon.
 
