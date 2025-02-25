@@ -185,19 +185,19 @@
     locale = "en-GB"
     github = "https://github.com/cedadev"
     section = "news"
-    [author]
+    [schema.author]
         name = "Matt Pritchard"
-    [logo]
-        url = "img/favicon.png"
+    [schema.logo]
+        url = "img/ceda-logo-whitebg-small.png?source=schema.logo"
         width = 48
         height = 48
-    [image]
-        url = "img/favicon.png"
+    [schema.image]
+        url = "img/ceda-logo-whitebg-small.png?source=schema.image"
         width = 48
         height = 48
 
 [opengraph]
-    images = ["img/favicon.png"]
+    images = ["img/ceda-logo-whitebg-small.png?source=opengraph"]
     locale = "en_GB"
 
 [comments]
