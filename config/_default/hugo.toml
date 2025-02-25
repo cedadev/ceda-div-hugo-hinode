@@ -1,6 +1,6 @@
 title = "Centre for Environmental Data Analysis"
 copyright = "Copyright © 2025 Science and Technology Facilities Council."
-paginate = 9
+pagination.pagerSize = 9
 enableGitInfo = true
 
 # additional settings

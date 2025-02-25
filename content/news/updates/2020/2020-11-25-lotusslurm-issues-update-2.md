@@ -7,7 +7,7 @@ thumbnail:
 icon: fas circle-info
 ---
 
-In the past month, and following the configuration changes to LOTUS over the summer, we have not been able to fully resolve issues around longer queue wait times, despite the mechanisms outlined [here](https://www.ceda.ac.uk/blog/lotusslurm-issues-update/).  
+In the past month, and following the configuration changes to LOTUS over the summer, we have not been able to fully resolve issues around longer queue wait times, despite the mechanisms outlined [here](/news/updates/2020/2020-10-06-lotusslurm-issues-update/).  
   
 While the changes we advertised then were successful in dealing with the known problems, there have been continuing reports of ongoing difficulties. We continue to work on these, but many of them are simply down to load: during this year the LOTUS load has grown so there are more big users and longer wait times.  Disentangling problems which arise from load and those which arise from configuration has been, and continues to be, difficult.  
 

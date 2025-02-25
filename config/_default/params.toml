@@ -143,12 +143,12 @@
         orientation = "horizontal"
         style = "border-1 card-emphasize"
         homepage = 3
-        paginate = 6
+        pagination.pagerSize = 6
         separator = false
     [sections.about]
         title = "Find out more about us"
         layout = "card"
-        paginate = 3
+        pagination.pagerSize = 3
     [sections.services]
         title = "Services we run"
         layout = "list"

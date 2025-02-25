@@ -17,7 +17,7 @@ This message includes information about the following:
   
 Details of the update  
   
-1. LOTUS resources under LSF have been converted over to SLURM. All LOTUS users are expected to use SLURM. For details, please see our webinar and presentation on transitioning from LSF to SLURM: [https://www.ceda.ac.uk/events/transitioning-to-slurm-webinar](https://www.ceda.ac.uk/events/transitioning-to-slurm-webinar/)   
+1. LOTUS resources under LSF have been converted over to SLURM. All LOTUS users are expected to use SLURM. For details, please see our webinar and presentation on transitioning from LSF to SLURM: [webinar](/events/past/slurm-webinar/)   
   
 More information about SLURM is available on our help pages:<https://help.jasmin.ac.uk/category/4889-slurm>  
   

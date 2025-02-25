@@ -15,7 +15,7 @@ ATSR-2 ungridded brightness temperature (UBT) products have been produced and ar
 Preview images and location maps can be viewed through the web site and data can be ordered on-line. ATSR-1 products are still under production and will be available soon. 
 
 
-The ATSR instruments produce infrared images of the earth at 1 kilometre horizontal resolution. For further information see the [ATSR-1/2 Fact Sheet](/index.php?option=displaypage&Itemid=55&op=page&SubMenu=-1).
+The ATSR instruments produce infrared images of the earth at 1 kilometre horizontal resolution. For further information see the [ATSR-1/2 Fact Sheet](/no-longer-available).
 
 
 

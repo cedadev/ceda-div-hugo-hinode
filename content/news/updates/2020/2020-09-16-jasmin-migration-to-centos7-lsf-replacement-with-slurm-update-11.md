@@ -48,9 +48,6 @@ Although the existing hpxfer (high-performance transfer) servers jasmin-xfer[2,3
 **Update on JASMIN software** on CentOS7 hosted on "/apps/contrib/": work is in progress to update and migrate software installed under: "/apps/contrib/". More information will be provided soon.
 
 
-Previous announcements on this topic are detailed here: <https://www.ceda.ac.uk/search/?q=centos7> 
-
-
 Thank you for your attention and please look out for further updates as this work progresses.   
 CEDA and JASMIN Team
 

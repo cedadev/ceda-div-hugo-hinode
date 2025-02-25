@@ -45,7 +45,7 @@ For more information on how to gain access to the JASMIN platform please see:
  
 
 
-[http://www.ceda.ac.uk/help/users-guide/jasmin-cems-access](/help/users-guide/jasmin-cems-access)
+[http://www.ceda.ac.uk/help/users-guide/jasmin-cems-access](/no-longer-available)
 
 
  

@@ -22,7 +22,7 @@ MIDAS Open comprises of hourly and daily weather measurements and observations o
 Though the MIDAS Open data are freely available for all users with a free CEDA user account, we would be delighted to hear more about your use of these data. Knowing about the types of work that these open data support helps us to gather evidence of the impact our data and services have. To tell us more [please fill in our form here](https://goo.gl/forms/oHMKdzKuHWOwgPAk2), it will take less than 10 minutes and will be a great help to us.
 
 
-For more information about the MIDAS Open collection please see our earlier news item [here](https://www.ceda.ac.uk/blog/uk-weather-station-records-now-freely-available-to-all-midas-open/).
+For more information about the MIDAS Open collection please see our earlier news item [here](/news/updates/2019/2019-02-15-uk-weather-station-records-now-freely-available-to-all-midas-open/).
 
 
 Image: Met Office weather station site in the UK. (Courtesy of the Met Office)

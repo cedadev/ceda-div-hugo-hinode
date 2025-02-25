@@ -23,7 +23,7 @@ However, if you use certificate-based gridftp (gsiftp) directly i.e, **not** via
 We are still investigating an issue affecting transfers to and from some file system (particularly affecting transfers made using Globus) and this is still not yet fully resolved.
 
 
-Please also note [the scheduled maintenance day coming up on 2nd March.](https://www.ceda.ac.uk/blog/advance-notice-jasmin-system-maintenance-tues-2-march-2021/)
+Please also note [the scheduled maintenance day coming up on 2nd March.](/news/updates/2021/2021-02-23-advance-notice-jasmin-system-maintenance-tues-2-march-2021.md)
 
 
 JASMIN Team

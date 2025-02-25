@@ -17,7 +17,7 @@ aliases: ['/events/jasmin2017']
 <div class="col-md-9 left">
 <div class="panel panel-primary" id="invitation">
 <div class="panel-heading">
-<h3 class="panel-title">Introduction</h3>
+<h3 class="panel-title" id="introduction">Introduction</h3>
 </div>
 <div class="panel-body">
 <p class="text-justify">The second JASMIN Conference on Advanced Computing for Environmental Science was held at the STFC Rutherford Appleton Laboratory (RAL) on 27th and 28th June 2017, with attendees from universities and research institutions across the UK and further afield.&nbsp; <br /> <br />Selected&nbsp;conference presentations&nbsp;are available to download&nbsp;or watch in video form from the links within the programme below.&nbsp;</p>
@@ -30,7 +30,7 @@ aliases: ['/events/jasmin2017']
 <div class="col-md-12">
 <div class="panel panel-primary">
 <div class="panel-heading">
-<h3 class="panel-title">Conference programme</h3>
+<h3 class="panel-title" id="conference-programme">Conference programme</h3>
 </div>
 <div class="panel-body">
 <p>Conference programme</p>

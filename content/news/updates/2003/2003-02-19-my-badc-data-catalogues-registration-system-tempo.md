@@ -11,10 +11,10 @@ Due to technical difficulties, the following BADC Services are temporarily not a
 * My BADC
 * New user registration and application for access to restricted datasets
 * Search for dataset facility
-As an alternative, please use the Dataset [Dataset Index](/data/dataset_index). 
+As an alternative, please use the Dataset [Dataset Index](/no-longer-available). 
 . Please note that the link to Catalogue Record is however not available due to the same problems.
 * Search for Met Office Station details facility. 
- For the time being, please use the link to [List of Station names and numbers](/data/surface/station_lists/midas_stations.html).
+ For the time being, please use the link to [List of Station names and numbers](/no-longer-available).
 * Who's who facility
 * Access to the following datasets is currently not possible:
 	+ CLAES-L3

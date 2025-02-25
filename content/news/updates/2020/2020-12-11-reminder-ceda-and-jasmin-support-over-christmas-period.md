@@ -11,5 +11,5 @@ A reminder there is a "change freeze" in place from 17:00 today. Requests for ne
   
 Please also note that CEDA and JASMIN services should be considered to be running “at-risk” from 17:00 on Thursday 17th December to Monday 4th January 2021, with little or no helpdesk service available during this period. 
  
-Further details can be found on our [earlier announcement here](https://www.ceda.ac.uk/blog/ceda-and-jasmin-support-over-christmas-period/). 
+Further details can be found on our [earlier announcement here](/news/updates/2020/2020-12-01-ceda-and-jasmin-support-over-christmas-period.md). 
 

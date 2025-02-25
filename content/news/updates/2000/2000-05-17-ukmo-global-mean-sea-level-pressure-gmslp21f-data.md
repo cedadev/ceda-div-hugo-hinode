@@ -20,7 +20,7 @@ More details about this dataset and conditions of access are available at:
 
 
  
-[http://www.badc.rl.ac.uk/data/gmslp/](/data/gmslp/)
+[http://www.badc.rl.ac.uk/data/gmslp/](/no-longer-available)
 
 
  

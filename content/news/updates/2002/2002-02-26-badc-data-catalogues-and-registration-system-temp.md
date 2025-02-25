@@ -13,13 +13,13 @@ Due to database problems,the "Application for access to restricted datasets" sys
 
 
  For the same reason, the BADC Datasets catalogue is also temporarily unavailable. 
-For the time being, please use the link to [List of all datasets](/data/dataset_index) 
+For the time being, please use the link to [List of all datasets](/no-longer-available) 
 in BADC catalogue. Please note that the link to Catalogue Record is not available due to the same problems. 
 
 
 
  The Met Office Station catalogue is also temporarily unavailable. 
- For the time being, please use the link to [List of Station names and numbers](/data/surface/station_lists/midas_stations.html). 
+ For the time being, please use the link to [List of Station names and numbers](/no-longer-available). 
 
 
  

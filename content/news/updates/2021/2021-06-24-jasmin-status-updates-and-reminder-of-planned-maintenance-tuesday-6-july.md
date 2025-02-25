@@ -10,7 +10,7 @@ icon: fas circle-info
 Dear all,
 
 
-See below for an update on various aspects of JASMIN services and dates for your diary. Note that these updates are also available on the website news section: <https://www.ceda.ac.uk/blog/>
+See below for an update on various aspects of JASMIN services and dates for your diary. Note that these updates are also available on the website [news](/news) section.
 
 
 Contents:  
@@ -36,7 +36,7 @@ Much of the new disk storage purchased at the end of last year has now been deli
 
 
 **3) Update on Elastic Tape Service**  
-Since earlier this year, the [Elastic Tape service](https://help.jasmin.ac.uk/article/3842-secondary-copy-using-elastic-tape) has been out of action to most users, for reasons mentioned in our [previous update](https://www.ceda.ac.uk/blog/update-on-jasmin-disk-and-tape-storage-issues/). Extensive testing and reconfiguration of relevant systems has enabled us to invite selected users to test the system with us over the past few weeks, which has been successful.
+Since earlier this year, the Elastic Tape service has been out of action to most users. Extensive testing and reconfiguration of relevant systems has enabled us to invite selected users to test the system with us over the past few weeks, which has been successful.
 
 
 Meanwhile, essential updates to the system to work with an updated operating system are also being applied, requiring further testing, which has also now completed successfully. We are taking this opportunity to apply this update before the return to service to avoid the need for further interruptions in the near future. If all goes as planned, we anticipate that the Elastic Tape service (including command line clients and use via [JDMA](https://help.jasmin.ac.uk/article/4698-jdma)) **should be generally available again from Wednesday 7th July 2021, the day after the planned maintenance mentioned above.** Please look out for further announcements and accept our sincere apologies for the unavailability of this service for what we appreciate has been a significant time.

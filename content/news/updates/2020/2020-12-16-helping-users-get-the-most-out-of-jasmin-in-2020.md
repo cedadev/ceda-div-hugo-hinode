@@ -43,7 +43,7 @@ As JASMIN’s demand continues to grow we will endeavour to continue improving a
 
 
 
-All of the work in this article is covered in more detail in our latest Annual Report (19-20), [find it here.](https://www.ceda.ac.uk/about/highlights/) 
+All of the work in this article is covered in more detail in our latest Annual Report (19-20), [find it here.](/about/mission/) 
 
 
 

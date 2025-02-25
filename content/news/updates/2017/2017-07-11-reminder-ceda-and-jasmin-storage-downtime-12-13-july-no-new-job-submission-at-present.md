@@ -33,7 +33,7 @@ The work is NOT expected to affect tenancies in the JASMIN Unmanaged Cloud, or o
  
 
 
-Please see our earlier news posting for further details: <http://www.ceda.ac.uk/blog/advance-notice-ceda-archive-and-jasmin-storage-downtime-12-13th-july/>
+Please see our [earlier news posting](/news/updates/2017/2017-07-11-reminder-ceda-and-jasmin-storage-downtime-12-13-july-no-new-job-submission-at-present.md) for further details:
 
 
  

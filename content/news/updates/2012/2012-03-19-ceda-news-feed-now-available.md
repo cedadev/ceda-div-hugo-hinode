@@ -12,7 +12,7 @@ The Centre for Environmental Data Archival (CEDA) runs both the British Atmosphe
 To improve CEDA's delivery of news relevant to our user community and recognising the increasing cross-over between the BADC and NEODC user communities CEDA has now combined the seperate news feeds for the BADC and NEODC. 
 
 
-Users are invited to sign up to this new CEDA News feed, available both as [RSS](/blog/feeds/rss/ "Link to CEDA RSS feed") and [ATOM](/blog/feeds/atom/ "Link to CEDA Atom Feed") feeds, where they will receive timely news items announcing:
+Users are invited to sign up to this new CEDA News feed, available both as [RSS](/no-longer-available "Link to CEDA RSS feed") and [ATOM](/no-longer-available "Link to CEDA Atom Feed") feeds, where they will receive timely news items announcing:
 
 
 

@@ -31,7 +31,7 @@ BACI is funded through the European Union's Horizon 2020 research and innovation
 
 ## JASMIN
 
-JASMIN is managed jointly by RAL Space's Centre for Environmental Data Analysis and the Scientific Computing Department for STFC on behalf of NERC.  Find out more about CEDA and how to access the data here: <http://www.ceda.ac.uk/> 
+JASMIN is managed jointly by RAL Space's Centre for Environmental Data Analysis and the Scientific Computing Department for STFC on behalf of NERC.  Find out more about CEDA and how to access the data [here](/)  
 
 ## ​Bringing space down to Earth
 

@@ -16,7 +16,7 @@ Please note the current/upcoming maintenance work affecting JASMIN:
 
 
 1. **This week: SLURM scheduler upgrade in progress**  
-LOTUS batch processing cluster unavailable for most of this week (see [previous notice](https://www.ceda.ac.uk/blog/jasmin-update-on-slurm-scheduler-upgrade-starts-friday-13th-may-2022/))
+LOTUS batch processing cluster unavailable for most of this week
 
 
 

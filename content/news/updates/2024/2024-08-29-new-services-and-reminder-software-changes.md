@@ -14,7 +14,7 @@ Details of the new Rocky 9 environment are
 {{<link "https://help.jasmin.ac.uk/docs/software-on-jasmin/rocky9-migration-2024/#details-of-the-new-rocky-linux-9-environment" >}}now available here{{</link>}}.
 
 Users are now encouraged to start using the new
-`login`, `sci`, `xfer`, `hpxfer` servers as listed in that document, and to feed back any problems experienced in using these to the [JASMIN Helpdesk](support@jasmin.ac.uk).
+`login`, `sci`, `xfer`, `hpxfer` servers as listed in that document, and to feed back any problems experienced in using these to the [JASMIN Helpdesk](mailto:support@jasmin.ac.uk).
 
 Further updates on the new environment will be provided there as they emerge.
 

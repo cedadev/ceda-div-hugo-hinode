@@ -9,15 +9,6 @@ icon: fas circle-info
 
 **This is the third update about migrating the JASMIN infrastructure from RedHat Enterprise Linux 6 (RHEL6) to CentOS7.**
 
-
-The previous two announcements are linked here:  
-[1st update](https://www.ceda.ac.uk/blog/migration-of-jasmin-virtual-machines-how-will-this-affect-you/) (Posted: 01/10/2019)    
-[2nd update](https://www.ceda.ac.uk/blog/jasmin-migration-to-centos7-update-2/) (Posted: 28/10/2019) 
-
-
-Further details can be found [here](http://www.jasmin.ac.uk/articles/vm-migration/).
-
-
 **There are 2 main strands to this activity:**
 
 

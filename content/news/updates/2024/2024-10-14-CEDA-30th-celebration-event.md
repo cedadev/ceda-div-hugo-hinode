@@ -2,7 +2,7 @@
 title: 30 years of CEDA! Come celebrate with us and learn about what we do!
 date: 2024-10-14 14:30:00
 tags: ['news', 'ceda']
-thumbnail: /../../assets/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event.png
+thumbnail: img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event.png
 icon: fa-solid fa-cake-candles text-success
 ---
 

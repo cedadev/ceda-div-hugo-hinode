@@ -22,7 +22,7 @@ The new host for this service will operate at the same name ftp.ceda.ac.uk, but 
 We have been aware for a while of an issue affecting transfers to and from some file system (particularly affecting transfers made using Globus) but this is still under investigation. Please look out for further announcements about this and replacement of the remaining high-performance data transfer servers.
 
 
-Please also note [the scheduled maintenance day coming up on 2nd March.](https://www.ceda.ac.uk/blog/advance-notice-jasmin-system-maintenance-tues-2-march-2021/)
+Please also note [the scheduled maintenance day coming up on 2nd March.](/news/updates/2021/2021-02-23-advance-notice-jasmin-system-maintenance-tues-2-march-2021.md)
 
 
 JASMIN Team

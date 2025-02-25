@@ -11,7 +11,7 @@ Dear JASMIN user,
 
 We will be hosting a webinar on Thursday 8th of June 2023 at 2pm about “NVIDIA HPC, AI and Data Science – making the most of your GPUs: Best Practices, Tools and Resources for Researchers”. This webinar will look at the best practices, tools and frameworks available which can help researchers quickly utilise the full abilities of the GPU hardware, even if they are GPU novices.
 
-This is part of our activities around the new GPU Orchid resources on JASMIN which were announced during the last [GPU webinar 31st January](https://www.ceda.ac.uk/events/gpu-webinar/)
+This is part of our activities around the new GPU Orchid resources on JASMIN which were announced during the last [GPU webinar 31st January](/events/past/jasmin-orchid-webinar/)
 
 The webinar is open to all JASMIN users, but will be of particular interest to those embarking on research involving machine learning techniques, or who have been seeking GPU resources for use in their work.
 

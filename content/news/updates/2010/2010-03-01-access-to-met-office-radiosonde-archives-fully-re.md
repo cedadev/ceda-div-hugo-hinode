@@ -24,7 +24,7 @@ and about the Met Office UK High-resolution radiosonde data at:
 
 
  
-[http://badc.nerc.ac.uk/data/ukmo-rad-hires/](/data/ukmo-rad-hires/)
+http://badc.nerc.ac.uk/data/ukmo-rad-hires/
 
 
  

@@ -38,7 +38,7 @@ Dear JASMIN users,
 
 
 
-6. SLURM update: As previously mentioned <https://www.ceda.ac.uk/blog/lotusslurm-issues-update/>,  we have now added more compute resources to LOTUS and redistributed them among specific SLURM scheduling queues. We continue to adjust the fair-share configuration of SLURM. It could take 2-3 weeks to have the desired effect on the overall jobs throughput. It is also anticipated that the SLURM scheduling queues will be restructured and a policy of resource usage and share between communities will be devised.   
+6. SLURM update: We have now added more compute resources to LOTUS and redistributed them among specific SLURM scheduling queues. We continue to adjust the fair-share configuration of SLURM. It could take 2-3 weeks to have the desired effect on the overall jobs throughput. It is also anticipated that the SLURM scheduling queues will be restructured and a policy of resource usage and share between communities will be devised.   
   
 
 

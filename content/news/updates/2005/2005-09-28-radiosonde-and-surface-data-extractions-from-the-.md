@@ -18,7 +18,7 @@ and we are also not able to provide a Data on Request service for Met Office Lan
   We are actively working at restoring our remote access to the Met Office archives but we cannot say how long the process will take.
 
 
-  If you need the data in earnest, then we advise you to contact the [Met Office Customer Centre](/reg/ukmo_contact.html) directly.
+  If you need the data in earnest, then we advise you to contact the [Met Office Customer Centre](/no-longer-available) directly.
 
 
  A News item will be displayed on the BADC website as soon as we will be able to resume data extractions.

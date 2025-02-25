@@ -9,7 +9,7 @@ icon: fas circle-info
 
 We are aware that performance issues on JASMIN are still causing issues for users. Please be assured that we are doing our best to address these issues in different ways behind the scenes.   
   
-A further news item with more information about this will be posted next week. In the meantime, please remember to follow the guidance sent in our previous news items ([here](https://www.ceda.ac.uk/blog/performance-issues-on-jasmin-3rd-march/) and [here](https://www.ceda.ac.uk/blog/performance-issues-on-jasmin/)).   
+A further news item with more information about this will be posted next week. In the meantime, please remember to follow the guidance sent in our previous news items ([here](/news/updates/2020/2020-03-03-performance-issues-on-jasmin-3rd-march.md) and [here](/news/updates/2020/2020-02-26-performance-issues-on-jasmin.md)).   
   
 Thank you in advance for your cooperation and understanding,  
 JASMIN team

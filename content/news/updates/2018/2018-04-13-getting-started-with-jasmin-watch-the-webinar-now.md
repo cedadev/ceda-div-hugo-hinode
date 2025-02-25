@@ -35,7 +35,7 @@ September = Supporting Instrument Scientists
 December = Give us your data: how to prepare your research for the CEDA archive
 
 
-However, if there is another topic that you would be interested in us covering then please let us know via the [CEDA helpdesk](mailto:support@ceda.ac.uk "Contact the CEDA helpdesk"). Further details for future webinars will be published on our social media channels and [training section](http://www.ceda.ac.uk/training/webinars/ "training section") of the CEDA website. 
+However, if there is another topic that you would be interested in us covering then please let us know via the [CEDA helpdesk](mailto:support@ceda.ac.uk "Contact the CEDA helpdesk"). Further details for future webinars will be published on our social media channels and [events section](/events/ "events section") of the CEDA website. 
 
 
   
