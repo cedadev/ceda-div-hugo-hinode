@@ -9,7 +9,7 @@ icon: fas triangle-exclamation text-danger
 
 Dear Users,
 
-As per our [previous announcements](https://www.ceda.ac.uk/blog/advance-notice-of-jasmin-power-maintenance-autumn-2023/), essential work will be taking place this Autumn in the data centre (machine room) where JASMIN is hosted to carry out safety checks and 5-yearly recertification of power supply equipment.
+As per our [previous announcements](/news/updates/2023/2023-07-25-advance-notice-of-jasmin-power-maintenance-autumn-2023), essential work will be taking place this Autumn in the data centre (machine room) where JASMIN is hosted to carry out safety checks and 5-yearly recertification of power supply equipment.
 
 All options have been explored by STFC (JASMIN’s host organisation) to minimise the possible impact on users, but despite this, **it is likely that JASMIN will be unavailable for a period of up to 2 weeks**, hence this early warning. This would affect **ALL CEDA and JASMIN services**, including:
 

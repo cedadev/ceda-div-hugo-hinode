@@ -10,7 +10,7 @@ icon: fas circle-info
 Dear all,
 
 
-As anticipated in our recent update, a software [update](https://www.ceda.ac.uk/blog/update-on-jasmin-disk-and-tape-storage-issues/) is now available which should address the remaining disk storage issue mentioned in earlier announcements. This update is already being rolled out across the JASMIN platform but will require a reboot of most JASMIN and CEDA servers in order to take effect.
+As anticipated in our recent update, a software [update](/news/updates/2021/2021-04-30-update-on-jasmin-disk-and-tape-storage-issues.md) is now available which should address the remaining disk storage issue mentioned in earlier announcements. This update is already being rolled out across the JASMIN platform but will require a reboot of most JASMIN and CEDA servers in order to take effect.
 
 
 Users should be aware that JASMIN login, sci, transfer and other servers will all be affected by this which will cause sessions to be interrupted and may affect the running of other JASMIN- and CEDA-hosted services.

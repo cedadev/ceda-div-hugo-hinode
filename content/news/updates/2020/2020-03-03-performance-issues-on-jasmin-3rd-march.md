@@ -7,9 +7,9 @@ thumbnail:
 icon: fas circle-info
 ---
 
-We are aware of some performance issues on JASMIN. We are currently investigating these issues and will provide updates via our news channel [here](https://www.ceda.ac.uk/blog/).   
+We are aware of some performance issues on JASMIN. We are currently investigating these issues and will provide updates via our news channel [here](/news).   
   
-Please can we take this opportunity to remind you to familiarise yourself about best practice on using JASMIN (as previously shared in an email on 26th Feb and in a news item [here](https://www.ceda.ac.uk/blog/performance-issues-on-jasmin/)).   
+Please can we take this opportunity to remind you to familiarise yourself about best practice on using JASMIN (as previously shared in an email on 26th Feb and in a news item [here](/news/updates/2020/2020-02-26-performance-issues-on-jasmin/)).   
   
 Best wishes,   
 JASMIN team
