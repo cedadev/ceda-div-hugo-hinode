@@ -18,7 +18,7 @@ The density of the station network used varies through time, and for different c
 Details of the particular improvements in v1.0.2.1 over previous versions are available on the assocaited CEDA data catalogue records and within summary change log files now available in the archive alongside the data.
 
 
-The primary purpose of these data are to facilitate monitoring of UK climate and research into climate change, impacts and adaptation. Data can be [accessed here](http://catalogue.ceda.ac.uk/uuid/4dc8450d889a491ebb20e724debe2dfb) and more information can be found on the [Met Office website](https://www.metoffice.gov.uk/climate/uk/data/haduk-grid/haduk-grid). More information about why these data are of particular use is available on the [original news item](https://www.ceda.ac.uk/blog/new-dataset-launched-haduk-grid/) when these data were first release in 2018.   
+The primary purpose of these data are to facilitate monitoring of UK climate and research into climate change, impacts and adaptation. Data can be [accessed here](http://catalogue.ceda.ac.uk/uuid/4dc8450d889a491ebb20e724debe2dfb) and more information can be found on the [Met Office website](https://www.metoffice.gov.uk/climate/uk/data/haduk-grid/haduk-grid). More information about why these data are of particular use is available on the [original news item](/blog/new-dataset-launched-haduk-grid/) when these data were first release in 2018.   
 
 
 
