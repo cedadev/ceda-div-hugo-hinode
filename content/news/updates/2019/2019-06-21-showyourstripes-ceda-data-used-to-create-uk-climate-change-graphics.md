@@ -35,7 +35,7 @@ Ed hopes that the #ShowYourStripes campaign will encourage people to have conver
 Why not share your thoughts about your local ‘stripes’ with your friends/family/colleagues/neighbours/strangers on the bus - and don’t forget to share on Twitter using #ShowYourStripes.  
 
 
-You can find out more about the HadUK-Grid dataset held on the CEDA Archive [here](http://www.ceda.ac.uk/blog/new-dataset-launched-haduk-grid/).
+You can find out more about the HadUK-Grid dataset held on the CEDA Archive [here](/news/updates/2018/2018-12-17-new-dataset-launched-haduk-grid/).
 
 
 {{< image src="/img/news/2019/2019-06-21-showyourstripes-ceda-data-used-to-create-uk-climate-change-graphics/_stripes_europe-united_kingdom-oxford-1814-2018-mo.png"  caption="warming stripes for Oxford from 1814-2018." class="rounded" >}}

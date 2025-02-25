@@ -7,7 +7,7 @@ thumbnail:
 icon: fas circle-info
 ---
 
-At the beginning of the Covid-19 pandemic, we [announced](https://www.ceda.ac.uk/blog/category/coronavirus-updates/) that all of our services should be considered at risk. Thankfully, our services have run largely as normal throughout the pandemic, but 10 months on, unfortunately, this ‘at risk’ status still stands. See below for details about how we anticipate it will continue to affect us and you.
+At the beginning of the Covid-19 pandemic, we [announced](/news/updates/2020/2020-03-24-covid-19-lockdown-impact-on-ceda-and-jasmin-operations/) that all of our services should be considered at risk. Thankfully, our services have run largely as normal throughout the pandemic, but 10 months on, unfortunately, this ‘at risk’ status still stands. See below for details about how we anticipate it will continue to affect us and you.
 
 
 ##### Services at risk due to small team

@@ -17,6 +17,6 @@ The aim of this event is to provide an update to users about the current service
 
 
 
-Please save the dates in your calendars. Further details will be [added here soon](https://www.ceda.ac.uk/agenda/jasmin2020-virtual-event/). 
+Please save the dates in your calendars. Further details will be [added here soon](/events/past/jasmin-virtual-event2020/). 
 
 

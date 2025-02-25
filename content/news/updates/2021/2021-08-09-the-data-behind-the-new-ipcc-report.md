@@ -17,7 +17,7 @@ Openly sharing data ensures a greater level of reproducibility in science. Key c
   
 In addition to archiving figure data for the report. CEDA have also contributed through archival of important input climate data, like [CMIP6](https://catalogue.ceda.ac.uk/uuid/b96ce180077f4810abc4eef0e48901d9), and by providing analysis capabilities through [JASMIN](https://jasmin.ac.uk/) - both proving to be important resources for research feeding into the IPCC assessment report.   
   
-CEDA helped to [improve access to the climate projection data](https://www.ceda.ac.uk/blog/ceda-services-improve-access-to-global-climate-data/) behind the report by undertaking quality control work and developing a data subsetter tool - making complex climate data more accessible for users outside of the core climate community, by making it easier to get at the data they need.   
+CEDA helped to [improve access to the climate projection data](/news/updates/2021/2021-04-22-ceda-services-improve-access-to-global-climate-data/) behind the report by undertaking quality control work and developing a data subsetter tool - making complex climate data more accessible for users outside of the core climate community, by making it easier to get at the data they need.   
   
 The work that CEDA, and partners, do is essential to continue to simplify and improve access to these important datasets.   
   
