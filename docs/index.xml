@@ -1,4 +1,142 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on Centre for Environmental Data Analysis</title><link>https://www.ceda.ac.uk/docs/</link><description>Recent content in Docs on Centre for Environmental Data Analysis</description><generator>Hugo</generator><language>en</language><copyright>Copyright © 2025 Science and Technology Facilities Council.</copyright><atom:link href="https://www.ceda.ac.uk/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Sample doc</title><link>https://www.ceda.ac.uk/docs/sample-doc/</link><pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/docs/sample-doc/</guid><description>First heading &amp;nbsp; Vivamus iaculis metus sed magna porta tincidunt. Aliquam molestie eget orci eu elementum. Integer pellentesque dolor sit amet suscipit maximus.</description></item><item><title>Creating a Github Codespace</title><link>https://www.ceda.ac.uk/docs/editing-this-site/creating-a-codespace/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/docs/editing-this-site/creating-a-codespace/</guid><description>Setting up your Codespace &amp;nbsp; Download and install Visual Studio Code&amp;nbsp; if you haven&amp;rsquo;t already
-Visit the Github page for the ceda site&amp;nbsp; (note: this also works for any public directory) Make sure you&amp;rsquo;re logged into Github</description></item><item><title>Editing a news item</title><link>https://www.ceda.ac.uk/docs/editing-this-site/editing-a-news-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/docs/editing-this-site/editing-a-news-item/</guid><description>Introduction &amp;nbsp; Some intro text here.
-Authors &amp;nbsp; This is how it works for authors.
-Editors &amp;nbsp; This is how it works for editors.</description></item><item><title>Editing guide</title><link>https://www.ceda.ac.uk/docs/editing-this-site/editing-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/docs/editing-this-site/editing-guide/</guid><description>Introduction &amp;nbsp; This site is built with a the Hugo&amp;nbsp; static site builder using the Hinode theme&amp;nbsp; , with styling customised for CEDA.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Docs on Centre for Environmental Data Analysis</title><link>https://www.ceda.ac.uk/docs/</link><description>Recent content in Docs on Centre for Environmental Data Analysis</description><generator>Hugo</generator><language>en</language><copyright>Copyright © 2025 Science and Technology Facilities Council.</copyright><atom:link href="https://www.ceda.ac.uk/docs/index.xml" rel="self" type="application/rss+xml"/><item><title>Sample doc</title><link>https://www.ceda.ac.uk/docs/sample-doc/</link><pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/docs/sample-doc/</guid><description>&lt;h2 id="first-heading" class="heading">First heading&lt;a href="#first-heading" aria-labelledby="first-heading">
+&lt;!-- &lt;i class="fas fa-link anchor">&lt;/i> -->
+ &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 640 512">&lt;use href="#fas-link">&lt;/use>&lt;/svg>&amp;nbsp;
+ &lt;/a>
+&lt;/h2>
+&lt;p>Vivamus iaculis metus sed magna porta tincidunt. Aliquam molestie eget orci eu elementum. Integer pellentesque dolor sit amet suscipit maximus. Duis consequat, massa vitae volutpat rhoncus, erat augue venenatis velit, a auctor leo nulla nec turpis. Nunc ut libero sapien. Vivamus aliquam ultrices vestibulum. Sed sit amet vestibulum dolor, ut vehicula diam. Sed felis purus, feugiat vitae vulputate quis, sodales vitae dui. Pellentesque volutpat fringilla sapien varius condimentum. Integer odio massa, pharetra at bibendum vitae, aliquam nec erat.&lt;/p></description></item><item><title>Creating a Github Codespace</title><link>https://www.ceda.ac.uk/docs/editing-this-site/creating-a-codespace/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/docs/editing-this-site/creating-a-codespace/</guid><description>&lt;h2 id="setting-up-your-codespace" class="heading">Setting up your Codespace&lt;a href="#setting-up-your-codespace" aria-labelledby="setting-up-your-codespace">
+&lt;!-- &lt;i class="fas fa-link anchor">&lt;/i> -->
+ &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 640 512">&lt;use href="#fas-link">&lt;/use>&lt;/svg>&amp;nbsp;
+ &lt;/a>
+&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>Download and install 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+&lt;a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer nofollow">Visual Studio Code&amp;nbsp;
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&lt;/a> if you haven&amp;rsquo;t already&lt;/p></description></item><item><title>Editing a news item</title><link>https://www.ceda.ac.uk/docs/editing-this-site/editing-a-news-item/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/docs/editing-this-site/editing-a-news-item/</guid><description>&lt;h2 id="introduction" class="heading">Introduction&lt;a href="#introduction" aria-labelledby="introduction">
+&lt;!-- &lt;i class="fas fa-link anchor">&lt;/i> -->
+ &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 640 512">&lt;use href="#fas-link">&lt;/use>&lt;/svg>&amp;nbsp;
+ &lt;/a>
+&lt;/h2>
+&lt;p>Some intro text here.&lt;/p>
+
+
+
+
+&lt;h3 id="authors" class="heading">Authors&lt;a href="#authors" aria-labelledby="authors">
+&lt;!-- &lt;i class="fas fa-link anchor">&lt;/i> -->
+ &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 640 512">&lt;use href="#fas-link">&lt;/use>&lt;/svg>&amp;nbsp;
+ &lt;/a>
+&lt;/h3>
+&lt;p>This is how it works for authors.&lt;/p></description></item><item><title>Editing guide</title><link>https://www.ceda.ac.uk/docs/editing-this-site/editing-guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/docs/editing-this-site/editing-guide/</guid><description>&lt;h2 id="introduction" class="heading">Introduction&lt;a href="#introduction" aria-labelledby="introduction">
+&lt;!-- &lt;i class="fas fa-link anchor">&lt;/i> -->
+ &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 640 512">&lt;use href="#fas-link">&lt;/use>&lt;/svg>&amp;nbsp;
+ &lt;/a>
+&lt;/h2>
+&lt;p>This site is built with a the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+&lt;a href="https://gohugo.io" target="_blank" rel="noopener noreferrer nofollow">Hugo&amp;nbsp;
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&lt;/a> static site builder using the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+&lt;a href="https://gethinode.com/docs" target="_blank" rel="noopener noreferrer nofollow">Hinode theme&amp;nbsp;
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&lt;/a>,
+with styling customised for CEDA. This guide covers how to edit and update the various sections of the site.&lt;/p></description></item></channel></rss>
