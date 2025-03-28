@@ -1,38 +1,32 @@
 ---
-categories:
-  - ceda
-  - jasmin
 date: 2025-06-10
-tags: ["news", "jasmin"]
-title: JASMIN Conference 2025
-icon: fas people-group
-description: Attendees are invited to Rutherford Appleton Laboratory to hear the latest updates on JASMIN and share user highlights.
-aliases: 
-- /agenda/jasmin-conference-2025/detail/
+tags: ["events", "jasmin"]
+title: JASMIN User Conference 2025
+icon: fas people-group text-success
+description: Come and join us in June to hear the latest updates on JASMIN and share user highlights.
 ---
 
-We will be hosting the next JASMIN conference at our host institute on the Harwell Campus in Oxfordshire. It will occur over two days on Tuesday 10th and Wednesday 11th June 2025.
+Join us for the JASMIN user conference at RAL on the Harwell Campus in Oxfordshire on **Tuesday 10th and Wednesday 11th June 2025**.
 
 <!-- Intro to be updated for 2025 -->
-It’s been a long time since we last ran an in-person conference. Lots has changed with JASMIN and within the user community since then. Now is the perfect time to get everyone together again, share recent experiences, updates and changes, whilst strengthening the user community and discussing the future.
 
 The purpose of the conference is to:
 
+- Share important updates from the JASMIN team about current services and developments
 - Strengthen the community and enable sharing of experience and expertise
+- Get feedback from users and provide an opportunity for discussion
 
-- Get some feedback from users and provide an opportunity to discuss the feedback
-
-- Discuss the question: where does the community want us to go in the future?
-
-In previous years, the JASMIN user conference has been a 1 or 2 day event - usually in person, at the Harwell Campus. It has consisted of a mixture of science talks from users, update presentations from the JASMIN team, breakout discussions and networking time.
-
-If you are interested in hearing more about how JASMIN can support your research, then this is a great opportunity to learn more, meet the team and other members of the user community.
+Over 2 days there will be a mixture of talks from user projects and from the JASMIN team, discussions,  networking time and opportunities to learn about new services.
 
 <!-- Some of the user highlight talks you can expect are shown below: -->
 
-The list of speakers is TBC.
+## Registration
+
+The event will be open to registered attendees only: **watch this space** for registration details in due course.
 
 ## Programme
+
+The programme is still being prepared, but will be posted here in due course: watch this space!
 
 See also {{< link "#venue" />}}, below.
 
@@ -51,7 +45,7 @@ Schedule is TBC.
 ## Venue
 
 <!-- Could we replace with a better map? -->
-See {{< link "https://www.ukri.org/wp-content/uploads/2023/07/STFC-070723-RutherfordAppletonLaboratoryCampusConferenceRoomsMap.pdf" >}}RAL Campus Map of conference rooms{{< /link >}}
-
-- **R112** is the building housing the RAL **Visitor Centre** which is where the conference will take place
-- There will be signs posted around site to help you!
+- {{<link "https://www.ukri.org/who-we-are/stfc/facilities/rutherford-appleton-laboratory/how-to-get-to-rutherford-appleton-laboratory/">}}How to get to RAL on the Harwell Campus{{</link>}}
+- {{< link "https://www.ukri.org/wp-content/uploads/2023/07/STFC-070723-RutherfordAppletonLaboratoryCampusMap.pdf" >}}RAL Campus Map{{< /link >}}
+  - The conference will take place in the **RAL Visitors Centre, building R112**
+  - There will be signs posted around site to help you!
