@@ -1,6 +1,6 @@
 [main]
     separator = "-"
-    description = "The Centre for Environmental Data Analysis serves the environmental science community by. the provision of data centres, data analysis & access, and research project participation."
+    description = "The Centre for Environmental Data Analysis serves the environmental science community by the provision of data centres, data analysis & access, and research project participation."
     enableDarkMode = true
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
