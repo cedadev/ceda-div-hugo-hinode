@@ -14,12 +14,6 @@ For any general enquiries and issues email: **support@ceda.ac.uk**
 
 For JASMIN related issues please email: **support@jasmin.ac.uk**
 
-#### Phone
-
-**01235 446432**
-
-(Please note the most reliable method to contact us is via email, as the phone is not fully supported)
-
 #### Post
 
 Centre for Environmental Data Analysis
@@ -35,7 +29,3 @@ Harwell Campus
 Didcot
 
 OX11 0QX
-
-#### Twitter / X
-
-{{< link href="https://twitter.com/cedanews" >}} ##### Check out CEDA on Twitter {{< /link >}}
