@@ -10308,7 +10308,7 @@ function initIndex() {
         description: "Here we have all the ways you can get in touch, email is our preferred method of communication",
         
         
-        content: "The best way to contact us is via email, if you aren\u0026rsquo;t sure which email is correct then use support@ceda.ac.uk and we can direct you to the right place. We aim to respond to all queries within 2 working days.\nWe also have extensive documention and guides for how to use all of our services\u0026nbsp; Email \u0026nbsp; For any general enquiries and issues email: support@ceda.ac.uk\nFor JASMIN related issues please email: support@jasmin.ac.uk\nPhone \u0026nbsp; 01235 446432\n(Please note the most reliable method to contact us is via email, as the phone is not fully supported)\nPost \u0026nbsp; Centre for Environmental Data Analysis\nScience \u0026amp; Technology Facilities Council\nR26, F40-F43, Atlas Building\nRutherford Appleton Laboratory\nHarwell Campus\nDidcot\nOX11 0QX\nTwitter / X \u0026nbsp; Check out CEDA on Twitter \u0026nbsp; \u0026nbsp;"
+        content: "The best way to contact us is via email, if you aren\u0026rsquo;t sure which email is correct then use support@ceda.ac.uk and we can direct you to the right place. We aim to respond to all queries within 2 working days.\nWe also have extensive documention and guides for how to use all of our services\u0026nbsp; Email \u0026nbsp; For any general enquiries and issues email: support@ceda.ac.uk\nFor JASMIN related issues please email: support@jasmin.ac.uk\nPost \u0026nbsp; Centre for Environmental Data Analysis\nScience \u0026amp; Technology Facilities Council\nR26, F40-F43, Atlas Building\nRutherford Appleton Laboratory\nHarwell Campus\nDidcot\nOX11 0QX"
       })
       .add(
       
