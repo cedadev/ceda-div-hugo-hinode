@@ -20,8 +20,18 @@ Please note the following updates for your attention:
 3. As previously announced, scheduled maintenance is also planned for **Tuesday 29 April 2025**, which will cause some disruption to all JASMIN and CEDA services. Systems will be at risk and may be unavailable for all or part of the day. Other system work is also scheduled for this date in order to minimise disruption.
 The LOTUS2 batch processing clusters will be unavailable for the duration of work on the day. To avoid running jobs being adversely affected, a reservation will start at 05:00 on the day, so any job submitted before that with a run time that goes over the reservation period will not start until after the reservation has finished.
 
-4. There will be changes to the scheduler policies for the `standard` (on Tues 29 April) and `highres` partitions (on or soon after that date). Advice and further updates will follow in due course.
+4. There will be changes to the scheduler policies for the `standard` and `highres` partitions on **Tuesday 29 April**.  Read below for advice on how to mitigate impacts
+For high memory and high core jobs up to 1TB and 96 cores per job, respectively, please use the new `--qos=high` with the standard partition.  See the limits below:
 
-Please continue to check the {{<link "ceda_status">}}status page{{</link>}} for detail on particular issues.
+- QoS: high
+- mem-per-job-max: 1TB
+- cpu-per-job-max: 96
+- total-mem-per-user: 2.5 TB
+- total-cpu-per-user: 288 cores
+- maxtime: 48 hours
+
+The `highres` partition will be closed - any job in pending or running state on the "highres" partition will progress until completion. 
+
+Please continue to check the {{<link "ceda_status">}}status page{{</link>}} for details on particular issues.
 
 Thank you for your attention and best wishes from the CEDA and JASMIN teams.
