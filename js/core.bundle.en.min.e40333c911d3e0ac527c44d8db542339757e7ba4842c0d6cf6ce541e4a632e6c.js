@@ -14220,10 +14220,10 @@ function initIndex() {
         tag: "en",
         href: "/events/jasmin-conference-2025/",
         title: "JASMIN User Conference 2025",
-        description: "Come and join us in June to hear the latest updates on JASMIN and share user highlights.",
+        description: "DATES UPDATED - Come and join us to hear the latest updates on JASMIN and share user highlights.",
         
         
-        content: "Join us for the JASMIN user conference at RAL on the Harwell Campus in Oxfordshire on Tuesday 10th and Wednesday 11th June 2025.\nThe purpose of the conference is to:\nShare important updates from the JASMIN team about current services and developments Strengthen the community and enable sharing of experience and expertise Get feedback from users and provide an opportunity for discussion Over 2 days there will be a mixture of talks from user projects and from the JASMIN team, discussions, networking time and opportunities to learn about new services.\nRegistration \u0026nbsp; The event will be open to registered attendees only: watch this space for registration details in due course.\nProgramme \u0026nbsp; The programme is still being prepared, but will be posted here in due course: watch this space!\nSee also venue, below.\nDay 1 Tuesday 10th June \u0026nbsp; Schedule is TBC.\nDay 2 Wednesday 11th June \u0026nbsp; Schedule is TBC.\nVenue \u0026nbsp; How to get to RAL on the Harwell Campus\u0026nbsp; RAL Campus Map\u0026nbsp; The conference will take place in the RAL Visitors Centre, building R112 There will be signs posted around site to help you!"
+        content: "\u0026nbsp; IMPORTANT - Please note change of dates Join us for the JASMIN user conference at RAL on the Harwell Campus in Oxfordshire on Wednesday 1st \u0026amp; Thursday 2nd October 2025.\nThe purpose of the conference is to:\nShare important updates from the JASMIN team about current services and developments Strengthen the community and enable sharing of experience and expertise Get feedback from users and provide an opportunity for discussion Over 2 days there will be a mixture of talks from user projects and from the JASMIN team, discussions, networking time and opportunities to learn about new services.\nRegistration \u0026nbsp; The event will be open to registered attendees only: watch this space for registration details in due course.\nProgramme \u0026nbsp; The programme is still being prepared, but will be posted here in due course: watch this space!\nSee also venue, below.\nDay 1 Wednesday 1st October \u0026nbsp; Schedule is TBC.\nDay 2 Thursday 2nd October \u0026nbsp; Schedule is TBC.\nVenue \u0026nbsp; How to get to RAL on the Harwell Campus\u0026nbsp; RAL Campus Map\u0026nbsp; The conference will take place in the RAL Visitors Centre, building R112 There will be signs posted around site to help you!"
       })
       .add(
       
@@ -14235,10 +14235,10 @@ function initIndex() {
         tag: "en",
         href: "/news/updates/2025/2025-03-28-jasmin-user-conference-2025-save-the-dates/",
         title: "JASMIN User Conference 2025 - save the dates",
-        description: "We will be hosting the next JASMIN conference at RAL on the Harwell Campus in Oxfordshire on Tuesday 10th and Wednesday 11th June 2025.\n",
+        description: " \u0026nbsp; IMPORTANT - Please note change of dates We will be hosting the next JASMIN conference at RAL on the Harwell Campus in Oxfordshire on Wednesday 1st and Thursday 2nd October 2025.\n",
         
         
-        content: "We will be hosting the next JASMIN conference at RAL on the Harwell Campus in Oxfordshire on Tuesday 10th and Wednesday 11th June 2025.\nThe purpose of the conference is to:\nShare important updates from the JASMIN team about current services and developments Strengthen the community and enable sharing of experience and expertise Get feedback from users and provide an opportunity for discussion Over 2 days there will be a mixture of talks from user projects and from the JASMIN team, discussions, networking time and opportunities to learn about new services.\nWatch this space for further information about how to register, and details of the programme as it develops.\nWe look forward to seeing you in June!"
+        content: "\u0026nbsp; IMPORTANT - Please note change of dates We will be hosting the next JASMIN conference at RAL on the Harwell Campus in Oxfordshire on Wednesday 1st and Thursday 2nd October 2025.\nThe purpose of the conference is to:\nShare important updates from the JASMIN team about current services and developments Strengthen the community and enable sharing of experience and expertise Get feedback from users and provide an opportunity for discussion Over 2 days there will be a mixture of talks from user projects and from the JASMIN team, discussions, networking time and opportunities to learn about new services.\nWatch this space for further information about how to register, and details of the programme as it develops.\nWe look forward to seeing you in October 2025!"
       })
       .add(
       
