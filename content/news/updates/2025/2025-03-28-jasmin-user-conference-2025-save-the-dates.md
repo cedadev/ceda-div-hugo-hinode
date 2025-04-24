@@ -1,12 +1,16 @@
 ---
 title: JASMIN User Conference 2025 - save the dates
-date: 2025-03-28 10:00:00
+date: 2025-04-24 17:00:00
 tags: ['news','jasmin', 'events']
 thumbnail: 
 icon: fas people-group text-success
 ---
 
-We will be hosting the next JASMIN conference at RAL on the Harwell Campus in Oxfordshire on **Tuesday 10th and Wednesday 11th June 2025**.
+{{<alert type="info">}}
+IMPORTANT - Please note **change of dates**
+{{</alert>}}
+
+We will be hosting the next JASMIN conference at RAL on the Harwell Campus in Oxfordshire on **Wednesday 1st and Thursday 2nd October 2025**.
 
 The purpose of the conference is to:
 
@@ -18,4 +22,4 @@ Over 2 days there will be a mixture of talks from user projects and from the JAS
 
 {{<link "/events/jasmin-conference-2025">}}Watch this space{{</link>}} for further information about how to register, and details of the programme as it develops. 
 
-We look forward to seeing you in June!
+We look forward to seeing you in **October 2025**!
