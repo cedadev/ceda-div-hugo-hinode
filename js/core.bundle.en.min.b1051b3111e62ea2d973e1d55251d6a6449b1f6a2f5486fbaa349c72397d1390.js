@@ -14308,12 +14308,12 @@ function initIndex() {
       {
         id: 521,
         tag: "en",
-        href: "/events/jasmin-webinar/",
+        href: "/events/past/jasmin-webinar-march24/",
         title: "JASMIN Webinar - March 2025",
         description: "JASMIN Webinar highlighting the latest JASMIN updates",
         
         
-        content: "On Wednesday 26th March, 10.00 - 12.00 GMT The CEDA//JASMIN team will be presenting a webinar to provide an update and describe new services available on JASMIN. Following the presentations there will be a Q\u0026amp;A session with the speakers and other members of the JASMIN team to give you an opportunity to ask questions.\nSpeakers:\nFatima Chami - JASMIN updates - New LOTUS2 cluster Neil Massey - The Near Line Data Store - Bridging the gap between disk and tape The webinar will also be recorded and a link to the uploaded recording will be shared here.\nClick here to register for the webinar on MS Teams!\u0026nbsp; Thank you, JASMIN team"
+        content: "On Wednesday 26th March, 10.00 - 12.00 GMT The CEDA//JASMIN team will be presenting a webinar to provide an update and describe new services available on JASMIN. Following the presentations there will be a Q\u0026amp;A session with the speakers and other members of the JASMIN team to give you an opportunity to ask questions.\nSpeakers:\nNeil Massey - The Near Line Data Store - Bridging the gap between disk and tape Fatima Chami - JASMIN updates - New LOTUS2 cluster Click here to view to recorded webinar on youtube!\u0026nbsp; Thank you, JASMIN team"
       })
       .add(
       
