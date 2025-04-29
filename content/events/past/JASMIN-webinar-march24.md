@@ -13,12 +13,10 @@ On **Wednesday 26th March, 10.00 - 12.00 GMT** The CEDA//JASMIN team will be pre
 
 Speakers:
 
-- Fatima Chami - JASMIN updates - New LOTUS2 cluster
 - Neil Massey - The Near Line Data Store - Bridging the gap between disk and tape
+- Fatima Chami - JASMIN updates - New LOTUS2 cluster
 
-The webinar will also be recorded and a link to the uploaded recording will be shared here.
-
-{{<link "https://events.teams.microsoft.com/event/df3d77d3-253c-4de8-b786-13773c4ce078@3f66361c-a87e-4158-8f61-99e82db3cac8" >}} Click here to register for the webinar on MS Teams! {{</link>}}
+{{<link "https://youtu.be/5qFPGLgXma0" >}} Click here to view to recorded webinar on youtube! {{</link>}}
 
 Thank you,
 JASMIN team
