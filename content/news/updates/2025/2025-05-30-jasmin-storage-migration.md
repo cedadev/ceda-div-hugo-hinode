@@ -1,5 +1,5 @@
 ---
-title: Storage migration
+title: JASMIN Storage migration
 date: 2025-05-30 14:30:00
 tags: ['news', 'jasmin']
 thumbnail: 
