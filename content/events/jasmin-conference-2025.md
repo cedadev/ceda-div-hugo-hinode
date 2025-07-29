@@ -3,14 +3,10 @@ date: 2025-10-01
 tags: ["events", "jasmin"]
 title: JASMIN User Conference 2025
 icon: fas people-group text-success
-description: DATES UPDATED - Come and join us to hear the latest updates on JASMIN and share user highlights.
+description: Come and join us to hear the latest updates on JASMIN and share user highlights.
 ---
 
-{{<alert type="info">}}
-IMPORTANT - Please note **change of dates**
-{{</alert>}}
-
-Join us for the JASMIN user conference at RAL on the Harwell Campus in Oxfordshire on **Wednesday 1st & Thursday 2nd October 2025**.
+Join us for the JASMIN user conference at {{<link "#venue">}}RAL on the Harwell Campus in Oxfordshire{{</link>}} on **Wednesday 1st & Thursday 2nd October 2025**.
 
 <!-- Intro to be updated for 2025 -->
 
@@ -20,7 +16,7 @@ The purpose of the conference is to:
 - Strengthen the community and enable sharing of experience and expertise
 - Get feedback from users and provide an opportunity for discussion
 
-Over 2 days there will be a mixture of talks from user projects and from the JASMIN team, discussions,  networking time and opportunities to learn about new services.
+Over 2 days there will be a mixture of talks from user projects and from the JASMIN team, discussions, networking time and opportunities to learn about new services.
 
 <!-- Some of the user highlight talks you can expect are shown below: -->
 
@@ -31,8 +27,6 @@ The event will be open to registered attendees only: **watch this space** for re
 ## Programme
 
 {{<alert type="info">}}The programme is still being prepared. Timings and venues for sessions TBC, watch this space!{{</alert>}}
-
-See also {{< link "#venue" />}}, below.
 
 ### Day 1 – Wednesday 1st October
 
