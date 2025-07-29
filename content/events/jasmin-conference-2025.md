@@ -30,26 +30,50 @@ The event will be open to registered attendees only: **watch this space** for re
 
 ## Programme
 
-The programme is still being prepared, but will be posted here in due course: watch this space!
+{{<alert type="info">}}The programme is still being prepared. Timings and venues for sessions TBC, watch this space!{{</alert>}}
 
 See also {{< link "#venue" />}}, below.
 
-### Day 1 Wednesday 1st October
+### Day 1 – Wednesday 1st October
 
-Schedule is TBC.
+| Time                 | Event                                             | Venue |
+|----------------------|---------------------------------------------------|-------|
+| 11:00                | Registration                                      |  TBC  |
+| 11:30                | Welcome and opening                               |       |
+| 11:35                | Session 1 – JASMIN Update                         |       |
+| 12:45                | Lunch                                             |       |
+| 13:45                | Session 2 – New services – to include:            |       |
+|                      | - LOTUS2                                          |       |
+|                      | - NLDS                                            |       |
+|                      | - Storage                                         |       |
+|                      | - Designing and optimising workflows              |       |
+| 15:15                | Break                                             |       |
+| 16:00                | Session 3 – Environmental Sustainability          |       |
+| 17:00                | End of Day 1                                      |       |
+{.table .table-striped}
 
-<!-- Copy table from jasmin-conference-2023 -->
+### Day 2 – Thursday 2nd October
 
-### Day 2 Thursday 2nd October
-
-Schedule is TBC.
-
-<!-- Copy table from jasmin-conference-2023 -->
+| Time                 | Event                                             | Venue |
+|----------------------|---------------------------------------------------|-------|
+| 09:00                | Welcome back                                      |  TBC  |
+| 09:05                | Session 4 – Using existing services – to include: |       |
+|                      | - GPUs on JASMIN                                  |       |
+|                      | - Using object store                              |       |
+|                      | - Moving data efficiently: Globus                 |       |
+|                      | - Scientific workflows: from Notebooks to Slurm   |       |
+| 11:00                | Break                                             |       |
+| 11:45                | Session 5 – STFC Cloud and CEDA Archive           |       |
+| 12:45                | Lunch                                             |       |
+| 13:45                | Summary and discussion                            |       |
+| 14:30                | JASMIN surgery (optional)                         |       |
+| 15:30                | Close                                             |       |
+{.table .table-striped}
 
 ## Venue
 
 <!-- Could we replace with a better map? -->
 - {{<link "https://www.ukri.org/who-we-are/stfc/facilities/rutherford-appleton-laboratory/how-to-get-to-rutherford-appleton-laboratory/">}}How to get to RAL on the Harwell Campus{{</link>}}
-- {{< link "https://www.ukri.org/wp-content/uploads/2023/07/STFC-070723-RutherfordAppletonLaboratoryCampusMap.pdf" >}}RAL Campus Map{{< /link >}}
+- {{<link "https://www.ukri.org/wp-content/uploads/2023/07/STFC-070723-RutherfordAppletonLaboratoryCampusMap.pdf">}}RAL Campus Map{{</link>}}
   - The conference will take place in the **RAL Visitors Centre, building R112**
   - There will be signs posted around site to help you!
