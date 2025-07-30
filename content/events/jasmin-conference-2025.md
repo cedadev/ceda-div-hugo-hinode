@@ -37,9 +37,9 @@ The event will be open to registered attendees only: **watch this space** for re
 | 11:35                | Session 1 – JASMIN Update                         |       |
 | 12:45                | Lunch                                             |       |
 | 13:45                | Session 2 – New services – to include:            |       |
-|                      | - LOTUS2                                          |       |
-|                      | - NLDS                                            |       |
-|                      | - Storage                                         |       |
+|                      | - New compute cluster, LOTUS2                     |       |
+|                      | - New near-line storage service, NLDS             |       |
+|                      | - Update on other storage services                |       |
 |                      | - Designing and optimising workflows              |       |
 | 15:15                | Break                                             |       |
 | 16:00                | Session 3 – Environmental Sustainability          |       |
