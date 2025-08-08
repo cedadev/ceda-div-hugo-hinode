@@ -22,7 +22,7 @@ Over 2 days there will be a mixture of talks from user projects and from the JAS
 
 ## Registration
 
-The event will be open to registered attendees only: **watch this space** for registration details in due course.
+The event will be open to registered attendees only: {{<button href="https://engagementhub.ukri.org/stfc-ralspace/jasmin-user-conference-2025/">}}Register here{{</button>}}
 
 ## Programme
 
