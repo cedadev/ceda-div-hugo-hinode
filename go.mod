@@ -1,6 +1,6 @@
 module example.com/my-hinode-site
 
-go 1.24.5
+go 1.24
 
 require (
 	github.com/gethinode/hinode v1.12.4 // indirect
