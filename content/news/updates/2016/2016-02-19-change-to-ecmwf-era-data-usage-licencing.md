@@ -31,10 +31,6 @@ Please note - in all cases use is only permitted in strict accordance with the l
 
 <http://licences.ceda.ac.uk/image/data_access_condition/ecmwf-era-products.pdf>
 
-
-#### 
-
-
 #### Operational Data
 
 

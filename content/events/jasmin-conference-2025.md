@@ -26,7 +26,7 @@ The event will be open to registered attendees only: {{<button href="https://eng
 
 ## Programme
 
-{{<alert type="info">}}The programme is still being prepared. Timings and venues for sessions TBC, watch this space!{{</alert>}}
+{{<alert alert-type="info">}}The programme is still being prepared. Timings and venues for sessions TBC, watch this space!{{</alert>}}
 
 ### Day 1 – Wednesday 1st October
 

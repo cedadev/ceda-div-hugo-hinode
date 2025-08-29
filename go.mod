@@ -1,5 +1,9 @@
 module example.com/my-hinode-site
 
-go 1.24
+go 1.24.5
 
-require github.com/gethinode/hinode v0.29.3 // indirect
+require (
+	github.com/gethinode/hinode v1.12.4 // indirect
+	github.com/gethinode/mod-cookieyes/v2 v2.2.5 // indirect
+)
+

@@ -6,6 +6,7 @@ title: PV2018 Conference - Adding value and preserving data
 icon: "fa-solid fa-satellite-dish"
 description:  This conference is an opportunity to explore issues of data management planning and archive appraisal.
 aliases: ['/events/pv2018-conference']
+draft: true
 ---
 The PV 2018 Conference welcomes you to its 9th edition, to be held 15th – 17th May 2018 at the Rutherford Appleton Laboratory, Harwell Space Cluster (UK ), hosted by the UK Space Agency and jointly organised by STFC, NCEO and the Satellite Applications Catapult.
 
@@ -16,7 +17,7 @@ An end-to-end management approach for the long-term data preservation is key to 
 We are also entering the era of big data; for this conference year, we would like to extend a special invite to large-scale scientific archives so we can facilitate discussion of emergent issues across scientific domains. As we move to a new and exciting technology age, we are seeing large-scale collaborations occurring on state of art virtual research environments and novel collaborative infrastructures. We would invite participation from projects, organisations or individuals developing novel data services within or as a result of these environments. This includes smaller bespoke archives wishing to integrate with larger data holdings to generate targeted knowledge and data services.
 
 {{< nav id="links-1" fade="true" >}}
-  {{< nav-item header="Programme" show="true" >}}
+  {{< nav-item title="Programme" show="true" >}}
     <table class="table">
     <tbody>
     <tr>
@@ -582,7 +583,7 @@ We are also entering the era of big data; for this conference year, we would lik
     </table>
 
   {{< /nav-item >}}
-  {{< nav-item header="Posters and Exhibitions" >}}
+  {{< nav-item title="Posters and Exhibitions" >}}
     <table>
     <tbody>
     <tr>
@@ -743,7 +744,7 @@ We are also entering the era of big data; for this conference year, we would lik
     </tbody>
     </table>
   {{< /nav-item >}}
-  {{< nav-item header="Objectives and Sessions" >}}
+  {{< nav-item title="Objectives and Sessions" >}}
     <h4><strong>Conference Objectives&nbsp;</strong></h4>
     <ul>
     <li><strong>Facilitate Science Archives</strong> and <strong>Data Service Providers</strong> sharing knowledge, experiences, and lessons learnt and best practices.&nbsp; In addition to fostering cooperation in the areas of <strong>Data Exploitation</strong>, <strong>Preservation</strong> and archived <strong>Data Stewardship. </strong></li>
@@ -809,7 +810,7 @@ We are also entering the era of big data; for this conference year, we would lik
     </div>
     </div>
   {{< /nav-item >}}
-  {{< nav-item header="Committee" >}}
+  {{< nav-item title="Committee" >}}
     <h3 id="conference-chairs">Conference Chairs</h3>
     <p><strong>Conference Chair:</strong> Tony Hey - Chief Data Scientist STFC<br /><strong>Conference Co- chair:</strong> Harald Rothfuss - EUMETSAT</p>
     <h3 id="organising-committee">Organising Committee</h3>
@@ -819,7 +820,7 @@ We are also entering the era of big data; for this conference year, we would lik
     <p><strong>Head of Scientific Programme Committee:</strong> Esther Conway - CEDA<br />David Giaretta - APA<br />Brian Mathews - STFC<br />Richard Moreno- CNES<br />Nancy Ritchey - NOAA<br />Tom Stein - NASA PDS<br />Reta Beebe - NASA PDS<br />Christophe Arviset - ESA ESAC<br />Mirko Albani - ESA ESRIN<br />Pascal Lecomte - ESA Climate Change Office<br />Kevin Ashley - DCC<br />Jamie Shiers - CERN<br />Eberhard Mikusch - DLR<br />Robert Elliott - RAL Space<br />Phil Kershaw &ndash; CEDA <br />Richard Hilton - Satellite Applications Catapult<br /><br /><br />&nbsp;</p>
     <p>&nbsp;</p>
   {{< /nav-item >}}
-  {{< nav-item header="Speakers" >}}
+  {{< nav-item title="Speakers" >}}
     <h4><strong>Professor Anthony John Grenville Hey </strong><a href="https://en.wikipedia.org/wiki/Commander_of_the_Order_of_the_British_Empire">CBE</a> <a href="https://en.wikipedia.org/wiki/Fellow_of_the_Royal_Academy_of_Engineering">FREng</a> <a href="https://en.wikipedia.org/wiki/Fellow_of_the_Institution_of_Engineering_and_Technology">FIET</a> <a href="https://en.wikipedia.org/wiki/Fellow_of_the_Institute_of_Physics">FInstP</a> <a href="https://en.wikipedia.org/wiki/Fellow_of_the_British_Computer_Society">FBCS</a> &nbsp;- &nbsp;<strong>STFC Chief Data Scientist and PV2018 Conference Chair:</strong></h4>
     <p>Tony Hey led the <a href="https://en.wikipedia.org/wiki/E-Science#The_UK_e-Science_programme">UK's e-Science Programme</a> from March 2001 to June 2005. He was appointed corporate vice-president of technical computing at <a href="https://en.wikipedia.org/wiki/Microsoft">Microsoft</a> on 27 June 2005. Later he became corporate vice-president of external research, and in 2011 corporate vice-president of Microsoft Research Connections until his departure in 2014&nbsp; Since 2015, he is a Senior Data Science Fellow at the University of Washington eScience Institute. Hey is the editor of the journal Concurrency and Computation: Practice and Experience. Among other scientific advisory boards in Europe and the United States, he is a member of the <a href="https://en.wikipedia.org/wiki/Global_Grid_Forum">Global Grid Forum</a> (GGF) Advisory Committee.</p>
     <h4><strong></strong></h4>

@@ -9,7 +9,7 @@ icon: fa-solid fa-chalkboard-user
 aliases: ['/events/jasmin-user-seminar-series']
 ---
 
-{{<alert type="info">}}**Update January 2024:** Thanks to all who previously contributed to this seminar series. We have restarted this series with the latest webinar having occuring on Tuesday 6th February at 1pm! Please contact us if you have an idea for a talk!{{</alert>}}
+{{<alert alert-type="info">}}**Update January 2024:** Thanks to all who previously contributed to this seminar series. We have restarted this series with the latest webinar having occuring on Tuesday 6th February at 1pm! Please contact us if you have an idea for a talk!{{</alert>}}
 
 Talk | Speaker | Abstract | Recording | Slides | Date
 --- | --- | --- | --- | --- | ---

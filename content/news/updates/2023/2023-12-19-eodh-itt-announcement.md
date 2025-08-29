@@ -6,7 +6,7 @@ thumbnail:
 icon: fas circle-info text-info
 ---
 
-{{<alert type="info">}}
+{{<alert alert-type="info">}}
 Deadline now extended to 29 January 2024, 14:00
 {{</alert>}}
 
