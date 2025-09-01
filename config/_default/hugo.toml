@@ -78,6 +78,11 @@ buildFuture = true
     noUgly = true
     permalinkable = false
     name = "xml"
+  [outputFormats.REDIR]
+    mediaType = "text/netlify"
+    baseName = "_redirects"
+    isPlainText = true
+    notAlternative = true
 
 [outputs]
 home = ["HTML", "RSS", "REDIR", "netlify", "server"]
