@@ -18,5 +18,7 @@ github.com/gethinode/hinode v1.12.1 h1:bdJEdGQaAfX9F9krzJ6PU992dAFqJRD8mMWDMDl6+
 github.com/gethinode/hinode v1.12.1/go.mod h1:E8W8fxjBw+78+BAwt0zgyMVAGi9+DdefqyckrqlQ7oE=
 github.com/gethinode/hinode v1.12.4 h1:t+awyvIddKyvjhWv07+6ZE4W11reHKUaOv4oZDMbbLs=
 github.com/gethinode/hinode v1.12.4/go.mod h1:E8W8fxjBw+78+BAwt0zgyMVAGi9+DdefqyckrqlQ7oE=
+github.com/gethinode/hinode v1.13.3 h1:bgYRKpjtjolXDcwiV0C/ml2Oo67zRh9iDaUlkaCgsqM=
+github.com/gethinode/hinode v1.13.3/go.mod h1:zk/GmlpRDJdZmEI0JHu6PNVI/GmO1XsD9TmJXl9bMNk=
 github.com/gethinode/mod-cookieyes/v2 v2.2.5 h1:xzTQ42qYViZ/LJJUHAEeDV9aayXVEX4MtnpS+m5Zekc=
 github.com/gethinode/mod-cookieyes/v2 v2.2.5/go.mod h1:tULb7D7CoTycGUyL7ryqHJKaX11XuL2SN+XwP7/DI0Y=
