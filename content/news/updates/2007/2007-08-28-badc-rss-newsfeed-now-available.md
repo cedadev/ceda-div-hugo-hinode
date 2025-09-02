@@ -11,7 +11,7 @@ The Latest BADC news is now available as a newsfeed.
 
 Click the button to subscribe to the BADC news.
 
-{{< button color="primary" href="#!" icon="fa-solid fa-square-rss" state="disabled" >}}News Feed Disabled{{< /button >}}
+{{< button color="primary" href="#!" icon="fa-solid fa-square-rss" button-state="disabled" >}}News Feed Disabled{{< /button >}}
 
 BADC Helpdesk
 28th August 2007
