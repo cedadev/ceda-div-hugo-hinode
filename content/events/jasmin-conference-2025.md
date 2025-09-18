@@ -2,7 +2,7 @@
 date: 2025-10-01
 tags: ["events", "jasmin"]
 title: JASMIN User Conference 2025
-icon: fas people-group text-success
+icon: fas people-group text-danger
 description: CANCELLED - see details
 ---
 
