@@ -1,0 +1,39 @@
+{{ $page := .page }}
+{{ $match := .match }}
+{{ $destination := .destination }}
+{{ $cat := .cat }}
+{{ $localize := .localize }}
+{{ $modules := .modules }}
+{{ $skipTemplate := .skipTemplate }}
+{{ $absoluteURL := .absoluteURL }}
+{{ $state := cond (ne .state "immediate") .state "" }}
+
+{{ if and $cat (ne $cat "other") }}
+    {{ $destination = path.Join (path.Dir $destination) (printf "%s-%s%s" (path.BaseName $destination) $cat (path.Ext $destination)) }}
+{{ end }}
+
+{{ if $localize }}
+    {{ $destination = path.Join (path.Dir $destination) (printf "%s.%s%s" (path.BaseName $destination) $page.Language.Lang (path.Ext $destination)) }}
+{{ end }}
+
+{{- $bundle := partial "utilities/bundle.html" (dict
+    "match" $match
+    "filename" $destination
+    "modules" $modules
+    "basepath" "js/modules"
+    "all" true
+    "debugging" site.Params.debugging.showJS
+) -}}
+{{- $js := $bundle -}}
+{{- if not $skipTemplate -}}
+    {{- $js = $bundle | resources.ExecuteAsTemplate $destination $page -}}
+{{- end -}}
+
+{{- if gt (len $js.Content) 0 -}}
+    {{ $integrity := "" }}
+    {{- if hugo.IsProduction -}}
+        {{ $js = $js | minify | fingerprint -}}
+        {{ $integrity = $js.Data.Integrity }}
+    {{ end -}}
+    {{ partial "templates/script.html" (dict "link" (cond $absoluteURL $js.Permalink $js.RelPermalink) "category" $cat "state" $state "integrity" $integrity) }}
+{{ end -}}

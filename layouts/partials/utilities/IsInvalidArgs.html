@@ -1,0 +1,7 @@
+{{/* 
+Compatibility layer for IsInvalidArgs.html (deprecated)
+This redirects to the new InitArgs.html function
+*/}}
+
+{{ $args := partial "utilities/InitArgs.html" (dict "structure" .structure "args" .args "group" .group) }}
+{{ return $args.err }}

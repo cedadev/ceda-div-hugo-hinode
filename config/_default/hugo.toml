@@ -10,10 +10,12 @@ enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
 summaryLength = 20
+ignoreLogs = ['warn-invalid-arguments']
 
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
+
 
 timeout = "180s"
 
@@ -93,7 +95,7 @@ home = ["HTML", "RSS", "REDIR"]
 [module]
   [module.hugoVersion]
     extended = true
-    min = "0.132.0"
+    min = "0.146.0"
     max = ""
   [[module.mounts]]
     source = "archetypes"
