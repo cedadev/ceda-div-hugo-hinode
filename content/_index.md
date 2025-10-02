@@ -17,11 +17,11 @@ content_blocks:
     links:
       - title: JASMIN
         url: https://jasmin.ac.uk/
-        icon: fas book-open
+        icon: fa-solid fa-computer
         outline: true
       - title: CEDA Archive
         url: https://archive.ceda.ac.uk/
-        icon: fas display
+        icon: fa-solid fa-database
         outline: true
     orientation: horizontal
     cover: true
@@ -45,13 +45,13 @@ content_blocks:
 
   - _bookshop_name: panels
     heading:
-      title: Our services and projects
+      title: Our services
       align: start
     background:
       color: success
       subtle: true
     width: 12
-    tab-type: tabs
+    tab-type: underline
     ratio: 16x9
     elements:
     - title: JASMIN
@@ -130,5 +130,20 @@ content_blocks:
       image: img/stock-fieldwork.jpg
 
   - _bookshop_name: separator
+
+  - _bookshop_name: articles
+    heading:
+      title: Our projects
+    input:
+      section: projects
+      sort: date
+    hide-empty: false
+    header-style: none
+    more:
+      title: More projects
+    padding: 0
+    limit: 3
+    class: border-0 card-zoom card-body-margin
+    justify: start 
 ---
 
