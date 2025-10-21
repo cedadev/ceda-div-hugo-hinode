@@ -32,15 +32,15 @@ We plan to decommission the following old volumes in just over a month’s time,
 
 Please begin using the new volumes now, and clear out any data from the old volumes before that date, when the volumes will initially be made read-only and then fully removed soon after (exact date TBC).
 
-Please note that the scratch volumes are now accessible via our Globus data transfer service, to help make data transfers easier between GWS and scratch. Please remember to `chgrp` any data moved from scratch to a GWS, to appropriate gws_<name> group, to ensure correct ownership and permissions within the GWS.
+Please note that the scratch volumes are now accessible via our Globus data transfer service, to help make data transfers easier between GWS and scratch. Please remember to `chgrp` any data moved from scratch to a GWS, to appropriate `gws_<name>` group, to ensure correct ownership and permissions within the GWS.
 
-Please also note that scratch data older than NN days is automatically deleted, and the use of tools like “touch” to re-age the data is not permitted - users found to be abusing this will be sanctioned.
+Please also note that scratch data older than 28 days is automatically deleted, and the use of tools like `touch` to re-age the data is not permitted - users found to be abusing this will be sanctioned. Users are able to store up to a maximum of 100 TB.
 
 ## XFC service changes
 
 We will shortly be reinstating the notifications system for the Transfer Cache (XFC) service. This means that users of the service will start receiving automatic email notifications from the system when their usage triggers alert criteria. We are doing this to help ensure that space is used efficiently for the intended purpose, i.e. very short-term cache space to support inward/outward data transfers.
 
-As with scratch, high-performance data transfer tools like Globus are available to help move data efficiently, and the same rules apply to residence time and the use of Touch or equivalent. This is to ensure fair usage between all users of the service.
+As with scratch, high-performance data transfer tools like Globus are available to help move data efficiently, and the same rules apply to residence time and the use of `touch` or equivalent. This is to ensure fair usage between all users of the service.
 
 ## Storage migration progress
 
