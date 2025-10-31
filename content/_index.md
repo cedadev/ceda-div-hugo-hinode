@@ -25,8 +25,9 @@ content_blocks:
         outline: true
     orientation: horizontal
     cover: true
+    overlay-mode: dark
     background: 
-      backdrop: /img/JASMIN-green.jpg
+      backdrop: /img/uk-cropped.png
 
   - _bookshop_name: articles
     heading:
@@ -56,41 +57,16 @@ content_blocks:
     elements:
     - title: JASMIN
       image: img/JASMIN.jpg
-      content: JASMIN is a globally unique data intensive supercomputer for environmental science. JASMIN supports the data analysis requirements of the UK and European climate and earth system modelling community. It consists of multi-Petabyte fast storage co-located with data analysis computing facilities, with dedicated light paths to various key facilities and institutes within the community.
+      content: JASMIN is a globally unique data intensive supercomputer for environmental science. JASMIN supports the data analysis requirements of the UK and European climate and earth system modelling community. It consists of multi-Petabyte fast storage co-located with data analysis computing facilities, with dedicated light paths to various key facilities and institutes within the community. <br> {{< link jasmin >}} **Get started with JASMIN** {{< /link >}}
     - title: The CEDA Archive
       image: img/CEDA-archive.jpg
-      content: The CEDA Archive is the national data centre for atmospheric and earth observation and forms part of NERC's Environmental Data Service - a network of data centres covering all aspects of environmental science. Our team coordinate data management on behalf of NERC for the UK atmospheric science and earth observation communities. We hold data covering climate, composition, observations and numerical weather prediction as well as various earth observation datasets, including airborne and satellite data and imagery. Our main goal is to ensure that atmospheric and earth observation data are made available and accessible to all in order to fully realise their reuse potential.
+      content: The CEDA Archive is the national data centre for atmospheric and earth observation and forms part of NERC's Environmental Data Service - a network of data centres covering all aspects of environmental science. Our team coordinate data management on behalf of NERC for the UK atmospheric science and earth observation communities. <br> We hold data covering climate, composition, observations and numerical weather prediction as well as various earth observation datasets, including airborne and satellite data and imagery. Our main goal is to ensure that atmospheric and earth observation data are made available and accessible to all in order to fully realise their reuse potential. <br> {{< link ceda_archive >}} **Explore the data in our archive** {{< /link >}}
     - title: Outreach
       image: img/warming-stripes.png
-      content: At CEDA we support environmental scientists coducting climate research. However, you don't need a PhD to get involved! We've designed some resources to help prompt conversations about climate change and highlight things everyone can do to reduce their carbon footprint.
+      content: At CEDA we support environmental scientists coducting climate research. However, you don't need a PhD to get involved! We've designed some resources to help prompt conversations about climate change and highlight things everyone can do to reduce their carbon footprint. <br> {{< link "../outreach" >}} **Find out about our outreach activities and resources** {{< /link >}}
     - title: Other services
       image: img/stock-dish.jpg
       content: CEDA also provide support for numerous other organisations and external projects. We run the {{< link "https://www.ukssdc.ac.uk/" >}} UK Solar System Data Centre (UKSSDC) {{< /link >}} co-funded by STFC and NERC, curates and provides access to archives of data from the upper atmosphere, ionosphere and Earth’s solar environment. The {{< link "https://www.ipcc.ch/" >}} Intergovernmental Panel on Climate Change {{< /link >}}  is the United Nations body for assessing the science related to climate change. We run the {{< link "https://www.ipcc-data.org/" >}} IPCC Data Distribution Centre {{< /link >}}  which provides climate, socio-economic and environmental data, both from the past and also in scenarios projected into the future.
-
-  - _bookshop_name: about
-    heading:
-      title: About us
-      content: Our mission is to support environmental science, further environmental data archival practices, and develop and deploy new technologies to enhance access to data. Additionally we provide services to aid large scale data analysis.
-        Below you can meet the members of our team, read about the history of our organisation or find out more about our mission!  
-      align: start
-      width: 8
-    background:
-      color: warning
-      subtle: true
-    illustration:
-      image: img/CEDA-staff-30th.jpg
-    link-type: link
-    links:
-    - title: Our team
-      url: '/about/team.md'
-      icon: fa-solid fa-people-group
-    - title: Our history
-      url: 'about/history.md'
-      icon: fa-solid fa-book-open
-    - title: Our mission
-      url: 'about/mission.md'
-      icon: fa-solid fa-rocket
-    order: first
 
   - _bookshop_name: articles
     heading:
@@ -107,6 +83,32 @@ content_blocks:
     padding: 0
     limit: 3
     class: border-0 card-zoom card-body-margin
+
+
+  - _bookshop_name: about
+    heading:
+      title: About us
+      content: Our mission is to support environmental science, further environmental data archival practices, and develop and deploy new technologies to enhance access to data. Additionally we provide services to aid large scale data analysis.
+        Below you can meet the members of our team, read about the history of our organisation or find out more about our mission!  
+      align: start
+      width: 8
+    background:
+      color: primary
+      subtle: true
+    illustration:
+      image: img/CEDA-staff-30th.jpg
+    link-type: link
+    links:
+    - title: Our team
+      url: '/about/team.md'
+      icon: fa-solid fa-people-group
+    - title: Our history
+      url: 'about/history.md'
+      icon: fa-solid fa-book-open
+    - title: Our mission
+      url: 'about/mission.md'
+      icon: fa-solid fa-rocket
+    order: first
 
   - _bookshop_name: cards
     heading:
@@ -128,8 +130,6 @@ content_blocks:
     - title: Enabling Science
       content: JASMIN and the CEDA Archive enable scientists to carry out research that would not otherwise be possible. This could include monitoring UK biodiversity trends, developing the next generation of climate models, improving our understanding of extreme weather. Or it could even be predicting volcanoes or earthquakes, modeling plant health, and gauging the impact of climate change on food production, amongst many others!
       image: img/stock-fieldwork.jpg
-
-  - _bookshop_name: separator
 
   - _bookshop_name: articles
     heading:
