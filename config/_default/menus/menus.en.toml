@@ -44,18 +44,3 @@
   pre = "fab fa-github"
   url = "https://github.com/cedadev"
   weight = 30
-
-#[[social]]
-#  name = "LinkedIn"
-#  pre = "fab linkedin"
-#  url = "https://linkedin.com/"
-#  weight = 40
-
-#[[social]]
-#  name = "Medium"
-#  pre = "fab medium"
-#  url = "https://medium.com/"
-#  weight = 50
-
-# toml-docs-start sample-navigation
-# toml-docs-end sample-navigation
