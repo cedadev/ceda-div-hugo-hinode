@@ -8,13 +8,13 @@ We aim to respond to all queries within 2 working days.
 
 {{< link href ="https://help.ceda.ac.uk/" >}} **We also have extensive documention and guides for how to use all of our services** {{< /link >}}
 
-#### Email
+### Email
 
 For any general enquiries and issues email: **support@ceda.ac.uk**
 
 For JASMIN related issues please email: **support@jasmin.ac.uk**
 
-#### Post
+### Post
 
 Centre for Environmental Data Analysis
 
