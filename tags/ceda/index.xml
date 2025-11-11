@@ -1,91 +1,133 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ceda on Centre for Environmental Data Analysis</title><link>https://www.ceda.ac.uk/tags/ceda/</link><description>Recent content in Ceda on Centre for Environmental Data Analysis</description><generator>Hugo</generator><language>en</language><copyright>Copyright © 2025 Science and Technology Facilities Council.</copyright><lastBuildDate>Tue, 21 Oct 2025 15:49:28 +0100</lastBuildDate><atom:link href="https://www.ceda.ac.uk/tags/ceda/index.xml" rel="self" type="application/rss+xml"/><item><title>JASMIN Updates October 2025</title><link>https://www.ceda.ac.uk/news/updates/2025/2025-10-21-jasmin-updates-oct-25/</link><pubDate>Tue, 21 Oct 2025 15:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2025/2025-10-21-jasmin-updates-oct-25/</guid><description>&lt;p>Please note the following updates for your attention:&lt;/p>
-&lt;ul>
-&lt;li>Reminder of scheduled maintenance day, Tuesday 4 November 2025&lt;/li>
-&lt;li>New scratch volumes, retirement of old&lt;/li>
-&lt;li>XFC service changes&lt;/li>
-&lt;li>Storage migration progress&lt;/li>
-&lt;/ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Ceda on Centre for Environmental Data Analysis</title><link>https://www.ceda.ac.uk/tags/ceda/</link><description>Recent content in Ceda on Centre for Environmental Data Analysis</description><generator>Hugo</generator><language>en</language><copyright>Copyright © 2025 Science and Technology Facilities Council.</copyright><lastBuildDate>Mon, 10 Nov 2025 16:50:20 +0000</lastBuildDate><atom:link href="https://www.ceda.ac.uk/tags/ceda/index.xml" rel="self" type="application/rss+xml"/><item><title>JASMIN Updates October 2025</title><link>https://www.ceda.ac.uk/news/updates/2025/2025-10-21-jasmin-updates-oct-25/</link><pubDate>Tue, 21 Oct 2025 15:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2025/2025-10-21-jasmin-updates-oct-25/</guid><description>&lt;p&gt;Please note the following updates for your attention:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reminder of scheduled maintenance day, Tuesday 4 November 2025&lt;/li&gt;
+&lt;li&gt;New scratch volumes, retirement of old&lt;/li&gt;
+&lt;li&gt;XFC service changes&lt;/li&gt;
+&lt;li&gt;Storage migration progress&lt;/li&gt;
+&lt;/ul&gt;
 
 
 
 
-&lt;h2 id="reminder-of-scheduled-maintenance-day-tuesday-4-november" class="heading">Reminder of scheduled maintenance day, Tuesday 4 November&lt;a href="#reminder-of-scheduled-maintenance-day-tuesday-4-november" aria-labelledby="reminder-of-scheduled-maintenance-day-tuesday-4-november">
-&lt;!-- &lt;i class="fas fa-link anchor">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 640 512">&lt;use href="#fas-link">&lt;/use>&lt;/svg>&amp;nbsp;
- &lt;/a>
-&lt;/h2>
-&lt;p>As previously announced via the status page, a regular maintenance day is scheduled for Tuesday 4th November. This potentially affects all JASMIN and CEDA services.&lt;/p></description></item><item><title>Register for the introduction to Scientific Computing Course now!</title><link>https://www.ceda.ac.uk/news/updates/2025/2025-10-14-isc-course-2025/</link><pubDate>Tue, 14 Oct 2025 16:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2025/2025-10-14-isc-course-2025/</guid><description>&lt;img class="img-fluid "
+&lt;h2 id="reminder-of-scheduled-maintenance-day-tuesday-4-november" class="heading"&gt;Reminder of scheduled maintenance day, Tuesday 4 November&lt;a href="#reminder-of-scheduled-maintenance-day-tuesday-4-november" aria-labelledby="reminder-of-scheduled-maintenance-day-tuesday-4-november"&gt;
+
+
+
+
+
+
+
+
+&lt;!-- &lt;i class="fas fa-link anchor"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 640 512"&gt;&lt;use href="#fas-link"&gt;&lt;/use&gt;&lt;/svg&gt;&amp;nbsp;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;As previously announced via the status page, a regular maintenance day is scheduled for Tuesday 4th November. This potentially affects all JASMIN and CEDA services.&lt;/p&gt;</description></item><item><title>Register for the introduction to Scientific Computing Course now!</title><link>https://www.ceda.ac.uk/news/updates/2025/2025-10-14-isc-course-2025/</link><pubDate>Tue, 14 Oct 2025 16:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2025/2025-10-14-isc-course-2025/</guid><description>&lt;img class="img-fluid "
  src="https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-2800x2800.png"
- 
- 
- srcset="https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-576x576.webp 576w, https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-768x768.webp 768w, https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-992x992.webp 992w, https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-1200x1200.webp 1200w, https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-1400x1400.webp 1400w, https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-2800x2800.webp 2800w" sizes="100vw"
- height="2800"
- width="2800"
- alt="image">
-&lt;p>Want to study scientific computing? From the Linux Shell to Python, our Introduction to Scientific Computing course will prepare you to use computing in environmental science research.&lt;/p></description></item><item><title>August Bank Holiday Updates - Monday 25th &amp; Tuesday 26th August 2025</title><link>https://www.ceda.ac.uk/news/updates/2025/2025-08-21-august-bank-holiday-updates/</link><pubDate>Thu, 21 Aug 2025 12:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2025/2025-08-21-august-bank-holiday-updates/</guid><description>&lt;p>Dear all,&lt;/p>
-&lt;p>Services will be unsupported on Monday 25th and Tuesday 26th August due to the bank holiday on Monday 25th and the RAL site holiday on Tuesday 26th. Staff leave during the following week will also mean that responses to queries may take longer than usual.&lt;/p></description></item><item><title>CEDA user account management site maintenance this morning, 26th of June, until midday (12pm)</title><link>https://www.ceda.ac.uk/news/updates/2025/2025-06-26-ceda-accounts-maint/</link><pubDate>Thu, 26 Jun 2025 08:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2025/2025-06-26-ceda-accounts-maint/</guid><description>&lt;p>This morning, the 26th June, until midday (12pm), we will be rolling out some improvements to our CEDA account management services. During this time, there may be disruption to some website functions, including sign up for new CEDA accounts and account management operations such as password reset. Once completed, these updates should result in a better user experience while managing your CEDA account.&lt;/p></description></item><item><title>Easter updates for CEDA and JASMIN users</title><link>https://www.ceda.ac.uk/news/updates/2025/2025-04-14-easter-updates/</link><pubDate>Mon, 14 Apr 2025 16:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2025/2025-04-14-easter-updates/</guid><description>&lt;p>Please note the following updates for your attention:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>CEDA and JASMIN support over the Easter period&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Scheduled maintenance affecting SSD storage Tues 22 April&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>JASMIN regular scheduled maintenance Tues 29 April&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Changes to scheduler policies for &lt;code>standard&lt;/code> and &lt;code>highres&lt;/code> partitions&lt;/strong>&lt;/li>
-&lt;/ul>
-&lt;ol>
-&lt;li>
-&lt;p>Over the Easter period, CEDA and JASMIN services will be running at risk. Due to public holidays, our helpdesks will be closed at the end of working hours on Thursday 17th April until the morning of Tuesday 22nd April. Staff leave during the school holiday period also affects our availability at this time.&lt;/p></description></item><item><title>Update to CEDA dataset application system on the 11th of February, from 10am onwards.</title><link>https://www.ceda.ac.uk/news/updates/2025/2025-02-10-ceda-dataset-application-update/</link><pubDate>Tue, 11 Feb 2025 13:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2025/2025-02-10-ceda-dataset-application-update/</guid><description>&lt;p>On Tuesday 11th February, starting from 10am and continuing all day, we will be rolling out a number of improvements to the way dataset access applications and authorisations are managed for CEDA accounts. During this time, some CEDA account features will be inaccessible. These include sign up for datasets, users’ dataset overview pages, and JASMIN account linking.&lt;/p></description></item><item><title>Celebrating 30 years of the Centre for Environmental data Analysis</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-11-29-celebrating-30-years-of-ceda/</link><pubDate>Fri, 29 Nov 2024 15:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-11-29-celebrating-30-years-of-ceda/</guid><description>&lt;p>On Monday 25th November 2024, we held a celebration event to mark the 30th anniversary of the Centre for Environmental Data Analysis (CEDA). The event was a great success, with over 70 people attending.&lt;/p></description></item><item><title>Celebrating 30 years of CEDA - Help us imagine our future</title><link>https://www.ceda.ac.uk/events/past/ceda-30th-stakeholder-event/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/events/past/ceda-30th-stakeholder-event/</guid><description>&lt;figure >
-
-
-&lt;img class="img-fluid "
+ srcset="https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-576x576.webp 576w, https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-768x768.webp 768w, https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-992x992.webp 992w, https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-1200x1200.webp 1200w, https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-1400x1400.webp 1400w, https://www.ceda.ac.uk/img/news/2025/2025-10-14-isc-course-2025/isc-course-2025-2800x2800.webp 2800w" sizes="100vw" height="2800" width="2800" alt="image"&gt;
+&lt;p&gt;Want to study scientific computing? From the Linux Shell to Python, our Introduction to Scientific Computing course will prepare you to use computing in environmental science research.&lt;/p&gt;</description></item><item><title>August Bank Holiday Updates - Monday 25th &amp; Tuesday 26th August 2025</title><link>https://www.ceda.ac.uk/news/updates/2025/2025-08-21-august-bank-holiday-updates/</link><pubDate>Thu, 21 Aug 2025 12:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2025/2025-08-21-august-bank-holiday-updates/</guid><description>&lt;p&gt;Dear all,&lt;/p&gt;
+&lt;p&gt;Services will be unsupported on Monday 25th and Tuesday 26th August due to the bank holiday on Monday 25th and the RAL site holiday on Tuesday 26th. Staff leave during the following week will also mean that responses to queries may take longer than usual.&lt;/p&gt;</description></item><item><title>CEDA user account management site maintenance this morning, 26th of June, until midday (12pm)</title><link>https://www.ceda.ac.uk/news/updates/2025/2025-06-26-ceda-accounts-maint/</link><pubDate>Thu, 26 Jun 2025 08:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2025/2025-06-26-ceda-accounts-maint/</guid><description>&lt;p&gt;This morning, the 26th June, until midday (12pm), we will be rolling out some improvements to our CEDA account management services. During this time, there may be disruption to some website functions, including sign up for new CEDA accounts and account management operations such as password reset. Once completed, these updates should result in a better user experience while managing your CEDA account.&lt;/p&gt;</description></item><item><title>Easter updates for CEDA and JASMIN users</title><link>https://www.ceda.ac.uk/news/updates/2025/2025-04-14-easter-updates/</link><pubDate>Mon, 14 Apr 2025 16:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2025/2025-04-14-easter-updates/</guid><description>&lt;p&gt;Please note the following updates for your attention:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CEDA and JASMIN support over the Easter period&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scheduled maintenance affecting SSD storage Tues 22 April&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JASMIN regular scheduled maintenance Tues 29 April&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Changes to scheduler policies for &lt;code&gt;standard&lt;/code&gt; and &lt;code&gt;highres&lt;/code&gt; partitions&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Over the Easter period, CEDA and JASMIN services will be running at risk. Due to public holidays, our helpdesks will be closed at the end of working hours on Thursday 17th April until the morning of Tuesday 22nd April. Staff leave during the school holiday period also affects our availability at this time.&lt;/p&gt;</description></item><item><title>Update to CEDA dataset application system on the 11th of February, from 10am onwards.</title><link>https://www.ceda.ac.uk/news/updates/2025/2025-02-10-ceda-dataset-application-update/</link><pubDate>Tue, 11 Feb 2025 13:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2025/2025-02-10-ceda-dataset-application-update/</guid><description>&lt;p&gt;On Tuesday 11th February, starting from 10am and continuing all day, we will be rolling out a number of improvements to the way dataset access applications and authorisations are managed for CEDA accounts. During this time, some CEDA account features will be inaccessible. These include sign up for datasets, users’ dataset overview pages, and JASMIN account linking.&lt;/p&gt;</description></item><item><title>Celebrating 30 years of the Centre for Environmental data Analysis</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-11-29-celebrating-30-years-of-ceda/</link><pubDate>Fri, 29 Nov 2024 15:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-11-29-celebrating-30-years-of-ceda/</guid><description>&lt;p&gt;On Monday 25th November 2024, we held a celebration event to mark the 30th anniversary of the Centre for Environmental Data Analysis (CEDA). The event was a great success, with over 70 people attending.&lt;/p&gt;</description></item><item><title>Celebrating 30 years of CEDA - Help us imagine our future</title><link>https://www.ceda.ac.uk/events/past/ceda-30th-stakeholder-event/</link><pubDate>Mon, 25 Nov 2024 00:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/events/past/ceda-30th-stakeholder-event/</guid><description>&lt;figure &gt;&lt;img class="img-fluid "
  src="https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-2800x1638.png"
+ srcset="https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-576x337.webp 576w, https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-768x449.webp 768w, https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-992x580.webp 992w, https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-1200x702.webp 1200w, https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-1400x819.webp 1400w, https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-2800x1638.webp 2800w" sizes="100vw" height="1638" width="2800" alt="Image showing the text: Celebrating 30 years of CEDA: help us imagine our future"&gt;&lt;figcaption class="figure-caption"&gt;Image showing the text: Celebrating 30 years of CEDA: help us imagine our future&lt;/figcaption&gt;
+ &lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
- 
- srcset="https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-576x337.webp 576w, https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-768x449.webp 768w, https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-992x580.webp 992w, https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-1200x702.webp 1200w, https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-1400x819.webp 1400w, https://www.ceda.ac.uk/img/news/2024/2024-10-14-ceda-30th-celebration-event/ceda-30th-event-2800x1638.webp 2800w" sizes="100vw"
- height="1638"
- width="2800"
- alt="Image showing the text: Celebrating 30 years of CEDA: help us imagine our future">&lt;figcaption class="figure-caption">Image showing the text: Celebrating 30 years of CEDA: help us imagine our future&lt;/figcaption>
- &lt;/figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- &lt;a aria-label="Register here to attend this event!"
+&lt;a aria-label="Register here to attend this event!"
  href="https://engagementhub.ukri.org/stfc-ralspace/celebrating-30-years-of-ceda-help-us-imagine-our-f" target="_blank" rel="noopener noreferrer nofollow" class="btn btn-success position-relative "
  role="button"
- >
- &lt;span class="d-flex justify-content-center">
- &lt;span class="my-auto">&lt;strong>Register here to attend this event!&lt;/strong>&amp;nbsp;
-&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&amp;nbsp;&lt;/span>
- &lt;/span>&lt;/a>&amp;nbsp;
-
-
-&lt;p>Join us for a special event marking 30 years of the Centre for Environmental Data Analysis! Over the past three decades, we’ve been dedicated to providing data and information services for environmental science through world-class data curation services, flexible technologies for data analysis and our contributions to national and international communities.&lt;/p></description></item><item><title>BOOST Survey available now!</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-11-08-boost-survey-available/</link><pubDate>Fri, 08 Nov 2024 17:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-11-08-boost-survey-available/</guid><description>&lt;p>Dear Researchers,&lt;/p>
-&lt;p>We would like to 
+ &gt;
+ &lt;span class="d-flex justify-content-start"&gt;
+ &lt;span class="my-auto"&gt;&lt;strong&gt;Register here to attend this event!&lt;/strong&gt;&amp;nbsp;
 
 
 
 
 
+
+
+
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512"&gt;&lt;use href="#fas-up-right-from-square"&gt;&lt;/use&gt;&lt;/svg&gt;&amp;nbsp;&lt;/span&gt;
+ &lt;/span&gt;&lt;/a&gt;&amp;nbsp;
+
+
+&lt;p&gt;Join us for a special event marking 30 years of the Centre for Environmental Data Analysis! Over the past three decades, we’ve been dedicated to providing data and information services for environmental science through world-class data curation services, flexible technologies for data analysis and our contributions to national and international communities.&lt;/p&gt;</description></item><item><title>BOOST Survey available now!</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-11-08-boost-survey-available/</link><pubDate>Fri, 08 Nov 2024 17:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-11-08-boost-survey-available/</guid><description>&lt;p&gt;Dear Researchers,&lt;/p&gt;
+&lt;p&gt;We would like to 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ &lt;a href="https://forms.gle/Yz1PhddwqEtPETgB7" target="_blank" rel="noopener noreferrer nofollow"&gt;invite you to complete a survey to help us to improve the interoperability of data and data analysis platforms across all research domains.&amp;nbsp;
+
+
+
+
+
+
+
+
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512"&gt;&lt;use href="#fas-up-right-from-square"&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/p&gt;</description></item><item><title>30 years of CEDA! Come celebrate with us and learn about what we do!</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-10-14-ceda-30th-celebration-event/</link><pubDate>Mon, 14 Oct 2024 14:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-10-14-ceda-30th-celebration-event/</guid><description>&lt;h3 id="join-us-for-a-special-event-celebrating-30-years-of-the-centre-for-environmental-data-analysis" class="heading"&gt;Join us for a special event celebrating 30 years of the Centre for Environmental Data Analysis!&lt;a href="#join-us-for-a-special-event-celebrating-30-years-of-the-centre-for-environmental-data-analysis" aria-labelledby="join-us-for-a-special-event-celebrating-30-years-of-the-centre-for-environmental-data-analysis"&gt;
+
+
+
+
+
+
+
+
+&lt;!-- &lt;i class="fas fa-link anchor"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 640 512"&gt;&lt;use href="#fas-link"&gt;&lt;/use&gt;&lt;/svg&gt;&amp;nbsp;
+ &lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;To celebrate 30 years of service in the environmental science community, we&amp;rsquo;re having a celebration event on &lt;strong&gt;Monday the 25th of November 2024!&lt;/strong&gt; At this event we will celebrate the past 30 years of innovation, growth, and collaboration at CEDA, showcase the depth and breadth of the work currently we do, and gather your feedback and ideas to shape the next 30 years.&lt;/p&gt;</description></item><item><title>Applications are now open for 2 graduates to join CEDA!</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-09-10-ceda-now-hiring-2-graduates/</link><pubDate>Tue, 10 Sep 2024 11:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-09-10-ceda-now-hiring-2-graduates/</guid><description>&lt;p&gt;We are currently accepting applications for 2 different graduate roles at CEDA:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
 
 
 
@@ -101,6 +143,7 @@
  
 
 
+ &lt;a href="https://careersportal.co.uk/UKRI-careers/jobs/graduate-environmental-data-scientist-4674" target="_blank" rel="noopener noreferrer nofollow"&gt;Graduate Environmental Data Scientist&amp;nbsp;
 
 
 
@@ -109,27 +152,10 @@
 
 
 
-
-
-
- 
-
-&lt;a href="https://forms.gle/Yz1PhddwqEtPETgB7" target="_blank" rel="noopener noreferrer nofollow">invite you to complete a survey to help us to improve the interoperability of data and data analysis platforms across all research domains.&amp;nbsp;
-&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&lt;/a>&lt;/p></description></item><item><title>30 years of CEDA! Come celebrate with us and learn about what we do!</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-10-14-ceda-30th-celebration-event/</link><pubDate>Mon, 14 Oct 2024 14:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-10-14-ceda-30th-celebration-event/</guid><description>&lt;h3 id="join-us-for-a-special-event-celebrating-30-years-of-the-centre-for-environmental-data-analysis" class="heading">Join us for a special event celebrating 30 years of the Centre for Environmental Data Analysis!&lt;a href="#join-us-for-a-special-event-celebrating-30-years-of-the-centre-for-environmental-data-analysis" aria-labelledby="join-us-for-a-special-event-celebrating-30-years-of-the-centre-for-environmental-data-analysis">
-&lt;!-- &lt;i class="fas fa-link anchor">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 640 512">&lt;use href="#fas-link">&lt;/use>&lt;/svg>&amp;nbsp;
- &lt;/a>
-&lt;/h3>
-&lt;p>To celebrate 30 years of service in the environmental science community, we&amp;rsquo;re having a celebration event on &lt;strong>Monday the 25th of November 2024!&lt;/strong> At this event we will celebrate the past 30 years of innovation, growth, and collaboration at CEDA, showcase the depth and breadth of the work currently we do, and gather your feedback and ideas to shape the next 30 years.&lt;/p></description></item><item><title>Applications are now open for 2 graduates to join CEDA!</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-09-10-ceda-now-hiring-2-graduates/</link><pubDate>Tue, 10 Sep 2024 11:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-09-10-ceda-now-hiring-2-graduates/</guid><description>&lt;p>We are currently accepting applications for 2 different graduate roles at CEDA:&lt;/p>
-&lt;ul>
-&lt;li>
-
-
-
-
-
-
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512"&gt;&lt;use href="#fas-up-right-from-square"&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;
+&lt;/li&gt;
+&lt;li&gt;
 
 
 
@@ -145,6 +171,7 @@
  
 
 
+ &lt;a href="https://careersportal.co.uk/UKRI-careers/jobs/graduate-research-computing-service-support-software-engineer-4665" target="_blank" rel="noopener noreferrer nofollow"&gt;Graduate Research Computing Service Support / Software Engineer&amp;nbsp;
 
 
 
@@ -153,79 +180,13 @@
 
 
 
-
-
-
- 
-
-&lt;a href="https://careersportal.co.uk/UKRI-careers/jobs/graduate-environmental-data-scientist-4674" target="_blank" rel="noopener noreferrer nofollow">Graduate Environmental Data Scientist&amp;nbsp;
-&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&lt;/a>
-&lt;/li>
-&lt;li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-&lt;a href="https://careersportal.co.uk/UKRI-careers/jobs/graduate-research-computing-service-support-software-engineer-4665" target="_blank" rel="noopener noreferrer nofollow">Graduate Research Computing Service Support / Software Engineer&amp;nbsp;
-&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&lt;/a>
-&lt;/li>
-&lt;/ul>
-&lt;p>Both roles are full-time open-ended contracts with a starting salary of £33,380 plus a £1,000 welcome bonus!
-You are required to submit a CV and cover letter which clearly outlines how you fulfil the criteria specified along with your motivation for UKRI and the role. The closing date for both roles is Sunday 20th October 2024.&lt;/p></description></item><item><title>August bank holiday weekend arrangements - Monday 26th and Tuesday 27th August 2024</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-08-22-bank-holiday-weekend-arrangements/</link><pubDate>Thu, 22 Aug 2024 12:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-08-22-bank-holiday-weekend-arrangements/</guid><description>&lt;p>Dear All,&lt;/p>
-&lt;p>Services will be unsupported on Monday 26th and Tuesday 27th August due to the bank holiday on Monday 26th and RAL site holiday on Tuesday 27th. Staff leave during the remainder of the week will also mean that responses to queries may take longer than usual.&lt;/p></description></item><item><title>CEDA Data Catalogue Update, Today from 3:30-4:30pm</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-08-07-ceda-catalogue-update/</link><pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-08-07-ceda-catalogue-update/</guid><description>&lt;p>The CEDA Data Catalogue Service will be updated from 3:30pm today, 7th August to aid harmonisation of services within CEDA and to improve access and licensing information on the catalogue records.&lt;/p></description></item><item><title>Data, docker and Django - Rory and Zach's Journey at CEDA</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-07-29-zach-and-rory-at-ceda/</link><pubDate>Mon, 29 Jul 2024 10:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-07-29-zach-and-rory-at-ceda/</guid><description>&lt;p>This year, CEDA had the pleasure of welcoming two industrial placement students, Rory Jenns and Zach Wharton, who joined us as Software Engineers for their Industrial Placement year. Hailing from the University of Nottingham and Loughborough University, respectively, Rory and Zach have spent the past 12 months diving into various projects, from software development to stakeholder engagement and system deployment. Let’s take a look at the fantastic work they accomplished during their time with us.&lt;/p></description></item><item><title>Catalogue service update complete.</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-07-10-moles-back/</link><pubDate>Wed, 10 Jul 2024 17:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-07-10-moles-back/</guid><description>&lt;p>CEDA&amp;rsquo;s data catalogue service update has been complete and should no longer be considered at risk. This roll our brings some minor cosmetic changes to users and a more resilient server overall to reduce future disruption and aid future service roll outs.&lt;/p></description></item><item><title>CEDA Data Catalogue downtime for maintenance.</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-07-10-moles-outage/</link><pubDate>Wed, 10 Jul 2024 14:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-07-10-moles-outage/</guid><description>&lt;p>The CEDA Data Catalogue will be undergoing maintenance from 3:00 pm until 5:00 pm today, Wednesday the 10th of July. During this time, the service may go offline, and some content may be unavailable.&lt;/p></description></item><item><title>Software and operating system changes - update 1</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-06-19-software-and-operating-system-changes-update1/</link><pubDate>Wed, 19 Jun 2024 17:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-06-19-software-and-operating-system-changes-update1/</guid><description>&lt;p>This is the first update about our progress migrating operating systems on JASMIN from CentOS7 to Rocky Linux 9 as announced previously 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512"&gt;&lt;use href="#fas-up-right-from-square"&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Both roles are full-time open-ended contracts with a starting salary of £33,380 plus a £1,000 welcome bonus!
+You are required to submit a CV and cover letter which clearly outlines how you fulfil the criteria specified along with your motivation for UKRI and the role. The closing date for both roles is Sunday 20th October 2024.&lt;/p&gt;</description></item><item><title>August bank holiday weekend arrangements - Monday 26th and Tuesday 27th August 2024</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-08-22-bank-holiday-weekend-arrangements/</link><pubDate>Thu, 22 Aug 2024 12:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-08-22-bank-holiday-weekend-arrangements/</guid><description>&lt;p&gt;Dear All,&lt;/p&gt;
+&lt;p&gt;Services will be unsupported on Monday 26th and Tuesday 27th August due to the bank holiday on Monday 26th and RAL site holiday on Tuesday 27th. Staff leave during the remainder of the week will also mean that responses to queries may take longer than usual.&lt;/p&gt;</description></item><item><title>CEDA Data Catalogue Update, Today from 3:30-4:30pm</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-08-07-ceda-catalogue-update/</link><pubDate>Wed, 07 Aug 2024 15:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-08-07-ceda-catalogue-update/</guid><description>&lt;p&gt;The CEDA Data Catalogue Service will be updated from 3:30pm today, 7th August to aid harmonisation of services within CEDA and to improve access and licensing information on the catalogue records.&lt;/p&gt;</description></item><item><title>Data, docker and Django - Rory and Zach's Journey at CEDA</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-07-29-zach-and-rory-at-ceda/</link><pubDate>Mon, 29 Jul 2024 10:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-07-29-zach-and-rory-at-ceda/</guid><description>&lt;p&gt;This year, CEDA had the pleasure of welcoming two industrial placement students, Rory Jenns and Zach Wharton, who joined us as Software Engineers for their Industrial Placement year. Hailing from the University of Nottingham and Loughborough University, respectively, Rory and Zach have spent the past 12 months diving into various projects, from software development to stakeholder engagement and system deployment. Let’s take a look at the fantastic work they accomplished during their time with us.&lt;/p&gt;</description></item><item><title>Catalogue service update complete.</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-07-10-moles-back/</link><pubDate>Wed, 10 Jul 2024 17:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-07-10-moles-back/</guid><description>&lt;p&gt;CEDA&amp;rsquo;s data catalogue service update has been complete and should no longer be considered at risk. This roll our brings some minor cosmetic changes to users and a more resilient server overall to reduce future disruption and aid future service roll outs.&lt;/p&gt;</description></item><item><title>CEDA Data Catalogue downtime for maintenance.</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-07-10-moles-outage/</link><pubDate>Wed, 10 Jul 2024 14:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-07-10-moles-outage/</guid><description>&lt;p&gt;The CEDA Data Catalogue will be undergoing maintenance from 3:00 pm until 5:00 pm today, Wednesday the 10th of July. During this time, the service may go offline, and some content may be unavailable.&lt;/p&gt;</description></item><item><title>Software and operating system changes - update 1</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-06-19-software-and-operating-system-changes-update1/</link><pubDate>Wed, 19 Jun 2024 17:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-06-19-software-and-operating-system-changes-update1/</guid><description>&lt;p&gt;This is the first update about our progress migrating operating systems on JASMIN from CentOS7 to Rocky Linux 9 as announced previously 
 
 
 
@@ -240,19 +201,15 @@ You are required to submit a CV and cover letter which clearly outlines how you 
  
  
  
+ 
 
 
 
  
  
 
- &lt;a href="https://www.ceda.ac.uk/news/updates/2024/2024-05-03-software-and-operating-system-updates-coming-soon-to-jasmin/">here&lt;/a>. Details of the migration in particular software packages can be found 
-
-
-
-
-
-
+ 
+ &lt;a href="https://www.ceda.ac.uk/news/updates/2024/2024-05-03-software-and-operating-system-updates-coming-soon-to-jasmin/"&gt;here&lt;/a&gt;. Details of the migration in particular software packages can be found 
 
 
 
@@ -267,6 +224,42 @@ You are required to submit a CV and cover letter which clearly outlines how you 
  
 
 
+ &lt;a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/rocky9-migration-2024" target="_blank" rel="noopener noreferrer nofollow"&gt;here&amp;nbsp;
+
+
+
+
+
+
+
+
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512"&gt;&lt;use href="#fas-up-right-from-square"&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Fostering Early Career Excellence - Insights from the NCAS Early Career Symposium</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-05-14-ceda-at-ncas-symposium/</link><pubDate>Tue, 14 May 2024 14:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-05-14-ceda-at-ncas-symposium/</guid><description>&lt;p&gt;The National Centre for Atmospheric Science (NCAS) recently hosted the first-ever symposium for the early career atmospheric science community - Harmony in the Skies: Bridging Horizons in Atmospheric Science. Two CEDA graduates, Jesse Alexander and Nicola Farmer, helped organise the event, which was designed to bring staff early in their atmospheric science careers together.&lt;/p&gt;</description></item><item><title>Software and operating system updates coming soon to JASMIN</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-05-03-software-and-operating-system-updates-coming-soon-to-jasmin/</link><pubDate>Fri, 03 May 2024 09:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-05-03-software-and-operating-system-updates-coming-soon-to-jasmin/</guid><description>&lt;h2 id="moving-to-rocky-linux-9" class="heading"&gt;Moving to Rocky Linux 9&lt;a href="#moving-to-rocky-linux-9" aria-labelledby="moving-to-rocky-linux-9"&gt;
+
+
+
+
+
+
+
+
+&lt;!-- &lt;i class="fas fa-link anchor"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 640 512"&gt;&lt;use href="#fas-link"&gt;&lt;/use&gt;&lt;/svg&gt;&amp;nbsp;
+ &lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;For the past few weeks and months we have been preparing for a change of operating system version on JASMIN. We are now sharing our plans and progress with you, so that you are aware of the remaining changes about to happen. We can then keep you up to date with further progress as the migration gets underway.&lt;/p&gt;</description></item><item><title>CEDA facilitating simplified access to Earth observation data - EO DataHub awards £3 million</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-04-30-eodh-awards-3million/</link><pubDate>Tue, 30 Apr 2024 16:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-04-30-eodh-awards-3million/</guid><description>&lt;p&gt;&lt;strong&gt;CEDA, on behalf of the EO DataHub, is delighted to announce the award of significant further contracts aimed at unlocking the potential of Earth Observation (EO) data and completing the team for this landmark project.&lt;/strong&gt;
+These contracts represent a significant milestone in the collaboration between commercial technology providers, application developers and data sources to deliver a first digital national EO infrastructure.&lt;/p&gt;</description></item><item><title>Easter updates for CEDA and JASMIN users</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-03-27-easter-updates/</link><pubDate>Wed, 27 Mar 2024 16:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-03-27-easter-updates/</guid><description>&lt;p&gt;Please note the following updates for your attention:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CEDA and JASMIN support over the Easter period&lt;/li&gt;
+&lt;li&gt;JASMIN regular scheduled maintenance Tuesday 16th April 2024&lt;/li&gt;
+&lt;li&gt;Updated JASMIN dashboard now available&lt;/li&gt;
+&lt;li&gt;Information for JASMIN cloud tenancy managers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;As usual over the Easter period, CEDA and JASMIN services will be running at risk. Our helpdesks will be closed out of working hours and staff leave during the school holidays also means that staff levels after the Easter weekend may be reduced.&lt;/p&gt;</description></item><item><title>JASMIN storage issues resolved</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-02-27-jasmin-storage-issues-resolved/</link><pubDate>Tue, 27 Feb 2024 14:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-02-27-jasmin-storage-issues-resolved/</guid><description>&lt;p&gt;Dear users,&lt;/p&gt;
+&lt;p&gt;The storage and performance issues from the past few days should now be resolved.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;If you have any further issues, please contact the helpdesk.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>JASMIN storage issues affecting JASMIN and CEDA services</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-02-27-jasmin-storage-issues-many-services-affected/</link><pubDate>Tue, 27 Feb 2024 10:45:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-02-27-jasmin-storage-issues-many-services-affected/</guid><description>&lt;p&gt;The current issue with 
 
 
 
@@ -280,26 +273,8 @@ You are required to submit a CV and cover letter which clearly outlines how you 
 
  
 
-&lt;a href="https://help.jasmin.ac.uk/docs/software-on-jasmin/rocky9-migration-2024" target="_blank" rel="noopener noreferrer nofollow">here&amp;nbsp;
-&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&lt;/a>.&lt;/p></description></item><item><title>Fostering Early Career Excellence - Insights from the NCAS Early Career Symposium</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-05-14-ceda-at-ncas-symposium/</link><pubDate>Tue, 14 May 2024 14:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-05-14-ceda-at-ncas-symposium/</guid><description>&lt;p>The National Centre for Atmospheric Science (NCAS) recently hosted the first-ever symposium for the early career atmospheric science community - Harmony in the Skies: Bridging Horizons in Atmospheric Science. Two CEDA graduates, Jesse Alexander and Nicola Farmer, helped organise the event, which was designed to bring staff early in their atmospheric science careers together.&lt;/p></description></item><item><title>Software and operating system updates coming soon to JASMIN</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-05-03-software-and-operating-system-updates-coming-soon-to-jasmin/</link><pubDate>Fri, 03 May 2024 09:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-05-03-software-and-operating-system-updates-coming-soon-to-jasmin/</guid><description>&lt;h2 id="moving-to-rocky-linux-9" class="heading">Moving to Rocky Linux 9&lt;a href="#moving-to-rocky-linux-9" aria-labelledby="moving-to-rocky-linux-9">
-&lt;!-- &lt;i class="fas fa-link anchor">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-link anchor" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 640 512">&lt;use href="#fas-link">&lt;/use>&lt;/svg>&amp;nbsp;
- &lt;/a>
-&lt;/h2>
-&lt;p>For the past few weeks and months we have been preparing for a change of operating system version on JASMIN. We are now sharing our plans and progress with you, so that you are aware of the remaining changes about to happen. We can then keep you up to date with further progress as the migration gets underway.&lt;/p></description></item><item><title>CEDA facilitating simplified access to Earth observation data - EO DataHub awards £3 million</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-04-30-eodh-awards-3million/</link><pubDate>Tue, 30 Apr 2024 16:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-04-30-eodh-awards-3million/</guid><description>&lt;p>&lt;strong>CEDA, on behalf of the EO DataHub, is delighted to announce the award of significant further contracts aimed at unlocking the potential of Earth Observation (EO) data and completing the team for this landmark project.&lt;/strong>
-These contracts represent a significant milestone in the collaboration between commercial technology providers, application developers and data sources to deliver a first digital national EO infrastructure.&lt;/p></description></item><item><title>Easter updates for CEDA and JASMIN users</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-03-27-easter-updates/</link><pubDate>Wed, 27 Mar 2024 16:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-03-27-easter-updates/</guid><description>&lt;p>Please note the following updates for your attention:&lt;/p>
-&lt;ul>
-&lt;li>CEDA and JASMIN support over the Easter period&lt;/li>
-&lt;li>JASMIN regular scheduled maintenance Tuesday 16th April 2024&lt;/li>
-&lt;li>Updated JASMIN dashboard now available&lt;/li>
-&lt;li>Information for JASMIN cloud tenancy managers&lt;/li>
-&lt;/ul>
-&lt;ol>
-&lt;li>
-&lt;p>As usual over the Easter period, CEDA and JASMIN services will be running at risk. Our helpdesks will be closed out of working hours and staff leave during the school holidays also means that staff levels after the Easter weekend may be reduced.&lt;/p></description></item><item><title>JASMIN storage issues resolved</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-02-27-jasmin-storage-issues-resolved/</link><pubDate>Tue, 27 Feb 2024 14:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-02-27-jasmin-storage-issues-resolved/</guid><description>&lt;p>Dear users,&lt;/p>
-&lt;p>The storage and performance issues from the past few days should now be resolved.&lt;/p>
-&lt;p>&lt;strong>If you have any further issues, please contact the helpdesk.&lt;/strong>&lt;/p></description></item><item><title>JASMIN storage issues affecting JASMIN and CEDA services</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-02-27-jasmin-storage-issues-many-services-affected/</link><pubDate>Tue, 27 Feb 2024 10:45:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-02-27-jasmin-storage-issues-many-services-affected/</guid><description>&lt;p>The current issue with 
+
+ &lt;a href="https://help.jasmin.ac.uk/article/176-storage" target="_blank" rel="noopener noreferrer nofollow"&gt;JASMIN SOF storage&amp;nbsp;
 
 
 
@@ -308,6 +283,10 @@ These contracts represent a significant milestone in the collaboration between c
 
 
 
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512"&gt;&lt;use href="#fas-up-right-from-square"&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt; continues to affect many JASMIN and CEDA services.&lt;/p&gt;</description></item><item><title>CEDA Data Catalogue update at 4pm today</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-02-07-ceda-data-catalogue-update/</link><pubDate>Wed, 07 Feb 2024 13:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-02-07-ceda-data-catalogue-update/</guid><description>&lt;p&gt;The CEDA data catalogue will be temporarily down at 4pm today to allow for an update to be rolled out to enhance our content harvesting by Google to aid wider discoverability of the data in the CEDA archive. We hope that this brief interruption will be kept as short as possible.&lt;/p&gt;</description></item><item><title>JASMIN storage issues - resolved</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-01-22-jasmin-storage-issues/</link><pubDate>Mon, 22 Jan 2024 09:15:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-01-22-jasmin-storage-issues/</guid><description>&lt;div class="d-flex alert alert-info " 
+ role="alert"&gt;
+ &lt;div class="pt-1 pe-2"&gt;
 
 
 
@@ -316,50 +295,13 @@ These contracts represent a significant milestone in the collaboration between c
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-&lt;a href="https://help.jasmin.ac.uk/article/176-storage" target="_blank" rel="noopener noreferrer nofollow">JASMIN SOF storage&amp;nbsp;
-&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&lt;/a> continues to affect many JASMIN and CEDA services.&lt;/p></description></item><item><title>CEDA Data Catalogue update at 4pm today</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-02-07-ceda-data-catalogue-update/</link><pubDate>Wed, 07 Feb 2024 13:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-02-07-ceda-data-catalogue-update/</guid><description>&lt;p>The CEDA data catalogue will be temporarily down at 4pm today to allow for an update to be rolled out to enhance our content harvesting by Google to aid wider discoverability of the data in the CEDA archive. We hope that this brief interruption will be kept as short as possible.&lt;/p></description></item><item><title>JASMIN storage issues - resolved</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-01-22-jasmin-storage-issues/</link><pubDate>Mon, 22 Jan 2024 09:15:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-01-22-jasmin-storage-issues/</guid><description>&lt;div class="d-flex alert alert-info " role="alert">
- &lt;div class="pt-1 pe-2">
-&lt;!-- &lt;i class="fa fa-lightbulb fa-2x fa-fw">&lt;/i> -->
- &lt;svg class="svg-inline--fa fa fa-lightbulb fa-2x fa-fw" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 384 512">&lt;use href="#fa-lightbulb">&lt;/use>&lt;/svg>&amp;nbsp;&lt;/div>
- &lt;div class="flex-grow-1 my-auto">
+&lt;!-- &lt;i class="fa fa-lightbulb fa-2x fa-fw"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fa fa-lightbulb fa-2x fa-fw" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 384 512"&gt;&lt;use href="#fa-lightbulb"&gt;&lt;/use&gt;&lt;/svg&gt;&amp;nbsp;&lt;/div&gt;
+ &lt;div class="flex-grow-1 my-auto"&gt;
  Issues now resolved, please report any further problems.
- &lt;/div>
- &lt;/div>
-&lt;p>Further problems occurred over the weekend with JASMIN’s SOF storage, used for &lt;code>/gws/nopw/j04/*&lt;/code> group workspaces and the CEDA Archive. With LOTUS batch cluster jobs failing for this reason, hosts have been removed from the cluster for the time being.&lt;/p></description></item><item><title>CEDA Annual Report Out Now!</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-01-18-ceda-annual-report-out-now/</link><pubDate>Thu, 18 Jan 2024 09:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-01-18-ceda-annual-report-out-now/</guid><description>&lt;p>Our latest 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;p&gt;Further problems occurred over the weekend with JASMIN’s SOF storage, used for &lt;code&gt;/gws/nopw/j04/*&lt;/code&gt; group workspaces and the CEDA Archive. With LOTUS batch cluster jobs failing for this reason, hosts have been removed from the cluster for the time being.&lt;/p&gt;</description></item><item><title>CEDA Annual Report Out Now!</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-01-18-ceda-annual-report-out-now/</link><pubDate>Thu, 18 Jan 2024 09:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-01-18-ceda-annual-report-out-now/</guid><description>&lt;p&gt;Our latest 
 
 
 
@@ -373,9 +315,8 @@ These contracts represent a significant milestone in the collaboration between c
 
  
 
-&lt;a href="https://zenodo.org/doi/10.5281/zenodo.10522821" target="_blank" rel="noopener noreferrer nofollow">annual report is now available.&amp;nbsp;
-&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&lt;/a> The report presents key statistics about the Centre for Environmental Data Analysis (CEDA) for the past year (2022 - 2023) as well as a series of snapshots of activity, expressed as short highlight reports.&lt;/p></description></item><item><title>Invitation to Tender (ITT) - EO Datahub Datastreams</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-01-17-invitation-to-tender-eodh-datastreams/</link><pubDate>Wed, 17 Jan 2024 17:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-01-17-invitation-to-tender-eodh-datastreams/</guid><description>&lt;p>NCEO and the 
+
+ &lt;a href="https://zenodo.org/doi/10.5281/zenodo.10522821" target="_blank" rel="noopener noreferrer nofollow"&gt;annual report is now available.&amp;nbsp;
 
 
 
@@ -384,50 +325,8 @@ These contracts represent a significant milestone in the collaboration between c
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-&lt;a href="https://eodatahub.org.uk/" target="_blank" rel="noopener noreferrer nofollow">EO DataHub&amp;nbsp;
-&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&lt;/a> team are pleased to announce the release of our latest invitation to tender, the 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512"&gt;&lt;use href="#fas-up-right-from-square"&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt; The report presents key statistics about the Centre for Environmental Data Analysis (CEDA) for the past year (2022 - 2023) as well as a series of snapshots of activity, expressed as short highlight reports.&lt;/p&gt;</description></item><item><title>Invitation to Tender (ITT) - EO Datahub Datastreams</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-01-17-invitation-to-tender-eodh-datastreams/</link><pubDate>Wed, 17 Jan 2024 17:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-01-17-invitation-to-tender-eodh-datastreams/</guid><description>&lt;p&gt;NCEO and the 
 
 
 
@@ -441,10 +340,8 @@ These contracts represent a significant milestone in the collaboration between c
 
  
 
-&lt;a href="https://www.delta-esourcing.com/delta/respondToList.html?accessCode=6Q8HN2F35G" target="_blank" rel="noopener noreferrer nofollow">EO Datahub Datastreams,&amp;nbsp;
-&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&lt;/a> which will be of most interest to &lt;strong>commercial satellite data providers.&lt;/strong>&lt;/p></description></item><item><title>Intermittent CEDA data download issues</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-01-17-intermittent-data-download-issues/</link><pubDate>Wed, 17 Jan 2024 16:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-01-17-intermittent-data-download-issues/</guid><description>&lt;p>Dear Users,&lt;/p>
-&lt;p>We are aware of intermittent issues affecting users using our data download web service (data.ceda.ac.uk) at present. This will occasionally present users with an &amp;lsquo;Internal Error&amp;rsquo; page. This can usually be addressed by refreshing the page.&lt;/p></description></item><item><title>Telespazio UK win EO DataHub Platform Software Development and Operations contract</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-01-05-telespazio-uk-win-eo-datahub-platform-software-development-and-operations-contract/</link><pubDate>Fri, 05 Jan 2024 16:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-01-05-telespazio-uk-win-eo-datahub-platform-software-development-and-operations-contract/</guid><description>&lt;p>We are pleased to announce the winner of the EO DataHub Platform Software Development and Operations ITT– 
+
+ &lt;a href="https://eodatahub.org.uk/" target="_blank" rel="noopener noreferrer nofollow"&gt;EO DataHub&amp;nbsp;
 
 
 
@@ -453,16 +350,8 @@ These contracts represent a significant milestone in the collaboration between c
 
 
 
-
-
-
-
-
-
-
-
-
-
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512"&gt;&lt;use href="#fas-up-right-from-square"&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt; team are pleased to announce the release of our latest invitation to tender, the 
 
 
 
@@ -476,14 +365,58 @@ These contracts represent a significant milestone in the collaboration between c
 
  
 
-&lt;a href="https://telespazio.co.uk/en/" target="_blank" rel="noopener noreferrer nofollow">Telespazio UK, a subsidiary of Telespazio (a joint venture between Leonardo, 67%, and Thales, 33%).&amp;nbsp;
-&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs">&lt;/i> -->
- &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512">&lt;use href="#fas-up-right-from-square">&lt;/use>&lt;/svg>&lt;/a> The EODH team are excited to start the development process of the new data platform with one of Europe’s leading players in space applications and services.&lt;/p></description></item><item><title>Release of EO DataHub Applications and Integrations ITT</title><link>https://www.ceda.ac.uk/news/updates/2023/2023-12-19-eodh-itt-announcement/</link><pubDate>Tue, 19 Dec 2023 11:15:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2023/2023-12-19-eodh-itt-announcement/</guid><description>&lt;div class="d-flex alert alert-info " role="alert">
- &lt;div class="pt-1 pe-2">
-&lt;!-- &lt;i class="fa fa-lightbulb fa-2x fa-fw">&lt;/i> -->
- &lt;svg class="svg-inline--fa fa fa-lightbulb fa-2x fa-fw" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 384 512">&lt;use href="#fa-lightbulb">&lt;/use>&lt;/svg>&amp;nbsp;&lt;/div>
- &lt;div class="flex-grow-1 my-auto">
+
+ &lt;a href="https://www.delta-esourcing.com/delta/respondToList.html?accessCode=6Q8HN2F35G" target="_blank" rel="noopener noreferrer nofollow"&gt;EO Datahub Datastreams,&amp;nbsp;
+
+
+
+
+
+
+
+
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512"&gt;&lt;use href="#fas-up-right-from-square"&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt; which will be of most interest to &lt;strong&gt;commercial satellite data providers.&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Intermittent CEDA data download issues</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-01-17-intermittent-data-download-issues/</link><pubDate>Wed, 17 Jan 2024 16:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-01-17-intermittent-data-download-issues/</guid><description>&lt;p&gt;Dear Users,&lt;/p&gt;
+&lt;p&gt;We are aware of intermittent issues affecting users using our data download web service (data.ceda.ac.uk) at present. This will occasionally present users with an &amp;lsquo;Internal Error&amp;rsquo; page. This can usually be addressed by refreshing the page.&lt;/p&gt;</description></item><item><title>Telespazio UK win EO DataHub Platform Software Development and Operations contract</title><link>https://www.ceda.ac.uk/news/updates/2024/2024-01-05-telespazio-uk-win-eo-datahub-platform-software-development-and-operations-contract/</link><pubDate>Fri, 05 Jan 2024 16:30:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2024/2024-01-05-telespazio-uk-win-eo-datahub-platform-software-development-and-operations-contract/</guid><description>&lt;p&gt;We are pleased to announce the winner of the EO DataHub Platform Software Development and Operations ITT– 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ &lt;a href="https://telespazio.co.uk/en/" target="_blank" rel="noopener noreferrer nofollow"&gt;Telespazio UK, a subsidiary of Telespazio (a joint venture between Leonardo, 67%, and Thales, 33%).&amp;nbsp;
+
+
+
+
+
+
+
+
+&lt;!-- &lt;i class="fas fa-up-right-from-square fa-2xs"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512"&gt;&lt;use href="#fas-up-right-from-square"&gt;&lt;/use&gt;&lt;/svg&gt;&lt;/a&gt; The EODH team are excited to start the development process of the new data platform with one of Europe’s leading players in space applications and services.&lt;/p&gt;</description></item><item><title>Release of EO DataHub Applications and Integrations ITT</title><link>https://www.ceda.ac.uk/news/updates/2023/2023-12-19-eodh-itt-announcement/</link><pubDate>Tue, 19 Dec 2023 11:15:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2023/2023-12-19-eodh-itt-announcement/</guid><description>&lt;div class="d-flex alert alert-info " 
+ role="alert"&gt;
+ &lt;div class="pt-1 pe-2"&gt;
+
+
+
+
+
+
+
+
+&lt;!-- &lt;i class="fa fa-lightbulb fa-2x fa-fw"&gt;&lt;/i&gt; --&gt;
+ &lt;svg class="svg-inline--fa fa fa-lightbulb fa-2x fa-fw" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 384 512"&gt;&lt;use href="#fa-lightbulb"&gt;&lt;/use&gt;&lt;/svg&gt;&amp;nbsp;&lt;/div&gt;
+ &lt;div class="flex-grow-1 my-auto"&gt;
  Deadline now extended to 29 January 2024, 14:00
- &lt;/div>
- &lt;/div>
-&lt;p>NCEO and the EO DataHub team are pleased to announce the release of our latest invitation to tender, the EO DataHub Applications and Integrations ITT. The tender is now open for submissions and will close on the &lt;strong>29 January 2024, 14:00&lt;/strong>:&lt;/p></description></item><item><title>Join our Communicating Climate Uncertainty Workshop on November 30th!</title><link>https://www.ceda.ac.uk/news/updates/2023/2023-11-28-communicating-climate-uncertainty-workshop/</link><pubDate>Tue, 28 Nov 2023 10:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2023/2023-11-28-communicating-climate-uncertainty-workshop/</guid><description>&lt;p>You are invited to a workshop on Uncertainty, delving into the crucial dialogue surrounding how users and providers of climate information navigate uncertainties.&lt;/p></description></item><item><title>CEDA / JASMIN latest improvements</title><link>https://www.ceda.ac.uk/news/updates/2023/2023-11-23-ceda-jasmin-latest-improvments/</link><pubDate>Thu, 23 Nov 2023 10:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2023/2023-11-23-ceda-jasmin-latest-improvments/</guid><description>&lt;p>During the recent CEDA/JASMIN downtime we took the opportunity to make a range of changes, mostly behind the scenes, to make things more resilient and roll out a few enhancements. We’ve rounded these up here to share with our communities, to show how we made the best of the inevitable disruption to make improvements which benefit our user communities and ourselves in our day-to-day operations.&lt;/p></description></item></channel></rss>
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;p&gt;NCEO and the EO DataHub team are pleased to announce the release of our latest invitation to tender, the EO DataHub Applications and Integrations ITT. The tender is now open for submissions and will close on the &lt;strong&gt;29 January 2024, 14:00&lt;/strong&gt;:&lt;/p&gt;</description></item><item><title>Join our Communicating Climate Uncertainty Workshop on November 30th!</title><link>https://www.ceda.ac.uk/news/updates/2023/2023-11-28-communicating-climate-uncertainty-workshop/</link><pubDate>Tue, 28 Nov 2023 10:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2023/2023-11-28-communicating-climate-uncertainty-workshop/</guid><description>&lt;p&gt;You are invited to a workshop on Uncertainty, delving into the crucial dialogue surrounding how users and providers of climate information navigate uncertainties.&lt;/p&gt;</description></item><item><title>CEDA / JASMIN latest improvements</title><link>https://www.ceda.ac.uk/news/updates/2023/2023-11-23-ceda-jasmin-latest-improvments/</link><pubDate>Thu, 23 Nov 2023 10:00:00 +0000</pubDate><guid>https://www.ceda.ac.uk/news/updates/2023/2023-11-23-ceda-jasmin-latest-improvments/</guid><description>&lt;p&gt;During the recent CEDA/JASMIN downtime we took the opportunity to make a range of changes, mostly behind the scenes, to make things more resilient and roll out a few enhancements. We’ve rounded these up here to share with our communities, to show how we made the best of the inevitable disruption to make improvements which benefit our user communities and ourselves in our day-to-day operations.&lt;/p&gt;</description></item></channel></rss>
