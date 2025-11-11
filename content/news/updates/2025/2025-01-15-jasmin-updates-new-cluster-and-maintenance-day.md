@@ -6,7 +6,7 @@ thumbnail:
 icon: fas server text-info
 ---
 
-{{<alert type="danger">}}
+{{<alert alert-type="danger">}}
 Important updates regarding LOTUS cluster and upcoming maintenance on JASMIN
 {{</alert>}}
 

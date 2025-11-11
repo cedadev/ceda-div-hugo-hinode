@@ -6,7 +6,7 @@ thumbnail:
 icon: fa-solid fa-gear text-warning
 ---
 
-{{<alert type="danger">}}Please read - affects ALL users{{</alert>}}
+{{<alert alert-type="danger">}}Please read - affects ALL users{{</alert>}}
 
 - Upcoming host retirements
 - Update on SOF storage issue

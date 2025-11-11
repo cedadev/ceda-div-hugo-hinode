@@ -11,10 +11,10 @@ As previously announced, we will be hosting the next JASMIN conference at our ho
 
 {{< link "https://www.eventbrite.co.uk/e/jasmin2023-user-conference-tickets-721151001057" >}}Registration is now open{{< /link >}} but...
 
-{{< alert type="info" >}}
+{{< alert alert-type="info" >}}
     Deadline for attendee registration is Monday 23rd October!
 {{< /alert >}}
-{{< alert type="info" >}}
+{{< alert alert-type="info" >}}
     Deadline for technical talk contribution is **today**, Friday 20th October!
 {{< /alert >}}
 

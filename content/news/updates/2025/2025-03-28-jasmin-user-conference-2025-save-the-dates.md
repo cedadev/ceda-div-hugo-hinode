@@ -6,7 +6,7 @@ thumbnail:
 icon: fas people-group text-success
 ---
 
-{{<alert type="info">}}
+{{<alert alert-type="info">}}
 IMPORTANT - Please note **change of dates**
 {{</alert>}}
 

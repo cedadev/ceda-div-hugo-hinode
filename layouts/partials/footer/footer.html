@@ -11,15 +11,15 @@
                 <h2 class="footer-heading">Useful links</h2>
                 <ul class="list-unstyled">
                     <li>
-                        {{ $link := partial "assets/link.html" (dict "destination" (index site.Params.links "ceda_archive") "text" "CEDA Archive" "class" "link-bg-footer" "page" .Page) }}
+                        {{ $link := partial "assets/link.html" (dict "href" (index site.Params.links "ceda_archive") "text" "CEDA Archive" "class" "link-bg-footer" "page" .Page) }}
                         {{ $link | safeHTML }}
                     </li>
                     <li>
-                        {{ $link := partial "assets/link.html" (dict "destination" (index site.Params.links "ceda_catalogue") "text" "CEDA Catalogue" "class" "link-bg-footer" "page" .Page) }}
+                        {{ $link := partial "assets/link.html" (dict "href" (index site.Params.links "ceda_catalogue") "text" "CEDA Catalogue" "class" "link-bg-footer" "page" .Page) }}
                         {{ $link | safeHTML }}
                     </li>
                     <li>
-                        {{ $link := partial "assets/link.html" (dict "destination" (index site.Params.links "jasmin") "text" "JASMIN" "class" "link-bg-footer" "page" .Page) }}
+                        {{ $link := partial "assets/link.html" (dict "href" (index site.Params.links "jasmin") "text" "JASMIN" "class" "link-bg-footer" "page" .Page) }}
                         {{ $link | safeHTML }}
                     </li>
                 </ul>
@@ -31,11 +31,11 @@
                 </h2>
                 <ul class="list-unstyled">
                     <li>
-                        {{ $link := partial "assets/link.html" (dict "destination" (index site.Params.links "ceda_helpdocs") "text" "Documentation" "class" "link-bg-footer" "page" .Page) }}
+                        {{ $link := partial "assets/link.html" (dict "href" (index site.Params.links "ceda_helpdocs") "text" "Documentation" "class" "link-bg-footer" "page" .Page) }}
                         {{ $link | safeHTML }}
                     </li>
                     <li>
-                        {{ $link := partial "assets/link.html" (dict "destination" (index site.Params.links "ceda_contact") "text" "Get in touch" "class" "link-bg-footer" "page" .Page) }}
+                        {{ $link := partial "assets/link.html" (dict "href" (index site.Params.links "ceda_contact") "text" "Get in touch" "class" "link-bg-footer" "page" .Page) }}
                         {{ $link | safeHTML }}
                     </li>
                 </ul>
@@ -43,29 +43,33 @@
 
             <div class="text-right col-md-5">
                 <a href="{{ site.Params.links.stfc }}">
-                    <img src="/img/logos/UKRI_STF_Council-Logo_Horiz-RGB_h80.png" class="img-fluid" style="max-width: 300px;" alt="UKRI/STFC logo" title="UKRI/STFC logo">
+                    {{- $logo := partial "assets/image.html" (dict "src" "img/logos/UKRI_STF_Council-Logo_Horiz-RGB_h80.png" "title" "STFC Logo" "image-width" "250") -}}
+                    {{ $logo | safeHTML }}
                 </a>
                 <br>
                 <a href="{{ site.Params.links.nerc }}">
-                    <img src="/img/logos/UKRI_NER_Council-Logo_Horiz-RGB_h80.png" class="img-fluid" style="max-width: 300px;" alt="UKRI/NERC logo" title="UKRI/NERC logo">
+                    {{- $logo := partial "assets/image.html" (dict "src" "img/logos/UKRI_NER_Council-Logo_Horiz-RGB_h80.png" "title" "NERC Logo" "image-width" "250") -}}
+                    {{ $logo | safeHTML }}
                 </a>
-                <br>
+                <br><br>
                 <a href="{{ site.Params.links.ncas }}">
-                    <img src="/img/logos/ncas-logo-light.png" class="img-fluid" style="max-width: 200px;" alt="NCAS logo" title="NCAS logo">
+                    {{- $logo := partial "assets/image.html" (dict "src" "img/logos/ncas-logo-light.png" "title" "NCAS Logo" "image-width" "200") -}}
+                    {{ $logo | safeHTML }}
                 </a>
-                <br>
+                <br><br>
                 <a href="{{ site.Params.links.nceo }}">
-                    <img src="/img/logos/nceo-logo-light.svg" class="img-fluid mt-2" style="max-width: 200px;" alt="NCEO logo" title="NCEO logo">
+                    {{- $logo := partial "assets/image.html" (dict "src" "img/logos/nceo-logo-light.svg" "title" "NCEO Logo" "image-width" "200") -}}
+                    {{ $logo | safeHTML }}
                 </a>
             </div>
 
         </div>
         <small>
-            {{ $link := partial "assets/link.html" (dict "destination" "/accessibility" "text" "Accessibility | " "class" "link-bg-footer" "page" .Page) }}
+            {{ $link := partial "assets/link.html" (dict "href" "/accessibility" "text" "Accessibility | " "class" "link-bg-footer" "page" .Page) }}
             {{ $link | safeHTML }}
-            {{ $link := partial "assets/link.html" (dict "destination" "/disclaimer" "text" "Disclaimer | " "class" "link-bg-footer" "page" .Page) }} 
+            {{ $link := partial "assets/link.html" (dict "href" "/disclaimer" "text" "Disclaimer | " "class" "link-bg-footer" "page" .Page) }} 
             {{ $link | safeHTML }}
-            {{ $link := partial "assets/link.html" (dict "destination" "/privacy-and-cookies" "text" "Privacy and Cookies" "class" "link-bg-footer" "page" .Page) }}
+            {{ $link := partial "assets/link.html" (dict "href" "/privacy-and-cookies" "text" "Privacy and Cookies" "class" "link-bg-footer" "page" .Page) }}
             {{ $link | safeHTML }}
             <br>
             {{- $copyright := printf "%s © %s %s %s." (T "copyright") (dateFormat "2006" now) .Site.Title (T "rights") }}

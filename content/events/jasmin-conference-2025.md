@@ -6,7 +6,7 @@ icon: fas people-group text-danger
 description: CANCELLED - see details
 ---
 
-{{<alert type="danger">}}
+{{<alert alert-type="danger">}}
 We have reluctantly taken the decision NOT to go ahead with the current plan for the JASMIN User Conference scheduled for 1-2 October 2025. Low registration numbers meant that an in-person event was not viable in its planned format.
 
 The team is currently in discussion about a series of webinars over coming weeks which will provide an alternative platform for presenting some of the conference material and opportunities for community discussion: please look out for further announcements.

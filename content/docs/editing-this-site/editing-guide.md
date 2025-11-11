@@ -24,9 +24,9 @@ and is written in Markdown format, but with a few extra features provided by bot
 Two further links in the site's navbar point to components whose content is managed elsewhere:
 
 - **Status**
-  - CEDA/JASMIN service status: this page is a single-page section of this site that renders a JSON feed of events, content for which is stored in the {{<link url="https://github.com/cedadev/ceda-status">}}ceda-status{{</link>}} repository.
+  - CEDA/JASMIN service status: this page is a single-page section of this site that renders a JSON feed of events, content for which is stored in the {{<link href="https://github.com/cedadev/ceda-status">}}ceda-status{{</link>}} repository.
 - **Techblog**
-  - an external link to the separately-hosted CEDA TechBlog, maintained {{<link url="https://github.com/cedadev/tech-blog">}}here{{</link>}}
+  - an external link to the separately-hosted CEDA TechBlog, maintained {{<link href="https://github.com/cedadev/tech-blog">}}here{{</link>}}
 
 The site uses a system of templates to transform content in markdown format, into a set of static web pages. So all the different views
 of the site are pre-generated. So instead of there being an "admin" interface to edit the website as with previous platforms,
@@ -162,7 +162,7 @@ By using a well-maintained set of tools and taking care with authoring, reviewin
 #### Links
 
 - Use labelled links instead of describing what to do: avoid "please follow the link below"
-- Use a {{< button color="primary" href="#!" size="md" >}}button{{< /button >}} to make important links or actions visually distinct
+- Use a {{< button color="primary" href="#!" button-size="md" >}}button{{< /button >}} to make important links or actions visually distinct
 - In-page links are automatically generated from subheadings (hover to see them), so don't make your own.
 - Use the {{<link "https://gethinode.com/docs/components/link/">}}link{{</link>}} shortcode where possible, as this makes it easier to control their appearance throughout the site. But if you can't bothered, the `[markdown](#url)` format works too.
 - You can link to things by name, slug, url or (if needed) path to the markdown file. See the `link` documentation for examples.
@@ -179,7 +179,7 @@ Hinode has some clever image-formatting features, see {{<link "https://gethinode
 Store images for a news item post in `assets/img/YYYY/YYYY-slug/` and choose one of them as the thumbnail. Others can be referred to in the text 
 using the `image` shortcode, e.g.
 
-{{< example lang="hugo" show_preview="false" >}}
+{{< example lang="hugo" show-preview="false" >}}
 {{</* image src="img/flowers.jpg" ratio="3x2" caption="image caption" */>}}
 {{< /example >}}
 
@@ -221,11 +221,11 @@ read and more engaging as content.
 
 - Use **alerts** to really grab attention
 
-{{<alert type="info">}}
+{{<alert alert-type="info">}}
 This is an alert of type `"info"`
 {{</alert>}}
 
-{{<alert type="danger">}}
+{{<alert alert-type="danger">}}
 This is an alert of type `"danger"`
 {{</alert>}}
 
