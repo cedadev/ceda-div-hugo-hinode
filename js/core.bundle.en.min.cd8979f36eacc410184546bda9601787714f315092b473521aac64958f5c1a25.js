@@ -6589,16 +6589,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 0,
         href: "/news/updates/2020/2020-10-09-lotus-reservation-for-benchmark-work-10-october-4pm-8pm-and-17-october-4pm-to-8pm/",
-        title: "‘LOTUS reservation for benchmark work’ 10 October 4pm - 8pm and 17 October 4pm to 8pm.",
+        title: "‘LOTUS reservation for benchma...",
         description: "Dear JASMIN user,\nThe LOTUS batch processing cluster will be unavailable for the duration of the benchmark work. The SLURM batch reservation will start on Saturday 10 October 4pm - 8pm and Saturday 17th October 4pm to 8pm. Any job submitted before that time with a running time that goes over the reservation period will not start until after the reservation has finished.\nNote: jobs submitted to the long-serial queue may be affected.\n",
         
         
         content: "Dear JASMIN user,\nThe LOTUS batch processing cluster will be unavailable for the duration of the benchmark work. The SLURM batch reservation will start on Saturday 10 October 4pm - 8pm and Saturday 17th October 4pm to 8pm. Any job submitted before that time with a running time that goes over the reservation period will not start until after the reservation has finished.\nNote: jobs submitted to the long-serial queue may be affected.\nThank you for your cooperation\nJASMIN team"
       })
       .add(
+      
       
       
       
@@ -6617,10 +6621,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 2,
         href: "/news/updates/2019/2019-03-13-group_workspacesjasmin4-volumes-are-currently-offline/",
-        title: "/group_workspaces/jasmin4/ volumes are currently offline",
+        title: "/group_workspaces/jasmin4/ vol...",
         description: "Due to technical difficulties the following group workspaces are currently offline:\n/group_workspaces/jasmin4/\nWe are working to resolve this issue but are unable to provide a time frame for resolution at present.\n",
         
         
@@ -6631,10 +6638,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 3,
         href: "/news/updates/2021/2021-05-11-1-cancelled-reboot-of-servers-tuesday-11-may-2021-2-tape-library-maintenance/",
-        title: "1) Cancelled Reboot of servers Tuesday 11 May 2021  2) Tape library maintenance",
+        title: "1) Cancelled Reboot of servers...",
         description: "Dear all,\nApologies for the short notice but the reboot of servers planned for today announced in our recent update is cancelled. This is due to the imminent availability of a newer release which will be rolled out in due course instead, timing TBC.\n",
         
         
@@ -6645,10 +6655,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 4,
         href: "/news/updates/2017/2017-10-12-1-storage-update-gws-and-dataset-access-2-et-interruption-17-oct-now-postponed/",
-        title: "1) Storage update- GWS and Dataset access 2) ET interruption 17 Oct now postponed",
+        title: "1) Storage update- GWS and Dat...",
         description: " A further update on Tuesday\u0026rsquo;s storage issues: Storage systems affected by the issues earlier this week have now been restored to their original management configuration so no longer need to be considered \u0026ldquo;at risk\u0026rdquo;. However there is still some high load in that part of the system which may still result in a slow response for the time being. Affected services/data/volumes are:\n",
         
         
@@ -6659,10 +6672,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 5,
         href: "/news/updates/2021/2021-09-08-1-tape-services-maintenance-13-14-sept-2-globus-endpoint-changes/",
-        title: "1) Tape services maintenance 13-14 Sept, 2) Globus Endpoint changes.",
+        title: "1) Tape services maintenance 1...",
         description: "Dear users\nPlease note the following JASMIN updates:\n1) Tape services maintenance 13-14 September\nTape services including Elastic Tape and the Near-Line Archive service will be unavailable due to system maintenance/upgrade work on 13th \u0026amp; 14th September. User recalls and ingest of data will be stopped at 12:00 on Monday 13th September ahead of maintenance work on Tuesday 14th September.\n",
         
         
@@ -6673,16 +6689,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 6,
         href: "/news/updates/2010/2010-05-05-2005-spring-school-in-quantitative-eo/",
-        title: "2005 Spring School in Quantitative EO",
+        title: "2005 Spring School in Quantita...",
         description: "**Oxford, UK\n14th March - 24th March, 2004** The seventh Spring School, sponsored by NASA\u0026nbsp; , the UK Natural Environment Research Council\u0026nbsp; and Research Systems International\u0026nbsp; , will be held in Oxford from 14 to 24 March 2005.\n",
         
         
         content: "**Oxford, UK\n14th March - 24th March, 2004** The seventh Spring School, sponsored by NASA\u0026nbsp; , the UK Natural Environment Research Council\u0026nbsp; and Research Systems International\u0026nbsp; , will be held in Oxford from 14 to 24 March 2005.\nThe focal point of the Spring School 2005 will be the exploitation of data from NASA\u0026rsquo;s AURA mission\u0026nbsp; , with particular emphasis on the retrieval of atmospheric composition. In addition, the MODIS instrument will be used as an example for retrieving surface properties. Teaching will consist of four sets of core lectures which will focus on atmospheric fundamentals, the inverse problem, atmospheric dynamics and atmospheric composition. Also, there will be guest lectures concentrating on specific AURA instruments (HIRDLS, OMI, MLS and TES) as well as an opening talk from a NASA representative who will give an overview of the AURA mission.\nThe Spring School was set up in 1999 with the aim of giving anyone with a degree in mathematics or physical sciences a concise but reasonably thorough introduction to the inverse problem as it applies to Earth Observation."
       })
       .add(
+      
       
       
       
@@ -6701,6 +6721,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 8,
         href: "/news/updates/2010/2010-01-08-2010-user-survey-launched/",
@@ -6711,6 +6732,7 @@ function initIndex() {
         content: "The British Atmospheric Data Centre (BADC) and NERC Earth Observation Data Centre (NEODC) are participating in a study commissioned by the Research Information Network (RIN) and JISC to explore the long-term use and benefits of Research Data Centres. The study will be featuring the activities of a small number of well-established UK Data Centres, including BADC/NEODC, and aims to document the benefits and impacts that effective curation and sharing of research data can deliver to the scientific community and other users. The study is being performed by Technopolis Ltd.\nAs part of this study Technopolis Ltd is running a survey to collect feedback from our users, and we would be very grateful if you could contribute to this exercise by completing a copy of the questionnaire. The survey is being run on-line and you can access the questionnaire through the following link:\nhttp://www.surveymonkey.com/s/6SN8GYK\u0026nbsp; Technopolis Ltd estimate that the survey will take around 15-20 minutes to complete. Your answers will be saved automatically.\nAll individual answers and comments will be treated as strictly confidential and will be non-attributable.\nWe would be grateful if you could complete the questionnaire by Friday 29th January 2010.\nIf you have any questions or comments about the survey please do not hesitate to contact Neil Brown at the following email address: neil.brown@technopolis-group.com\nThank you in advance for your participation and input to this study.\nRegards,\nBADC Helpdesk 8th January 2010"
       })
       .add(
+      
       
       
       
@@ -6729,10 +6751,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 10,
         href: "/news/updates/2024/2024-10-14-ceda-30th-celebration-event/",
-        title: "30 years of CEDA! Come celebrate with us and learn about what we do!",
+        title: "30 years of CEDA! Come celebra...",
         description: "Join us for a special event celebrating 30 years of the Centre for Environmental Data Analysis! \u0026nbsp; To celebrate 30 years of service in the environmental science community, we\u0026rsquo;re having a celebration event on Monday the 25th of November 2024! At this event we will celebrate the past 30 years of innovation, growth, and collaboration at CEDA, showcase the depth and breadth of the work currently we do, and gather your feedback and ideas to shape the next 30 years.\n",
         
         
@@ -6743,10 +6768,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 11,
         href: "/news/updates/2019/2019-08-07-a-day-in-the-life-of-a-work-experience-student/",
-        title: "A day in the life of a work experience student",
+        title: "A day in the life of a work ex...",
         description: "Last week, we had the pleasure of hosting a Year 12 work experience student, Katherine, within the CEDA team. She wrote us a blog post, take a look below to see what she got up to\u0026hellip; \u0026nbsp; ",
         
         
@@ -6757,10 +6785,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 12,
         href: "/news/updates/2003/2003-06-03-a-new-batch-of-high-resolution-radiosonde-data-is/",
-        title: "A new batch of high resolution radiosonde data is now available from the BADC.",
+        title: "A new batch of high resolution...",
         description: " A new batch of high resolution radiosonde data is now available from the BADC. ============================================================================== The dataset now includes more recent data and data from extra stations. In particular 3 years of data from the St Helena site, and data from the new Met Office autosonde sites is now available. More information about the High Resolution data held at the BADC can be found at: \u0026lt;http://badc.nerc.ac.uk/data/rad-highres/\u0026gt; BADC Support 03th June 2003",
         
         
@@ -6771,16 +6802,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 13,
         href: "/news/updates/2002/2002-12-05-a-new-batch-of-high-resolution-radiosonde-data-is/",
-        title: "A new batch of high resolution radiosonde data is now available from the BADC.",
+        title: "A new batch of high resolution...",
         description: " A new batch of high resolution radiosonde data is now available from the BADC. ============================================================================== The dataset now includes more recent data and data from extra stations. In particular 2 years of data from the Mount Pleasant (Falklands) site is included. Data from the Met Office autosonde sites will be made available as soon we have software to read it. More information about the High Resolution data held at the BADC can be found at: \u0026lt;http://badc.nerc.ac.uk/data/rad-highres/\u0026gt; BADC Support 05th December 2002",
         
         
         content: "A new batch of high resolution radiosonde data is now available from the BADC. ============================================================================== The dataset now includes more recent data and data from extra stations. In particular 2 years of data from the Mount Pleasant (Falklands) site is included. Data from the Met Office autosonde sites will be made available as soon we have software to read it. More information about the High Resolution data held at the BADC can be found at: \u0026lt;http://badc.nerc.ac.uk/data/rad-highres/\u0026gt; BADC Support 05th December 2002"
       })
       .add(
+      
       
       
       
@@ -6799,6 +6834,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 15,
         href: "/news/updates/2011/2011-02-23-aatsr-data-unavailable/",
@@ -6813,10 +6849,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 16,
         href: "/news/updates/2010/2010-02-27-aatsr-v20-data-currently-not-available-through-ftp/",
-        title: "AATSR-v2.0 data currently not available through FTP",
+        title: "AATSR-v2.0 data currently not ...",
         description: "The AATSR-v2.0 part of the AATSR_multimission archive is currently unavailable through FTP (but is accessible via the NEODC Browse archive facility). We are working at restoring full FTP access to the archive as soon as possible. We are sorry for the inconvenience this may cause in the meantime.\n",
         
         
@@ -6827,10 +6866,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 17,
         href: "/news/updates/2004/2004-04-28-access-to-all-badc-datasets-restored/",
-        title: "Access to all BADC datasets restored",
+        title: "Access to all BADC datasets re...",
         description: "We are pleased to inform you that we have now solved the technical problem preventing access to some of the BADC datasets - all the BADC datasets are now available for download.\n",
         
         
@@ -6841,10 +6883,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 18,
         href: "/news/updates/2010/2010-10-06-access-to-badc-services-at-risk-this-weekend-9th1/",
-        title: "Access to BADC Services at risk this weekend 9th/10th October",
+        title: "Access to BADC Services at ris...",
         description: "On the weekend of 9th/10th October, there will be some electrical power maintenance work on the Rutherford Appleton Laboratory site, where the BADC is based. It is possible that the BADC electrical power feeds and hence services may be at risk this weekend.\n",
         
         
@@ -6855,10 +6900,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 19,
         href: "/news/updates/2010/2010-03-01-access-to-met-office-radiosonde-archives-fully-re/",
-        title: "Access to Met Office Radiosonde archives fully restored",
+        title: "Access to Met Office Radiosond...",
         description: "We are pleased to inform BADC users that access to the the Met Office Radiosonde archives (global standard and UK high-resolution) is now fully restored.\n",
         
         
@@ -6869,10 +6917,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 20,
         href: "/news/updates/2010/2010-06-18-access-to-my-requested-data-area-restored-and-dat/",
-        title: "Access to My requested data area restored and Data Extractor service fully operational again",
+        title: "Access to My requested data ar...",
         description: "Following problems with one of our servers, \u0026ldquo;My requested data\u0026rdquo; directory which can be accessed via My BADC webpage, is available again and access to the Data Extractor service has been restored.\n",
         
         
@@ -6883,10 +6934,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 21,
         href: "/news/updates/2009/2009-12-14-access-to-my-requested-data-directory-and-data-ex/",
-        title: "Access to My requested data directory and Data Extractor service restored",
+        title: "Access to My requested data di...",
         description: "Following problems with one of our servers, \u0026ldquo;My requested data\u0026rdquo; directory which can be accessed via My BADC webpage, is available again and access to the Data Extractor service has been restored.\n",
         
         
@@ -6897,10 +6951,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 22,
         href: "/news/updates/2014/2014-10-03-access-to-the-met-office-mass-archive-on-jasmin-goes-live/",
-        title: "Access to the Met Office MASS archive on JASMIN goes live!",
+        title: "Access to the Met Office MASS ...",
         description: "We are pleased to announce that you may now apply for access to the Met Office MASS data archive from the BADC/JASMIN compute facility.\n",
         
         
@@ -6911,10 +6968,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 23,
         href: "/news/updates/2008/2008-06-03-active-and-chablis-data-now-publicly-available-at/",
-        title: "ACTIVE and CHABLIS data now publicly available at BADC",
+        title: "ACTIVE and CHABLIS data now pu...",
         description: "Data from the NERC ACTIVE consortium project (Aerosol and Chemical Transport In tropical conVection) and data from the NERC-AFI CHABLIS campaign (Chemistry of the Antarctic Boundary Layer and the Interface with Snow) are now publicly available at BADC.\n",
         
         
@@ -6925,10 +6985,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 24,
         href: "/news/updates/2005/2005-10-25-additional-forecast-fields-available-in-era-40-da/",
-        title: "Additional forecast fields available in ERA-40 dataset",
+        title: "Additional forecast fields ava...",
         description: "We have recently added some additional forecast fields available to the ERA-40 dataset held at the BADC. Due to user demand additional single/surface level forecasts have been extracted as follows in the ERA-40 archive:\n",
         
         
@@ -6939,10 +7002,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 25,
         href: "/news/updates/2010/2010-02-05-advance-notice-no-site-access-between-0800-0830-o/",
-        title: "Advance notice - no site access between 0800-0830 on 09/02/2010",
+        title: "Advance notice - no site acces...",
         description: "On Tuesaday 9th February the Site Access Router for the Rutherford Appleton Laboratory, where the BADC is based, will be upgraded. It is anticipated that access will not be possible from 0800 to around 0830, but access should be considered at risk from 0700 to 1000.\n",
         
         
@@ -6953,10 +7019,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 26,
         href: "/news/updates/2019/2019-12-19-advance-notice-jasmin-maintenance-tues-14-jan-2020/",
-        title: "Advance notice JASMIN maintenance Tues 14 Jan 2020",
+        title: "Advance notice JASMIN maintena...",
         description: "Scheduled maintenance is planned for Tuesday 14th January 2020, which could result in disruption to JASMIN systems, services and data in addition to the CEDA Archive.\n",
         
         
@@ -6967,10 +7036,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 27,
         href: "/news/updates/2023/2023-07-25-advance-notice-of-jasmin-power-maintenance-autumn-2023/",
-        title: "Advance notice of JASMIN power maintenance Autumn 2023",
+        title: "Advance notice of JASMIN power...",
         description: "Dear Users,\nPlease be advised that at some point between October and the end of the year, work will take place in the data centre (machine room) where JASMIN is hosted to carry out safety checks and 5-yearly recertification of power supply equipment.\n",
         
         
@@ -6981,10 +7053,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 28,
         href: "/news/updates/2012/2012-02-13-advance-warning-badcneodc-services-at-risk-142-and-18-192/",
-        title: "Advance warning - BADC/NEODC Services at risk 14/2 and 18-19/2",
+        title: "Advance warning - BADC/NEODC S...",
         description: "Maintenance work associated to the BADC and NEODC servers will be taking place on Tuesday 14th February - this will affect access to the Project Space area and to some BADC and NEODC datasets.\n",
         
         
@@ -6995,10 +7070,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 29,
         href: "/news/updates/2011/2011-03-07-advance-warning-neodc-services-at-risk/",
-        title: "Advance Warning - NEODC Services at risk",
+        title: "Advance Warning - NEODC Servic...",
         description: "Advance Warning - BADC Services at risk 15/3 and 9-10/4 \u0026nbsp; Maintenance work will be taking place on Tuesday 15th March and the weekend of 9th-10th April at the Rutherford Appleton Laboratory. During this time BADC and NEODC website and services will be at risk or unavailable.\n",
         
         
@@ -7009,10 +7087,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 30,
         href: "/news/updates/2010/2010-11-10-advance-warning-neodc-services-down-this-weekend/",
-        title: "Advance Warning - NEODC Services Down this weekend",
+        title: "Advance Warning - NEODC Servic...",
         description: "NEODC services will be down this coming weekend (evening of Friday 12th to Sunday 14th) and should be considered at risk at the end of this period while essential upgrades to the electricity supply at the Rutherford Appleton Laboratory take place.\n",
         
         
@@ -7023,10 +7104,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 31,
         href: "/news/updates/2011/2011-03-07-advance-warning-of-site-maintenance-work-badc-ser/",
-        title: "Advance warning of site maintenance work  - BADC services and website at risk",
+        title: "Advance warning of site mainte...",
         description: "Maintenance work will be taking place on Tuesday 15th March and the weekend of 9th-10th April at the Rutherford Appleton Laboratory. During this time BADC and NEODC website and services will be at risk or unavailable.\n",
         
         
@@ -7037,10 +7121,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 32,
         href: "/news/updates/2008/2008-03-11-advanced-notice-site-firewall-updated-badc-servic/",
-        title: "Advanced Notice. Site Firewall Updated BADC Services Affected",
+        title: "Advanced Notice. Site Firewall...",
         description: "The site firewall for the Rutherford Appleton Laboratory, behind which the BADC operates, will be updated Tuesday 18th March between 7.30 am and 8.00 am. There will be no external access to and from BADC during this period. Services will remain at risk for the remainder of the morning.\n",
         
         
@@ -7051,10 +7138,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 33,
         href: "/news/updates/2017/2017-11-09-advanced-warning-ceda-and-jasmin-service-interruption-for-system-update-tue-14th-nov-7-9am/",
-        title: "Advanced Warning CEDA and JASMIN service interruption for system update Tue 14th Nov 7-9am",
+        title: "Advanced Warning CEDA and JASM...",
         description: "System updates will be applied to CEDA and JASMIN servers on Tuesday 14th November between 7-9 am as part of routine maintenance.\n",
         
         
@@ -7065,10 +7155,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 34,
         href: "/news/updates/2022/2022-03-14-advanced-warning-ceda-data-catalogue-offline-10am-15th-march-2022/",
-        title: "Advanced warning CEDA data catalogue offline 10am 15th March 2022",
+        title: "Advanced warning CEDA data cat...",
         description: "The CEDA data catalogue service ( https://catalogue.ceda.ac.uk\u0026nbsp; ) will be temporarily affected tomorrow at 10 am whilst the catalogue service is provisioned with additional resources.\n",
         
         
@@ -7079,10 +7172,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 35,
         href: "/news/updates/2022/2022-07-21-advanced-warning-ceda-data-catalogue-offline-10am-22nd-july-2022/",
-        title: "Advanced warning CEDA data catalogue offline 10am 22nd July 2022",
+        title: "Advanced warning CEDA data cat...",
         description: "The CEDA data catalogue service ( https://catalogue.ceda.ac.uk\u0026nbsp; ) will be temporarily affected tomorrow at 10am for a planned roll-out of new features and bug fixes. The roll-out should only last a few minutes after which normal service will resume.\n",
         
         
@@ -7093,10 +7189,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 36,
         href: "/news/updates/2022/2022-08-08-affected-services-after-power-outage/",
-        title: "Affected services after power outage",
+        title: "Affected services after power ...",
         description: "Dear users\nThere was a brief power outage affecting some CEDA and JASMIN services earlier today. Please bear with us while we restore the affected services.\n",
         
         
@@ -7107,10 +7206,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 37,
         href: "/events/past/nag-jasmin-workshop/",
-        title: "An introduction to NAG \u0026 NAG/Python interface on JASMIN workshop",
+        title: "An introduction to NAG \u0026 NAG/P...",
         description: "An overview of NAG and how the Python interface works on JASMIN.",
         
         
@@ -7121,10 +7223,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 38,
         href: "/news/updates/2022/2022-03-30-announcement-of-opportunity-net-zero-sandpit/",
-        title: "Announcement of Opportunity - funding to support the UKRI Net Zero Digital Research Infrastructure Scoping Project Deadline for funding has been extended to Thursday 28th 1pm",
+        title: "Announcement of Opportunity - ...",
         description: "As part of the Net Zero Digital Research Infrastructure Scoping project\u0026nbsp; , we invite researchers and practitioners to come together in two ‘sandpit’\u0026nbsp; style events. ",
         
         
@@ -7135,10 +7240,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 39,
         href: "/news/updates/2022/2022-05-25-application-software-for-jasmin-lotus-currently-not-accessible/",
-        title: "Application software for JASMIN / LOTUS currently not accessible",
+        title: "Application software for JASMI...",
         description: "There is currently a problem with the host which serves application software in JASMIN/LOTUS. It is currently not accessible, which means that it is not possible to load any modules under /apps/modulefiles or /apps/contrib. The issue is currently being investigated.\n",
         
         
@@ -7149,10 +7257,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 40,
         href: "/news/updates/2022/2022-05-25-application-software-for-jasmin-lotus-is-now-accessible-and-sci3-will-be-rebooted-tomorrow-at-7am/",
-        title: "Application software for JASMIN / LOTUS is now accessible and sci3 will be rebooted tomorrow at 7am",
+        title: "Application software for JASMI...",
         description: "Dear Users,\nWe are pleased to announce that the problem with the host which serves application software in JASMIN/LOTUS was resolved. Applications and libraries available via the module environment /apps/modulefiles or /apps/contrib are now accessible\n",
         
         
@@ -7163,10 +7274,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 41,
         href: "/news/updates/2024/2024-09-10-ceda-now-hiring-2-graduates/",
-        title: "Applications are now open for 2 graduates to join CEDA!",
+        title: "Applications are now open for ...",
         description: "We are currently accepting applications for 2 different graduate roles at CEDA:\nGraduate Environmental Data Scientist\u0026nbsp; Graduate Research Computing Service Support / Software Engineer\u0026nbsp; Both roles are full-time open-ended contracts with a starting salary of £33,380 plus a £1,000 welcome bonus! You are required to submit a CV and cover letter which clearly outlines how you fulfil the criteria specified along with your motivation for UKRI and the role. The closing date for both roles is Sunday 20th October 2024.\n",
         
         
@@ -7177,10 +7291,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 42,
         href: "/news/updates/2024/2024-10-29-isc-course/",
-        title: "Apply now for our Introduction to Scientific Computing Course!",
+        title: "Apply now for our Introduction...",
         description: "This November we will be running an Introduction to Scientific Computing course with the National Centre for Atmospheric Science!",
         
         
@@ -7191,10 +7308,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 43,
         href: "/news/updates/2010/2010-05-05-arsf-az-processing-software-new-version-available/",
-        title: "ARSF AZ processing software  new version available",
+        title: "ARSF AZ processing software  n...",
         description: "The latest Versions of AZGCORR (v475) and AZEXHDF (v.315) are now available from the NEODC data browser\u0026nbsp; .\n",
         
         
@@ -7205,16 +7325,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 44,
         href: "/news/updates/2010/2010-05-05-arsf-ethiopia-deployment-announcement-of-opportun/",
-        title: "ARSF Ethiopia Deployment Announcement of Opportunity",
+        title: "ARSF Ethiopia Deployment Annou...",
         description: "A deployment of the NERC Airborne Research and Survey Facility to Ethiopia is planned for January 2008. The deployment will be undertaken primarily in support of a NERC Consortium Grant, based in northern Ethiopia, but there is potential for support of other projects in Ethiopia generally. Closing data for applications: 2nd July 2007.\n",
         
         
         content: "A deployment of the NERC Airborne Research and Survey Facility to Ethiopia is planned for January 2008. The deployment will be undertaken primarily in support of a NERC Consortium Grant, based in northern Ethiopia, but there is potential for support of other projects in Ethiopia generally. Closing data for applications: 2nd July 2007.\nResearchers wishing to make use of ARSF services are invited to submit by Monday 2 July 2007:\nDetailed proposals, including a supporting scientific case, to be received at Swindon Office; and\nPreliminary Risk Assessments for the ground-based element of the project.\nPlease note that the latest application form and guidance notes must be used. Eligibility information and application forms are available via http://arsf.nerc.ac.uk/howtoapply/\u0026nbsp; .\nThe ARSF Steering Committee will review the applications using standard NERC criteria: successful applicants will be notified in early September 2007 of their inclusion in the flying campaign.\nThe ARSF will undertake data acquisition, processing of and spectral/lidar data free of charge. It will be the responsibility of the Applicant to ensure that they have sufficient resources available to support the ground-based work and data analysis.\nForÂ further information please see the ARSF Announcement of Opportunity\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -7233,6 +7357,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 46,
         href: "/news/updates/2010/2010-05-05-atsr-data-now-available/",
@@ -7247,10 +7372,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 47,
         href: "/news/updates/2025/2025-08-21-august-bank-holiday-updates/",
-        title: "August Bank Holiday Updates - Monday 25th \u0026 Tuesday 26th August 2025",
+        title: "August Bank Holiday Updates - ...",
         description: "Dear all,\nServices will be unsupported on Monday 25th and Tuesday 26th August due to the bank holiday on Monday 25th and the RAL site holiday on Tuesday 26th. Staff leave during the following week will also mean that responses to queries may take longer than usual.\n",
         
         
@@ -7261,16 +7389,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 48,
         href: "/news/updates/2024/2024-08-22-bank-holiday-weekend-arrangements/",
-        title: "August bank holiday weekend arrangements - Monday 26th and Tuesday 27th August 2024",
+        title: "August bank holiday weekend ar...",
         description: "Dear All,\nServices will be unsupported on Monday 26th and Tuesday 27th August due to the bank holiday on Monday 26th and RAL site holiday on Tuesday 27th. Staff leave during the remainder of the week will also mean that responses to queries may take longer than usual.\n",
         
         
         content: "Dear All,\nServices will be unsupported on Monday 26th and Tuesday 27th August due to the bank holiday on Monday 26th and RAL site holiday on Tuesday 27th. Staff leave during the remainder of the week will also mean that responses to queries may take longer than usual.\nWe apologise in advance for any inconvenience.\nHave a good bank holiday weekend.\nJASMIN \u0026amp; CEDA team"
       })
       .add(
+      
       
       
       
@@ -7289,16 +7421,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 50,
         href: "/news/updates/2020/2020-09-30-backlog-of-helpdesk-queries-delayed-response-likely/",
-        title: "Backlog of helpdesk queries  - delayed response likely",
+        title: "Backlog of helpdesk queries  -...",
         description: "Dear all,\nWe are experiencing extremely high numbers of helpdesk queries on the JASMIN helpdesk and now have a significant backlog.\n",
         
         
         content: "Dear all,\nWe are experiencing extremely high numbers of helpdesk queries on the JASMIN helpdesk and now have a significant backlog.\nThis has been caused by the transition to SLURM and the changes to the software stack on the new Centos7 machines. We are aware that these essential updates are causing difficulties for many users.\nWe are a small team, with very unique specialist expertise about the services we run. This expertise is frequently limited to just one or two members of staff. When large scale issues like this occur, unfortunately, there are only a few members of staff with the appropriate expertise to help resolve the issues. The backlog has also been exacerbated by staff absence and staff time spent delivering and preparing for our recent online event (on 29/30th Sept).\nWe are doing our best to get through your issues as quickly as possible but unfortunately, at the moment we are likely to take longer to respond to you.\nPlease be assured that we are dealing with the queries as fast as we can. We apologise for the inevitable inconvenience caused.\nBest wishes,\nJASMIN team"
       })
       .add(
+      
       
       
       
@@ -7317,16 +7453,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 52,
         href: "/news/updates/2007/2007-05-17-badc-adds-citations-to-dataset-webpages/",
-        title: "BADC Adds Citations to Dataset Webpages",
+        title: "BADC Adds Citations to Dataset...",
         description: "We are beginning to add a citation to each dataset\u0026rsquo;s webpage. This should be completed for all BADC datasets within a couple of weeks. For example, see the ACSOE dataset citation.\u0026nbsp; ",
         
         
         content: "We are beginning to add a citation to each dataset\u0026rsquo;s webpage. This should be completed for all BADC datasets within a couple of weeks. For example, see the ACSOE dataset citation.\u0026nbsp; BADC Support17 May 2007"
       })
       .add(
+      
       
       
       
@@ -7345,10 +7485,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 54,
         href: "/news/updates/2010/2010-05-06-badc-and-neodc-supports-the-investigations-into-t/",
-        title: "BADC and NEODC supports the investigations into the Icelandic Volcano",
+        title: "BADC and NEODC supports the in...",
         description: "In response to the volcanic ash plume that entered British airspace from the 14th April, scientists from NERCâs National Centre for Atmospheric Sciences (NCAS) and the European airborne research community (EUFAR) have carried out numerous observations from a variety of research aircraft and ground- based instruments. The BADC has supported these efforts by rapidly responding to the needs of the Atmospheric research community.\n",
         
         
@@ -7359,10 +7502,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 55,
         href: "/news/updates/2005/2005-09-07-badc-at-the-rmets-conference-12-16-september-2005/",
-        title: "BADC at the RMetS Conference - (12 - 16 September 2005)",
+        title: "BADC at the RMetS Conference -...",
         description: "BADC staff will be presenting two workshops at the forthcoming Royal Met Soc conference in Exeter, UK. The workshops will include a 10min presentation by BADC staff members followed by discussions with the workshops attendees\n",
         
         
@@ -7373,16 +7519,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 56,
         href: "/news/updates/2007/2007-09-01-badc-at-the-rmets-main-and-student-conferences-th/",
-        title: "BADC at the RMetS Main and Student Conferences, the 2007 BADC Users Survey and a Chance to win a PD",
+        title: "BADC at the RMetS Main and Stu...",
         description: "The BADC will be sending 7 members of its staff to the Royal Meteorological Society conferences held in Edinburgh from 1st to 6th September 2007. You will be able to find members of staff around the conferences as well as at the BADC trade stand. If you are attending please come along and have a chat with the BADC staff about the services we offer and the science we are involved in. The trade stand will have a number of demonstrations of the type of data sets and services we offer.\n",
         
         
         content: "The BADC will be sending 7 members of its staff to the Royal Meteorological Society conferences held in Edinburgh from 1st to 6th September 2007. You will be able to find members of staff around the conferences as well as at the BADC trade stand. If you are attending please come along and have a chat with the BADC staff about the services we offer and the science we are involved in. The trade stand will have a number of demonstrations of the type of data sets and services we offer.\nThe 1st of September will also see the launch of the 2007 BADC Online Users Survey. We will be using this to gauge how well the BADC is serving the atmospheric science research community, so please spend a little bit of time filling this in. More details can be found on the home page throughout the two months that we are running the survey. Once we have collated the results we will post another news item to give you some feedback.\nYou can get to the survey by going to:\nhttp://www.smart-survey.co.uk/v.asp?i=2634bhvbq\u0026nbsp; And to encourage you to fill in the survey we are running a competition to win a iPAQ hx2490 PDA!\nBADC Helpdesk 31st August 2007"
       })
       .add(
+      
       
       
       
@@ -7401,10 +7551,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 58,
         href: "/news/updates/2010/2010-12-20-badc-closure-between-24th-december-2010-and-4th-j/",
-        title: "BADC closure between 24th December 2010 and 4th January 2011",
+        title: "BADC closure between 24th Dece...",
         description: "The BADC helpdesk will be unavailable from Friday 24th December 2010 to 4th January 2011. All queries received in this period will be answered as soon as possible on our return.\n",
         
         
@@ -7415,10 +7568,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 59,
         href: "/news/updates/2008/2008-12-16-badc-closure-during-christmas-and-new-year-200809/",
-        title: "BADC Closure during Christmas and New Year 2008/09",
+        title: "BADC Closure during Christmas ...",
         description: "The BADC helpdesk will be unavailable from Wednesday 24th December 2008 to 4th January 2009. All queries received in this period will be answered as soon as possible on our return.\n",
         
         
@@ -7429,10 +7585,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 60,
         href: "/news/updates/2001/2001-05-01-badc-contact-details-on-your-wap-phone/",
-        title: "BADC contact details on your WAP phone!",
+        title: "BADC contact details on your W...",
         description: "The BADC contact details are now available from WAP phones. WAP stands for Wireless Application Protocol, and is a world wide standard developed especially to allow mobile phones to access the Internet. Normal web sites on the World Wide Web would take too long to download over a mobile phone connection, and the detailed graphics would be too small to read on a handset display, so WAP takes just the important parts and displays them as text.\n",
         
         
@@ -7443,10 +7602,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 61,
         href: "/news/updates/2002/2002-02-26-badc-data-catalogues-and-registration-system-temp/",
-        title: "BADC data Catalogues and Registration system temporarily unavailable",
+        title: "BADC data Catalogues and Regis...",
         description: "Due to database problems,the \u0026ldquo;Application for access to restricted datasets\u0026rdquo; system (including New User Registration) is temporarily unavailable.\nFor the same reason, the BADC Datasets catalogue is also temporarily unavailable. For the time being, please use the link to List of all datasets in BADC catalogue. Please note that the link to Catalogue Record is not available due to the same problems.\n",
         
         
@@ -7457,10 +7619,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 62,
         href: "/news/updates/2008/2008-10-21-badc-data-extractor-currently-out-of-service/",
-        title: "BADC Data Extractor currently out of service",
+        title: "BADC Data Extractor currently ...",
         description: "The BADC Data Extractor Service is currently down. We are investigating the problems and are working on restoring the service as soon as possible. If you have an urgent extraction requirement please contact the BADC helpdesk for assistance and we will get back to you as soon as we can.\n",
         
         
@@ -7471,10 +7636,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 63,
         href: "/news/updates/2008/2008-07-09-badc-data-extractor-service-back-in-operational-m/",
-        title: "BADC Data Extractor Service back in operational mode",
+        title: "BADC Data Extractor Service ba...",
         description: "The BADC Data Extractor Service is now fully operational.\nInformation about the Data Extractor Service is available at: http://badc.nerc.ac.uk/help/software/dx/\u0026nbsp; ",
         
         
@@ -7485,10 +7653,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 64,
         href: "/news/updates/2008/2008-09-30-badc-data-extractor-service-temporarily-out-of-se/",
-        title: "BADC Data Extractor Service temporarily out of service",
+        title: "BADC Data Extractor Service te...",
         description: "The BADC Data Extractor Service is temporarily down. We are currently investigating the problem and are working at restoring the service as soon as possible. We are sorry for the inconvenience this may cause in the meantime.\n",
         
         
@@ -7499,10 +7670,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 65,
         href: "/news/updates/2008/2008-07-09-badc-data-extractor-service-temporarily-out-of-se/",
-        title: "BADC Data Extractor Service temporarily out of service",
+        title: "BADC Data Extractor Service te...",
         description: "The BADC Data Extractor Service is temporarily down. We are currently investigating the problem and are working at restoring the service as soon as possible. We are sorry for the inconvenience this may cause in the meantime.\n",
         
         
@@ -7513,16 +7687,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 66,
         href: "/news/updates/2009/2009-11-23-badc-disk-failure-datasets-now-back-online/",
-        title: "BADC Disk Failure - Datasets now back online",
+        title: "BADC Disk Failure - Datasets n...",
         description: "Following the unexpected disk failure on 12th November, access to all affected datasets has now been restored:\nCLOUDMAP\u0026nbsp; ",
         
         
         content: "Following the unexpected disk failure on 12th November, access to all affected datasets has now been restored:\nCLOUDMAP\u0026nbsp; Climate Impacts LINK Project\u0026nbsp; - MST\u0026nbsp; TOMS\u0026nbsp; UK Met Office NIMROD rain radar dataset\u0026nbsp; NDACC: The Network for the Detection of Amtopsheric Composition Change\u0026nbsp; BADC Helpdesk 23rd November 2009"
       })
       .add(
+      
       
       
       
@@ -7541,10 +7719,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 68,
         href: "/news/updates/2009/2009-09-09-badc-disk-failure-datasets-now-back-online/",
-        title: "BADC disk failure Datasets now back online",
+        title: "BADC disk failure Datasets now...",
         description: "Following an unexpected disk failure a couple of weeks ago, access to the following datasets has now been restored:\nFAAM - EAQUATE\u0026nbsp; ",
         
         
@@ -7555,10 +7736,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 69,
         href: "/news/updates/2009/2009-11-04-badc-disk-failure-datasets-now-back-online/",
-        title: "BADC Disk Failure Datasets now back online",
+        title: "BADC Disk Failure Datasets now...",
         description: "Following an unexpected disk failure yesterday, access to the following datasets has now been restored:\nAPPRAISE\u0026nbsp; ",
         
         
@@ -7569,10 +7753,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 70,
         href: "/news/updates/2009/2009-11-12-badc-disk-failure-some-dataset-access-affected/",
-        title: "BADC Disk Failure Some dataset access affected",
+        title: "BADC Disk Failure Some dataset...",
         description: "Due to another unexpected disk failure, access to the following datasets is currently affected:\ncloudmap\u0026nbsp; ",
         
         
@@ -7583,10 +7770,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 71,
         href: "/news/updates/2009/2009-11-03-badc-disk-failure-some-datasets-affected/",
-        title: "BADC Disk Failure some datasets affected",
+        title: "BADC Disk Failure some dataset...",
         description: "Due to an unexpected disk failure access to the following datasets is currently affected:\nAPPRAISE\u0026nbsp; ",
         
         
@@ -7597,16 +7787,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 72,
         href: "/news/updates/2009/2009-08-13-badc-disk-failure-some-datasets-affected/",
-        title: "BADC Disk Failure some datasets affected",
+        title: "BADC Disk Failure some dataset...",
         description: "Due to an unexpected disk failure access to the following datasets is currently affected:\nFAAM - EAQUATE\u0026nbsp; ",
         
         
         content: "Due to an unexpected disk failure access to the following datasets is currently affected:\nFAAM - EAQUATE\u0026nbsp; FAAM - NEON\u0026nbsp; FAAM - Production of Ozone of South-east England (POSE)\u0026nbsp; GOME - Global Ozone Monitoring Experiment\nRapid Climate Change (RAPID)\nMet Office MetDB\u0026nbsp; Met Office Land Surface Observation Stations Data\u0026nbsp; - the MIDAS dataset is NOT affected\nOur staff are working to replace the disk at present and data will be recovered from backups as soon as possible.\nFurther updates will be provided by future news item postings on the BADC website and RSS feed.\nWe are sorry for the inconvenience this may cause in the meantime.\nBADC Helpdesk 13th August 2009"
       })
       .add(
+      
       
       
       
@@ -7625,6 +7819,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 74,
         href: "/news/updates/2006/2006-08-10-badc-ftp-server-problems-resolved/",
@@ -7635,6 +7830,7 @@ function initIndex() {
         content: "Recent Server Problems at BADC Are Now Resolved ===================================================== The BADC FTP server is now running again following a few intermittent problems since the end of July. Apologies for the inconvenience. BADC Support 10th August 2006"
       })
       .add(
+      
       
       
       
@@ -7653,10 +7849,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 76,
         href: "/news/updates/2007/2007-10-04-badc-ftp-server-re-configuration-completed/",
-        title: "BADC FTP server Re-configuration - COMPLETED",
+        title: "BADC FTP server Re-configurati...",
         description: "Re-configuration of the FTP server has completed successfully. We hope that the short outages did not cause any inconvenience. Please let us know if you encounter any problems.\n",
         
         
@@ -7667,16 +7866,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 77,
         href: "/news/updates/2007/2007-06-20-badc-helpdesk-software-upgrade-on-monday-25th-june/",
-        title: "BADC Helpdesk Software Upgrade on Monday 25th June",
+        title: "BADC Helpdesk Software Upgrade...",
         description: "On Monday 25th June the BADC will be upgrading the Helpdesk system software. The upgrade will take place in the afternoon and it is hoped to take less than an hour. A news item will be added when it is available again. Please refrain from emailing the badc at this time.\n",
         
         
         content: "On Monday 25th June the BADC will be upgrading the Helpdesk system software. The upgrade will take place in the afternoon and it is hoped to take less than an hour. A news item will be added when it is available again. Please refrain from emailing the badc at this time.\nIf you have an urgent query please telephone 01235 44 6432.\nApologies in advance for any inconvenience this may cause.\nBADC Support20 June 2007"
       })
       .add(
+      
       
       
       
@@ -7695,16 +7898,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 79,
         href: "/news/updates/2008/2008-09-08-badc-midas-data-extractor-service-fully-operation/",
-        title: "BADC MIDAS Data Extractor Service fully operational again",
+        title: "BADC MIDAS Data Extractor Serv...",
         description: "The problem of extracting MIDAS data for individual stations (by src_id) has now been fixed. The BADC Data Extractor service is now fully operational again.\n",
         
         
         content: "The problem of extracting MIDAS data for individual stations (by src_id) has now been fixed. The BADC Data Extractor service is now fully operational again.\nBADC Helpdesk 08th September 2008"
       })
       .add(
+      
       
       
       
@@ -7723,16 +7930,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 81,
         href: "/news/updates/2007/2007-08-13-badc-presence-at-the-rmets-and-student-rmets-conf/",
-        title: "BADC Presence at the RMetS and Student RMetS Conferences",
+        title: "BADC Presence at the RMetS and...",
         description: "In September the BADC will have a stand at both the Student and the Main Royal Meteorological Society conferences in Edinburgh.\n",
         
         
         content: "In September the BADC will have a stand at both the Student and the Main Royal Meteorological Society conferences in Edinburgh.\nMembers of BADC staff will not only be on the stand but also attending the various sessions with both poster and oral presentations being given. We hope that many of our users will take this opportunity to come and have a chat to us about any matters you wish to raise or simply come along and find out more about the range of services the BADC has to offer. The conferences will also mark the launch of a 2 month online survey which the BADC will use to ensure that our services are structured to meet your needs. Watch this space for more information in the coming weeks.\nIn the meantime if you have any questions please contact us using any of the methods on our Contact Us\u0026nbsp; webpage.\nBADC Team 13th August 2007"
       })
       .add(
+      
       
       
       
@@ -7751,10 +7962,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 83,
         href: "/news/updates/2000/2000-02-28-badc-searchable-catalogues-temporarily-unavailable/",
-        title: "BADC Searchable   Catalogues temporarily unavailable.",
+        title: "BADC Searchable   Catalogues t...",
         description: " BADC Searchable Catalogues temporarily unavailable =================================================== Due to database problems, the BADC Datasets catalogue (including the ACSOE catalogue) is temporarily unavailable. For the time being, please use the link to [List of all datasets in BADC catalogue](/data/dataset_index). Please note that the link to *Catalogue Record* is not available due to the same problems. For the same reason, the UKMO Station catalogue is also temporarily unavailable. For the time being, please use the link to [List of Station names and numbers](/data/surface/station_lists/midas_stations.html). We are now working on the problem and hope to restore access to these services as soon as possible. We will let you know when the catalogues are back online. We are sorry for the inconvenience this may cause. BADC Support 28/02/00.",
         
         
@@ -7765,10 +7979,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 84,
         href: "/news/updates/2001/2001-04-19-badc-searchable-catalogues-and-badc-registration-/",
-        title: "BADC Searchable Catalogues and BADC Registration back online",
+        title: "BADC Searchable Catalogues and...",
         description: "The BADC Datasets catalogue (including the ACSOE catalogue), the Met Office Stations catalogue and the Registration Process are now available.\n",
         
         
@@ -7779,10 +7996,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 85,
         href: "/news/updates/2001/2001-04-17-badc-searchable-catalogues-and-badc-registration-/",
-        title: "BADC Searchable Catalogues and BADC Registration temporarily unavailable",
+        title: "BADC Searchable Catalogues and...",
         description: "Due to database problems, the BADC Datasets catalogue (including the ACSOE catalogue) is temporarily unavailable.\nFor the time being, please use the link to List of all datasets in BADC catalogue. Please note that the link to Catalogue Record is not available due to the same problems.\n",
         
         
@@ -7793,10 +8013,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 86,
         href: "/news/updates/2007/2007-10-17-badc-server-issue-hadcm3-control-and-um-data-affe/",
-        title: "BADC Server Issue - Hadcm3-control and UM data affected",
+        title: "BADC Server Issue - Hadcm3-con...",
         description: "Following a technical issue with one of our servers the entire HADCM3-control data and approximately 1/6th of the UM data are currently unavailable.\n",
         
         
@@ -7807,10 +8030,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 87,
         href: "/news/updates/2007/2007-10-25-badc-server-issue-number-of-datasets-affected/",
-        title: "BADC Server Issue - Number of datasets affected",
+        title: "BADC Server Issue - Number of ...",
         description: "Following a technical issue with one of our servers the following datasets are not accessible at present:\ncaesar covex dabex fluxex iasi icepic land-emiss micromix nu-wave raptor rico t-rex visurb Meris l1b data\n",
         
         
@@ -7821,10 +8047,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 88,
         href: "/news/updates/2009/2009-11-30-badc-service-at-risk-due-to-network-upgrade/",
-        title: "BADC Service at risk due to network upgrade",
+        title: "BADC Service at risk due to ne...",
         description: "On Tuesday 1st December, a 10G Ethernet connection will be introduced into our servers room network, between 8:00 and 8:30am. We are told that the introduction should be fairly transparent and that users may not notice the short disruption in general. Our webserver is likely to be the most affected of our machines and so you may encounter temporary problems while browsing through our website.\n",
         
         
@@ -7835,16 +8064,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 89,
         href: "/news/updates/2008/2008-05-06-badc-service-disruption-due-to-site-power-glitch/",
-        title: "BADC service disruption due to site power glitch",
+        title: "BADC service disruption due to...",
         description: "On Tuesday 6th May, Rutherford Appleton Laboratory site, where the BADC is located, experienced a major network outage. As a result of this, BADC and NEODC services were affected. The network outage was caused by a power glitch which took out a major networking wiring room and then had an avalanche effect across site.\n",
         
         
         content: "On Tuesday 6th May, Rutherford Appleton Laboratory site, where the BADC is located, experienced a major network outage. As a result of this, BADC and NEODC services were affected. The network outage was caused by a power glitch which took out a major networking wiring room and then had an avalanche effect across site.\nThe problem has now been solved and all BADC services should all be operational again.\nAs always please let the BADC Helpdesk know if you experience any problems after this time or have any other queries.\nBADC Helpdesk 07th May 2008"
       })
       .add(
+      
       
       
       
@@ -7863,10 +8096,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 91,
         href: "/news/updates/2003/2003-10-16-badc-services-unavailable-18-19th-october-2003/",
-        title: "BADC Services unavailable 18-19th October 2003",
+        title: "BADC Services unavailable 18-1...",
         description: " Due to an electricity supply shutdown at Rutherford Appleton Laboratory (18-19th October 2003), the BADC File server will be consequently temporarily shutdown **from Friday 17th October at 3pm to Sunday 19th October**. The BADC file server is expected to be back online from Monday 20th October. This shutdown unfortunately implies that the BADC Web site and access to data and services will be temporarily unavailable. We are sorry for the inconvenience this may cause. BADC Support 16/10/03.",
         
         
@@ -7877,10 +8113,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 92,
         href: "/news/updates/2011/2011-03-29-badc-spring-clean-disk-maintenance-advance-warning/",
-        title: "BADC Spring Clean - disk maintenance advance warning",
+        title: "BADC Spring Clean - disk maint...",
         description: "Following installation of improved air conditioning units within our server room BADC servers will be routinely taken down for required maintenance to ensure optimum operation. This is required to address some outstanding, non-critical issues as well as some additional disk issues that have recently developed.\n",
         
         
@@ -7891,10 +8130,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 93,
         href: "/news/updates/2007/2007-11-01-badc-survey-and-competion-now-closed/",
-        title: "BADC Survey and Competion now closed",
+        title: "BADC Survey and Competion now ...",
         description: "The 2007 BADC survey and competition are now closed for entries.\nThank you to those of you who took the time to complete the survey. We are looking through the responses now and will post the results in due course. The competition winner will be notified within the next fortnight and the competition answer will be published shortly.\n",
         
         
@@ -7905,10 +8147,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 94,
         href: "/news/updates/2012/2012-05-11-badc-trajectory-service-available-again/",
-        title: "BADC Trajectory Service available again",
+        title: "BADC Trajectory Service availa...",
         description: "The BADC trajectory service is available again at http://badc.nerc.ac.uk/community/trajectory/\u0026nbsp; ",
         
         
@@ -7919,10 +8164,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 95,
         href: "/news/updates/2010/2010-07-15-badc-trajectory-service-back-online/",
-        title: "BADC Trajectory Service back online",
+        title: "BADC Trajectory Service back o...",
         description: "The BADC Trajectory Service is now fully operational again at: http://badc.nerc.ac.uk/community/trajectory/\u0026nbsp; ",
         
         
@@ -7933,10 +8181,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 96,
         href: "/news/updates/2009/2009-12-08-badc-trajectory-service-back-online/",
-        title: "BADC Trajectory Service back online",
+        title: "BADC Trajectory Service back o...",
         description: "The BADC Trajectory Service is now fully operational again at: http://badc.nerc.ac.uk/community/trajectory/\u0026nbsp; ",
         
         
@@ -7947,10 +8198,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 97,
         href: "/news/updates/2012/2012-03-23-badc-trajectory-service-not-available-1/",
-        title: "BADC Trajectory Service not available",
+        title: "BADC Trajectory Service not av...",
         description: "The BADC trajectory service is not currently available due to a technical problem. We are investigating the issue and hope to have access to the service restored shortly. Sorry for any inconvenience.\n",
         
         
@@ -7961,10 +8215,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 98,
         href: "/news/updates/2012/2012-02-28-badc-trajectory-service-not-available/",
-        title: "BADC Trajectory Service not available",
+        title: "BADC Trajectory Service not av...",
         description: "BADC Trajectory Service not available\n",
         
         
@@ -7975,10 +8232,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 99,
         href: "/news/updates/2012/2012-04-05-badc-trajectory-service-now-back-online/",
-        title: "BADC Trajectory Service now back online",
+        title: "BADC Trajectory Service now ba...",
         description: "The BADC trajectory service is now available at http://badc.nerc.ac.uk/community/trajectory/\u0026nbsp; ",
         
         
@@ -7989,10 +8249,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 100,
         href: "/news/updates/2010/2010-07-30-badc-trajectory-service-re-instated/",
-        title: "BADC Trajectory Service re-instated",
+        title: "BADC Trajectory Service re-ins...",
         description: "The BADC Trajectory Service has been re-instated following correction of an issue with the log in scripts.\nWe apologies for the inconvenience the temporary removal of this service may have caused.\n",
         
         
@@ -8003,10 +8266,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 101,
         href: "/news/updates/2010/2010-07-29-badc-trajectory-service-temporarily-not-available/",
-        title: "BADC Trajectory Service temporarily not available",
+        title: "BADC Trajectory Service tempor...",
         description: "We regret that the BADC Trajectory Service is not currently available. We are investigating the issue in the hope to have the BADC trajectory service fixed shortly.\n",
         
         
@@ -8017,10 +8283,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 102,
         href: "/news/updates/2010/2010-07-12-badc-trajectory-service-temporarily-unavailable/",
-        title: "BADC Trajectory Service temporarily unavailable",
+        title: "BADC Trajectory Service tempor...",
         description: "We regret that the BADC Trajectory Service is not currently available. While trajectory runs can apparently be successfully submitted, they don\u0026rsquo;t actually run. We are investigating the issue in the hope to have the BADC trajectory service fixed shortly.\n",
         
         
@@ -8031,16 +8300,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 103,
         href: "/news/updates/2009/2009-12-02-badc-trajectory-service-temporarily-unavailable/",
-        title: "BADC Trajectory Service temporarily unavailable",
+        title: "BADC Trajectory Service tempor...",
         description: "We regret that the BADC Trajectory Service is not currently available due to a technical problem.\nWe hope to have it fixed shortly. Apologies for the inconvenience this may cause in the meantime.\n",
         
         
         content: "We regret that the BADC Trajectory Service is not currently available due to a technical problem.\nWe hope to have it fixed shortly. Apologies for the inconvenience this may cause in the meantime.\nBADC Helpdesk 2nd December 2009"
       })
       .add(
+      
       
       
       
@@ -8059,16 +8332,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 105,
         href: "/news/updates/2011/2011-09-29-badc-webserver-recovery-continued/",
-        title: "BADC Webserver - recovery (continued)",
+        title: "BADC Webserver - recovery (con...",
         description: "The BADC team are continuing to restore services following an attack on our webserver. The NASA Ames file checker and BADC file name convention services are now back online. However, the following services are not currently operational:\n",
         
         
         content: "The BADC team are continuing to restore services following an attack on our webserver. The NASA Ames file checker and BADC file name convention services are now back online. However, the following services are not currently operational:\nTrajectory service File uploader CEDA Visualisation service Search the BADC Website We will restore these as soon as possible. Apologies for the inconvenience this is causing in the meantime.\nRegards,\nBADC/NEODC team 29 September 2011"
       })
       .add(
+      
       
       
       
@@ -8087,16 +8364,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 107,
         href: "/news/updates/2010/2010-08-04-badc-webserver-and-website-down-this-afternoon/",
-        title: "BADC Webserver and website down this afternoon",
+        title: "BADC Webserver and website dow...",
         description: "Following a hardware failure on Sunday our web server will be down for a few hours this afternoon to allow essential hardware to be replaced and services migrated back over to our web server. We anticipate that disruption will be kept to a minimum and will post a news item once services have been restored.\n",
         
         
         content: "Following a hardware failure on Sunday our web server will be down for a few hours this afternoon to allow essential hardware to be replaced and services migrated back over to our web server. We anticipate that disruption will be kept to a minimum and will post a news item once services have been restored.\nWe apologies for the inconvenience the temporary removal of this service may have caused.\nBADC Helpdesk 4th August 2010"
       })
       .add(
+      
       
       
       
@@ -8115,10 +8396,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 109,
         href: "/news/updates/2009/2009-04-30-badc-website-and-services-affected-by-network-del/",
-        title: "BADC Website and services affected by network delays",
+        title: "BADC Website and services affe...",
         description: "The network through which the BADC site and services are served is currently experiencing issues which is causing pages and services on the BADC site to time out.\n",
         
         
@@ -8129,10 +8413,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 110,
         href: "/news/updates/2010/2010-10-19-badc-website-and-services-back-in-operational-mode/",
-        title: "BADC Website and Services back in operational mode",
+        title: "BADC Website and Services back...",
         description: "Some of the BADC servers unexpectedly went down yesterday, Wednesday 19th of October, early evening, resulting in the BADC Website and associated Services becoming unaccessible. The problem was however resolved early this morning and the BADC Website and BADC Services are now running as expected.\n",
         
         
@@ -8143,10 +8430,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 111,
         href: "/news/updates/2009/2009-04-30-badc-website-and-services-back-to-normal/",
-        title: "BADC Website and services back to normal",
+        title: "BADC Website and services back...",
         description: "The networking issues affecting the BADC site and services have been resolved and all services are back to normal\nMany apologies for the inconvenience caused by the earlier disruptions.\n",
         
         
@@ -8157,10 +8447,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 112,
         href: "/news/updates/2010/2010-09-06-badc-website-and-services-back-to-normal/",
-        title: "BADC Website and Services back to normal",
+        title: "BADC Website and Services back...",
         description: "Technical problems which affected FTP login to the BADC/NEODC archive and access to the Data Extractor Service have now been resolved.\n",
         
         
@@ -8171,10 +8464,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 113,
         href: "/news/updates/2009/2009-06-17-badc-website-and-services-heavy-network-traffic-e/",
-        title: "BADC Website and services heavy network traffic expected",
+        title: "BADC Website and services heav...",
         description: "Due to public interest in the launch of the UK Climate Projections service on 18th June heavy network load is expected on the RAL network and may lead to some delay on the BADC website and services.\n",
         
         
@@ -8185,10 +8481,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 114,
         href: "/news/updates/2009/2009-07-07-badc-website-and-services-network-power-outage/",
-        title: "BADC Website and services Network power outage",
+        title: "BADC Website and services Netw...",
         description: "On July 7th 2009 between 7-10am, the operating software on the Rutherford Appleton Laboratory site core routers will be upgraded. As a result, the BADC site and services will be affected.\n",
         
         
@@ -8199,10 +8498,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 115,
         href: "/news/updates/2009/2009-03-24-badc-website-and-services-now-restored/",
-        title: "BADC Website and services now restored",
+        title: "BADC Website and services now ...",
         description: "Apologies for the inconvenience caused by the electrical fault and resulting network problems today.\nThe BADC services are now restored. If you find you have any problems please let us know.\n",
         
         
@@ -8213,10 +8515,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 116,
         href: "/news/updates/2009/2009-02-13-badc-website-down-from-1130-this-morning/",
-        title: "BADC Website down from 1130 this morning",
+        title: "BADC Website down from 1130 th...",
         description: "The BADC webserver and some mailing lists will be down from 11:30 this morning for up to 3 hours for unavoidable maintenance. Apologies for the inconvenience and the late notice.\n",
         
         
@@ -8227,10 +8532,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 117,
         href: "/news/updates/2012/2012-03-22-badc-server-back-up-archive-and-services-back-online/",
-        title: "BADC/NEODC server back up - archive and services back online",
+        title: "BADC/NEODC server back up - ar...",
         description: "Following the server issue of earlier, all BADC and NEODC datasets and associated services are now back online. Apologies for the inconvenience this may have caused.\n",
         
         
@@ -8241,10 +8549,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 118,
         href: "/news/updates/2012/2012-03-22-badc-server-down-archive-and-services-affected/",
-        title: "BADC/NEODC server down - archive and services affected",
+        title: "BADC/NEODC server down - archi...",
         description: "Following system disk problems, about 75% of the BADC and NEODC archive is unfortunately temporarily unavailable. This includes, among others, the following datasets and associated services:\n",
         
         
@@ -8255,10 +8566,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 119,
         href: "/news/updates/2023/2023-08-23-bank-holiday-site-closure-monday-28th-and-tuesday-29th-august/",
-        title: "Bank holiday site closure - Monday 28th and Tuesday 29th August",
+        title: "Bank holiday site closure - Mo...",
         description: "Dear All,\nServices will be unsupported on Monday 28th and Tuesday 29th August due to the bank holiday site closure. Minimal staff will be working for the remainder of that week so responses to queries may take longer than usual.\n",
         
         
@@ -8269,10 +8583,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 120,
         href: "/news/updates/2020/2020-05-18-become-a-cloudcatcher-climate-science-needs-your-familys-help/",
-        title: "Become a CloudCatcher Climate science needs your family’s help!",
+        title: "Become a CloudCatcher Climate ...",
         description: "CloudCatcher is a new project harnessing the power of citizen science to help climate change research. Scientists at CEDA\u0026rsquo;s home institute, RAL Space, need your help to check their cloud identification tools.\n",
         
         
@@ -8283,10 +8600,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 121,
         href: "/news/updates/2019/2019-06-07-being-fussy-pedants-for-the-sake-of-climate-science/",
-        title: "Being ‘fussy pedants’ for the sake of climate science",
+        title: "Being ‘fussy pedants’ for the ...",
         description: "CEDA and NCAS scientists have been busy documenting the experiments that will be run by climate models all over the world for the next big Climate Model Intercomparison Project (CMIP6)\u0026nbsp; . Their paper about the methodology they used to describe the CMIP6 experiments was published in GMD Discussions\u0026nbsp; on Wednesday.\n",
         
         
@@ -8297,10 +8617,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 122,
         href: "/news/updates/2003/2003-10-23-berlin-stratospheric-data-series-now-available-fr/",
-        title: "Berlin Stratospheric data series now available from BADC",
+        title: "Berlin Stratospheric data seri...",
         description: " The Berlin Stratospheric data series now available from BADC ============================================================ The Berlin stratospheric data series contains temperature and geopotential height data on the 100, 50, 30, 10 mb pressure surfaces produced at the Meteorological Institute, Free University of Berlin, from radiosonde data and rocket observations. The data covers the northern hemisphere during the years 1957 to 2001 and is available on both a 10° x 10° and 5° x 5° grid. More information available at \u0026lt;http://www.badc.rl.ac.uk/data/berlin_strat/\u0026gt; BADC Team 23/10/2003",
         
         
@@ -8311,16 +8634,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 123,
         href: "/news/updates/2004/2004-08-09-beta-test-our-new-data-extractor-web-interface/",
-        title: "Beta test our new Data Extractor web-interface",
+        title: "Beta test our new Data Extract...",
         description: " Beta test our new Data Extractor web-interface ============================================== We are pleased to announce the launch of a test-version of the BADC Data Extractor (dx) - a web-interface to large datasets. You can access the Data Extractor if you are registered for any of the following datasets: ECMWF ERA-40 ECMWF Operational data ECMWF ERA-15 HiGEM COAPEC HadCM3 data The Data Extractor exposes the following functionality to BADC users: Extraction of NetCDF datasets. Differencing between datasets. Browsing and selection of subsets. Selection in space and time. User-defined plotting. User-defined animation. Please note that the current version (0.1b) is only a beta-release so we invite you to test the service and give us your feedback. For more information on how to access the Data Extractor please see: http://badc.nerc.ac.uk/help/software/dx BADC Support 9th August 2004.",
         
         
         content: "Beta test our new Data Extractor web-interface ============================================== We are pleased to announce the launch of a test-version of the BADC Data Extractor (dx) - a web-interface to large datasets. You can access the Data Extractor if you are registered for any of the following datasets: ECMWF ERA-40 ECMWF Operational data ECMWF ERA-15 HiGEM COAPEC HadCM3 data The Data Extractor exposes the following functionality to BADC users: Extraction of NetCDF datasets. Differencing between datasets. Browsing and selection of subsets. Selection in space and time. User-defined plotting. User-defined animation. Please note that the current version (0.1b) is only a beta-release so we invite you to test the service and give us your feedback. For more information on how to access the Data Extractor please see: http://badc.nerc.ac.uk/help/software/dx BADC Support 9th August 2004."
       })
       .add(
+      
       
       
       
@@ -8339,16 +8666,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 125,
         href: "/news/updates/2004/2004-02-17-bolton-experiment-data-series-now-available-from-/",
-        title: "Bolton Experiment data series now available from BADC",
+        title: "Bolton Experiment data series ...",
         description: " Bolton Experiment data now available at the BADC ================================================ The Bolton Experiment was a NERC project with matching funds from industry which took place between 1999 and 2002. The study tested the proposal that the difference in attenuation at two microwave frequencies along a given path can provide an accurate estimate of rainfall rate. The area selected for study was the town of Bolton in north-west England. More information about the Bolton Experiment data held at the BADC can be found at: \u0026lt;http://badc.nerc.ac.uk/data/bolton/\u0026gt; ______________ BADC Support 17/02/2004",
         
         
         content: "Bolton Experiment data now available at the BADC ================================================ The Bolton Experiment was a NERC project with matching funds from industry which took place between 1999 and 2002. The study tested the proposal that the difference in attenuation at two microwave frequencies along a given path can provide an accurate estimate of rainfall rate. The area selected for study was the town of Bolton in north-west England. More information about the Bolton Experiment data held at the BADC can be found at: \u0026lt;http://badc.nerc.ac.uk/data/bolton/\u0026gt; ______________ BADC Support 17/02/2004"
       })
       .add(
+      
       
       
       
@@ -8367,10 +8698,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 127,
         href: "/news/updates/2017/2017-07-25-brief-downtime-for-ceda-data-browser-between-4-5pm-on-27th-july/",
-        title: "Brief downtime for CEDA data browser between 4-5pm on 27th July",
+        title: "Brief downtime for CEDA data b...",
         description: "Access to the data browser at http://data.ceda.ac.uk\u0026nbsp; will be briefly down between 4pm and 5pm on Thursday 27th July to apply a software update to the service.\n",
         
         
@@ -8381,16 +8715,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 128,
         href: "/news/updates/2021/2021-09-28-brief-network-interruptions-wed-29-sept-2021/",
-        title: "Brief network interruptions Wed 29 Sept 2021",
+        title: "Brief network interruptions We...",
         description: "Dear Users,\nWe have been informed by the site network team for JASMIN’s host institution, RAL, that on Wednesday 29th September (tomorrow), the RAL site firewall will be upgraded. This work will be carried out between 07:00 and 09:00 BST. This upgrade will cause 2 short breaks (\u0026lt;1 minute) as the firewall is updated, but during the 2 hour upgrade window, access to systems should be considered at risk.\nAlthough brief, these interruptions may affect all CEDA and JASMIN services.\n",
         
         
         content: "Dear Users,\nWe have been informed by the site network team for JASMIN’s host institution, RAL, that on Wednesday 29th September (tomorrow), the RAL site firewall will be upgraded. This work will be carried out between 07:00 and 09:00 BST. This upgrade will cause 2 short breaks (\u0026lt;1 minute) as the firewall is updated, but during the 2 hour upgrade window, access to systems should be considered at risk.\nAlthough brief, these interruptions may affect all CEDA and JASMIN services.\nWe apologize for any inconvenience and for the short notice.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -8409,6 +8747,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 130,
         href: "/projects/c3s-oceans-data-archival/",
@@ -8423,10 +8762,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 131,
         href: "/projects/c3s-regional-climate-projections-cds/",
-        title: "C3S Regional Climate Projections for CDS",
+        title: "C3S Regional Climate Projectio...",
         description: "Making regional climate projections data available via an Earth System Grid Federation (ESGF) node",
         
         
@@ -8437,10 +8779,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 132,
         href: "/projects/c3s-34e-esgf-compute-nodes/",
-        title: "C3S_34e - The Link between the CDS Toolbox and the ESGF Compute Nodes",
+        title: "C3S_34e - The Link between the...",
         description: "Improvement on the WPS link for C3S to access climate simulations",
         
         
@@ -8451,10 +8796,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 133,
         href: "/projects/c3s_34f-models/",
-        title: "C3S_34f - Maintenance of the dedicated C3S ESGF infrastructure for CMIP Global Climate Models",
+        title: "C3S_34f - Maintenance of the d...",
         description: "Infrastructure and data that were supplied to C3S under a previous contract (C3S_34a Lot1) continue to be provided to support continuing work on other projects.",
         
         
@@ -8465,10 +8813,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 134,
         href: "/projects/c3s_34g-cmip6-simulations/",
-        title: "C3S_34g - Extension of the CDS Global Climate Model datasets to CMIP6 simulations",
+        title: "C3S_34g - Extension of the CDS...",
         description: "Providing access to a coherant collection of quality assured climate projects, building upon previous project",
         
         
@@ -8479,10 +8830,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 135,
         href: "/projects/c3s-434-cds-climate-adapt/",
-        title: "C3S_434 - CDS Interface to Climate-ADAPT",
+        title: "C3S_434 - CDS Interface to Cli...",
         description: "Automated the provision of climate datasets from the Copernicus Climate Change Service (C3S) Climate Data Store to Climate-ADAPT portal",
         
         
@@ -8493,10 +8847,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 136,
         href: "/projects/c3s311a-lot-2/",
-        title: "C3S311a Lot 2 (in-situ obs for Copernicus)",
+        title: "C3S311a Lot 2 (in-situ obs for...",
         description: "Providing a step change in access to, and quality of, global long-term land and surface-ocean Essential Climate Variable (ECV) records",
         
         
@@ -8507,16 +8864,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 137,
         href: "/news/updates/2019/2019-02-07-call-for-ceda-impact-stories-why-this-is-essential-and-how-you-can-help/",
-        title: "Call for CEDA Impact Stories why this is essential and how you can help!",
+        title: "Call for CEDA Impact Stories w...",
         description: "What are impact stories and why are they essential? \u0026nbsp; Firstly - let’s explain what we mean by ‘impact stories’. These ‘one-pagers’ are short case studies about how CEDA services have enabled you (our users) to complete your research projects. This may be because JASMIN helped you process vast amounts of climate data, the CEDA archive provided invaluable satellite data to aid your research, or maybe CEDA staff members provided you with expertise and guidance about data formatting.\n",
         
         
         content: "What are impact stories and why are they essential? \u0026nbsp; Firstly - let’s explain what we mean by ‘impact stories’. These ‘one-pagers’ are short case studies about how CEDA services have enabled you (our users) to complete your research projects. This may be because JASMIN helped you process vast amounts of climate data, the CEDA archive provided invaluable satellite data to aid your research, or maybe CEDA staff members provided you with expertise and guidance about data formatting.\nBut it’s not just about how CEDA helped you personally. We need to demonstrate how our services enable impactful science that benefits wider society. This is fast becoming an essential requirement from our funders - and without continued funding CEDA services would cease to exist. We will begin by collecting basic impact information from JASMIN users in early 2019. This is in response to the Phase 4 upgrade funding that we received in 2018. CEDA need to show outputs from this funding and we hope to do this by collecting a selection of impact stories from JASMIN users.\nYou can see examples of previous JASMIN impact stories in the document here\u0026nbsp; .\nHow you can help \u0026nbsp; Submit a few sentences about your impactful research that relied on JASMIN (and/or other CEDA services) via the form here\u0026nbsp; before Friday 15th February. This can either be pre-written text from other impact case studies you have produced, or fill in the basic questions on the form.\nWe are currently just focussing on JASMIN impact stories, however if you have anything else of relevance then feel free to fill in the form too.\nThe CEDA team will review submissions and contact users with relevant stories that we would like to follow up by 28th February. CEDA will then work with the chosen users in March to help write and develop the impact story.\nWhere the stories will be shared \u0026nbsp; Once we have collected the impact stories, predominantly they will be used within CEDA’s annual reports and in a use case document provided to our funders. We will also add them to our websites and link to them on our social media channels (predominantly Twitter - @cedanews). They are also likely to be used by members of the CEDA team in oral presentations at conferences and meetings, both within the UK and globally.\nIn addition to this, our partner/host organisations (NERC, NCAS, NCEO, STFC) may wish to reuse relevant stories for their own purposes, similar to those mentioned above.\nThis will provide the individual researchers, research projects, and institutions to reach a wide audience of environmental scientists. All stories will be appropriately credited.\nWhy you should help! \u0026nbsp; Your stories will help CEDA to receive continued funding Your research will receive more visibility with a wide range of environmental scientists (if appropriate) You will be entered into a random draw to win a £20 Amazon voucher* We’ve tried to make this process as easy, useful and quick as possible for all involved. It won’t take you long to complete, but the output will be helping CEDA services to continue to exist. Why are we asking you to report ‘yet another’ impact thing? \u0026nbsp; Most of the time we do not know what impactful science CEDA has enabled, unless you (our users) tell us about it - and as previously discussed, we increasingly need to provide this information to our funders.\nPoppy Townsend, CEDA communications manager, recently undertook a MSc dissertation, with UWE Bristol, to investigate how CEDA could collect impact stories in the most efficient way. This consisted of a user survey (n = 520) and focus groups (n = 26). The findings are discussed below, and we have tried to adapt the collection process to be as close to your requests as possible.\nThe key findings showed that users would prefer CEDA to collect impact information via channels that they already submit information to. However, the data shows there are no universal existing processes that CEDA could use to harvest this information - which is why we need to use a webform.\nAnother key finding was that users did not want to waste time writing a story that may not be relevant or might not be used. We are therefore only asking you to submit very basic information - a few sentences at most - or pre-written text that you already have. It was also important to users that guidance be provided when writing and developing the impact stories - which is why we will be helping the chosen users throughout. The results also showed that users would prefer impact information to be collected at the end of their projects. However, it would be unfeasible for CEDA to track and contact thousands of different projects on different timescales; with many end dates changing or being extended. We will trial a yearly collection process, starting with a collection period between January-March. We believe this to be a ‘quieter’ time of year when teaching schedules, conferences and holidays are considered.\nYou can read Poppy’s MSc project report here\u0026nbsp; .\nIf you have any questions about this work, please contact poppy.townsend@stfc.ac.uk\n* The voucher winner will be chosen via a random number generator. Only appropriate and relevant submissions will be taken into the draw. There will be no cash alternative, but an alternative voucher vendor may be considered. The voucher will be provided to respondents at the discretion of STFC."
       })
       .add(
+      
       
       
       
@@ -8535,16 +8896,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 139,
         href: "/news/updates/2024/2024-07-10-moles-back/",
-        title: "Catalogue service update complete.",
+        title: "Catalogue service update compl...",
         description: "CEDA\u0026rsquo;s data catalogue service update has been complete and should no longer be considered at risk. This roll our brings some minor cosmetic changes to users and a more resilient server overall to reduce future disruption and aid future service roll outs.\n",
         
         
         content: "CEDA\u0026rsquo;s data catalogue service update has been complete and should no longer be considered at risk. This roll our brings some minor cosmetic changes to users and a more resilient server overall to reduce future disruption and aid future service roll outs."
       })
       .add(
+      
       
       
       
@@ -8563,6 +8928,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 141,
         href: "/projects/cci-open-data-portal/",
@@ -8573,6 +8939,7 @@ function initIndex() {
         content: "Funder: ESA\nDates: 2015-2018\nAim: Provide central access to ESA Climate Change Initiative Data Products and information\nCEDA role: Central archive, data access services and metadata"
       })
       .add(
+      
       
       
       
@@ -8591,6 +8958,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 143,
         href: "/projects/cds-zone-20-21/",
@@ -8601,6 +8969,7 @@ function initIndex() {
         content: "Funder: UKSA\nDates: 2020-2021\nAim: The UK Climate Data from Space zone (CDS zone) is a dedicated computing area comprising 700TB storage and 200 processing cores on the JASMIN infrastructure to support UK ECV processing for the Copernicus Climate Change Service.\nCEDA role: provide access to JASMIN infrastructure (processing and storage)."
       })
       .add(
+      
       
       
       
@@ -8619,6 +8988,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 145,
         href: "/news/updates/2013/2013-01-11-ceda-2012-annual-report-published/",
@@ -8633,10 +9003,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 146,
         href: "/news/updates/2016/2016-08-01-ceda-2014-15-annual-report-released/",
-        title: "CEDA 2014-15 Annual Report Released",
+        title: "CEDA 2014-15 Annual Report Rel...",
         description: "CEDA are proud to release our 2014-15 Annual Report\u0026nbsp; covering the varied work undertaken by CEDA to support the work of the atmospheric, climate change, earth observation and near-Earth environment research communities.\n",
         
         
@@ -8647,10 +9020,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 147,
         href: "/news/updates/2020/2020-12-16-ceda-2020-highlights-our-work-behind-the-scenes/",
-        title: "CEDA 2020 highlights our work behind the scenes",
+        title: "CEDA 2020 highlights our work ...",
         description: "Satellites and climate models are renowned for their ability to produce large amounts of data - as such, the CEDA Archive handles the largest datasets amongst the NERC Environmental Data Service\u0026nbsp; (NERC’s collection of environmental data centres). Big data is not just a challenge for the CEDA Archive; the other NERC data centres are increasingly in discussions with researchers who have data that is too large for their infrastructures. As CEDA is at the forefront of development of infrastructure and services for large data volumes we have been sharing and integrating this knowledge across the NERC EDS. Here we highlight four different pieces of work that are ongoing behind the scenes to adapt to our big data challenges. ",
         
         
@@ -8661,10 +9037,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 148,
         href: "/news/updates/2016/2016-09-28-ceda-and-jasmin-downtime-wednesday-5th-october-2016/",
-        title: "CEDA and JASMIN downtime Wednesday 5th October 2016",
+        title: "CEDA and JASMIN downtime Wedne...",
         description: "As previously announced, in order to upgrade network switch firmware within the JASMIN core network, a downtime is planned for the entire day of Wednesday 5th October 2016. This downtime will affect all JASMIN services, the LOTUS processing cluster and all CEDA services which rely on the JASMIN infrastructure, including ALL access to the CEDA archive.\n",
         
         
@@ -8675,10 +9054,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 149,
         href: "/news/updates/2020/2020-12-01-ceda-and-jasmin-support-over-christmas-period/",
-        title: "CEDA and JASMIN support over Christmas period",
+        title: "CEDA and JASMIN support over C...",
         description: "As we approach the Christmas period, please be aware of the limited support arrangements in place which will result in CEDA and JASMIN services running “at-risk”.\n",
         
         
@@ -8689,10 +9071,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 150,
         href: "/news/updates/2019/2019-12-17-christmas-shutdown/",
-        title: "CEDA and JASMIN support over Christmas period",
+        title: "CEDA and JASMIN support over C...",
         description: "In line with the Christmas shutdown of CEDA\u0026rsquo;s host institute, STFC, the CEDA and JASMIN teams will be unavailable from 15:00 on Tuesday 24th December 2019 to 09:00 on Thursday 2nd January 2020. However, there will also be minimal helpdesk support before and after this period (from Friday 20th December until Monday 6th January) due to extremely limited staff availability. ",
         
         
@@ -8703,10 +9088,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 151,
         href: "/news/updates/2021/2021-07-23-ceda-and-jasmin-support-over-summer-period/",
-        title: "CEDA and JASMIN support over summer period",
+        title: "CEDA and JASMIN support over s...",
         description: "As we approach the summer period, please be aware of the limited support arrangements in place which will result in CEDA and JASMIN services running “at-risk”.\n",
         
         
@@ -8717,10 +9105,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 152,
         href: "/news/updates/2022/2022-12-13-ceda-and-jasmin-support-over-the-christmas-period-1/",
-        title: "CEDA and JASMIN support over the Christmas period",
+        title: "CEDA and JASMIN support over t...",
         description: "As we approach the Christmas period, please be aware of the limited support arrangements in place which will result in CEDA and JASMIN services running “at-risk”.\n",
         
         
@@ -8731,16 +9122,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 153,
         href: "/news/updates/2021/2021-12-07-ceda-and-jasmin-support-over-the-christmas-period/",
-        title: "CEDA and JASMIN support over the Christmas period",
+        title: "CEDA and JASMIN support over t...",
         description: "As we approach the Christmas period, please be aware of the limited support arrangements in place which will result in CEDA and JASMIN services running “at-risk”.\n",
         
         
         content: "As we approach the Christmas period, please be aware of the limited support arrangements in place which will result in CEDA and JASMIN services running “at-risk”.\nWhile the shutdown of CEDA’s host organisation, STFC, runs from 15:00 on Friday 24th December 2021 to 09:00 on Tuesday 4th January 2022, only very few staff remain at work from Friday 17th December, so we are unable to offer a normal helpdesk service from that date onwards. We also have limited helpdesk support available between 4th-6th January due to staff training.\nCEDA and JASMIN services should therefore be considered to be running “at-risk” from 17:00 on Thursday 16th December to 9:00 on Friday 7th January 2022, with little or no helpdesk service available during this period. A “change freeze” is also in place as of 17:00 on Friday 10th December, so requests for new or changes to existing services will not be dealt with until the New Year.\nCEDA websites, archives and services, including access to JASMIN, should be available during this period but will operate unsupported. Therefore should any problems occur to our services, it is unlikely that these would be fixed until staff return in the New Year.\nOnly emergency cover for site services (for issues such as fire or power outage) remains in place during the site shutdown period, and although we anticipate that the JASMIN infrastructure will remain operational throughout, it is possible that some issues may not receive attention until staff return in the New Year. All user queries received during this period will be answered as soon as possible from Friday 7th January 2021. To summarise: Friday 10th December 2021 - change freeze starts Thursday 16th December 2021- at-risk period starts at 17:00 GMT, limited helpdesk support available Friday 24th December 2021 - site closure at 15:00 GMT, completely unsupported Tuesday 4th January 2022 - site reopens, some support available. Services are still at risk due to key helpdesk staff not being available Friday 7th January 2022 - normal service resumes The CEDA and JASMIN teams would like to take this opportunity to wish all our users a very Merry Christmas and a Happy New Year."
       })
       .add(
+      
       
       
       
@@ -8759,16 +9154,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 155,
         href: "/news/updates/2019/2019-11-25-ceda-apprentice-wins-two-stfc-awards/",
-        title: "CEDA Apprentice wins two STFC awards",
+        title: "CEDA Apprentice wins two STFC ...",
         description: "Congratulations are in order for CEDA’s current apprentice, Matthew Richards, after he won an award at STFC RAL’s\u0026nbsp; annual Apprentice Awards Evening. The award ceremony is held to ‘recognise the achievements of all of our apprentices working across the breadth of operations.’ Matthew received the Apprentice Peer Support award and was ‘highly commended’ for the Apprentice Outreach Award. ",
         
         
         content: "Congratulations are in order for CEDA’s current apprentice, Matthew Richards, after he won an award at STFC RAL’s\u0026nbsp; annual Apprentice Awards Evening. The award ceremony is held to ‘recognise the achievements of all of our apprentices working across the breadth of operations.’ Matthew received the Apprentice Peer Support award and was ‘highly commended’ for the Apprentice Outreach Award. The peer support award is described as ‘recognising the support of another apprentice who you feel has gone ‘above and beyond’ in providing you with support, advice and guidance’. Matthew was nominated by his peers because of his dry sense of humour, straight talking and academic support. Matthew’s outreach commendation was because for the second year in a row, his submission to the RSE Conference\u0026nbsp; was accepted (submissions are peer-reviewed and have quite a high rejection rate). This year he gave a walk-though on the work he did in STFC’s Technology department\u0026nbsp; on Jupyter notebooks. Apprentices get the opportunity to experience a variety of STFC work by working on a rotational basis around different departments. Within CEDA, Matthew has been working on a tool to be used by other CEDA staff for metrics gathering of certain services. The metrics are used in a graphical reporting tool which allows tracking of this data over time. This is a much improved tool over the previous version, which required manual calculations. Matthew’s work is therefore essential for reducing staff time spent on this particular task. A big well done and thank you to Matthew for all of his hard work! If you’d like to know more about the STFC Apprenticeship scheme, take a look here\u0026nbsp; ."
       })
       .add(
+      
       
       
       
@@ -8787,10 +9186,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 157,
         href: "/news/updates/2019/2019-03-19-ceda-archive-access-via-datacedaacuk-currently-down/",
-        title: "CEDA Archive access via data.ceda.ac.uk currently down",
+        title: "CEDA Archive access via data.c...",
         description: "We are currently experiencing difficulties with network issues. This is affecting some of our services, including access to the archive via data.ceda.ac.uk.\n",
         
         
@@ -8801,10 +9203,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 158,
         href: "/news/updates/2018/2018-03-09-ceda-archive-and-websites-unavailable-on-14th-march-due-to-jasmin-upgrade/",
-        title: "CEDA archive and websites unavailable on 14th March due to JASMIN upgrade",
+        title: "CEDA archive and websites unav...",
         description: "As you may be aware, JASMIN is undergoing a massive upgrade (more info here) to double its storage capability to 44PB. This means that there will be some disruption to services on 14th March between 07:00 - 19:00. ",
         
         
@@ -8815,10 +9220,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 159,
         href: "/news/updates/2019/2019-05-03-eda-archive-browser-download-improvements-scheduled-for-tuesday-7th-may/",
-        title: "CEDA Archive Browser download improvements scheduled for Tuesday 7th May",
+        title: "CEDA Archive Browser download ...",
         description: "We will be performing a planned upgrade to our download, OPeNDAP and archive browsing services. This will allow images and text to be displayed in the browser, rather than downloaded.\n",
         
         
@@ -8829,10 +9237,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 160,
         href: "/news/updates/2019/2019-03-05-ceda-archive-catalogue-search-presently-down/",
-        title: "CEDA Archive catalogue search presently down.",
+        title: "CEDA Archive catalogue search ...",
         description: "Users of the data catalogue may be aware that the data catalogue search is presently unable to display any results. This also appears to affect some record listings on catalogue pages.\n",
         
         
@@ -8843,10 +9254,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 161,
         href: "/news/updates/2019/2019-04-29-ceda-archive-data-browser-unavailable-900-1300-30th-april/",
-        title: "CEDA Archive data browser unavailable 900-1300 30th April",
+        title: "CEDA Archive data browser unav...",
         description: "The CEDA Archive data browser (data.ceda.ac.uk) will be unavailable tomorrow morning (30th April) due to an upgrade. We hope that service will be back to normal from 1pm, however they should be considered at risk all day.\n",
         
         
@@ -8857,10 +9271,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 162,
         href: "/news/updates/2019/2019-07-11-ceda-archive-data-catalogue-unavailable-400pm-today/",
-        title: "CEDA Archive data catalogue unavailable 400pm today",
+        title: "CEDA Archive data catalogue un...",
         description: "The CEDA data catalogue service will be briefly unavailable at 4:00pm today, Thursday 11th July.\nApologies for the inconvenience.\nCEDA Team\n",
         
         
@@ -8871,16 +9288,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 163,
         href: "/news/updates/2019/2019-06-18-ceda-archive-data-catalogue-update-1600-1630-today/",
-        title: "CEDA Archive data catalogue update 1600-1630 today",
+        title: "CEDA Archive data catalogue up...",
         description: "The CEDA data catalogue will be updated this afternoon to address some bugs following the latest update. The service will be down at around 1600 for up to 30 minutes.\n",
         
         
         content: "The CEDA data catalogue will be updated this afternoon to address some bugs following the latest update. The service will be down at around 1600 for up to 30 minutes.\nApologies for any inconvenience caused.\nCEDA Team"
       })
       .add(
+      
       
       
       
@@ -8899,10 +9320,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 165,
         href: "/news/updates/2019/2019-02-12-ceda-archive-partial-storage-issues-affecting-cmip5-msg-and-other-datasets/",
-        title: "CEDA Archive partial storage issues affecting CMIP5, MSG and other datasets",
+        title: "CEDA Archive partial storage i...",
         description: "A part of the CEDA Archive is presently down affecting the following datasets:\nparts of the CMIP5 archive\nparts of the MSG datasets\n",
         
         
@@ -8913,10 +9337,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 166,
         href: "/news/updates/2019/2019-04-05-ceda-archive-partial-storage-issues-final-update/",
-        title: "CEDA Archive partial storage issues final update",
+        title: "CEDA Archive partial storage i...",
         description: "The CEDA team have now restored the vast majority of datasets affected by the error that caused data to be mistakenly deleted. All priority datasets have now been restored. A small number of datasets are still awaiting restoration due to needing additional storage space - we are working on this and anticipate these datasets to be fully restored in the next few weeks. We still foresee a few problems, so please tell us if you spot anything.\n",
         
         
@@ -8927,10 +9354,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 167,
         href: "/news/updates/2019/2019-03-18-ceda-archive-partial-storage-issues-update-3/",
-        title: "CEDA Archive partial storage issues update",
+        title: "CEDA Archive partial storage i...",
         description: "CEDA are still in the process of restoring the affected parts of the archive. Some priority datasets have already been restored from backups and are now visible. We are anticipating some problems with access from JASMIN due to the permissions being incorrectly set, we will endeavour to correct these as soon as possible.\n",
         
         
@@ -8941,16 +9371,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 168,
         href: "/news/updates/2019/2019-02-26-ceda-archive-partial-storage-issues-update-2/",
-        title: "CEDA Archive partial storage issues update",
+        title: "CEDA Archive partial storage i...",
         description: "CEDA are still in the process of restoring the affected parts of the archive. Some priority datasets have already been restored from backups and are now visible. We are anticipating some problems with access from JASMIN due to the permissions being incorrectly set, we will endeavour to correct these as soon as possible.\n",
         
         
         content: "CEDA are still in the process of restoring the affected parts of the archive. Some priority datasets have already been restored from backups and are now visible. We are anticipating some problems with access from JASMIN due to the permissions being incorrectly set, we will endeavour to correct these as soon as possible.\nApproximately 15% of the missing data has now been recovered from the tape back ups to our processing area. These data then need to be moved back onto the CEDA Archive, currently 7% has been copied back onto the archive.\nFull recovery of the missing data is still estimated to take about a month for completion. We will continue to post regular updates on progress.\nLarge parts of the CEDA Archive do still remain intact and fully accessible.\nWe would like to apologise for any inconvenience caused in the meanwhile.\nCEDA team"
       })
       .add(
+      
       
       
       
@@ -8969,16 +9403,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 170,
         href: "/news/updates/2019/2019-04-05-ceda-archive-web-browser-currently-down/",
-        title: "CEDA Archive web browser currently down",
+        title: "CEDA Archive web browser curre...",
         description: "The CEDA Archive web browser (data.ceda.ac.uk) is currently down. We are working to resolve this issue ASAP and will post updates as necessary.\n",
         
         
         content: "The CEDA Archive web browser (data.ceda.ac.uk) is currently down. We are working to resolve this issue ASAP and will post updates as necessary.\nApologies for any inconvenience caused. CEDA team"
       })
       .add(
+      
       
       
       
@@ -8997,6 +9435,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 172,
         href: "/news/updates/2019/2019-04-08-ceda-at-egu-2019/",
@@ -9011,16 +9450,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 173,
         href: "/news/updates/2022/2022-12-09-ceda-catalogue-service-and-dataceda-download-service-presently-unavailable/",
-        title: "CEDA Catalogue service and data.ceda download service presently unavailable.",
+        title: "CEDA Catalogue service and dat...",
         description: "The CEDA Data Catalouge and web download services are presently unavailable due to issues affecting the catalogue service.\nCEDA staff are investigating the cause and hope to have this resolved as soon as possible to restore normal sevice.\n",
         
         
         content: "The CEDA Data Catalouge and web download services are presently unavailable due to issues affecting the catalogue service.\nCEDA staff are investigating the cause and hope to have this resolved as soon as possible to restore normal sevice.\nData access via FTP and JASMIN remains available to users.\nApologies for any inconvenince caused by this present situation.\nCEDA Team"
       })
       .add(
+      
       
       
       
@@ -9039,10 +9482,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 175,
         href: "/news/updates/2017/2017-04-20-ceda-cmip5-data-holdings-now-catalogued-and-searchable/",
-        title: "CEDA CMIP5 data holdings now catalogued and searchable!",
+        title: "CEDA CMIP5 data holdings now c...",
         description: "CEDA is pleased to annouce all CMIP5 data holdings in the CEDA archives are now covered by significantly improved data catalogue coverage, bringing greater discoverability and accessibility to our users.\n",
         
         
@@ -9053,10 +9499,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 176,
         href: "/news/updates/2018/2018-05-03-ceda-data-catalogue-new-improved-search-functions/",
-        title: "CEDA Data Catalogue - new, improved search functions!",
+        title: "CEDA Data Catalogue - new, imp...",
         description: "Finding the right data for your research can often be a daunting task\u0026hellip; especially when faced with a vast archive of over 5000 datasets with 180 million files to choose from, such as in the CEDA archive! However, CEDA are pleased to announce a major step towards helping resolve this conundrum; bringing the power of industry search tools and direct metadata harvesting at scale to solve these problems.\n",
         
         
@@ -9067,10 +9516,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 177,
         href: "/news/updates/2024/2024-07-10-moles-outage/",
-        title: "CEDA Data Catalogue downtime for maintenance.",
+        title: "CEDA Data Catalogue downtime f...",
         description: "The CEDA Data Catalogue will be undergoing maintenance from 3:00 pm until 5:00 pm today, Wednesday the 10th of July. During this time, the service may go offline, and some content may be unavailable.\n",
         
         
@@ -9081,10 +9533,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 178,
         href: "/news/updates/2016/2016-11-03-ceda-data-catalogue-service-reboot-0830-fri-4th-nov/",
-        title: "CEDA Data Catalogue service reboot 0830 Fri 4th Nov",
+        title: "CEDA Data Catalogue service re...",
         description: "The CEDA Data Catalogue service: catalogue.ceda.ac.uk\u0026nbsp; will be temporarily unavailable whilst the underlying server is rebooted tomorrow morning to allow for additonal resources to be added.\n",
         
         
@@ -9095,10 +9550,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 179,
         href: "/news/updates/2019/2019-03-05-ceda-data-catalogue-service-restored/",
-        title: "CEDA Data catalogue service restored",
+        title: "CEDA Data catalogue service re...",
         description: "The CEDA data catalogue service issue identified this morning has been resolved and the catalogue search and record listings is working once again.\n",
         
         
@@ -9109,10 +9567,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 180,
         href: "/news/updates/2019/2019-07-01-ceda-data-catalogue-service-update-2nd-july-10-1030/",
-        title: "CEDA Data Catalogue Service update 2nd July 1000 - 1030",
+        title: "CEDA Data Catalogue Service up...",
         description: "The CEDA data catalogue service will be temporarily offline between 10:00 - 10:30 tomorrow, 2nd July to allow for the roll out of an update.\n",
         
         
@@ -9123,10 +9584,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 181,
         href: "/news/updates/2023/2023-06-12-ceda-data-catalogue-unavailable-10am-tues-13th-june/",
-        title: "CEDA Data Catalogue Unavailable 10am, Tues 13th June",
+        title: "CEDA Data Catalogue Unavailabl...",
         description: "The CEDA Data Catalogue service will be temporarily unavailable tomorrow 10am, Tues 13th June to allow an updated version to be deployed.\n",
         
         
@@ -9137,10 +9601,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 182,
         href: "/news/updates/2020/2020-10-29-ceda-data-catalogue-update-1700-1715-today/",
-        title: "CEDA Data Catalogue update 1700-1715 today.",
+        title: "CEDA Data Catalogue update 170...",
         description: "The CEDA Data Catalogue\u0026nbsp; service will be offline between 1700 and 1715 to allow the roll-out of a number of minor updates. These are primarily to aid internal CEDA work towards greater service harmonisation.\n",
         
         
@@ -9151,10 +9618,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 183,
         href: "/news/updates/2023/2023-03-30-ceda-data-catalogue-update-3pm-today/",
-        title: "CEDA Data Catalogue Update 3pm today.",
+        title: "CEDA Data Catalogue Update 3pm...",
         description: "The CEDA Data Catalogue service ( https://catalogue.ceda.ac.uk\u0026nbsp; ) will be briefly off line at 3pm today to allow a number of updates to the service to be rolled out. This may lead to a period of time in which the catalogue search needs to be rebuilt to help refine the search service. The main user improvement will be with the search interface with increased search options and better search results and the ability to search within related records. Additionally, the Dataset records will, in most cases, be additionally augmented with project funder and PI information where available on attached Project records to provide a richer set of metadata for each dataset. Dataset total number of files and volume details will also be displayed on dataset records for all CEDA hosted content.\n",
         
         
@@ -9165,10 +9635,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 184,
         href: "/news/updates/2024/2024-02-07-ceda-data-catalogue-update/",
-        title: "CEDA Data Catalogue update at 4pm today",
+        title: "CEDA Data Catalogue update at ...",
         description: "The CEDA data catalogue will be temporarily down at 4pm today to allow for an update to be rolled out to enhance our content harvesting by Google to aid wider discoverability of the data in the CEDA archive. We hope that this brief interruption will be kept as short as possible.\n",
         
         
@@ -9179,10 +9652,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 185,
         href: "/news/updates/2020/2020-08-03-ceda-data-catalogue-update-tuesday-10am/",
-        title: "CEDA Data Catalogue Update Tuesday 10am",
+        title: "CEDA Data Catalogue Update Tue...",
         description: "The CEDA Data Catalogue service will be briefly unavailable on Tuesday 4th August at 10am whilst some important updates to the service are rolled out.\n",
         
         
@@ -9193,16 +9669,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 186,
         href: "/news/updates/2024/2024-08-07-ceda-catalogue-update/",
-        title: "CEDA Data Catalogue Update, Today from 3:30-4:30pm",
+        title: "CEDA Data Catalogue Update, To...",
         description: "The CEDA Data Catalogue Service will be updated from 3:30pm today, 7th August to aid harmonisation of services within CEDA and to improve access and licensing information on the catalogue records.\n",
         
         
         content: "The CEDA Data Catalogue Service will be updated from 3:30pm today, 7th August to aid harmonisation of services within CEDA and to improve access and licensing information on the catalogue records.\nThe main part of the update should be completed shortly after 3:30pm, but licence and access information may be temporarily unavailable during the update window until around 4:30 pm."
       })
       .add(
+      
       
       
       
@@ -9221,10 +9701,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 188,
         href: "/news/updates/2016/2016-07-05-ceda-data-commenting-tool-launch-at-rmetsoc-2016-conference/",
-        title: "CEDA Data Commenting Tool Launch at RMetSoc 2016 Conference",
+        title: "CEDA Data Commenting Tool Laun...",
         description: "CEDA will be formally launching a new community data comments tool at this year\u0026rsquo;s joint Royal Meteorological Society and NCAS conference as part of the CEDA data catalogue service.\n",
         
         
@@ -9235,10 +9718,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 189,
         href: "/news/updates/2012/2012-08-16-ceda-data-migrations-possible-impacts/",
-        title: "CEDA data migrations - possible impacts",
+        title: "CEDA data migrations - possibl...",
         description: "With the deployment of CEDA\u0026rsquo;s new storage architecture have been successfully completed at the start of the year CEDA is presently migrating its data holdings over from the present NAS systems to the new storage. While the majority of this process should not affect CEDA services and data access there is the possibility for disruption to some services from time to time.\n",
         
         
@@ -9249,10 +9735,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 190,
         href: "/news/updates/2012/2012-05-11-ceda-dataset-catalogue-unavailable/",
-        title: "CEDA Dataset catalogue unavailable",
+        title: "CEDA Dataset catalogue unavail...",
         description: "The CEDA dataset catalogue and associated search engine are currently unavailable. We are working at restoring access to the catalogue as soon as possible.\n",
         
         
@@ -9263,10 +9752,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 191,
         href: "/news/updates/2018/2018-09-10-ceda-dataset-expertise-informs-googles-new-dataset-search/",
-        title: "CEDA dataset expertise informs Google’s new dataset search",
+        title: "CEDA dataset expertise informs...",
         description: "CEDA staff have contributed to a new search tool launched on 5th September by Google that aims to help scientists, policy makers and other user groups more easily find the data required for their work and their stories, or simply to satisfy their intellectual curiosity.\n",
         
         
@@ -9277,10 +9769,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 192,
         href: "/news/updates/2011/2011-05-16-ceda-develops-visualisation-service-for-the-international-space-innovation-centre/",
-        title: "CEDA develops visualisation service for the International Space Innovation Centre.",
+        title: "CEDA develops visualisation se...",
         description: "Coinciding with the launch the International Space Innovation Centre at Harwell Oxford, STFC RAL\u0026rsquo;s Centre for Environmental Data Archival deployed a new data visualisation service for Earth Observation data.\n",
         
         
@@ -9291,10 +9786,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 193,
         href: "/news/updates/2020/2020-10-21-ceda-document-repository-back-online/",
-        title: "CEDA Document Repository back online",
+        title: "CEDA Document Repository back ...",
         description: "The CEDA Document Repository, a service to host supplementary information for items in the CEDA archive, has been made available once again following a hiatus in the service to allow it to be updated.\n",
         
         
@@ -9305,10 +9803,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 194,
         href: "/news/updates/2022/2022-11-22-ceda-document-repository-move-to-zenodo-thursday-24th-november/",
-        title: "CEDA Document Repository Move to Zenodo Thursday 24th November",
+        title: "CEDA Document Repository Move ...",
         description: "On Thursday 22nd November we’ll be transferring items from the CEDA Document Repository service to Zenodo\u0026nbsp; , a service operated by CERN, where CEDA will maintain a ‘CEDA Document Repository Community’ to aid access to dataset related documentation.\n",
         
         
@@ -9319,16 +9820,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 195,
         href: "/news/updates/2022/2022-11-24-ceda-document-repository-transfer-to-zenodo-complete/",
-        title: "CEDA Document Repository Transfer To Zenodo Complete",
+        title: "CEDA Document Repository Trans...",
         description: "The transfer of items from the CEDA Document Repository to our CEDA Document Repository Community on Zenodo has now been successfully completed.\n",
         
         
         content: "The transfer of items from the CEDA Document Repository to our CEDA Document Repository Community on Zenodo has now been successfully completed.\nLinks to items have also been updated where these are known and redirects are in place to help users to access items when using former URLs for items.\nFor more informaiton on using Zenodo to store dataset related documentation please see our CEDA Document Repository help page: https://help.ceda.ac.uk/article/297-ceda-document-repository\u0026nbsp; (please note, this is for dataset releated supporting material only and not for data themselves !)\nCEDA Team"
       })
       .add(
+      
       
       
       
@@ -9347,6 +9852,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 197,
         href: "/news/updates/2015/2015-06-17-ceda-esgf-nodes-unavailable/",
@@ -9361,16 +9867,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 198,
         href: "/news/updates/2024/2024-04-30-eodh-awards-3million/",
-        title: "CEDA facilitating simplified access to Earth observation data - EO DataHub awards £3 million",
+        title: "CEDA facilitating simplified a...",
         description: "CEDA, on behalf of the EO DataHub, is delighted to announce the award of significant further contracts aimed at unlocking the potential of Earth Observation (EO) data and completing the team for this landmark project. These contracts represent a significant milestone in the collaboration between commercial technology providers, application developers and data sources to deliver a first digital national EO infrastructure.\n",
         
         
         content: "CEDA, on behalf of the EO DataHub, is delighted to announce the award of significant further contracts aimed at unlocking the potential of Earth Observation (EO) data and completing the team for this landmark project. These contracts represent a significant milestone in the collaboration between commercial technology providers, application developers and data sources to deliver a first digital national EO infrastructure.\nThe EO DataHub is a first step in modernising satellite data technologies for the UK for experts and non-experts alike. The overall goal of the project is to develop and operate a new centralised software infrastructure – DataHub – to provide a ‘single point’ of access for UK and international data offerings from distributed public and commercial sources. The system provides confidence for users through access to data processing, data quality checks and training from subject experts.\nLed by the NERC National Centre for Earth Observation, at the Centre for Data Analysis (CEDA) and the University of Leicester, the team as shown is a unique combination of UKRI institutes, public sector establishments and commercial organisations who are known for their expert capabilities in EO data, computing and data quality systems. The new partners are:\nAirbus Defence and Space\u0026nbsp; Earth-i\u0026nbsp; and Planet\u0026nbsp; Sparkgeo\u0026nbsp; Spyrosoft\u0026nbsp; Oxidian\u0026nbsp; For more information: click on this link to check out the full article on the Datahub website.\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -9389,10 +9899,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 200,
         href: "/news/updates/2016/2016-09-29-ceda-helpdesk-changes-new-service-and-new-docs-site/",
-        title: "CEDA helpdesk changes - new service and new docs site",
+        title: "CEDA helpdesk changes - new se...",
         description: "CEDA will be moving over to a new helpdesk system from 1st October to further enhance support for CEDA archive and service users and to offer greater support to JASMIN users.\n",
         
         
@@ -9403,10 +9916,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 201,
         href: "/news/updates/2020/2020-04-17-ceda-helps-design-new-girlguiding-and-scouts-challenge-badge/",
-        title: "CEDA helps design new Girlguiding and Scouts challenge",
+        title: "CEDA helps design new Girlguid...",
         description: "A group of RAL Space\u0026nbsp; graduates, including a member of the CEDA team, have created a new, free challenge for Girlguiding and Scout groups that is designed to introduce different science and engineering careers to young people, through hands-on activities.\n",
         
         
@@ -9417,16 +9933,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 202,
         href: "/news/updates/2021/2021-11-30-net-zero-computing/",
-        title: "CEDA leads UKRI’s net zero computing goals",
+        title: "CEDA leads UKRI’s net zero com...",
         description: "The CEDA team are leading efforts in the UK’s research and innovation sector to reach net zero computing. Our data experts will recommend a plan to ensure all the digital tools used throughout the sector, from supercomputers to phones, will be carbon neutral by 2040. ",
         
         
         content: "The CEDA team are leading efforts in the UK’s research and innovation sector to reach net zero computing. Our data experts will recommend a plan to ensure all the digital tools used throughout the sector, from supercomputers to phones, will be carbon neutral by 2040. We are leading research to set out a plan for how the entire UK Research and Innovation’s\u0026nbsp; (UKRI) digital estate can reach zero carbon emissions. The £1.9million scoping project, funded by the Natural Environment Research Council\u0026nbsp; , will support UKRI’s journey towards environmental sustainability and provide a clear roadmap to deliver carbon neutral digital research infrastructure by 2040 or earlier.\nJASMIN hardware lights Net zero computing \u0026nbsp; Across the nine organisations which make up UKRI, there are an extensive range of computers and mobile technology - known as digital research infrastructure\u0026nbsp; .\nTo support UKRI’s goal of reaching net zero by 2040, our team are using scientific research techniques to map out the entire organisation’s digital infrastructure. UKRI will then be able to determine the best action to reduce the carbon emissions from data generation, analysis, storage and dissemination. Taking a systems-based approach, we will work to develop adaptation strategies for the way data is conserved, analysed and managed. The project will cover all the UKRI-owned and majority-funded infrastructure, everything from the national supercomputing centres, like JASMIN\u0026nbsp; , to the thousands of laptops used by staff.\nJASMIN machine room The project team will work collaboratively across the whole of UKRI’s digital research infrastructures to ensure the whole organisation is represented.\nDr Martin Juckes, Head of Atmospheric Science at CEDA, is the project lead. He said:\n“We will set a benchmark for a realistic, rigorously evidenced, ambitiously scheduled, roadmap for the full decarbonisation of all elements of significant national infrastructure.\n“The project will look at both the energy consumed by the computers in use and the impact of the supply chain.”\nBrad Tipp of Microsoft, who joins the project on the Scientific Advisory Board, said:\n“Microsoft are delighted to be part of this new UK initiative to eliminate the carbon footprint of computational research, part of a growing global movement to meet and go beyond the Paris targets.”\nRead the full story here\u0026nbsp; .\nFor more detailed information about the work we are doing, check out the project website\u0026nbsp; . Images show the JASMIN hardware, which will be one of the digital infrastructures covered by this project. Credit: STFC. "
       })
       .add(
+      
       
       
       
@@ -9445,10 +9965,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 204,
         href: "/news/updates/2016/2016-10-11-ceda-opendap-service-login-problems/",
-        title: "CEDA OpenDAP service login problems",
+        title: "CEDA OpenDAP service login pro...",
         description: "Users of the CEDA OpenDAP service (dap.ceda.ac.uk) are presently experiencing an issue whilst logging into their account to access resources on this service.\n",
         
         
@@ -9459,10 +9982,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 205,
         href: "/news/updates/2014/2014-08-15-ceda-openid-unavailable-services-affected/",
-        title: "CEDA OpenID for CEMS PyDap service affected",
+        title: "CEDA OpenID for CEMS PyDap ser...",
         description: "The CEDA open ID service has been restored for most CEDA supported services following a temporary issue that had arrisen in the last 24 hours.\n",
         
         
@@ -9473,10 +9999,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 206,
         href: "/news/updates/2012/2012-09-25-ceda-openid-service-operational-again-login-to-wps-and-badc-cmip5-gateway-restored/",
-        title: "CEDA OpenID service operational again - login to WPS and BADC CMIP5 Gateway restored",
+        title: "CEDA OpenID service operationa...",
         description: "The CEDA OpenID service is fully operational again. Access to CEDA OpenID associated services (e.g. CEDA WPS facility and BADC ESG Gateway) has now been restored.\n",
         
         
@@ -9487,10 +10016,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 207,
         href: "/news/updates/2021/2021-04-22-ceda-services-improve-access-to-global-climate-data/",
-        title: "CEDA services improve access to global climate data",
+        title: "CEDA services improve access t...",
         description: "A diverse set of companies, governments and individuals are now able to access global climate projections data via the Copernicus Climate Change Service\u0026nbsp; (C3S). C3S provides climate data to support adaptation and mitigation measures across Europe.\n",
         
         
@@ -9501,10 +10033,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 208,
         href: "/news/updates/2017/2017-08-22-ceda-services-unsupported-over-bank-holiday-weekend/",
-        title: "CEDA services unsupported over bank holiday weekend",
+        title: "CEDA services unsupported over...",
         description: "CEDA services will be available but unsupported over the bank holiday weekend - this also includes Tuesday 29th August. This includes services such as the CEDA archive, JASMIN and helpdesk; so any issues will not be resolved until after the weekend.\n",
         
         
@@ -9515,10 +10050,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 209,
         href: "/news/updates/2016/2016-01-13-ceda-site-and-services-back-up-but-remain-at-risk/",
-        title: "CEDA site and services back up, but remain at risk",
+        title: "CEDA site and services back up...",
         description: "The earlier networking issues affecting CEDA websites and services have been resolved, but additional ongoing issues are still in progress.\n",
         
         
@@ -9529,10 +10067,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 210,
         href: "/news/updates/2016/2016-03-18-ceda-staff-data-curation-takes-off-literally/",
-        title: "CEDA staff data curation takes off (literally!)",
+        title: "CEDA staff data curation takes...",
         description: "Two CEDA staff joined the FAAM aircraft team on Wednesday 16th March 2016, as it took to the skies over East Anglia for the WINTEX campaign. Poppy Townsend and Kate Winfield were there as part of CEDA\u0026rsquo;s engagement with the research community: Poppy beginning a 3 month detachment with FAAM as part of her grad scheme at CEDA; and Kate to get first hand experience of data producers and the underlying science of our core community. Poppy and Kate ready to board FAAM Aircraft ",
         
         
@@ -9543,16 +10084,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 211,
         href: "/news/updates/2019/2019-03-29-ceda-staff-deliver-training-for-earth-observation-scientists/",
-        title: "CEDA staff deliver training for Earth Observation scientists",
+        title: "CEDA staff deliver training fo...",
         description: "Earlier this month, CEDA provided a two day Researchers Forum on behalf of the National Centre for Earth Observation (NCEO). 26 delegates attended the event which covered the theme of preparing data for the CEDA Archive and using JASMIN to process data. The training was provided by CEDA staff and included presentations, a practical workshop and tours of JASMIN and RAL Space facilities. ",
         
         
         content: "Earlier this month, CEDA provided a two day Researchers Forum on behalf of the National Centre for Earth Observation (NCEO). 26 delegates attended the event which covered the theme of preparing data for the CEDA Archive and using JASMIN to process data. The training was provided by CEDA staff and included presentations, a practical workshop and tours of JASMIN and RAL Space facilities. Presentation content delivered during the forum can be found here\u0026nbsp; ."
       })
       .add(
+      
       
       
       
@@ -9571,10 +10116,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 213,
         href: "/news/updates/2023/2023-12-14-ceda-supports-landmark-ai-for-public-good-scheme/",
-        title: "CEDA supporting landmark AI-for-public-good scheme",
+        title: "CEDA supporting landmark AI-fo...",
         description: "The Manchester Prize is a landmark AI-for-public-good scheme funded by the Government through which £1m in prizes will be awarded annually for the next ten years.\n",
         
         
@@ -9585,10 +10133,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 214,
         href: "/news/updates/2016/2016-10-19-ceda-trajectory-service-present-state-and-retirement/",
-        title: "CEDA Trajectory Service present state and retirement",
+        title: "CEDA Trajectory Service presen...",
         description: "The CEDA trajectory service is presently off-line due to systemic issues with this unsupported service.\nFollowing initial investigations into the cause of the problems and following an internal review, we have decided to fully decommission the trajectory service.\n",
         
         
@@ -9599,10 +10150,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 215,
         href: "/news/updates/2025/2025-06-26-ceda-accounts-maint/",
-        title: "CEDA user account management site maintenance this morning, 26th of June, until midday (12pm)",
+        title: "CEDA user account management s...",
         description: "This morning, the 26th June, until midday (12pm), we will be rolling out some improvements to our CEDA account management services. During this time, there may be disruption to some website functions, including sign up for new CEDA accounts and account management operations such as password reset. Once completed, these updates should result in a better user experience while managing your CEDA account.\n",
         
         
@@ -9613,10 +10167,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 216,
         href: "/news/updates/2023/2023-09-19-vacancies-student-industrial-placements-and-graduate-role-available/",
-        title: "CEDA Vacancies for Summer 2024 software developer industrial placement and graduate JASMIN Service Support role available",
+        title: "CEDA Vacancies for Summer 2024...",
         description: "Interested in joining our amazing team at the Centre for Environmental Data Analysis and being involved in our work supporting world leading environmental research? Graduating in Summer 2024 or looking for an Industrial Placement as part of your degree?\nIf so, you\u0026rsquo;re in luck because we have multiple positions now open for applications!\n",
         
         
@@ -9627,16 +10184,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 217,
         href: "/news/updates/2023/2023-09-25-ceda-web-download-service-issues-resolved/",
-        title: "CEDA web download service issues resolved.",
+        title: "CEDA web download service issu...",
         description: "The temporary issue affecting the web download service for the archive ( data.ceda.ac.uk\u0026nbsp; ) has been resolved and normal service has resumed.Apologies for the inconvenience this may have caused.CEDA Team\n",
         
         
         content: "The temporary issue affecting the web download service for the archive ( data.ceda.ac.uk\u0026nbsp; ) has been resolved and normal service has resumed.Apologies for the inconvenience this may have caused.CEDA Team"
       })
       .add(
+      
       
       
       
@@ -9655,10 +10216,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 219,
         href: "/news/updates/2015/2015-07-14-ceda-web-processing-service-ceda-wps-back-up/",
-        title: "CEDA Web Processing Service (CEDA WPS) back up",
+        title: "CEDA Web Processing Service (C...",
         description: "The CEDA Web Processing Service is now fully operational again.\nApologies for the interuption that this may have caused.\nRegards,\n",
         
         
@@ -9669,10 +10233,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 220,
         href: "/news/updates/2012/2012-02-22-ceda-wps-for-midas-data-extraction-back-online-and-fully-operational/",
-        title: "CEDA WPS for MIDAS data extraction back online and fully operational",
+        title: "CEDA WPS for MIDAS data extrac...",
         description: "CEDA WPS for MIDAS data extraction back online and fully operational\n",
         
         
@@ -9683,16 +10250,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 221,
         href: "/news/updates/2012/2012-02-21-ceda-wps-for-midas-data-extraction-currently-unavailable/",
-        title: "CEDA WPS for MIDAS data extraction currently unavailable",
+        title: "CEDA WPS for MIDAS data extrac...",
         description: "SERVICE PROBLEM: WPS hardware failure\nPlease note that due to a hardware failure the WPS is currently unable to run offline jobs. Please refrain from submitting jobs until further notice.\nWe are looking at the problem and we will post a news item here and on the CEDA WPS interface as soon as it has been resolved.\n",
         
         
         content: "SERVICE PROBLEM: WPS hardware failure\nPlease note that due to a hardware failure the WPS is currently unable to run offline jobs. Please refrain from submitting jobs until further notice.\nWe are looking at the problem and we will post a news item here and on the CEDA WPS interface as soon as it has been resolved.\nThank you for your patience. BADC Helpdesk 21th February 2012"
       })
       .add(
+      
       
       
       
@@ -9711,10 +10282,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 223,
         href: "/news/updates/2017/2017-02-10-ceda-wps-unavailable-today-from-11am/",
-        title: "CEDA WPS unavailable today from 11am",
+        title: "CEDA WPS unavailable today fro...",
         description: "The CEDA Web Processing Service (CEDA WPS) will be off-line from 11am today to allow for important software updates to be installed.\n",
         
         
@@ -9725,16 +10299,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 224,
         href: "/news/updates/2013/2013-10-28-cedas-summer-2013-student-placements-projects/",
-        title: "CEDA's Summer 2013 Student Placements Projects",
+        title: "CEDA's Summer 2013 Student Pla...",
         description: "During the summer this year CEDA welcomed 4 undergraduate students to take up summer studentships working alongside CEDA staff. During this time their work touched on data from three of the data centres operated by CEDA: the British Atmospheric Data Centre, NERC Earth Observation Data Centre and the UK Solar System Data Centre.\n",
         
         
         content: "During the summer this year CEDA welcomed 4 undergraduate students to take up summer studentships working alongside CEDA staff. During this time their work touched on data from three of the data centres operated by CEDA: the British Atmospheric Data Centre, NERC Earth Observation Data Centre and the UK Solar System Data Centre.\nThree of these students were working together as part of a team lead by Esther Conway feeding into the ESA funded Long-Term Data Preservation (LTDP) project, while the forth worked within the UKSSDC.\nFurther details of their work are given below.\nCEDA will be looking to make further opportunities available to students in the future and will make further announcements of such opportunities through the CEDA website and social media.\nEach of the 4 students have made a significant contribution the work of the Centre for Environmental Data Archival (CEDA) in the last few months, for which CEDA would like to state their thanks.\nJames Parkinson – Improving online access to ionospheric data. \u0026nbsp; The UK Solar System Data Centre has been collecting ionospheric data since 1957, and has built up an extensive archive of such data from the oldest records dating back to 1931 to data only a few minutes old. As a result, these data are available at varying levels of detail and in a variety of formats. In particular, the online access to these data has also altered gradually over the years, with different tools providing access to different subsets of ionospheric data.\nPhysics undergraduate James Parkinson joined the UKSSDC for the summer to work on a project to improve the online access to ionospheric data for UKSSDC users. James quick came to grips with the data and the web services and, with a fresh pair of eyes on the situation, began with a thorough assessment of the existing provision. During the course of his work James worked up the design of a new interface to bring together ionospheric data services in one place and even implemented some of the new code that will be needed to make it operational – a very impressive feat given the short duration of the project!\nHarry Jones, Charles Newey and Robin Pinder – Long Term Data Preservation \u0026amp; CEDA wide archive format review. \u0026nbsp; CEDA’s Esther Conway brought together these three summer placement students this summer to work on the ESA funded “Long Term Data Preservation” project with the aim of carrying out an archive wide format review. This was no small task for the team given the scale (both in size and number of files) and breadth of the BADC and NEODC holdings built up over a number of decades, during which the archive had developed in a very heterogeneous and organic fashion. As a consequence a manual inspection of the archive wasn’t practical and simple off-the-shelf solutions were not available to the team. Coming to grips with the task ahead the team worked alongside members of the CEDA team to scope out and develop a way to sort through the huge mass of data with little or no format documentation.\nBuilding on earlier attempts by CEDA to get a handle on the plethora of formats in the CEDA archive, Charlie set to work developing what would eventually become the HEFTI (Helping Environmental Formats Through Identification) software. Building up from a script that initially followed conventional methods of just checking file extensions, Charlie went on to develop other diagnostic methods used by the HEFTI software. These were required as the file extensions were often found to have been utilised to store information about the parameters or instrument names (for example) as opposed to the format of the data. Instead, Charlie developed the system to make use of additional information found by other members of the team, either by determining patterns within filenames themselves or, more usefully, determining the format’s “magic number” within the first few bytes of a file that would help fingerprint the format used.\nHarry played a key role in analysing data in the archive found to be in unknown, non-standard formats. Over the course of the project he was able to determining patterns, magic numbers of format and other crucial diagnostic clues that enabled Charlie to continue to develop the HEFTI framework to diagnose more and more formats, especially of the more obscure, bespoke formats used by specific instruments or within given projects or institutions.\nAt the same time that the format diagnostic tool kit was developed Robin compiled information on the most important formats and their versions, detailing the relevant organisations or communities and assessing their long term preservation risk. This task\nFormats have a related software set that must be available to the user whether through the archive itself or as is simpler for the archive from some outside organisation. But the community will need checking to make sure the format will not fall into disuse and the data become unreadable. This task was a crucial step forward for CEDA as it began to ensure that each format found within the CEDA archive was risk assessed and preservation plans began to be formed by assessing matters such as the level of documentation, community use and strength of supporting community and tools. Given its importance, Harry also continued this work on following the ending of the summer project itself.\nThe outcome of this work is that CEDA now have a considerably better understanding of the formats contained within the CEDA archives. Of particular note is that the team was able to determined, by assessing the data formats, what is of value to keep, what is possible to keep, and what must be kept due to obligations."
       })
       .add(
+      
       
       
       
@@ -9753,10 +10331,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 226,
         href: "/events/past/ceda-30th-stakeholder-event/",
-        title: "Celebrating 30 years of CEDA - Help us imagine our future",
+        title: "Celebrating 30 years of CEDA -...",
         description: "This event will celebrate 30 years of the Centre for Environmental Data Analysis, showcasing the work we do and allowing you to help shape our future, cake included!",
         
         
@@ -9767,10 +10348,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 227,
         href: "/news/updates/2024/2024-11-29-celebrating-30-years-of-ceda/",
-        title: "Celebrating 30 years of the Centre for Environmental data Analysis",
+        title: "Celebrating 30 years of the Ce...",
         description: "On Monday 25th November 2024, we held a celebration event to mark the 30th anniversary of the Centre for Environmental Data Analysis (CEDA). The event was a great success, with over 70 people attending.\n",
         
         
@@ -9781,10 +10365,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 228,
         href: "/news/updates/2018/2018-03-08-celebrating-international-womens-day-at-ceda/",
-        title: "Celebrating International Women’s Day at CEDA",
+        title: "Celebrating International Wome...",
         description: "Today is International Women’s Day and we’d like to celebrate our diverse team within CEDA. At present, we have 12 female colleagues who make up approximately 40% of the team. Our roles range from User Support on the helpdesk, to Data Scientists, to Head of CEDA; all falling within Science, Technology, Engineering and Maths (STEM) areas. Historically, there are inequalities in gender within these areas and we are continually working to improve the balance.\n",
         
         
@@ -9795,10 +10382,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 229,
         href: "/news/updates/2002/2002-09-03-cet-maxmin-historical-data-now-available-from-1878/",
-        title: "CET Max/Min historical data now available from 1878",
+        title: "CET Max/Min historical data no...",
         description: "Central England Max and Min daily temperature data from 1878 have recently been acquired from the Met Office to complete the archive at the BADC.\n",
         
         
@@ -9809,10 +10399,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 230,
         href: "/news/updates/2023/2023-03-30-change-in-email-delivery-from-the-jasmin-accounts-portal/",
-        title: "Change in email delivery from the JASMIN Accounts Portal",
+        title: "Change in email delivery from ...",
         description: "Dear Users,\nThe email address from which the JASMIN accounts portal sends notifications to users, such as service expiry reminders, password resets and one-time passwords is changing from no-reply@accounts.jasmin.ac.uk to noreply@jasmin.ac.uk*.*\n",
         
         
@@ -9823,16 +10416,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 231,
         href: "/news/updates/2016/2016-02-19-change-to-ecmwf-era-data-usage-licencing/",
-        title: "Change to ECMWF-ERA data usage licencing",
+        title: "Change to ECMWF-ERA data usage...",
         description: " ECMWF recently updated the licensing for its ERA products and in light of this CEDA have secured a new licence for all ERA products held in the CEDA archives.\n",
         
         
         content: " ECMWF recently updated the licensing for its ERA products and in light of this CEDA have secured a new licence for all ERA products held in the CEDA archives.\nThis new licence permits use of these products for:\nResearch purposes Educational purposes Commercial purposes, including the provision of services The new licence also allows non UK users to access these data via CEDA.\nLicence Conditions and Archive Access \u0026nbsp; Access to all ERA products has now been opened up to any registered CEDA user via our usual download services. Additionally all users of the JASMIN and CEMS data analysis platforms now have direct read access to these data in the archives from within the JASMIN and CEMS environments.\nPlease note - in all cases use is only permitted in strict accordance with the licencing conditions - you can view the new licence here:\nhttp://licences.ceda.ac.uk/image/data_access_condition/ecmwf-era-products.pdf\u0026nbsp; Operational Data \u0026nbsp; The above changes only affect access to the ECMWF ERA products (ERA-15, ERA-40, ERA-Interim) held in the CEDA archives. ECMWF Operational data remains under its present licence, limited for UK-based academic use only.\nWe hope that these changes will facilitate our communities to make greater use of these data. Should you have any additional questions please do not hesitate to contact CEDA Support.\nCEDA Team"
       })
       .add(
+      
       
       
       
@@ -9851,16 +10448,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 233,
         href: "/news/updates/2024/2024-10-24-changes-to-jasmin-cron-transfer-and-nx-services/",
-        title: "Changes to JASMIN cron, transfer and NX services",
+        title: "Changes to JASMIN cron, transf...",
         description: "Please note the following JASMIN announcements for your attention:\nChanges to cron (and all transfers using xfer3) Changes to NoMachine NX service (nx-login servers) 1. Changes to cron and transfer services \u0026nbsp; The old servers enabling task scheduling with cron, namely cron.jasmin.ac.uk (aka cron1.ceda.ac.uk) and xfer3.jasmin.ac.uk, are due to be retired, as replacements are already available as part of our migration to the Rocky Linux 9 operating system.\n",
         
         
         content: "Please note the following JASMIN announcements for your attention:\nChanges to cron (and all transfers using xfer3) Changes to NoMachine NX service (nx-login servers) 1. Changes to cron and transfer services \u0026nbsp; The old servers enabling task scheduling with cron, namely cron.jasmin.ac.uk (aka cron1.ceda.ac.uk) and xfer3.jasmin.ac.uk, are due to be retired, as replacements are already available as part of our migration to the Rocky Linux 9 operating system.\nIf you use cron, please take action now to move your scheduled tasks to the relevant new server:\nGeneral tasks, including submission to LOTUS\nOLD server = cron.jasmin.ac.uk (aka cron1.ceda.ac.uk) NEW server = cron-01.jasmin.ac.uk Scheduled or other transfers using xfer3\nOLD server = xfer3.jasmin.ac.uk NEW server = xfer-vm-03.jasmin.ac.uk The OLD servers will be removed on Thursday 21 November 2024, at which point, the new cron server will take over the alias cron.jasmin.ac.uk, but responsibility for moving each cron jobs lies with the job owner. Please remember to use crontamer\u0026nbsp; to control your job(s).\nUsers of xfer3 may have previously needed to use specifically that server due to network access rules. The new Rocky 9 xfer servers no longer have this restriction, as all 3 servers xfer-vm-0[123] are identical in this respect and allow connections from anywhere. As a result, the xfer-sp access role is now redundant so will be retired on/around this date. However users needing to schedule transfers should move their cron jobs to xfer-vm-03, or use Globus timers\u0026nbsp; .\n2. Changes to NoMachine NX service (nx-login servers) \u0026nbsp; We previously announced that servers nx-login[123] would be retired on the recent scheduled maintenance day (15 October), however this work was not completed. Retirement of these servers will now happen on Thursday 31 October (1 week today). New Rocky 9 NX servers are available as nx[123].jasmin.ac.uk, with no network restriction, so all are available to all users.\nFor a limited time, we will maintain one old server nx-login4 (aka nx4), to provide continuity for those users who have not yet migrated. Old connection profiles pointing to nx-login[123] should now be replaced with one pointing to a new server, one of nx[123].\nWindows users in particular should note the updated instructions\u0026nbsp; : you may not be able to make an onward connection to other machines unless you change to the recommended method.\nOne old server will remain for a limited period, for users who experience difficulty moving to the new servers. An existing connection profile can be edited to point to nx-login4, accessible from anywhere, but this will remain for a limited period only (tbc).\nSee here\u0026nbsp; for further information about the migration to Rocky Linux 9.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -9879,10 +10480,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 235,
         href: "/news/updates/2019/2019-04-08-changes-to-the-look-of-the-ceda-archive-web-download-service/",
-        title: "Changes to the look of the CEDA archive web download service",
+        title: "Changes to the look of the CED...",
         description: "We are updating the CEDA archive download service found in this link: http://data.ceda.ac.uk/\u0026nbsp; ",
         
         
@@ -9893,10 +10497,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 236,
         href: "/news/updates/2022/2022-03-15-changes-to-your-ceda-login-account/",
-        title: "Changes to your CEDA login account",
+        title: "Changes to your CEDA login acc...",
         description: "Dear CEDA users,\nWe are currently in the process of rolling out a number of improvements to our accounts and login systems. As part of this process, we are asking users to log in to their CEDA accounts and reset or change their password if they haven’t already done so in the last month.\n",
         
         
@@ -9907,10 +10514,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 237,
         href: "/news/updates/2005/2005-08-16-channel-4-news-coverage-about-the-cclrc-chilbolto/",
-        title: "Channel 4 news coverage about the CCLRC Chilbolton Observatory.",
+        title: "Channel 4 news coverage about ...",
         description: "On Wednesday 10th August, there was a 6mn long news report about the CCLRC Chilbolton Observatory.\nIf you missed it, you can now view the footage here.\n",
         
         
@@ -9921,10 +10531,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 238,
         href: "/news/updates/2013/2013-11-14-charme-project-news-datasets-annotations-a-step-closer/",
-        title: "CHARMe Project News Datasets annotations a step closer!",
+        title: "CHARMe Project News Datasets a...",
         description: "Being able to \u0026ldquo;tag\u0026rdquo; datasets with useful annotations has been one of the deliverables of the EU funded Characterisation of metadata to enable high-quality climate applications and services - CHARMe\u0026nbsp; project that CEDA is assisting with. The following tatement comes from Paul van der Linden, the CHARMe project communicator, highlighting the progress to deliver this exciting new feature for data centre users:\n",
         
         
@@ -9935,16 +10548,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 239,
         href: "/news/updates/2009/2009-12-22-christmas-and-new-year-helpdesk-closure/",
-        title: "Christmas and New Year Helpdesk Closure",
+        title: "Christmas and New Year Helpdes...",
         description: "The BADC helpdesk will be unavailable from Thursday 24th December 2009 to 4th January 2010. All queries received in this period will be answered as soon as possible on our return.\n",
         
         
         content: "The BADC helpdesk will be unavailable from Thursday 24th December 2009 to 4th January 2010. All queries received in this period will be answered as soon as possible on our return.\nBADC Services will be running but should be considered at risk as there is no support during the holiday period.\nThe BADC team would like to wish all BADC users a Merry Christmas and a Happy New Year!\nBADC Helpdesk 22nd December 2009"
       })
       .add(
+      
       
       
       
@@ -9963,10 +10580,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 241,
         href: "/news/updates/2022/2022-11-28-climate-data-use-survey/",
-        title: "Climate data use outside the academic research community survey",
+        title: "Climate data use outside the a...",
         description: "CEDA would like to learn how climate data is being used outside the academic research community (for example, industry partners, risk management companies, teachers and educators, local authorities, members of the public, policy makers and advisers, planners). This is to provide feedback to our funders and help us to design future services - without continued funding CEDA services would cease to exist.\n",
         
         
@@ -9977,16 +10597,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 242,
         href: "/news/updates/2005/2005-01-28-climatepredictionnet-first-results-published-in-n/",
-        title: "Climateprediction.net first results published in Nature",
+        title: "Climateprediction.net first re...",
         description: "Climateprediction.net Press release:\nBleak first results from the world\u0026rsquo;s largest climate change experiment\u0026nbsp; ",
         
         
         content: "Climateprediction.net Press release:\nBleak first results from the world\u0026rsquo;s largest climate change experiment\u0026nbsp; Dr Jamie Kettleborough and Dr Stephen Pascoe, from the BADC, are both contributing to the data management of the Climateprediction.net experiment\u0026nbsp; .\nBADC Support 28th January 2005"
       })
       .add(
+      
       
       
       
@@ -10005,6 +10629,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 244,
         href: "/news/updates/2021/2021-04-06-cloud-upgrade-may-2021/",
@@ -10019,10 +10644,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 245,
         href: "/news/updates/2013/2013-07-23-cmip5-web-based-processing-tools-launched-under-the-ceda-wps/",
-        title: "CMIP5 web-based processing tools launched under the CEDA WPS",
+        title: "CMIP5 web-based processing too...",
         description: "CEDA is pleased to announce the release of two new web-based processing tools under the CEDA Web Processing Service (WPS)\u0026nbsp; .\n",
         
         
@@ -10033,16 +10661,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 246,
         href: "/news/updates/2001/2001-06-27-coapec-data-now-available-from-the-badc/",
-        title: "COAPEC data now available from the BADC",
+        title: "COAPEC data now available from...",
         description: "The Coupled Ocean-Atmosphere Processes and European Climate (COAPEC) dataset is now available from the BADC.\nCOAPEC is a NERC thematic programme designed to examine the variability of the Earth\u0026rsquo;s climate. The goal of COAPEC is to determine the impact on climate, especially European climate, of the coupling between the Atlantic Ocean and the atmosphere. This is currently a 100 year dataset derived from the HadCM3 model, and the years covered by the dataset are 2079 - 2178.\n",
         
         
         content: "The Coupled Ocean-Atmosphere Processes and European Climate (COAPEC) dataset is now available from the BADC.\nCOAPEC is a NERC thematic programme designed to examine the variability of the Earth\u0026rsquo;s climate. The goal of COAPEC is to determine the impact on climate, especially European climate, of the coupling between the Atlantic Ocean and the atmosphere. This is currently a 100 year dataset derived from the HadCM3 model, and the years covered by the dataset are 2079 - 2178.\nMore information about this dataset and conditions of access to the data can be found at http://www.badc.rl.ac.uk/data/coapec/\u0026nbsp; If you require further assistance or if you have any comments about this new dataset, please e-mail badc@rl.ac.uk .\nBADC Support 27/06/01."
       })
       .add(
+      
       
       
       
@@ -10061,10 +10693,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 248,
         href: "/events/past/communicating-climate-uncertainty-workshop/",
-        title: "Communicating Climate Uncertainty Workshop",
+        title: "Communicating Climate Uncertai...",
         description: "A workshop to discuss how to communicate uncertainties in climate information.",
         
         
@@ -10075,10 +10710,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 249,
         href: "/news/updates/2021/2021-05-11-community-statements-of-need-survey-for-future-nerc-data-capability-and-services/",
-        title: "Community Statements of Need Survey for future NERC Data capability and Services",
+        title: "Community Statements of Need S...",
         description: "NERC is currently considering the Data Capability and Services that are provided via the NERC Environmental Data Service (EDS) and the associated data centres:\n",
         
         
@@ -10089,10 +10727,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 250,
         href: "/news/updates/2010/2010-05-05-conference-elevation-models-for-geoscience/",
-        title: "Conference Elevation Models for Geoscience",
+        title: "Conference Elevation Models fo...",
         description: "A one day conference \u0026ldquo;Elevation Models for Geoscience\u0026rdquo; will take place on Thursday 23rd March at Burlington House, Piccadilly, London. The purpose of this public meeting is to examine the different types of elevation data available and to discuss their application within the Geosciences.\n",
         
         
@@ -10103,10 +10744,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 251,
         href: "/news/updates/2010/2010-05-05-conference-exploiting-geoscience-collections-12-1/",
-        title: "Conference Exploiting Geoscience Collections, 12-13 May 2008",
+        title: "Conference Exploiting Geoscien...",
         description: "Geoscience collections (records, samples and digital data) are a key resource for research of all types. The compilation, management and exploitation of these resources are fundamental to a wide range of research activities. The conference will bring together an international range of users and custodians of geoscience collections.\n",
         
         
@@ -10117,10 +10761,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 252,
         href: "/news/updates/2007/2007-11-28-congratulations-to-the-winner-of-the-badc-competi/",
-        title: "Congratulations to the winner of the BADC Competition",
+        title: "Congratulations to the winner ...",
         description: "On 8th November the barmaid from The Plough\u0026nbsp; at East Hendred drew the winner of the BADC competition.\n",
         
         
@@ -10131,16 +10778,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 253,
         href: "/news/updates/2021/2021-11-02-constructing-a-digital-environment-webinar-series-data-management-and-analytical-tools-for-environmental-science-series/",
-        title: "Constructing a Digital Environment webinar series – Data management and analytical tools for environmental science series",
+        title: "Constructing a Digital Environ...",
         description: "The Constructing a Digital Environment programme runs an active webinar activity. Held every three weeks, these aim to develop the digitally enabled environment to benefit scientists, policymakers, businesses, communities and individuals. We arrange our webinars predominantly into ‘series’, drawing together presentations following similar themes.\n",
         
         
         content: "The Constructing a Digital Environment programme runs an active webinar activity. Held every three weeks, these aim to develop the digitally enabled environment to benefit scientists, policymakers, businesses, communities and individuals. We arrange our webinars predominantly into ‘series’, drawing together presentations following similar themes.\nOn 12 November, we will kick-off the fourth series led by the NERC Environmental Data Service (NERC EDS) and focusing on research data management and the analytical tools available to support researchers in the environmental sciences. The EDS provides a focal point for NERC’s scientific data and information. It consists of a network of five data centres which curate data from environmental scientists working in the UK and around the world. This series showcases the services provided by the EDS and illustrates how it supports the open data agenda. We will hear how tools developed by the EDS enable interoperability, support large-scale data analysis and facilitate multi- and trans-disciplinary research. Details of the first two webinars can be found below.\nFriday 12 November at 11:00 GMT - Jaana Pinnick on ‘Research data management services provided by NERC EDS’\nFriday 3 December at 11:00 GMT - Helen Glaves on ‘Open Science: what’s in it for me?’\nTo register for the webinars, please complete the form here.\u0026nbsp; For more information on the webinar series and to catch-up with the recordings of previous episodes, please go to the Constructing a Digital Environment website\u0026nbsp; or contact the NERC Digital Environment team."
       })
       .add(
+      
       
       
       
@@ -10159,10 +10810,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 255,
         href: "/news/updates/2021/2021-03-10-continuing-problems-with-elastic-tape/",
-        title: "Continuing Problems with Elastic Tape",
+        title: "Continuing Problems with Elast...",
         description: "Unfortunately we are still having recurring problems with the Elastic Tape system. This has resulted in further failures of both ingesting and retrieving data.\nWe are actively investigating this, in conjunction with our colleagues in the Scientific Computing Department (SCD). In particular our SCD colleagues have spent a lot of time trying to remedy this problem.\n",
         
         
@@ -10173,16 +10827,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 256,
         href: "/news/updates/2020/2020-03-24-covid-19-lockdown-impact-on-ceda-and-jasmin-operations/",
-        title: "COVID-19 lockdown- impact on CEDA and JASMIN operations",
+        title: "COVID-19 lockdown- impact on C...",
         description: "As we are sure you are already aware, the latest government restrictions on travel mean that any issues requiring physical intervention to the JASMIN infrastructure (e.g. a visit to the machine room by a member of the technical team) could now take up to a day or more to resolve. Strict procedures are in place to keep our key members of staff safe whilst they visit the RAL site - but these procedures take time to organise, hence the anticipated delays. ",
         
         
         content: "As we are sure you are already aware, the latest government restrictions on travel mean that any issues requiring physical intervention to the JASMIN infrastructure (e.g. a visit to the machine room by a member of the technical team) could now take up to a day or more to resolve. Strict procedures are in place to keep our key members of staff safe whilst they visit the RAL site - but these procedures take time to organise, hence the anticipated delays. We’d like to take the opportunity to remind you that all of our services should be considered at risk until further notice and delays for fixing issues are likely to be longer than usual. Although the teams involved are well set up for remote working, the current situation is unprecedented and still evolving, with further disruption a possibility. As ever, we will do our best.\nStay safe, CEDA/JASMIN team "
       })
       .add(
+      
       
       
       
@@ -10201,6 +10859,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 258,
         href: "/news/updates/2017/2017-01-25-cru-ts-324-withdrawn/",
@@ -10211,6 +10870,7 @@ function initIndex() {
         content: "The CRU TS 3.24 data has been withdrawn by the data provider due to known errors in the gridded output.\nPlease see https://crudata.uea.ac.uk/cru/data/hrg/Known_Problems_CRU_TS_3.24.txt\u0026nbsp; for further details.\nIt is hoped that a revised version should be available in a couple of weeks.\nCEDA Team"
       })
       .add(
+      
       
       
       
@@ -10229,10 +10889,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 260,
         href: "/news/updates/2020/2020-04-24-crucial-dataset-helps-scientists-monitor-climate-change/",
-        title: "Crucial dataset helps scientists monitor climate change",
+        title: "Crucial dataset helps scientis...",
         description: "One of the most widely used climate datasets has released its biggest update since 2013. Since the initial launch back in 2000, the CRU TS ( Climatic Research Unit gridded Time Series\u0026nbsp; ) dataset has been used in thousands of studies worldwide to support research about our changing climate. ",
         
         
@@ -10243,16 +10906,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 261,
         href: "/news/updates/2008/2008-07-10-cwvc-datasets-now-all-publicly-available/",
-        title: "CWVC datasets now all publicly available",
+        title: "CWVC datasets now all publicly...",
         description: "The Clouds, Water Vapour and Climate (CWVC) Programme was a five-year NERC thematic research programme. Its overall aim was to improve our understanding of the physical processes responsible for the distribution of humidity and clouds and of their influences on climate.\n",
         
         
         content: "The Clouds, Water Vapour and Climate (CWVC) Programme was a five-year NERC thematic research programme. Its overall aim was to improve our understanding of the physical processes responsible for the distribution of humidity and clouds and of their influences on climate.\nCWVC data submitted to the BADC include:\nThe Chilbolton Advanced Meteorological Radar (CAMRa) data set (Projects GST/02/2316 and 2874). The HITRAN water vapour absorption data set (Project GST/02/2871). The EMERALD I and EMERALD II campaigns data sets (Projects GST/02/2881 \u0026amp; NER/T/S/2001/201). The Global Retrieval of ATSR cloud Parameters and Evaluation (GRAPE) data set (Project NER/T/S/2001/205) All the CWVC datasets held at the BADC are now all public.\nFor more information about CWVC, please see http://badc.nerc.ac.uk/data/cwvc/\u0026nbsp; BADC Helpdesk 10th July 2008"
       })
       .add(
+      
       
       
       
@@ -10271,6 +10938,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 263,
         href: "/news/updates/2020/2020-02-07-data-catalogue-update-1600-today/",
@@ -10285,16 +10953,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 264,
         href: "/news/updates/2020/2020-01-16-data-downloads-have-conked-out/",
-        title: "Data downloads have conked out - now fixed!",
+        title: "Data downloads have conked out...",
         description: "We believe the below issues are now resolved. Please contact us if you are still experiencing issues downloading data via dap.ceda.ac.uk\n",
         
         
         content: "We believe the below issues are now resolved. Please contact us if you are still experiencing issues downloading data via dap.ceda.ac.uk\nThank you for your patience during the disruption. CEDA team\nWe are aware of an intermittent issue with some of the archive storage. It is mainly affecting our key download service (dap.ceda.ac.uk). This means that it is frequently going offline (AKA conking out) and users are therefore unable to access data via this download route. We are investigating the cause but at present are unable to resolve the issue. If you are experiencing difficulties downloading data you may want to try our alternative download routes. The options (with caveats) are listed below: DAP - this is our usual download route but this is what we are currently having problems with. When it is broken you will see a timeout error message. This service is pointed to from our main data browser (data.ceda.ac.uk). FTP - this route will request you to log in with your CEDA account details. You can access it here: ftp://ftp.ceda.ac.uk/\nFTP Anon - this route doesn’t require a log in. However it currently holds very limited datasets. So you may not be able to see the data you are after - we are working on increasing the range of datasets. You can access it here: ftp://anon-ftp.ceda.ac.uk/\nVia JASMIN - for users with JASMIN accounts, you can access the data as normal from the jasmin-sci machines. We have created a status page where you can see if we are having problems with our key data services. You can find it here: https://stats.uptimerobot.com/vZPgQt7YnO\u0026nbsp; We are working on a solution for this issue and hope to resolve it soon. Sorry for the inevitable inconvenience and frustration. CEDA team "
       })
       .add(
+      
       
       
       
@@ -10313,10 +10985,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 266,
         href: "/news/updates/2007/2007-02-19-data-extractor-available-for-midas-surface-data/",
-        title: "Data Extractor available for MIDAS Surface Data.",
+        title: "Data Extractor available for M...",
         description: "The data extractor is now available for extracting surface data from the MIDAS dataset for registered surface data users. Data can be extracted by station id, county or geographical area. Please read the website\u0026nbsp; for more information on how to use it.\n",
         
         
@@ -10327,10 +11002,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 267,
         href: "/news/updates/2007/2007-03-21-data-extractor-now-supports-microsoft-internet-ex/",
-        title: "Data Extractor now supports Microsoft Internet Explorer",
+        title: "Data Extractor now supports Mi...",
         description: "You can now use the data extractor\u0026nbsp; if you are an Internet Explorer user. The data extractor can be used on several datasets, including MIDAS\u0026nbsp; and some ECMWF data\u0026nbsp; .\n",
         
         
@@ -10341,16 +11019,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 268,
         href: "/news/updates/2009/2009-01-06-data-extractor-service-unavailable/",
-        title: "Data Extractor Service Unavailable",
+        title: "Data Extractor Service Unavail...",
         description: "The Data Extractor service is temporarily unavailable. We are currently investigating the problem and hope to return the service to being operational as soon as possible.\n",
         
         
         content: "The Data Extractor service is temporarily unavailable. We are currently investigating the problem and hope to return the service to being operational as soon as possible.\nApologies for the inconvenience caused.\nBADC Helpdesk 6th January 2008"
       })
       .add(
+      
       
       
       
@@ -10369,10 +11051,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 270,
         href: "/news/updates/2019/2019-07-17-data-transfer-service-at-risk-today-weds-17th-july/",
-        title: "Data transfer service at risk TODAY (Weds 17th July)",
+        title: "Data transfer service at risk ...",
         description: "At some time this morning (Weds 17th July) there may be a short interruption to connectivity of services within the JASMIN Data Transfer Zone (DTZ) to storage.\n",
         
         
@@ -10383,10 +11068,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 271,
         href: "/news/updates/2013/2013-03-22-data-with-dois-1st-ceda-data-paper-published/",
-        title: "Data with DOIs 1st CEDA data paper published!",
+        title: "Data with DOIs 1st CEDA data p...",
         description: "CEDA users can now find out more about some of the data we hold with the recent publication of our 1st data paper in the Geoscience Data Journal\u0026nbsp; . Papers in data journals are fully citable articles detailing the data as a valuable scientific resource in its own right – giving due academic credit to the data producers through a fully peer reviewed process. These papers include details about the dataset itself, how and why it was created and suggests further uses for the data.\n",
         
         
@@ -10397,16 +11085,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 272,
         href: "/news/updates/2024/2024-07-29-zach-and-rory-at-ceda/",
-        title: "Data, docker and Django - Rory and Zach's Journey at CEDA",
+        title: "Data, docker and Django - Rory...",
         description: "This year, CEDA had the pleasure of welcoming two industrial placement students, Rory Jenns and Zach Wharton, who joined us as Software Engineers for their Industrial Placement year. Hailing from the University of Nottingham and Loughborough University, respectively, Rory and Zach have spent the past 12 months diving into various projects, from software development to stakeholder engagement and system deployment. Let’s take a look at the fantastic work they accomplished during their time with us.\n",
         
         
         content: "This year, CEDA had the pleasure of welcoming two industrial placement students, Rory Jenns and Zach Wharton, who joined us as Software Engineers for their Industrial Placement year. Hailing from the University of Nottingham and Loughborough University, respectively, Rory and Zach have spent the past 12 months diving into various projects, from software development to stakeholder engagement and system deployment. Let’s take a look at the fantastic work they accomplished during their time with us.\nRevolutionising CEDA\u0026rsquo;s Data Catalogue \u0026nbsp; Zach, with his knack for enhancing user experiences, took on the task of developing new front-end features for the CEDA Data Catalogue.\u0026nbsp; Using JavaScript (a programming language), he introduced an ‘embedded search’ on catalogue record pages allowing users to further refine their searches of related content. This was a game-changer, especially as the increasing connectivity of records was causing longer page load times. Zach’s solution provided a more efficient way to access relevant information, giving users greater control and reducing wait times. Kudos to Zach!\nMeanwhile, Rory focused on a novel implementation in data management: tagging datasets based on the classifications of their licences by what use they permit. This lets users, at a glance, tell if a dataset has a licence for their use (e.g. find data that permits academic or commercial usage). “Changing the data model of the large legacy system comes with risk. So, using Docker, my first step was to ‘sandbox’ the catalogue, creating an isolated local environment to develop.” Rory’s changes also provide greater flexibility in access routes to data associated with different licensing options, allowing CEDA to cater for diverse options needed by data providers storing data in the CEDA archive.\nZach in front of RAL Space's BIG DREAM Enhancing the Archival of Data \u0026nbsp; Rory and Zach’s paths crossed again when they both worked on crucial systems for intaking data from users into the archive.\nRory started his placement by improving ‘Arrivals’, a Python/Django app for reviewing incoming datasets arriving in the archive. He spoke with data scientists at CEDA to find out how they used the system, where improvements could be made, and desired features. Using this knowledge he created web tools that give our data scientists greater visibility and control to review and fix incoming datasets. This allows staff to review datasets from their web browsers, lowering the bar to entry.\nFollowing this, Rory created data workflows across services to automate common work, again lowering the bar to entry. He proudly presented this work in Leeds at the 2024 NCAS Harmony in the Skies Early Careers symposium ( https://zenodo.org/records/11109744)\u0026nbsp; , increasing the awareness of CEDA and its data scientists’ work to related partners.\nAt the same time, Zach revitalised our ‘FileOps server’, an internal system that has been part of our file processing pipeline for the past two decades. Recognizing the need for modernisation, Zach used a modern technology called FastAPI to simplify and improve the system. This new approach made it easier to develop and maintain, while also making the system more reliable and able to handle a greater volume of requests. This upgrade was a significant milestone for CEDA, ensuring our file operations would continue to be efficient and dependable. Zach\u0026rsquo;s work prepared the ‘FileOps server’ for future growth and adaptability, maintaining high standards in our file management processes.\nRory presenting his work at the NCAS Harmony in the Skies 2024 Early Careers Symposium Engaging with External Partners \u0026nbsp; Our projects often involve collaboration with external partners, Rory and Zach had the chance to engage with some of the big names in environmental data.\nZach worked closely with the Met Office on a project to update the format of rain radar data. He picked up and configured existing codebases to meet the Met Office’s requirements, marking his first experience working with external stakeholders. Reflecting on this, Zach said, “My standout experience at CEDA is most likely working on a software development project with the Met Office. I was able to advance as a software developer because I collaborated with well-known industry names. It was eye-opening to work with external stakeholders and see the real-world applications of our work.”\nRory, on the other hand, engaged with the European Space Agency (ESA) when moving our Data Relay Hub to a new architecture so it is more reliable and can be more easily extended. During this, Rory gained hands-on experience in automating deployments and using infrastructure-as-code tools, such as Ansible and Docker. Using these tools meant that the deployment process was self-documenting and would make the process of moving to the new Data Relay Hub simpler. “Working on the Data Relay Hub has been a unique experience for me. Luckily, I had the chance to work directly with ESA, an opportunity that few this early in their career receive. In the work itself, I made use of a variety of technologies while working through how to implement an operational system.”\nOn top of this, he got to dive into the architecture and design of larger operational systems that move large data volumes (in the terabytes per day). This project was a valuable learning experience, allowing Rory to develop his skills in an innovative environment and experience working with external partners.\nLooking Ahead \u0026nbsp; As their placements come to an end, Rory and Zach are heading back to university to complete their final years. Rory is set to become the President of his university’s ‘CompSoc’ (the School of Computer Science Society) and plans to have his dissertation utilise CEDA’s vast data holdings, inspired by his work here. Zach, meanwhile, will be undertaking a final year project that applies modern machine learning techniques to predict horse racing results using historical data.\nWe’re incredibly proud of the contributions Rory and Zach have made during their time at CEDA and wish them all the best in their future endeavours. Their hard work and dedication have left a lasting impact, and we’re excited to see what they achieve next.\nRory and Zach on Zach’s final day. Pictured with some CEDA colleagues (and Tim Peake!) If you\u0026rsquo;d like to read more about the amazing work our other previous industrial placement students have done, you can check them out out here:\nCheck out how Adrian Dębski applied his speed-cubing skills to the CEDA catalogue search. Click here to read about Kate Winfield\u0026rsquo;s major overhaul of CEDA\u0026rsquo;s data catalogue."
       })
       .add(
+      
       
       
       
@@ -10425,10 +11117,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 274,
         href: "/news/updates/2013/2013-03-14-dedicated-light-path-connects-jasmin-core-and-jasmin-north/",
-        title: "Dedicated light path connects JASMIN-Core and JASMIN-North",
+        title: "Dedicated light path connects ...",
         description: "Following the deployment of high-performance storage and virtualisation infrastructure at CEDA over the past year, the JASMIN analysis environment is now taking shape. In addition to the JASMIN Core deployment at CEDA (RAL), the wider JASMIN network consists of hardware at Reading, Bristol and Leeds Universities, linking key atmospheric research groups across the UK. A significant milestone was achieved recently with the connection of a dedicated 1Gb light path between the JASMIN Core and JASMIN North nodes.\n",
         
         
@@ -10439,10 +11134,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 275,
         href: "/news/updates/2001/2001-01-03-delay-in-the-toms-data-reporting-because-of-a-sof/",
-        title: "Delay in the TOMS data reporting because of a software problem at NASA",
+        title: "Delay in the TOMS data reporti...",
         description: " Delay in the TOMS data reporting because of a software problem at NASA ================================================================= Leap year glitch - there was a problem in the NASA software in the ground control center such that the leap year was not being handled correctly. Data for December 31st was being assigned to January 1st. Leap years in the past were handled correctly by this software, so it not clear why it failed this time and it is taking longer to track down the problem than expected. Earth Probe is fine and Nasa has not lost any data. Nasa hope to have everything back on line tomorrow (the 4th). BADC Support 03-Jan-2001",
         
         
@@ -10453,10 +11151,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 276,
         href: "/news/updates/2000/2000-08-15-delays-in-setting-up-new-badc-user-accounts/",
-        title: "Delays in setting up new BADC user accounts",
+        title: "Delays in setting up new BADC ...",
         description: " Delays in setting up new BADC user accounts =========================================== Due to the Royal Mail Strike in Oxfordshire, no mail has been delivered to the BADC for the past 7 days. This unfortunately implies that no applications for new BADC Accounts have been delivered to the BADC for the past 7 days and nobody knows how long it will last. Consequently there will be delays in setting up accounts for new BADC users. However, if you wish to access restricted data in earnest, please contact the BADC Support at badc@rl.ac.uk . We are sorry for the inconvenience this may cause. BADC Support 15/08/00.",
         
         
@@ -10467,10 +11168,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 277,
         href: "/events/past/jasmin-notebook-service-webinar/",
-        title: "Demo of the JASMIN Notebook Service webinar",
+        title: "Demo of the JASMIN Notebook Se...",
         description: "Webinar so users can find out about the JASMIN Notebook Service's key feature in this demo.",
         
         
@@ -10481,10 +11185,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 278,
         href: "/events/past/lotus-webinar/",
-        title: "Designing efficient workflows on LOTUS webinar",
+        title: "Designing efficient workflows ...",
         description: "This webinar demonstrates two workflows available for using LOTUS.",
         
         
@@ -10495,10 +11202,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 279,
         href: "/news/updates/2011/2011-03-29-disk-maintenance-metdb-link-and-met-office-surfac/",
-        title: "Disk maintenance - MetDB, LINK and Met Office Surface datasets affected",
+        title: "Disk maintenance - MetDB, LINK...",
         description: "Issues with the disks holding the MetDB, Link and Met Office Surface station data (MIDAS data are not affected) require that these disks are taken down for maintenance. These disks will be taken down this morning (Tuesday 29th March). At present we do not have a resolution time, but we will issue a fresh news item once these data are re-instated into the archive.\n",
         
         
@@ -10509,10 +11219,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 280,
         href: "/news/updates/2022/2022-12-14-disruption-to-ceda-archive-services/",
-        title: "Disruption to CEDA archive services",
+        title: "Disruption to CEDA archive ser...",
         description: "We are currently experiences some disruption to CEDA archive services while we upgrade our storage systems.\nWe anticipated some short outages of our data ingestion services, but it looks likely that these may run over until tomorrow.\n",
         
         
@@ -10523,10 +11236,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 281,
         href: "/news/updates/2017/2017-08-15-disruption-to-ceda-search-services-on-15th16th-august/",
-        title: "Disruption to CEDA search services on 15th/16th August",
+        title: "Disruption to CEDA search serv...",
         description: " On Monday 14th August we began a software upgrade to services underpinning CEDA\u0026rsquo;s geo-search services that has proved to be more complicated than anticipated. As a result, we will need to continue working on the services both today and tomorrow (15th-16th August). The work impacts the following services:\n",
         
         
@@ -10537,16 +11253,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 282,
         href: "/news/updates/2021/2021-10-05-cmip-and-esgf/",
-        title: "Disseminating essential climate data CMIP and ESGF",
+        title: "Disseminating essential climat...",
         description: "The 6th Coupled Model Intercomparison Project ( CMIP6\u0026nbsp; ) is an international coordinated effort to understand how the climate has changed in the past and may change in the future. It is the largest climate model intercomparison project to date and is coming to completion. Data produced by CMIP6 is essential to the 2021 assessment report by the Intergovernmental Panel on Climate Change (IPCC). CEDA supports CMIP6 by providing archival, management and publication of all received data and providing analysis capabilities through JASMIN.\n",
         
         
         content: "The 6th Coupled Model Intercomparison Project ( CMIP6\u0026nbsp; ) is an international coordinated effort to understand how the climate has changed in the past and may change in the future. It is the largest climate model intercomparison project to date and is coming to completion. Data produced by CMIP6 is essential to the 2021 assessment report by the Intergovernmental Panel on Climate Change (IPCC). CEDA supports CMIP6 by providing archival, management and publication of all received data and providing analysis capabilities through JASMIN.\nCurrently, the CEDA Archive holds approximately three petabytes of CMIP6 data\u0026nbsp; (of a total 20 Petabytes produced across the project). Researchers across the world use these important climate projections to explore topics such as the impact of climate change on hydroelectric power in Kenya, how future temperatures will affect human welfare, and many other important science areas.\nApproximately half of the archived data is from the UK Met Office Hadley Centre\u0026nbsp; , for which CEDA are the primary archive – this allows all international collaborators access to the Met Office model simulations data. The other half of the data is replicated from other contributing modelling centres from around the world. This replication of internationally produced data allows easy access and analysis for the UK research community.\nGraphic showing how the different experiments in the CMIP project link together Figure 1: this shows the continuity between CMIP6 to CMIP7 to CMIPx. Each evolution of the project runs a core set of experiments (the grey thread) and updates the other experiments as climate science evolves. Figure from: Eyring et al. Overview of the CMIP6 Experimental Design and Organization, GMD, 2016.\u0026nbsp; Supporting international research \u0026nbsp; CMIP6 data are shared and published to a globally distributed software infrastructure called the Earth System Grid Federation ( ESGF\u0026nbsp; ). This is an international collaboration between research institutions that allows the dissemination of outputs from important climate modelling efforts, such as CMIP6. CEDA is responsible for the UK’s contributions to ESGF. We are part of a network of 33 nodes disseminating climate data around the world by providing tools and interfaces for data management, discovery and download.\nCEDA staff are involved with ESGF in various ways, including; developing software components within the international collaboration, leading the design of future architecture, and maintaining operations for our data node as part of the network.\nAutomating processes \u0026nbsp; The sheer volume of data requires the ingestion into the CEDA Archive and subsequent publication to ESGF to be fully automated and flexible enough to work for all incoming data sources. To achieve this, CEDA have developed a dedicated tool called the CEDA REceive-to-Publish Pipeline (CREPP) tool. The tool has successfully been used to publish global climate simulation data of key interest to the climate science community from 30 of the world’s leading climate research institutions.\nFuture architecture for ESGF \u0026nbsp; In 2019, CEDA led a\u0026nbsp; programme of work\u0026nbsp; to re-engineer the ESGF software system that was first developed over ten years ago. The work included the adoption of new technologies to facilitate cloud deployment. Working with US partners, a first system has been deployed on Amazon Web Services. A deployment by CEDA on JASMIN has been used in a new pilot system integrating tools and systems from other European partners. Work is also focussing on the development of new community standards for functions such as data discovery in order to facilitate interoperability and broader adoption of the systems developed."
       })
       .add(
+      
       
       
       
@@ -10565,10 +11285,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 284,
         href: "/news/updates/2015/2015-09-29-dr-sarah-callaghan-appointed-editor-in-chief-of-the-data-science-journal/",
-        title: "Dr. Sarah Callaghan appointed Editor-in-Chief of the Data Science Journal",
+        title: "Dr. Sarah Callaghan appointed ...",
         description: "Dr. Sarah Callaghan, CEDA Senior Researcher and Project Manager, has been appointed Editor-in-Chief of the Data Science Journal and has recently appointed a new editorial board. To read Sarah\u0026rsquo;s CODATA (the Committee on Data for Science and Technology) News blog, please visit the webpage: http://codata.org/blog/2015/09/16/introducing-the-new-data-science-journal-editorial-board/\u0026nbsp; ",
         
         
@@ -10579,10 +11302,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 285,
         href: "/news/updates/2003/2003-12-01-earth-probe-toms-went-into-safehold-mode-on-27th-/",
-        title: "Earth Probe TOMS went into safehold mode on 27th November 2003",
+        title: "Earth Probe TOMS went into saf...",
         description: "The TOMS team expects to be back in nominal real-time operation next week (i.e. the week of December 1, 2003).\n",
         
         
@@ -10593,10 +11319,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 286,
         href: "/news/updates/2025/2025-04-14-easter-updates/",
-        title: "Easter updates for CEDA and JASMIN users",
+        title: "Easter updates for CEDA and JA...",
         description: "Please note the following updates for your attention:\nCEDA and JASMIN support over the Easter period Scheduled maintenance affecting SSD storage Tues 22 April JASMIN regular scheduled maintenance Tues 29 April Changes to scheduler policies for standard and highres partitions Over the Easter period, CEDA and JASMIN services will be running at risk. Due to public holidays, our helpdesks will be closed at the end of working hours on Thursday 17th April until the morning of Tuesday 22nd April. Staff leave during the school holiday period also affects our availability at this time.\n",
         
         
@@ -10607,10 +11336,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 287,
         href: "/news/updates/2024/2024-03-27-easter-updates/",
-        title: "Easter updates for CEDA and JASMIN users",
+        title: "Easter updates for CEDA and JA...",
         description: "Please note the following updates for your attention:\nCEDA and JASMIN support over the Easter period JASMIN regular scheduled maintenance Tuesday 16th April 2024 Updated JASMIN dashboard now available Information for JASMIN cloud tenancy managers As usual over the Easter period, CEDA and JASMIN services will be running at risk. Our helpdesks will be closed out of working hours and staff leave during the school holidays also means that staff levels after the Easter weekend may be reduced.\n",
         
         
@@ -10621,16 +11353,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 288,
         href: "/news/updates/2011/2011-07-07-ecsn-data-management-workshop-2011-october-edinburgh/",
-        title: "ECSN Data Management Workshop 2011 - October, Edinburgh",
+        title: "ECSN Data Management Workshop ...",
         description: "The National Climate Information Centre (Met Office) are organising a data management workshop in October in Edinburgh. Details available at:\n",
         
         
         content: "The National Climate Information Centre (Met Office) are organising a data management workshop in October in Edinburgh. Details available at:\nhttp://www.metoffice.gov.uk/conference/ecsn-workshop\u0026nbsp; The programme will include presentations of work submitted via the call for abstracts, a poster session and invited presentations on the following European activities:\nEuropean Climate Support Network - Progress and Plans * HOME - the COST Action ES0601 on Climate Data Homogenisation * MEDARE - the WMO Mediterranean Data Rescue Initiative RCC CM - the WMO Regional Climate Centre for Climate Monitoring EUMETGRID - the coordination and harmonisation of European gridded observational data sets Please address all enquiries regarding this event to the event organisers.\nBADC Helpdesk\n7th July 2011"
       })
       .add(
+      
       
       
       
@@ -10649,6 +11385,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 290,
         href: "/docs/editing-this-site/editing-guide/",
@@ -10663,16 +11400,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 291,
         href: "/news/updates/2019/2019-04-30-elastic-tape-and-nla-now-available/",
-        title: "Elastic Tape and NLA now available",
+        title: "Elastic Tape and NLA now avail...",
         description: "The upgrades to the CASTOR DB have gone well and so systems are now available again. However, ET users are reminded that there is still a possibility of as yet undiscovered problems appearing, and so they should not delete data from disc until after a further message is issued saying that things are all verified as working.\nIt is hoped to send this message early tomorrow.\n",
         
         
         content: "The upgrades to the CASTOR DB have gone well and so systems are now available again. However, ET users are reminded that there is still a possibility of as yet undiscovered problems appearing, and so they should not delete data from disc until after a further message is issued saying that things are all verified as working.\nIt is hoped to send this message early tomorrow.\nMany thanks for your patience"
       })
       .add(
+      
       
       
       
@@ -10691,10 +11432,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 293,
         href: "/news/updates/2019/2019-10-30-elastic-tape-jdma-and-nla-at-risk-wednesday-6th-november-0900-1300/",
-        title: "Elastic Tape, JDMA, and NLA - at risk Wednesday 6th November 0900-1300",
+        title: "Elastic Tape, JDMA, and NLA - ...",
         description: "The databases of the tape back-end to these systems are having security patches from 09:00 on Wednesday 6th November.\nThe process could take up to 4 hours.\nWhile the process should be transparent, there is a small risk of individual retrievals being disrupted or delayed, so users are advised to check that any retrievals have completed properly during this period.\n",
         
         
@@ -10705,10 +11449,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 294,
         href: "/news/updates/2019/2019-11-06-elastic-tape-jdma-and-nla-end-of-at-risk-period-wednesday-6th-november-0900-1300/",
-        title: "Elastic Tape, JDMA, and NLA - end of at risk period - Wednesday 6th November 0900-1300",
+        title: "Elastic Tape, JDMA, and NLA - ...",
         description: "The update activity is now complete.\n",
         
         
@@ -10719,10 +11466,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 295,
         href: "/news/updates/2019/2019-11-26-elastic-tape-jdma-and-nla-not-available-from-1600-today/",
-        title: "Elastic Tape, JDMA, and NLA not available - from 1600 TODAY",
+        title: "Elastic Tape, JDMA, and NLA no...",
         description: "Elastic Tape, JDMA, and NLA not available - from 16:00 today (26th November) and should be considered at risk until the end of Thursday 28th November. ",
         
         
@@ -10733,10 +11483,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 296,
         href: "/news/updates/2019/2019-11-12-elastic-tape-jdma-and-nla-not-available-from-1600-tuesday-november-26-until-wednesday-27th-at-risk-thursday-28th/",
-        title: "Elastic Tape, JDMA, and NLA not available - from 1600 Tuesday, November 26 until Wednesday 27th - at risk Thursday 28th",
+        title: "Elastic Tape, JDMA, and NLA no...",
         description: "The databases underlying these systems are being migrated to improved hardware during this period. While the systems are expected to be available along with the rest of JASMIN, there will be an at risk period while the systems are monitored to ensure they behave correctly.\n",
         
         
@@ -10747,10 +11500,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 297,
         href: "/news/updates/2019/2019-11-28-elastic-tape-jdma-and-nla-now-available/",
-        title: "Elastic Tape, JDMA, and NLA now available",
+        title: "Elastic Tape, JDMA, and NLA no...",
         description: "The database migration has been completed a lot faster than expected, and so ET, NLA, and JDMA are now available.\n",
         
         
@@ -10761,10 +11517,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 298,
         href: "/news/updates/2020/2020-02-03-elastic-tape-nla-and-jdma-not-available-0800-1500-tuesday-11th-february/",
-        title: "Elastic Tape, NLA, and JDMA not available 0800-1500 Tuesday 11th February",
+        title: "Elastic Tape, NLA, and JDMA no...",
         description: "To allow security patching and upgrades in the tape back-end, these services will be unavailable from 08:00 until 15:00.\nWhile any data ingestions in progress will be paused during this period, users are requested to have completed any retrievals by 17:00 on the evening of the 10th, as any which may still be in progress the next morning will risk being cancelled to allow work to progress.\n",
         
         
@@ -10775,10 +11534,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 299,
         href: "/news/updates/2020/2020-02-11-elastic-tape-nla-and-jdma-now-available/",
-        title: "Elastic Tape, NLA, and JDMA now available",
+        title: "Elastic Tape, NLA, and JDMA no...",
         description: "The work on patching etc has gone well, and these systems are now available.\nData ingestions that were paused have been re-enabled.\n",
         
         
@@ -10789,10 +11551,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 300,
         href: "/news/updates/2009/2009-03-24-electrical-fault-badc-website-and-services-affect/",
-        title: "Electrical Fault BADC Website and services affected",
+        title: "Electrical Fault BADC Website ...",
         description: "Following an electrical fault at the Rutherford Appleton Laboratory at 5am this morning the BADC webserver and services remain vulnerable while engineers work to address the problem.\n",
         
         
@@ -10803,16 +11568,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 301,
         href: "/news/updates/2007/2007-07-04-electrical-shutdown-sunday-15th-july/",
-        title: "Electrical Shutdown - Sunday 15th July",
+        title: "Electrical Shutdown - Sunday 1...",
         description: "Due to an electricity supply shutdown at Rutherford Appleton Laboratory on Sunday 15th July 2007, the BADC website and services will not be available for much of that day. We are taking the opportunity of this period of downtime to deal with planned disk upgrades. BADC services will be available again on Monday 16th July.\n",
         
         
         content: "Due to an electricity supply shutdown at Rutherford Appleton Laboratory on Sunday 15th July 2007, the BADC website and services will not be available for much of that day. We are taking the opportunity of this period of downtime to deal with planned disk upgrades. BADC services will be available again on Monday 16th July.\nWe are sorry for the inconvenience this may cause.\nBADC Support4th July 2007"
       })
       .add(
+      
       
       
       
@@ -10831,16 +11600,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 303,
         href: "/news/updates/2020/2020-04-22-enabling-essential-climate-science-research/",
-        title: "Enabling essential climate science research",
+        title: "Enabling essential climate sci...",
         description: "Climate Change is a defining issue of our time. The UK’s top 10 warmest years have all occurred since 2002, and July 2019 saw the UK’s hottest ever recorded temperature (38.7 °C). Whilst many are enjoying the unusually non-rainy British weather, it doesn’t come without costs. Extreme weather events, such as heatwaves and flash flooding, are expected to increase in severity and frequency as our climate continues to change. Extreme weather can adversely affect the way we live our lives. Loss of food production, damaging wildlife habitats, and endangering human life are just a few impacts associated with climate change. Predicting global climate change is complex and requires vast amounts of data processing capabilities. Steps must be taken to improve the accuracy of future climate models. That’s where JASMIN - a data intensive supercomputer - comes in. ",
         
         
         content: "Climate Change is a defining issue of our time. The UK’s top 10 warmest years have all occurred since 2002, and July 2019 saw the UK’s hottest ever recorded temperature (38.7 °C). Whilst many are enjoying the unusually non-rainy British weather, it doesn’t come without costs. Extreme weather events, such as heatwaves and flash flooding, are expected to increase in severity and frequency as our climate continues to change. Extreme weather can adversely affect the way we live our lives. Loss of food production, damaging wildlife habitats, and endangering human life are just a few impacts associated with climate change. Predicting global climate change is complex and requires vast amounts of data processing capabilities. Steps must be taken to improve the accuracy of future climate models. That’s where JASMIN - a data intensive supercomputer - comes in. In order to better predict climate change and thus mitigate against its effects, scientists used JASMIN\u0026nbsp; to analyse data from a new generation of high-resolution global climate models. The PRIMAVERA\u0026nbsp; project allows over 100 scientists from across Europe to work together to process vast numbers of climate simulations. Dr Jon Seddon, a Senior Scientific Software Engineer at the UK Met Office who is working on the project, said: “JASMIN is probably the only facility in Europe (and the world) that would allow PRIMAVERA to do its research. This is because of the large storage capability and the ability for users from multiple institutes across Europe to collaborate where the data is stored”. Two Petabytes of climate simulations were produced by seven different climate models on high performance computers (HPCs) across Europe for use by the project. Transferring large volumes of data between computing facilities can be a time consuming and laborious process. PRIMAVERA needed the data to be transferred to JASMIN so that they could work together to analyse it in a shared workspace. Luckily, JASMIN has a dedicated fast connection to the UK and European research networks - meaning that the data could be efficiently ‘shipped’ to JASMIN, thus allowing the collaboration. JASMIN not only made transferring and sharing the data easy, it also made processing huge amounts of data possible too. Dr Seddon explains how the team used JASMIN’s batch computing cluster to do this. “Due to the large volumes of data processing that we needed to undertake, it was essential that we could test our analyses and then use the parallel processing capability offered by LOTUS on the full 2PB dataset”. Running analyses in parallel can dramatically reduce analysis time - so large complex datasets can now be analysed in record time (i.e. days vs. weeks or months). Once the analyses are complete, the reprocessed datasets are curated, on the CEDA Archive, for long term reuse by other scientists. Dr Seddon explains how other projects not using JASMIN are struggling; “Other projects without access to JASMIN are requiring users to email their analysis code to each of the data providing institutes and then the results are emailed back. This is much slower and much less flexible than users having direct access to the data. The alternative requires a member of staff to store the data on a 10 TB disk and fly with it - not ideal when we are trying to help solve climate change, not contribute to it!”. The scale and complexity of the PRIMAVERA project means that it would not have been possible without JASMIN. As datasets continue to grow and higher resolution climate simulations are modelled, it is essential that computing facilities, like JASMIN, continue to support the needs of the environmental science community. The much higher resolution climate simulations that researchers can now analyse at JASMIN provide a much more detailed look at how the global climate works. Greater resolution datasets are essential for working out how climate change affects society and also allows researchers to make more accurate predictions of the future climate.\nFootnotes:\nJASMIN\u0026nbsp; is managed jointly by STFC\u0026rsquo;s Scientific Computing Department and CEDA (Centre for Environmental Data Analysis), part of RAL Space. It is funded by the Natural Environment Research Council (NERC). PRIMAVERA\u0026nbsp; is a Horizon 2020\u0026nbsp; project funded by European Commission under grant agreement no. 641727. The project is a collaboration between 19 European partners, led by the Met Office and the University of Reading in the UK. PRIMAVERA started in November 2015 and runs to the end of July 2020.\nContact: For more information about using JASMIN, please contact our helpdesk\nTo find out more about the PRIMAVERA project, contact the helpdesk and we can put you in touch with the researchers involved"
       })
       .add(
+      
       
       
       
@@ -10859,10 +11632,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 305,
         href: "/news/updates/2003/2003-07-03-era-40-dataset-complete-and-monthly-means-availab/",
-        title: "ERA-40 dataset complete and monthly means available!",
+        title: "ERA-40 dataset complete and mo...",
         description: " Update on BADC archive of ERA-40 data: 6-hourly data and monthly means ====================================================================== 1. The 6-hourly ERA-40 Re-analysis Dataset - is now complete. 2. The monthly means for the ERA-40 Re-analysis Dataset - are now available (Includes a special note about INCORRECT FILES during the extraction period). More details follow: ========================================== 1. The 6-hourly ERA-40 Re-analysis Dataset ========================================== The 6-hourly data for the ERA-40 dataset is NOW COMPLETE in the main BADC archive from 1958-2001. Details about the type of data available can be found at: \u0026lt;http://badc.nerc.ac.uk/data/ecmwf-e40\u0026gt; and the links from that page. A parameters page provides a list of those available on each level type: \u0026lt;http://badc.nerc.ac.uk/data/ecmwf-e40/params.html\u0026gt; ======================================================= 2. The monthly means for the ERA-40 Re-analysis Dataset ======================================================= Two types of monthly mean are now available for the ERA-40 dataset. These are the: i. Monthly diurnal means (moda) - calculated from all time steps in a given month (i.e. one mean per month). ii. Monthly synoptic (6-hourly) means (mm) - calculated from all values of a given time of day in a given month (i.e. 4 means exist per month, at 00, 06, 12 and 18UTC). Details on these means are now available at: \u0026lt;http://badc.nerc.ac.uk/data/ecmwf-e40/means.html\u0026gt; SPECIAL NOTE FOR USERS ACCESSING ERA-40 MEANS DURING THE EXTRACTION PERIOD: =========================================================================== Please note that during the extraction period (January - May 2003) some of the monthly mean files were incorrect. The means were not clearly visible and had not been advertised at this period so I am not aware of anyone having used them. However, if you did locate the means and you have used those located under one of the following directories then please obtain the new means as directed in the link above. The directories where errors occurred were /badc/ecmwf-e40/data/diags, /disks/tornado4/e40_means/mm and /disks/tornado4/e40_moda/moda. All the erroneous means were deleted on 20th June 2003. BADC Support 03/07/03.",
         
         
@@ -10873,16 +11649,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 306,
         href: "/news/updates/2004/2004-01-16-era-40-live-access-server-las-launched/",
-        title: "ERA-40 Live Access Server (LAS) Launched",
+        title: "ERA-40 Live Access Server (LAS...",
         description: " ERA-40 Live Access Server (LAS) Launched ======================================== The BADC is pleased to announce that we have launched the ERA-40 Live Access Server (LAS). This service allows sub-sets, plots and animations to be created dynamically from the ERA-40 dataset. The BADC LAS provides a multi-functional web-interface to large geospatial datasets. It is particularly suited to global gridded data such as the ERA-40 Re-analyses. Users registered for the ERA-40 data held at the BADC can log in to the BADC LAS to extract subsets of the dataset. All level types and parameters are available and all data has been transformed to a 1° x 1° grid (this was the favoured resolution in a user questionnaire). The BADC LAS allows data sub-setting in latitude, longitude, altitude and time. The output can be obtained in a number of formats including gif and postscript image files, or NetCDF data files. A limited animation facility is also available. Please note the ERA-40 LAS is only available to users that are registered for access to ERA-40. Users must log-in to the usual BADC web site before entering the LAS, after which you can go directly to the LAS in any subsequent sessions. The LAS intended for users with low data volume requirements. If it receives large requests it will ignore them and inform you that it is doing so. Moderate to high data volume users should contact BADC Support (badc@rl.ac.uk). More information about the LAS is available on the ERA-40 Regular Gridded Data page: \u0026lt;http://badc.nerc.ac.uk/data/ecmwf-e40/gridded_data.html#badc_las\u0026gt; BADC Support. 16 January 2004.",
         
         
         content: "ERA-40 Live Access Server (LAS) Launched ======================================== The BADC is pleased to announce that we have launched the ERA-40 Live Access Server (LAS). This service allows sub-sets, plots and animations to be created dynamically from the ERA-40 dataset. The BADC LAS provides a multi-functional web-interface to large geospatial datasets. It is particularly suited to global gridded data such as the ERA-40 Re-analyses. Users registered for the ERA-40 data held at the BADC can log in to the BADC LAS to extract subsets of the dataset. All level types and parameters are available and all data has been transformed to a 1° x 1° grid (this was the favoured resolution in a user questionnaire). The BADC LAS allows data sub-setting in latitude, longitude, altitude and time. The output can be obtained in a number of formats including gif and postscript image files, or NetCDF data files. A limited animation facility is also available. Please note the ERA-40 LAS is only available to users that are registered for access to ERA-40. Users must log-in to the usual BADC web site before entering the LAS, after which you can go directly to the LAS in any subsequent sessions. The LAS intended for users with low data volume requirements. If it receives large requests it will ignore them and inform you that it is doing so. Moderate to high data volume users should contact BADC Support (badc@rl.ac.uk). More information about the LAS is available on the ERA-40 Regular Gridded Data page: \u0026lt;http://badc.nerc.ac.uk/data/ecmwf-e40/gridded_data.html#badc_las\u0026gt; BADC Support. 16 January 2004."
       })
       .add(
+      
       
       
       
@@ -10901,10 +11681,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 308,
         href: "/news/updates/2010/2010-05-05-esa-data-available-through-simplified-category-1-/",
-        title: "ESA data available through simplified Category-1 registration",
+        title: "ESA data available through sim...",
         description: "Faster and simpler access to ESA EO data for research and applications development is now possible by Category-1 Fast registration, instead of a full Category-1 peer-reviewed proposal.\n",
         
         
@@ -10915,16 +11698,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 309,
         href: "/news/updates/2012/2012-05-09-esa-declares-end-of-mission-for-envisat/",
-        title: "ESA declares end of mission for Envisat",
+        title: "ESA declares end of mission fo...",
         description: "ESA have issued a news item\u0026nbsp; indicating the end of mission for Envisat.\n",
         
         
         content: "ESA have issued a news item\u0026nbsp; indicating the end of mission for Envisat.\nJust weeks after celebrating its tenth year in orbit, communication with the Envisat satellite was suddenly lost on 8 April. Following rigorous attempts to re-establish contact and the investigation of failure scenarios, the end of the mission is being declared.\nFor the full story see the ESA press release\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -10943,10 +11730,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 311,
         href: "/news/updates/2010/2010-05-05-esa-eusc-2008-image-information-mining-pursuing-a/",
-        title: "ESA-EUSC 2008 Image Information Mining pursuing automation of geospatial intelligence for environ",
+        title: "ESA-EUSC 2008 Image Informatio...",
         description: "Event ESA-EUSC 2008: Image Information Mining: pursuing automation of geospatial intelligence for environment and security Place ESRIN, Frascati (Italy) Dates Conference: March 4-5, 2008; Panel: March 6, 2008\n",
         
         
@@ -10957,16 +11747,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 312,
         href: "/news/updates/2017/2017-12-19-esgf-award-for-work-undertaken-by-ceda-staff/",
-        title: "ESGF award for CEDA staff providing data access for the climate modelling community",
+        title: "ESGF award for CEDA staff prov...",
         description: "The Earth System Grid Federation\u0026nbsp; (ESGF) is an open source international collaboration that provides a robust, distributed data and computation platform in support of the international climate modelling community. The federation enables access to Peta-scale scientific data for the purpose of supporting large collaborative projects such as CMIP6\u0026nbsp; - the 6th Coupled Model Intercomparison Project. ESGF is used by scientists around the world to access data, such as CMIP, to study the changing climate. Data from ESGF are ultimately used by government bodies for policy making decisions both at the national and international level such as the IPCC (Intergovernmental Panel on Climate Change).\n",
         
         
         content: "The Earth System Grid Federation\u0026nbsp; (ESGF) is an open source international collaboration that provides a robust, distributed data and computation platform in support of the international climate modelling community. The federation enables access to Peta-scale scientific data for the purpose of supporting large collaborative projects such as CMIP6\u0026nbsp; - the 6th Coupled Model Intercomparison Project. ESGF is used by scientists around the world to access data, such as CMIP, to study the changing climate. Data from ESGF are ultimately used by government bodies for policy making decisions both at the national and international level such as the IPCC (Intergovernmental Panel on Climate Change).\nLocations of ESGF partners and collaborators Figure 1: Map of international partners and collaborators for ESGF (Credit: ESGF)\nESGF hold an annual meeting to coordinate the technical development of the system and to discuss, agree and coordinate policies and priorities for the coming year. ESGF has Working Teams, groups which are tasked with tackling a given piece of work for the effort, be it software development or some aspect of operations or security. As part of the annual meeting, the Executive Committee for ESGF, gives awards to teams or individuals that have made a particular achievement in the past year. This year, the Identity, Entitlement and Access (IdEA) team which CEDA staff are members of won an award. The IdEA team work on software solutions for access to restricted data or computing resources. This is an important aspect because for example, data providers may want to record who has accessed their data to report to their sponsors and ensure legitimate fair usage. The IdEA team won the award for rolling out a new system for user sign-in based on OAuth 2.0, a popular framework used throughout the IT industry. The work involved a truly international collaboration with individuals from institutions including the NASA JPL/UCAR, University of Chicago, Lawrence Livermore National Laboratory and CEDA. Developers Matt Pryor and William Tucker (from CEDA) made key contributions to the software so that it could be easily integrated with existing legacy systems in ESGF.\nIn addition, ESGF as a whole won a prestigious R\u0026amp;D 100 award for 2018 - more information can be found here\u0026nbsp; . You can search for data held on the CEDA archive via the CEDA ESGF search portal\u0026nbsp; .\nIf you have any queries about this service, please contact the CEDA helpdesk and mention ESGF in your query. "
       })
       .add(
+      
       
       
       
@@ -10985,10 +11779,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 314,
         href: "/news/updates/2019/2019-08-19-et-and-nla-interruption-for-retrievals-tomorrow/",
-        title: "ET and NLA - Interruption for retrievals tomorrow",
+        title: "ET and NLA - Interruption for ...",
         description: "Retrievals from the ET and NLA services will not be possible from 0700 tomorrow, Tuesday 20th August, until 1300. This is to allow the replacement of hardware within the tape system.\n",
         
         
@@ -10999,10 +11796,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 315,
         href: "/news/updates/2019/2019-08-05-et-and-nla-outage-scheduled-for-monday-5th-extended/",
-        title: "ET and NLA - Outage scheduled for Monday 5th extended",
+        title: "ET and NLA - Outage scheduled ...",
         description: "The hardware problems that are affecting the tape system are more severe than previously thought. This means that the hardware is being replaced and so the outage must be extended.\n",
         
         
@@ -11013,10 +11813,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 316,
         href: "/news/updates/2019/2019-08-01-et-and-nla-outage-scheduled-for-monday-5th-plus-possible-at-risk-period/",
-        title: "ET and NLA - Outage scheduled for Monday 5th, plus possible at risk period",
+        title: "ET and NLA - Outage scheduled ...",
         description: "Last week, problems were discovered in the DB infrastructure underlying the tape system (CASTOR). It has not yet been possible to identify causes of these problems, so the hardware providers are now involved and are requiring extensive investigations which will mean that the tape system will be out of service from 10:00 on Monday the 5th of August. It is scheduled to be back on-line by 16:00.\n",
         
         
@@ -11027,16 +11830,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 317,
         href: "/news/updates/2019/2019-07-26-et-and-nla-return-to-normal-service/",
-        title: "ET and NLA - return to normal service",
+        title: "ET and NLA - return to normal ...",
         description: "The ET and NLA services are now back to normal service. A hardware fault reducing redundancy has been identified, and a further outage will have to be scheduled to deal with this, but no date has been agreed yet. ",
         
         
         content: "The ET and NLA services are now back to normal service. A hardware fault reducing redundancy has been identified, and a further outage will have to be scheduled to deal with this, but no date has been agreed yet. Thank you for your patience whilst we make these important updates.\nJASMIN team"
       })
       .add(
+      
       
       
       
@@ -11055,10 +11862,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 319,
         href: "/news/updates/2019/2019-06-27-et-and-nla-affected-by-back-end-network-outage/",
-        title: "ET and NLA affected by back-end network outage",
+        title: "ET and NLA affected by back-en...",
         description: "There is a problem with the network connecting these systems to the tape system, which is being addressed urgently.\nUntil the problem is fixed, data can be registered for ingestion but will not be sent to tape until the problem is fixed. Likewise, any retrieval requests submitted are likely to fail.\n",
         
         
@@ -11069,16 +11879,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 320,
         href: "/news/updates/2019/2019-05-30-et-and-nla-affected-by-back-end-tape-outage/",
-        title: "ET and NLA affected by back-end tape outage",
+        title: "ET and NLA affected by back-en...",
         description: "There is a problem with the tape drives behind these systems which is being addressed urgently.\nUntil the problem is fixed, data can be registered for ingestion but will not be sent to tape until the problem is fixed. Likewise, any retrieval requests submitted are likely to stall.\n",
         
         
         content: "There is a problem with the tape drives behind these systems which is being addressed urgently.\nUntil the problem is fixed, data can be registered for ingestion but will not be sent to tape until the problem is fixed. Likewise, any retrieval requests submitted are likely to stall.\nApologies for the inconvenience and thank you for your patience."
       })
       .add(
+      
       
       
       
@@ -11097,10 +11911,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 322,
         href: "/news/updates/2019/2019-09-04-et-retrievals-and-nla-at-risk-thursday-5th-sept-0800-1600/",
-        title: "ET retrievals and NLA - at risk Thursday 5th Sept 0800-1600",
+        title: "ET retrievals and NLA - at ris...",
         description: "The tape back-end to these systems are being upgraded on this day.\nWhile the process should be transparent, there is a small risk of individual retrievals being disrupted, so users are advised to check that any retrievals have completed properly during this period.\n",
         
         
@@ -11111,10 +11928,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 323,
         href: "/news/updates/2017/2017-06-23-eufar-flight-finder-sentinel-opensearch-back-in-service/",
-        title: "EUFAR Flight Finder \u0026 Sentinel OpenSearch back in service",
+        title: "EUFAR Flight Finder \u0026 Sentinel...",
         description: "We are pleased to report that the issue affecting the EUFAR Flight Finder \u0026amp; Sentinel OpenSearch service has been resolved and the services are now running again. Apologies for any inconvenience caused by the downtime.\n",
         
         
@@ -11125,16 +11945,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 324,
         href: "/news/updates/2021/2021-10-22-european-climate-data-explorer-an-interactive-tool-for-policy-makers/",
-        title: "European Climate Data Explorer an interactive tool for policy-makers",
+        title: "European Climate Data Explorer...",
         description: "The European Climate Data Explorer ( ECDE\u0026nbsp; ) is an interactive tool that provides access to climate impact data. The ECDE supports the European Green Deal\u0026nbsp; , including the EU’s new strategy on adaptation to climate change\u0026nbsp; . The interactive data visualisation provided by the ECDE makes accessing climate impact data easier for policymakers and other stakeholders. It helps by removing otherwise complex data processing hurdles to data discovery and exploration.\n",
         
         
         content: "The European Climate Data Explorer ( ECDE\u0026nbsp; ) is an interactive tool that provides access to climate impact data. The ECDE supports the European Green Deal\u0026nbsp; , including the EU’s new strategy on adaptation to climate change\u0026nbsp; . The interactive data visualisation provided by the ECDE makes accessing climate impact data easier for policymakers and other stakeholders. It helps by removing otherwise complex data processing hurdles to data discovery and exploration.\nCEDA was funded by the Copernicus Climate Change Service ( C3S\u0026nbsp; ) to provide leadership and project management for the coordination and development of the ECDE. The ECDE provides novel interactive access to a diverse set of climate impact indices by combining live data from the C3S Climate Data Store ( CDS\u0026nbsp; ) with visualisations that use the CDS Toolbox\u0026nbsp; .\nECDE data is currently customised for climate indices in the health, agriculture, forestry, energy, tourism and coastal impact sectors. For example, the health sector has climate impact indices about thermal comfort and heatwaves as well as the suitability of Europe’s climate for the tiger mosquito which can transmit diseases, such as dengue fever.\nScreenshot from the European Climate Data Explorer, showing the six climate impact sectors addressed by the ECDE. Image: Screenshot from the European Climate Data Explorer, showing the six climate impact sectors addressed by the ECDE.\nEach climate impact index has two ECDE pages: the first is a Europe-wide visualisation supported by text that provides context for how an index can be understood, the second allows users to explore an index further via an interactive map. The interactive map can be used to focus on smaller regions and to generate time series plots. The visualised data can be exported as images for use in reports and as data files for further analysis.\nMap of a climate impact index from the ECDE\u0026rsquo;s Forestry sector showing the projected change in the number of days per year with high fire danger under a high greenhouse gas emission scenario known as RCP8.5 for the period 2066-2095. Image: Map of a climate impact index from the ECDE’s Forestry sector showing the projected change in the number of days per year with high fire danger under a high greenhouse gas emission scenario known as RCP8.5 for the period 2066-2095.\nCEDA staff developed the editorial process for in-page documentation of climate impact indices which included a common information structure suited to the full range of ECDE indices. CEDA also provided the help resources for the ECDE.\nThe ECDE is hosted on Climate-ADAPT\u0026nbsp; , a publicly accessible web portal managed by the European Environment Agency ( EEA\u0026nbsp; ) in collaboration with the European Commission. Find out about other work we do in the CEDA Annual Report (20-21)\u0026nbsp; . "
       })
       .add(
+      
       
       
       
@@ -11153,10 +11977,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 326,
         href: "/news/updates/2019/2019-03-01-exciting-changes-planned-for-upcoming-jasmin-events/",
-        title: "Exciting changes planned for upcoming JASMIN events",
+        title: "Exciting changes planned for u...",
         description: "CEDA is currently planning a range of new events, including workshops and webinars, to complement the regular JASMIN conference. From your feedback, we have realised that you want a range of hands on and interactive training events - so that’s what we have planned! So this year, instead of the conference, we will be running a minimum of three webinars and three workshops. We also aim to have a JASMIN presence at the NCEO and NCAS conferences/staff meetings.\n",
         
         
@@ -11167,16 +11994,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 327,
         href: "/news/updates/2018/2018-07-23-experiencing-life-at-ceda-a-year-12s-placement-week/",
-        title: "Experiencing life at CEDA a Year 12's placement week",
+        title: "Experiencing life at CEDA a Ye...",
         description: "Last week, we had the pleasure of hosting a Year 12 work experience student, Annsha, within the CEDA team. She wrote us a blog post, take a look below to see what she got up to\u0026hellip; ",
         
         
         content: "Last week, we had the pleasure of hosting a Year 12 work experience student, Annsha, within the CEDA team. She wrote us a blog post, take a look below to see what she got up to\u0026hellip; Hi I’m Annsha and I’ve spent this week at CEDA doing work experience. Here’s a brief overview of the tasks I did.\nThis week, I gathered pictures from Sentinel 2a and Sentinel 2b using the CEDA Satellite Data Finder and a software called SNAP. I gathered pictures of the Irish Sea, Mount Etna from an island called Sicily in Italy and the Atlas mountains in Morocco. These pictures were uploaded onto the CEDA twitter page (@cedanews) along with some instructions as to how I got these images and you can find this by following the address: https://twitter.com/cedanews/status/1020232122836058112\u0026nbsp; (or see images below). I also filled out information for some of the solar images on glass plates. These solar images were taken back in 1903 by the Cambridge Solar Observatory. Digitising this information means that other users will be able to search for these historic images of the sun over a specific period.\nI’ve also attended a few meetings with my supervisor – these showed me what working life involves, but many of the acronyms and project names were confusing!\nI’ve had a lot of fun going on tours around ISIS Neutron and Muon Source\u0026nbsp; where they showed various instruments, shielding for a beam of protons as well as where neutrons would be scattered around. ISIS is a facility mainly used for particle physics but a variety of researchers in universities and industry visit it to aid their research. It was especially exciting to see liquid nitrogen being poured onto the floor, evaporating instantly. On the RAL space tour I saw the Sentinel 5 satellite which is currently being tested, clean rooms and large vacuum chambers where satellites are tested inside to give a Space like environment.\nFinally, I went on a data centre tour where I saw JASMIN, which is used for storage and cloud computing for big data challenges in environmental science. On Friday I also went to a talk on NERC’s Facility for Airborne Atmospheric Measurements (FAAM)\u0026nbsp; which was very interesting. I’ve also talked with lots of different people where I found out what degree they have done and also what their PhD were about.\nI’ve learned a lot from this placement, I’ve seen how physics can be applied to lots of different things in our world, for example, to assist satellites that observe the earth and atmosphere. I’ve also learned that I would like to work in a similar environment to this as it is friendly and relaxed, and surrounded by cutting-edge technology. I’ve enjoyed this experience and I would recommend this to anyone!\nIf you want to find out more about STFC\u0026rsquo;s work experience scheme, see here: https://stfc.ukri.org/about-us/work-with-us/work-experience/\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -11195,16 +12026,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 329,
         href: "/news/updates/2023/2023-07-21-faam-data-survey/",
-        title: "FAAM Airborne Laboratory data use survey",
+        title: "FAAM Airborne Laboratory data ...",
         description: "The FAAM Airborne Laboratory\u0026nbsp; collects atmospheric data all over the world. From air quality, cloud formation, and weather processes, to greenhouse gas emissions from human activities and atmospheric composition, the FAAM Airborne Laboratory’s specially adapted research aircraft enables researchers to understand our changing environment. Over 1300 flights have collected a wealth of data from across the world.\n",
         
         
         content: "The FAAM Airborne Laboratory\u0026nbsp; collects atmospheric data all over the world. From air quality, cloud formation, and weather processes, to greenhouse gas emissions from human activities and atmospheric composition, the FAAM Airborne Laboratory’s specially adapted research aircraft enables researchers to understand our changing environment. Over 1300 flights have collected a wealth of data from across the world.\nWhy is this data useful? \u0026nbsp; There are a huge number of use cases for atmospheric data. Some examples include:\nTracking flight disruption from volcanic eruptions Understanding health implications from human activities, such as cargo ship emissions Reducing uncertainty in climate predictions Improving storm predictions The data includes atmospheric measurements such as:\nMeteorology - e.g. temperature, humidity, pressure, air motion, solar irradiance Chemical composition e.g. greenhouse gases such as carbon dioxide and methane Atmospheric chemistry - e.g. soot, aerosols, cloud condensation nuclei Cloud physics - e.g. droplets, particles, water content We need your help! \u0026nbsp; We’ve launched two surveys to gain understanding of the FAAM data user base (both existing and new), and to identify any accessibility barriers and how to overcome them.\nAnyone who has used, or has an interest in using, FAAM data can respond to our surveys:\nExisting users - please fill in this survey\u0026nbsp; Potential new users - please fill in this survey\u0026nbsp; Please share these surveys widely with your communities.\nWe know these data are regularly reused. However, we have a limited understanding of who is using them, what they are doing or would like to do. We do not know whether there are barriers for users engaging with these data.\nWe think that the data collected by the FAAM aircraft may be useful to a broader community e.g. by health researchers. But we do not know who or how they would like to use the data.\nWe want to broaden the user base of data held by the NERC Environmental Data Service\u0026nbsp; (EDS), such as FAAM. To do this, we need to understand who is currently using the data, why and how - whilst also finding out who else is interested in making use of the data.\nThese surveys are the initial steps to increasing our understanding about challenges faced by new and existing data users. We will also be hosting some focus groups/workshops later in the summer to discuss in more detail.\nThis work is being undertaken by members of the NERC Environmental Data Service (EDS)\u0026nbsp; and will help us to improve our data and services.\nIf you have any questions, please do not hesitate to contact us: support@ceda.ac.uk"
       })
       .add(
+      
       
       
       
@@ -11223,6 +12058,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 331,
         href: "/news/updates/2021/2021-02-04-file-corruption-issues-1/",
@@ -11233,6 +12069,7 @@ function initIndex() {
         content: "Dear users\nAs reported last week, we have been dealing with an issue of apparent file corruption affecting a relatively small number of files in some volumes with paths beginning /gws/nopw/j04.\nWe have been receiving assistance from the storage vendor to resolve the issue and are now in a position to announce that the majority of affected files have now been successfully repaired, with no loss of user data. A process to scrub/repair a remaining list of some 1,281 files (as of earlier today) is now underway and should complete over the coming weekend. 1.4 billion files have now been checked by this process.\nThe vendor has provided further updated software releases which have been applied and we are now confident that once the above process has been completed, there should be no further cause for concern.\nWith apologies for any inconvenience,\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -11251,6 +12088,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 333,
         href: "/news/updates/2008/2008-01-09-filestore-failure-update/",
@@ -11265,10 +12103,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 334,
         href: "/news/updates/2008/2008-01-08-filestore-failuredata-extractor-my-requests-area-/",
-        title: "Filestore FailureData Extractor, My Requests area, Project Spaces and 4 datasets affected",
+        title: "Filestore FailureData Extracto...",
         description: "Following the failure of one of the BADC filestores access to My Requests, Project Spaces, ECMWF trajectories, ISB52, NDSC and TOMS datasets is not possible at present.\n",
         
         
@@ -11279,10 +12120,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 335,
         href: "/news/updates/2001/2001-07-23-final-monthly-public-release-of-acsoe-data-sets-o/",
-        title: "Final monthly public release of ACSOE data sets       (OZPROF)",
+        title: "Final monthly public release o...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE programme have been released to the public domain: * ozone profiles (OZPROF) collected in November and December 1998. Data directory: - [/badc/acsoe/data/ozprof/aberystwyth/98/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/98/)| This concludes the release process of ACSOE data to the public domain.\n",
         
         
@@ -11293,10 +12137,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 336,
         href: "/news/updates/2023/2023-07-10-jasmin-maintenance-day-tuesday-11th-july-2023/",
-        title: "Final Reminder - JASMIN maintenance day Tomorrow, Tuesday 11th July 2023",
+        title: "Final Reminder - JASMIN mainte...",
         description: "Dear JASMIN user,\nThis is the final reminder to please note the upcoming maintenance day Tomorrow, Tuesday 11th July. The following system work/enhancements are also planned for that date in order to minimise disruption:\n",
         
         
@@ -11307,10 +12154,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 337,
         href: "/news/updates/2022/2022-02-28-jasmin-upcoming-maintenance-periods/",
-        title: "Final reminder - JASMIN upcoming maintenance periods",
+        title: "Final reminder - JASMIN upcomi...",
         description: "Dear users,\nThis is the final reminder to please be aware of the following maintenance periods scheduled over coming weeks which may affect you:\n",
         
         
@@ -11321,10 +12171,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 338,
         href: "/news/updates/2021/2021-03-01-final-reminder-jasmin-system-maintenance-tomorrow-tues-2-march-2021/",
-        title: "Final Reminder JASMIN System Maintenance Tomorrow - Tues 2 March 2021",
+        title: "Final Reminder JASMIN System M...",
         description: "Scheduled maintenance is planned for tomorrow, Tuesday 2nd March 2021, which may cause some disruption to JASMIN and CEDA services.\n",
         
         
@@ -11335,10 +12188,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 339,
         href: "/news/updates/2023/2023-06-05-nvidia-hpc-ai-and-data-science-making-the-most-of-your-gpus/",
-        title: "Final Reminder NVIDIA HPC, AI and Data Science – making the most of your GPUs",
+        title: "Final Reminder NVIDIA HPC, AI ...",
         description: "Dear JASMIN user,\nWe will be hosting a webinar on Thursday 8th of June 2023 at 2pm about “NVIDIA HPC, AI and Data Science – making the most of your GPUs: Best Practices, Tools and Resources for Researchers”. This webinar will look at the best practices, tools and frameworks available which can help researchers quickly utilise the full abilities of the GPU hardware, even if they are GPU novices.\n",
         
         
@@ -11349,10 +12205,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 340,
         href: "/news/updates/2024/2024-05-14-ceda-at-ncas-symposium/",
-        title: "Fostering Early Career Excellence - Insights from the NCAS Early Career Symposium",
+        title: "Fostering Early Career Excelle...",
         description: "The National Centre for Atmospheric Science (NCAS) recently hosted the first-ever symposium for the early career atmospheric science community - Harmony in the Skies: Bridging Horizons in Atmospheric Science. Two CEDA graduates, Jesse Alexander and Nicola Farmer, helped organise the event, which was designed to bring staff early in their atmospheric science careers together.\n",
         
         
@@ -11363,10 +12222,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 341,
         href: "/news/updates/2023/2023-09-08-friday-8th-september-1000-1030-ceda-catalogue-service-update/",
-        title: "Friday 8th September 1000-1030 CEDA catalogue service update",
+        title: "Friday 8th September 1000-1030...",
         description: "The CEDA Catalogue Service will be temporarily off line Friday 8th September 10:00-10:30 to allow for a service update to be rolled out. This will provide some additional layout improvements to the new search tool and also add in external dataset citation listings for DOIed datasets.\n",
         
         
@@ -11377,10 +12239,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 342,
         href: "/news/updates/2023/2023-07-27-adrian-debskis-industrial-placement/",
-        title: "From Rubik's Cubes to Data Cubes Adrian Dębski’s Industrial Placement year with CEDA",
+        title: "From Rubik's Cubes to Data Cub...",
         description: "Adrian Dębski, holder of 3 European and 13 Polish ‘speed-cubing’ records, joined the Centre for Environmental Data Analysis ( CEDA) for his Year in Industry as part of his BSc Computer Science degree at Aberystwyth University in August 2022. During his time with us he amazed us with not only his prowess of solving Rubik\u0026rsquo;s cubes in less than 10s (blindfolded!) but also in how well he became a team member and helped enhance CEDA’s service deliveries. As Adrian left us to head over to Seoul for his next speed cubing world championships we caught up with him to reflect on his time with us.\n",
         
         
@@ -11391,16 +12256,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 343,
         href: "/news/updates/2010/2010-08-31-ftp-login-and-access-to-data-extractor-service-cu/",
-        title: "FTP login and Access to Data Extractor Service currently at risk",
+        title: "FTP login and Access to Data E...",
         description: "Technical problems with one of our servers is affecting FTP login to the BADC/NEODC archive and access to the Data Extractor Service.\n",
         
         
         content: "Technical problems with one of our servers is affecting FTP login to the BADC/NEODC archive and access to the Data Extractor Service.\nWhile access to the BADC/NEODC archive via FTP and Data Extractor Service has been temporarily restored, it should be considered at risk until a permanent fix is applied.\nLogin to the BADC and NEODC websites is however NOT affected.\nWe are making every effort to restore permanent access to the FTP service and the Data Extractor Servive as soon as possible.\nApologies for the inconvenience this may be causing in the meantime.\nBADC Helpdesk 31st August 2010"
       })
       .add(
+      
       
       
       
@@ -11419,6 +12288,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 345,
         href: "/news/updates/2006/2006-07-25-ftp-server-problems/",
@@ -11429,6 +12299,7 @@ function initIndex() {
         content: "Recent Server Problems at BADC Are Now Being Resolved ===================================================== On Friday 21st July the BADC suffered a hardware failure which affected FTP services. The hardware has been fixed and most related issues have been resolved, so service is returning to normal. There remains an issue with the incoming FTP directories, from which data was lost. If you submitted data which you fear was lost, please check the archive and contact BADC if you find a problem. At the time of writing, access to the incoming directories has not been fully restored, but this should follow soon. BADC Support 25th July 2006"
       })
       .add(
+      
       
       
       
@@ -11447,10 +12318,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 347,
         href: "/news/updates/2012/2012-05-08-ceda-helpdesk-available/",
-        title: "Full CEDA helpdesk service resumed",
+        title: "Full CEDA helpdesk service res...",
         description: "The site email server networking issue has been resolved and access the CEDA helpdesk email accountss have been restored. We are presently working through the backlog of helpdesk enquiries and should have the backlog cleared later today.\n",
         
         
@@ -11461,10 +12335,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 348,
         href: "/news/updates/2022/2022-02-17-further-tape-maintenance-18th-to-22nd-february/",
-        title: "Further Tape Maintenance 18th to 22nd February",
+        title: "Further Tape Maintenance 18th ...",
         description: "Dear Users,\nDue to a network upgrade, the tape services offered by CEDA and JASMIN will be unavailable from midday on Friday 19th February until the morning of Tuesday 22nd February 2022. This will affect the NLA, JDMA and ET services.\n",
         
         
@@ -11475,10 +12352,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 349,
         href: "/news/updates/2006/2006-10-05-gerb-data-is-now-available-from-the-badc/",
-        title: "GERB data is now available from the BADC.",
+        title: "GERB data is now available fro...",
         description: " GERB data is now available from the BADC. ========================================= Data from the Geostationary Earth Radiation Budget (GERB) instrument is now available at the BADC. The GERB instrument makes accurate measurements of the Earth Radiation Budget. It is specifically designed to be mounted on a geostationary satellite and is carried onboard the Meteosat Second Generation satellite operated by EUMETSAT. It has been produced by a European consortium led by the UK together with Belgium, Italy, and EUMETSAT, with funding from national agencies. The first GERB instrument, GERB-2, was onboard Meteosat Second Generation satellite, MSG-1, and began transmitting data on 12th December 2002. GERB-1 was launched onboard MSG-2 on 21st December 2005 and is now operational. The BADC GERB archive contains the latest version or \u0026#34;Edition\u0026#34; of data released for distribution by the GERB team. The initial data release contains a few weeks of Edition data from 25 March to 15 August 2006. Further data will be archived as it is reprocessed and becomes available. This data is available to academic researchers. See the web page \u0026lt;http://badc.nerc.ac.uk/data/gerb/\u0026gt; for further details. BADC Support 05th October 2006",
         
         
@@ -11489,10 +12369,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 350,
         href: "/news/updates/2007/2007-10-03-gerb-dataset-is-now-complete-at-badc/",
-        title: "GERB dataset is now complete at BADC.",
+        title: "GERB dataset is now complete a...",
         description: "The Geostationary Earth Radiation Budget (GERB) instruments make accurate measurements of the Earth\u0026rsquo;s Radiation Budget. They have been specifically designed to be mounted on a geostationary satellite and are carried onboard the Meteosat Second Generation satellites operated by EUMETSAT. They are produced by a European consortium led by the UK together with Belgium, Italy, and EUMETSAT, with funding from national agencies.\n",
         
         
@@ -11503,10 +12386,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 351,
         href: "/news/updates/2018/2018-04-13-getting-started-with-jasmin-watch-the-webinar-now/",
-        title: "Getting started with JASMIN - watch the webinar now!",
+        title: "Getting started with JASMIN - ...",
         description: "On 21st March, we ran our first ever webinar called ‘Getting started with JASMIN’. The aim of the webinar was to provide a basic overview for new users wanting to learn about what JASMIN is, and how to get access. Over 80 people registered, from a range of institutes and scientific disciplines. The webinar was recorded and is freely available to view here\u0026nbsp; . We plan to run future webinars approximately every 3 months.\n",
         
         
@@ -11517,10 +12403,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 352,
         href: "/events/past/getting-started-jasmin-webinar/",
-        title: "Getting started with JASMIN webinar",
+        title: "Getting started with JASMIN we...",
         description: "A beginners guide to using JASMIN.",
         
         
@@ -11531,10 +12420,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 353,
         href: "/news/updates/2003/2003-04-11-gisstgice-datasets-ended-mohmatn4-and-mohsst6-sti/",
-        title: "GISST/GICE datasets ended - MOHMATN4 and MOHSST6 still updated",
+        title: "GISST/GICE datasets ended - MO...",
         description: " The Met Office had planned to stop updating GISST/GIICE datasets in May 2003. However, some problems were encountered in producing the GISST updates from March 2003. \u0026#34;The current route for producing GISST uses the version 1 of the Reynolds optimally interpolated SSTs as background field in some areas, and these fields are no longer being produced. We (The Met Office) could switch to using version 2, but this would produce some differences in the result, particularly for areas close to sea-ice.\u0026#34; After careful consideration, the Met Office has decided to stop updating the GISST/GICE datasets. The last update is therefore for February 2003. The Met Office has a replacement product, called HadISST, which has been available from the Met Office as an historical dataset and is now being made operational (i.e. updated every month). HadISST has a different sea-ice analysis from GISST; as a consequence of this, the data will not be available until the 2nd of the month, 2 months afterwards (e.g. January\u0026#39;s data will become available in March). The BADC is now working on making this replacement dataset available to registered users. Users will be informed in due course. We are sorry for the inconvenience this may cause in the meantime. BADC Support 11/04/03.",
         
         
@@ -11545,16 +12437,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 354,
         href: "/news/updates/2000/2000-07-12-gisst23-data-have-had-to-be-replaced/",
-        title: "GISST2.3 Data have had to be replaced",
+        title: "GISST2.3 Data have had to be r...",
         description: " GISST2.3 Data have had to be replaced ===================================== The UK Met. Office has recently discovered an error in their reformat-to-send-out program which has made a difference of 1 in the second decimal place of the GISST dataset we hold. The difference is negligible but to be consistent, the BADC replaced all the GISST files with the correct version 2.3 provided by the UK Met. Office. 10 years gzipped data files as provided by the UK Met. Office have also been made available. Note that the GICE data are unaffected. We are sorry for the inconvenience this may cause. BADC Support 12/07/00.",
         
         
         content: "GISST2.3 Data have had to be replaced ===================================== The UK Met. Office has recently discovered an error in their reformat-to-send-out program which has made a difference of 1 in the second decimal place of the GISST dataset we hold. The difference is negligible but to be consistent, the BADC replaced all the GISST files with the correct version 2.3 provided by the UK Met. Office. 10 years gzipped data files as provided by the UK Met. Office have also been made available. Note that the GICE data are unaffected. We are sorry for the inconvenience this may cause. BADC Support 12/07/00."
       })
       .add(
+      
       
       
       
@@ -11573,10 +12469,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 356,
         href: "/events/past/data-preparation-ceda-archive-webinar/",
-        title: "Give us your data - how to prepare your research for the CEDA Archive webinar",
+        title: "Give us your data - how to pre...",
         description: "Covering topics such as data management planning, metadata and submitting data.",
         
         
@@ -11587,10 +12486,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 357,
         href: "/news/updates/2018/2018-05-31-global-gathering-of-data-scientists-at-pv2018-view-their-presentations-now/",
-        title: "Global gathering of data scientists at PV2018 - view their presentations now!",
+        title: "Global gathering of data scien...",
         description: "PV2018 took place at CEDA’s home site in Harwell, Oxfordshire on 15-17th May. The conference​ focussed on addressing the opportunities in understanding vast datasets and assessing ways to take that new information and make it useable to the widest variety of disciplines for societal benefit and commercial growth.\n",
         
         
@@ -11601,10 +12503,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 358,
         href: "/news/updates/2012/2012-08-28-global-marine-surface-observations-now-available-from-ceda-badc/",
-        title: "Global Marine Surface Observations now available from CEDA-BADC",
+        title: "Global Marine Surface Observat...",
         description: "The Met Office MIDAS dataset held at the BADC has been updated to now include global marine surface observation data (e.g. buoy and ship measurements).\n",
         
         
@@ -11615,16 +12520,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 359,
         href: "/news/updates/2014/2014-09-03-global-radiosonde-data-updates-not-available-since-august-2013-alternative-data-source-available/",
-        title: "Global Radiosonde data updates not available since August 2013 - alternative data source available",
+        title: "Global Radiosonde data updates...",
         description: "Due to issues acquiring the Met Office Global Radiosonde data from the Met Office archive, the Global Radiosonde archive at CEDA-BADC has not been updated since August 2013. Sadly, there has not been sufficient resources available to resolve this. We are however hoping that we might see some progress in due course.\n",
         
         
         content: "Due to issues acquiring the Met Office Global Radiosonde data from the Met Office archive, the Global Radiosonde archive at CEDA-BADC has not been updated since August 2013. Sadly, there has not been sufficient resources available to resolve this. We are however hoping that we might see some progress in due course.\nIn the meanwhile, CEDA-BADC also get TEMP and PILOT messages through another channel from the Met Office via the MetDB dataset\u0026nbsp; .\nUnfortunately, though, these messages are broken up in to their 4 parts and so would need to be \u0026ldquo;stitched\u0026rdquo; together to form the full profile seen in the global radiosonde directory. These data are available in the \u0026ldquo;raw\u0026rdquo; folder\u0026nbsp; of the MetDB dataset (Met Office conditions of use apply).\nApologies for the inconvenience this may cause.\nCEDA Helpdesk\n3/09/2014"
       })
       .add(
+      
       
       
       
@@ -11643,10 +12552,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 361,
         href: "/news/updates/2020/2020-04-08-gws-gwsnopwj04-performance-issue/",
-        title: "GWS (/gws/nopw/j04/) performance issue",
+        title: "GWS (/gws/nopw/j04/) performan...",
         description: "Dear JASMIN users,\nWe are aware that users are experiencing difficulties with performance and access to some resources on JASMIN at present. This is due to a problem with one of the storage servers.\nThis will affect the performance of Group Workspaces under the path /gws/nopw/j04 - we believe that small files (\u0026lt;64KB) and symbolic links are more likely to be affected.\n",
         
         
@@ -11657,10 +12569,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 362,
         href: "/news/updates/2023/2023-12-19-gws-survey/",
-        title: "GWS managers - please complete our survey",
+        title: "GWS managers - please complete...",
         description: "GWS Managers: Please take a few minutes to complete our survey of Group Workspaces on JASMIN.\nWe are initiating this survey to examine the utilization of JASMIN group workspaces (GWSs). Storage is an expensive resource at the scale used within JASMIN and consumes significant energy. Your involvement is pivotal in helping us to understand how it is currently being used and how that could be improved. As a GWS manager you may be managing more than one GWS. In such a case please complete a separate survey for each GWS that you are responsible for. Conversely, if several of you are responsible for one workspace, please coordinate with each other to submit one response per workspace.\n",
         
         
@@ -11671,10 +12586,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 363,
         href: "/news/updates/2024/2024-05-28-gws-public-web-server-update/",
-        title: "GWS public web access server update",
+        title: "GWS public web access server u...",
         description: "On Tuesday 4th June the GWS public web access server ( https://gws-access.jasmin.ac.uk\u0026nbsp; ) will be moved to a new platform.\n",
         
         
@@ -11685,16 +12603,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 364,
         href: "/news/updates/2007/2007-10-25-hadcm3-control-data-re-instated-into-archive/",
-        title: "HadCM3-control data re-instated into archive.",
+        title: "HadCM3-control data re-instate...",
         description: "HadCM3-control data have been successfully restored from backup and is fully accessible once more from the BADC.\nFurther news items regarding the server issues will be posted as progress is made.\n",
         
         
         content: "HadCM3-control data have been successfully restored from backup and is fully accessible once more from the BADC.\nFurther news items regarding the server issues will be posted as progress is made.\nOnce again we apologise for any inconvenience caused.\nBADC Helpdesk 25th October 2007"
       })
       .add(
+      
       
       
       
@@ -11713,10 +12635,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 366,
         href: "/news/updates/2020/2020-10-21-haduk-grid-version-v1021-released-including-data-for-2019/",
-        title: "HadUK-Grid version v1.0.2.1 released including data for 2019",
+        title: "HadUK-Grid version v1.0.2.1 re...",
         description: "In 2019 the CEDA Archive published a valuable and popular HadUK-Grid dataset collection. This collection, provided by the Met Office contains gridded climate variables derived from the network of UK land surface observations, particularly notable in that it spans a long time-series. Over the last few months the Met Office have been preparing the latest release of the HadUK-Grid data covering 1862-2019 and has now been made freely available to download\u0026nbsp; from the CEDA Archive service.\n",
         
         
@@ -11727,10 +12652,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 367,
         href: "/news/updates/2003/2003-07-30-haloe-and-sage-observations-confirm-expected-ozon/",
-        title: "HALOE and SAGE observations confirm expected ozone layer recovery",
+        title: "HALOE and SAGE observations co...",
         description: "NASA satellite observations have provided the first evidence the rate of ozone depletion in the Earth\u0026rsquo;s upper atmosphere is decreasing. This may indicate the first stage of ozone layer recovery.\n",
         
         
@@ -11741,10 +12669,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 368,
         href: "/news/updates/2002/2002-11-20-haloe-level-2-version-19-data-now-updated-to-21-o/",
-        title: "Haloe Level 2 version 19 data now updated to 21 October 2002",
+        title: "Haloe Level 2 version 19 data ...",
         description: " Haloe Level 2 version 19 data now updated to 21 October 2002 ============================================================ More information about this dataset is available at \u0026lt;http://www.badc.rl.ac.uk/data/haloe/\u0026gt; BADC Support 20/11/02.",
         
         
@@ -11755,16 +12686,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 369,
         href: "/news/updates/2000/2000-07-24-haloe-level-3a-data-version-19-are-now-publicly-a/",
-        title: "Haloe Level 3A Data Version 19 are now publicly available from the BADC",
+        title: "Haloe Level 3A Data Version 19...",
         description: " Haloe Level 3A version 19 data now publically available from the BADC ==================================================================== The BADC has recently acquired the HALOE Level 3A version 19 data. This dataset covers the time period from 11-OCT-1991 through 30-APR-2000. The HALOE level 3A data are vertical profiles of methane (CH4), hydrogen chloride (HCl), hydrogen fluoride (HF), nitric oxide (NO), nitrogen dioxide (NO2), water vapor (H2O), ozone (O3), temperature (TEMP), and aerosol extinction (AEXTCH4, AEXTHCL, AEXTHF and AEXTNO). More information about this dataset is available at \u0026lt;http://www.badc.rl.ac.uk/data/haloel3/\u0026gt; BADC Support 24/07/00.",
         
         
         content: "Haloe Level 3A version 19 data now publically available from the BADC ==================================================================== The BADC has recently acquired the HALOE Level 3A version 19 data. This dataset covers the time period from 11-OCT-1991 through 30-APR-2000. The HALOE level 3A data are vertical profiles of methane (CH4), hydrogen chloride (HCl), hydrogen fluoride (HF), nitric oxide (NO), nitrogen dioxide (NO2), water vapor (H2O), ozone (O3), temperature (TEMP), and aerosol extinction (AEXTCH4, AEXTHCL, AEXTHF and AEXTNO). More information about this dataset is available at \u0026lt;http://www.badc.rl.ac.uk/data/haloel3/\u0026gt; BADC Support 24/07/00."
       })
       .add(
+      
       
       
       
@@ -11783,10 +12718,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 371,
         href: "/news/updates/2018/2018-07-17-help-us-make-an-impact-one-survey-six-focus-groups-and-an-msc-project-how-we-plan-to-better-evidence-our-impact/",
-        title: "Help us make an impact! One survey, six focus groups and an MSc project how we plan to better evidence our impact",
+        title: "Help us make an impact! One su...",
         description: "The Centre for Environmental Data Analysis (CEDA) needs to keep users and stakeholders informed of the latest developments, but also evidence the impact of its services (i.e. the CEDA archive, JASMIN) to its funders. To help do this we have created a new role within the CEDA team; meet our Communications Manager, Poppy Townsend. Poppy is now responsible for our external communications to users, such as social media and website content, as well as working out how best to measure our impact.\n",
         
         
@@ -11797,10 +12735,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 372,
         href: "/news/updates/2021/2021-01-07-helpdesk-email-issue-please-use-beacon/",
-        title: "Helpdesk email issue please use beacon has now been resolved",
+        title: "Helpdesk email issue please us...",
         description: "UPDATE: The following email issue on the helpdesk has now been resolved.\nDear users\nWe are aware today of an issue affecting emails to our helpdesks ( support@ceda.ac.uk, support@jasmin.ac.uk and data.management@ceda.ac.uk).\n",
         
         
@@ -11811,10 +12752,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 373,
         href: "/news/updates/2020/2020-12-16-helping-users-get-the-most-out-of-jasmin-in-2020/",
-        title: "Helping users get the most out of JASMIN in 2020",
+        title: "Helping users get the most out...",
         description: "JASMIN is a large and multi-faceted research facility that continues to grow in response to demand from growing numbers of users from a wide range of academic communities. Helping users get the most out of JASMIN is an important part of our remit. Here we highlight four different activities that have been undertaken by the JASMIN team in 2020.\n",
         
         
@@ -11825,10 +12769,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 374,
         href: "/news/updates/2019/2019-01-25-helping-you-work-effectively-with-new-jasmin-storage/",
-        title: "Helping you work effectively with new JASMIN storage",
+        title: "Helping you work effectively w...",
         description: "JASMIN continues to grow as a unique collaborative analysis environment for an expanding community of scientists. We have attempted to address some big challenges, such as the ever-growing demand for storage space and the increasing diversity of scientific workflows, with the Phase 4 upgrade. However, we’re aware that some aspects of the changes introduced in Phase 4 have presented some challenges in themselves. Therefore, we have put together some new documentation about the challenges and summarised what can be done to help deal with them.\n",
         
         
@@ -11839,10 +12786,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 375,
         href: "/news/updates/2004/2004-11-23-high-resolution-radiosonde-2003-data-available/",
-        title: "High resolution radiosonde 2003 data available",
+        title: "High resolution radiosonde 200...",
         description: " High resolution radiosonde 2003 data avaliable ============================================== The dataset now includes data from 2003. More information about the High Resolution data held at the BADC can be found at: \u0026lt;http://badc.nerc.ac.uk/data/rad-highres/\u0026gt;. For the current avalablity of data check [the status page](http://badc.nerc.ac.uk/data/rad-highres/status.html). BADC Support 23th November 2004",
         
         
@@ -11853,10 +12803,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 376,
         href: "/news/updates/2016/2016-07-29-high-flying-year-in-industry-student-kate-winfields-time-with-ceda/",
-        title: "High-flying Year in Industry Student Kate Winfield’s time with CEDA",
+        title: "High-flying Year in Industry S...",
         description: "Last July the Centre for Environmental Data Analysis (CEDA) welcomed Kate Winfield, who joined us for her Year In Industry as part of her BSc Geography degree at Coventry University. During this time she has experienced all aspects of life as an environmental data scientist and has had some high flying experiences too!\n",
         
         
@@ -11867,10 +12820,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 377,
         href: "/news/updates/2001/2001-11-21-historical-northern-hemisphere-geopotential-heigh/",
-        title: "Historical Northern Hemisphere Geopotential Height data now available from 1945",
+        title: "Historical Northern Hemisphere...",
         description: " Historical Northern Hemisphere Geopotential Height data now available from 1945 =============================================================================== This data set holds gridded (5 degree latitude by 5 degree longitude grid) Northern Hemisphere (north of 15N) daily and monthly series of 500hPa geopotential height fields and also daily and monthly series of 1000-500hPa thickness fields. The historical data is now available for the period 1945 to present. More information available at \u0026lt;http://www.badc.rl.ac.uk/data/height/\u0026gt; BADC Team",
         
         
@@ -11881,16 +12837,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 378,
         href: "/news/updates/2001/2001-12-04-historical-northern-hemisphere-mean-sea-level-pre/",
-        title: "Historical Northern Hemisphere Mean Sea Level Pressure data (1873-1997) now available",
+        title: "Historical Northern Hemisphere...",
         description: " Northern Hemisphere Mean Sea Level Pressure data now available ============================================================== This data set holds gridded (5° latitude by 10° longitude grid) Northern Hemisphere (north of 15° N) monthly and daily series of Mean Sea Level Pressure (MSLP) fields. The monthly series data are available for the period 1873 to 1997; the daily series data are available for the period 1881 to 1997 . More information available at [http://www.badc.rl.ac.uk/data/mslp/](/data/mslp/) BADC Team 04/12/2001",
         
         
         content: "Northern Hemisphere Mean Sea Level Pressure data now available ============================================================== This data set holds gridded (5° latitude by 10° longitude grid) Northern Hemisphere (north of 15° N) monthly and daily series of Mean Sea Level Pressure (MSLP) fields. The monthly series data are available for the period 1873 to 1997; the daily series data are available for the period 1881 to 1997 . More information available at [http://www.badc.rl.ac.uk/data/mslp/](/data/mslp/) BADC Team 04/12/2001"
       })
       .add(
+      
       
       
       
@@ -11909,10 +12869,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 380,
         href: "/news/updates/2019/2019-11-25-httpdatacedaacuk-may-experience-short-disruption-monday-25th-november/",
-        title: "http//data.ceda.ac.uk/ may experience short disruption Monday 25th November",
+        title: "http//data.ceda.ac.uk/ may exp...",
         description: " http://data.ceda.ac.uk/\u0026nbsp; may experience short disruption Monday 25th November. This is to allow us to make a small improvement to the service to show files which are stored in our offline tape server.\n",
         
         
@@ -11923,10 +12886,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 381,
         href: "/news/updates/2013/2013-11-28-idl-and-midl-available-on-the-jasmin-analysis-servers/",
-        title: "IDL and MIDL available on the JASMIN analysis servers",
+        title: "IDL and MIDL available on the ...",
         description: "We are pleased to announce that IDL and the Met Office IDL Library (MIDL) are now available on the JASMIN scientific analysis servers.\n",
         
         
@@ -11937,10 +12903,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 382,
         href: "/news/updates/2000/2000-11-15-implementation-of-3dvar-for-the-met-office-strato/",
-        title: "Implementation of 3DVAR for the Met Office Stratospheric Analyses",
+        title: "Implementation of 3DVAR for th...",
         description: " Implementation of 3DVAR for the Met Office Stratospheric Analyses ================================================================= The Middle Atmospheric Group at the Met Office has \u0026#34;been working on the development of a 3D variational (3DVAR) data assimilation system to replace the Analysis Correction (AC) data assimilation system. The stratospheric analyses were produced by a research data assimilation from October 1991, and from October 1995 the research system was replaced by a similar system which was run as part of the operational suite. \u0026#34; The new 3DVAR assimilation went operational on 14th November this year. Output from the new system is now available at the BADC for scientific research, in the same format as output from the current system. \u0026#34;The major changes are: * The introduction of the 3D variational data assimilation scheme. This is described by the recent paper by Lorenc et al, 2000 (Quart. J. Roy. Meteor. Soc., 126, 2992-3012). * The assimilation of radiances, rather than temperature retrievals, from polar orbiter satellites. * The use of a new model configuration, with 40 (rather than 42) levels; this is closer to what is used in the standard global forecast model. Preliminary trials of the new data assimilation system have indicated that the analysed fields in the troposphere and lower stratosphere are similar to those from the current system. Objective forecast verification scores have indicated significant benefit from the change from AC (with assimilation of retrievals) to the use of 3DVAR (with radiance assimilation). In the upper stratosphere the changes are more marked: the stratopause is typically 10 K warmer than in the current system, with the uppermost levels cooler. These latter changes are are largely a reversal of biases that were introduced inadvertently in January 1999 when the ozone climatology file was changed incorrectly.\u0026#34; A new filename convention has been adopted to differentiate the output files from the new 3DVAR assimilation scheme and the data files from the previous AC data assimilation system. Hence ppassm_operf_y.._m.._d.._h...pp becomes ppassm_operg_y.._m.._d.._h...pp At the BADC, the new data files can be found in the current year assimilated data directory: /badc/ukmo-assim/data/standard/2000/ The Assimilated data documentation on the BADC Web pages will be updated shortly. BADC Support 15th November 2000",
         
         
@@ -11951,10 +12920,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 383,
         href: "/news/updates/2020/2020-05-21-important-changes-to-scratch-storage/",
-        title: "IMPORTANT Changes to Scratch Storage",
+        title: "IMPORTANT Changes to Scratch S...",
         description: "Dear JASMIN users,\nPlease note the following changes which affect both /work/scratch and /work/scratch-nompiio\nWe are pleased to announce that a new scratch volume /work/scratch-pw will be available from Wednesday 27th May. This volume will be on PFS (parallel file system) storage with a total capacity of 1 Petabyte, but will have automated processes in place to “police” usage. This new volume, /work/scratch-pw will be a replacement for the current /work/scratch volume.\n",
         
         
@@ -11965,10 +12937,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 384,
         href: "/news/updates/2020/2020-05-13-important-information-for-all-jasmin-users/",
-        title: "IMPORTANT information for ALL JASMIN USERS",
+        title: "IMPORTANT information for ALL ...",
         description: "Please check your email for an important announcement affecting all JASMIN users.\nYou will need to read this and take action before you next attempt to log in to JASMIN.\n",
         
         
@@ -11979,10 +12954,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 385,
         href: "/news/updates/2021/2021-08-10-important-jasmin-updates-august-2021/",
-        title: "Important JASMIN updates August 2021",
+        title: "Important JASMIN updates Augus...",
         description: "Dear JASMIN users,\nThis message includes information about important updates on JASMIN:\nKernel patching required on all JASMIN login, sci and data transfer servers Kernel patching required across all LOTUS compute nodes Maximum job array size and default memory allocation to be changed Short-serial-4hr queue configuration has changed Details of the update\n",
         
         
@@ -11993,10 +12971,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 386,
         href: "/news/updates/2019/2019-04-26-important-jasmin-sci4-reboot-at-330pm-today/",
-        title: "IMPORTANT jasmin-sci4 reboot at 330pm Today",
+        title: "IMPORTANT jasmin-sci4 reboot a...",
         description: "Dear All,\nThe JASMIN scientific server jasmin-sci4 needs to be\nrebooted at 3:30 pm today to clear up stuck processes using on\nthis machine.\n",
         
         
@@ -12007,10 +12988,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 387,
         href: "/news/updates/2019/2019-05-15-importantrebooting-jasmin-sci14-at-330pm-today/",
-        title: "IMPORTANT Rebooting jasmin-sci[1,4] at 330PM Today!",
+        title: "IMPORTANT Rebooting jasmin-sci...",
         description: "Dear JASMIN users,\nThe JASMIN scientific servers jasmin-sci1 and jasmin-sci4 need to be rebooted at 3:30 pm today to clear up the broken mounts/dead\nprocesses.\n",
         
         
@@ -12021,10 +13005,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 388,
         href: "/news/updates/2020/2020-05-18-important-reminder-the-first-purge-of-workscratch-nompiio-is-scheduled-on-27th-may/",
-        title: "IMPORTANT Reminder The first purge of /work/scratch-nompiio is scheduled on 27th May",
+        title: "IMPORTANT Reminder The first p...",
         description: "Dear JASMIN users,\nThe /work/scratch-nompiio volume will be purged on Wednesday 27th May to empty it and reprovision it with a new fixed quota of 90TB (from 120TB).\n",
         
         
@@ -12035,10 +13022,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 389,
         href: "/news/updates/2019/2019-05-10-important-server-reboot-affecting-jasmin-sci-lotus-on-monday-13-may-2019/",
-        title: "IMPORTANT Server reboot affecting JASMIN sci \u0026  LOTUS on Monday 13-May-2019",
+        title: "IMPORTANT Server reboot affect...",
         description: "Dear JASMIN users,\nWe urgently need to reboot the server that hosts\nthe volume ‘/apps’ and `/apps/contrib’\non Monday 13th May 2019 at 9:00am.\nLarge numbers of JASMIN servers (scientific servers, LOTUS)\nwill be briefly unavailable for approximately an hour.\n",
         
         
@@ -12049,10 +13039,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 390,
         href: "/news/updates/2024/2024-08-29-important-software-changes-autumn/",
-        title: "Important software changes on JASMIN Autumn 2024",
+        title: "Important software changes on ...",
         description: "Dear users\nYou will already be aware of the migration already underway from the CentOS7 to Rocky Linux 9 operating system. Further details of that new environment are now available below:\n",
         
         
@@ -12063,10 +13056,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 391,
         href: "/news/updates/2020/2020-05-15-important-the-first-purge-of-workscratch-nompiio-is-scheduled-on-27th-may/",
-        title: "IMPORTANT The first purge of /work/scratch-nompiio is scheduled on 27th May",
+        title: "IMPORTANT The first purge of /...",
         description: "Dear JASMIN users,\nThe /work/scratch-nompiio volume will be purged on Wednesday 27th May to empty it and reprovision it with a new fixed quota of 90TB (from 120TB).\n",
         
         
@@ -12077,10 +13073,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 392,
         href: "/news/updates/2018/2018-11-15-important-use-of-jasmin-storage-all-users-please-read/",
-        title: "Important use of JASMIN storage - ALL USERS PLEASE READ",
+        title: "Important use of JASMIN storag...",
         description: "As we proceed with providing storage space to Group Workspaces on JASMIN’s new Scale-Out File System (SOF) storage, it is important that users understand some critical differences between this storage and the Panasas storage used elsewhere in the system.\n",
         
         
@@ -12091,10 +13090,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 393,
         href: "/news/updates/2021/2021-07-29-improved-access-for-met-office-weather-data-held-in-ceda-archive/",
-        title: "Improved access for Met Office Weather data held in CEDA Archive",
+        title: "Improved access for Met Office...",
         description: "The CEDA Archive has been a conduit for the research community to access a range of weather data supplied by the Met Office under the NERC-Met Office agreement for many years.\n",
         
         
@@ -12105,10 +13107,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 394,
         href: "/news/updates/2005/2005-02-10-improved-air-quality-forecasting-project-isb52-da/",
-        title: "Improved Air Quality Forecasting project (ISB52) data now available at BADC",
+        title: "Improved Air Quality Forecasti...",
         description: "Data from the Improved Air Quality Forecasting project (ISB52) funded by the UK HM Treasury Invest to Save Budget is now publicly available at the BADC.\n",
         
         
@@ -12119,10 +13124,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 395,
         href: "/news/updates/2020/2020-01-30-improved-security-for-jasmin-accounts-coming-soon/",
-        title: "Improved security for JASMIN accounts - coming soon",
+        title: "Improved security for JASMIN a...",
         description: "We will soon be introducing two-step verification for JASMIN accounts in the next few months, take a look below to see how this will affect you.\n",
         
         
@@ -12133,16 +13141,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 396,
         href: "/news/updates/2019/2019-05-08-improvements-to-datacedaacuk-thursday-9th-may-930/",
-        title: "Improvements to data.ceda.ac.uk Thursday 9th May 930",
+        title: "Improvements to data.ceda.ac.u...",
         description: "We will be performing a quick update to the browsing service following the changes on Tuesday. This will make sure users are properly redirected to sign in pages when trying to access restricted datasets.\n",
         
         
         content: "We will be performing a quick update to the browsing service following the changes on Tuesday. This will make sure users are properly redirected to sign in pages when trying to access restricted datasets.\nThis should be a quick change but users may experience disruption between 9:30 and 10:00"
       })
       .add(
+      
       
       
       
@@ -12161,10 +13173,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 398,
         href: "/news/updates/2023/2023-05-09-industrial-action-wednesday-15-march/",
-        title: "Industrial action - Wednesday 10 May",
+        title: "Industrial action - Wednesday ...",
         description: "We wish to make you aware that industrial action is scheduled to take place on Wednesday 10 May 2023. We expect services to continue to operate, but running “at risk” at reduced (in some cases substantially) staffing levels. Our ability to respond to faults and requests will be reduced, leading to delays to our response in some circumstances.\n",
         
         
@@ -12175,16 +13190,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 399,
         href: "/news/updates/2024/2024-01-17-intermittent-data-download-issues/",
-        title: "Intermittent CEDA data download issues",
+        title: "Intermittent CEDA data downloa...",
         description: "Dear Users,\nWe are aware of intermittent issues affecting users using our data download web service (data.ceda.ac.uk) at present. This will occasionally present users with an \u0026lsquo;Internal Error\u0026rsquo; page. This can usually be addressed by refreshing the page.\n",
         
         
         content: "Dear Users,\nWe are aware of intermittent issues affecting users using our data download web service (data.ceda.ac.uk) at present. This will occasionally present users with an \u0026lsquo;Internal Error\u0026rsquo; page. This can usually be addressed by refreshing the page.\nWe have identified the underlying cause of this problem and working with colleagues to get this resolved as soon as possible. FTP downloads and direct access on the JASMIN machines are unaffected.\nApologies for any inconvenience caused.\nCEDA Team"
       })
       .add(
+      
       
       
       
@@ -12203,10 +13222,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 401,
         href: "/news/updates/2023/2023-06-30-interruption-to-tape-services-for-security-maintenance/",
-        title: "Interruption to tape services for security maintenance",
+        title: "Interruption to tape services ...",
         description: "Further to our earlier announcement, tape services will need a separate interruption to apply security updates. Tape services will not be available between midday on Monday 3rd July until the work has completed, hopefully later on Tuesday 4th July.\nThis affects Elastic Tape, JDMA and Near-Line Archive services.\n",
         
         
@@ -12217,10 +13239,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 402,
         href: "/news/updates/2023/2023-01-11-interruption-to-tape-services-update-on-storage-issues/",
-        title: "Interruption to tape services, update on storage issues",
+        title: "Interruption to tape services,...",
         description: " Interruption to tape services:\nThe tape library is currently out of service due to essential maintenance work. It had been hoped that the work involved could be carried out without an interruption to users but unfortunately this is now not the case: apologies for the short notice. This affects Elastic Tape, JDMA, and Near-Line Archive (NLA) services.\n",
         
         
@@ -12231,10 +13256,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 403,
         href: "/events/past/introduction-lotus-webinar/",
-        title: "Introduction to LOTUS - JASMIN's batch computing cluster webinar",
+        title: "Introduction to LOTUS - JASMIN...",
         description: "This webinar focussed on how researchers can use JASMIN's batch computing cluster - LOTUS.",
         
         
@@ -12245,10 +13273,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 404,
         href: "/events/past/study-scientific-computing-2024/",
-        title: "Introduction to Sceintific Computing Course - 2024",
+        title: "Introduction to Sceintific Com...",
         description: "Join us this November to study an introduction scientific computing with the National Centre for Atmospheric Sceince",
         
         
@@ -12259,10 +13290,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 405,
         href: "/events/past/introduction-scientific-computing/",
-        title: "Introduction to Scientific Computing Course",
+        title: "Introduction to Scientific Com...",
         description: "This week long course is run on a yearly basis by NCAS, delivered by staff from CEDA.",
         
         
@@ -12273,10 +13307,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 406,
         href: "/events/isc-course-2025/",
-        title: "Introduction to Scientific Computing Course 2025",
+        title: "Introduction to Scientific Com...",
         description: "Join us this November to study an introduction scientific computing with the National Centre for Atmospheric Science!",
         
         
@@ -12287,10 +13324,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 407,
         href: "/news/updates/2024/2024-01-17-invitation-to-tender-eodh-datastreams/",
-        title: "Invitation to Tender (ITT) - EO Datahub Datastreams",
+        title: "Invitation to Tender (ITT) - E...",
         description: "NCEO and the EO DataHub\u0026nbsp; team are pleased to announce the release of our latest invitation to tender, the EO Datahub Datastreams,\u0026nbsp; which will be of most interest to commercial satellite data providers.\n",
         
         
@@ -12301,16 +13341,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 408,
         href: "/news/updates/2007/2007-02-05-ipcc-data-distribution-centre-managed-by-badc/",
-        title: "IPCC Data Distribution Centre managed by BADC",
+        title: "IPCC Data Distribution Centre ...",
         description: "On February 1st the British Atmospheric Data Centre took over the hosting of the IPCC Data Distribution Centre Website\u0026nbsp; . The DDC facilitates the timely distribution of a consistent set of up-to-date scenarios of changes in climate and related environmental and socio-economic factors for use in climate impacts assessments.\n",
         
         
         content: "On February 1st the British Atmospheric Data Centre took over the hosting of the IPCC Data Distribution Centre Website\u0026nbsp; . The DDC facilitates the timely distribution of a consistent set of up-to-date scenarios of changes in climate and related environmental and socio-economic factors for use in climate impacts assessments.\nBADC Support 5th February 2007"
       })
       .add(
+      
       
       
       
@@ -12329,10 +13373,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 410,
         href: "/projects/is-enes3/",
-        title: "IS-ENES3 - Infrastructure for the European Network for Earth System Modelling (2019 - 2022)",
+        title: "IS-ENES3 - Infrastructure for ...",
         description: "Supporting the publication, replication, documentation and distribution of climate projections data",
         
         
@@ -12343,10 +13390,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 411,
         href: "/news/updates/2006/2006-09-12-isams-level2-dataset-now-publicly-available/",
-        title: "ISAMS Level2 Dataset now publicly available",
+        title: "ISAMS Level2 Dataset now publi...",
         description: " The ISAMS level 2 dataset\u0026nbsp; is now publicly available, so no need to apply for access to use the data.\n",
         
         
@@ -12357,16 +13407,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 412,
         href: "/news/updates/2023/2023-08-30-issue-with-ceda-and-jasmin-services-update/",
-        title: "Issue with CEDA and JASMIN services - update",
+        title: "Issue with CEDA and JASMIN ser...",
         description: "A connectivity issue has affected many CEDA and JASMIN services over the past 24 hrs. While affected services should now be available to users again, the issue has so far been attributed to a faulty network switch. A temporary fix is in place but until the faulty switch can be removed/replaced (timescale TBC), services should be considered “at risk”.\nWith apologies for any inconvenience.\nJASMIN Team\n",
         
         
         content: "A connectivity issue has affected many CEDA and JASMIN services over the past 24 hrs. While affected services should now be available to users again, the issue has so far been attributed to a faulty network switch. A temporary fix is in place but until the faulty switch can be removed/replaced (timescale TBC), services should be considered “at risk”.\nWith apologies for any inconvenience.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -12385,10 +13439,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 414,
         href: "/news/updates/2020/2020-01-21-issue-with-jasmin-login-and-jasmin-sci-machines/",
-        title: "Issue with jasmin-login and jasmin-sci* machines",
+        title: "Issue with jasmin-login and ja...",
         description: "We are aware of an issue with jasmin-login and jasmin-sci* machines. We are investigating this and are working to resolve it ASAP.\n",
         
         
@@ -12399,10 +13456,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 415,
         href: "/news/updates/2020/2020-01-23-issue-with-jasmin-login-and-jasmin-sci-machines-now-fixed/",
-        title: "Issue with jasmin-login and jasmin-sci* machines - now fixed!",
+        title: "Issue with jasmin-login and ja...",
         description: "The below issue seemed to be due to a network cable that was causing some problems with the slow jasmin connections. We think the issues have now been fixed.\n",
         
         
@@ -12413,16 +13473,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 416,
         href: "/news/updates/2022/2022-02-09-issues-affecting-access-to-ceda-and-jasmin-services-for-some-users/",
-        title: "Issues affecting access to CEDA and JASMIN services for some users",
+        title: "Issues affecting access to CED...",
         description: "Dear users,\nWe are aware that some users have been experiencing difficulties in reaching some JASMIN and CEDA services since earlier this month.\n",
         
         
         content: "Dear users,\nWe are aware that some users have been experiencing difficulties in reaching some JASMIN and CEDA services since earlier this month.\nPlease bear with us while we investigate this problem and apologies for any inconvenience caused.\nJASMIN \u0026amp; CEDA Teams"
       })
       .add(
+      
       
       
       
@@ -12441,10 +13505,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 418,
         href: "/news/updates/2016/2016-11-14-ceda-data-catalogue-server-error/",
-        title: "Issues with CEDA Services this morning",
+        title: "Issues with CEDA Services this...",
         description: "A number of CEDA services are presently being affected by an underlying issue with our login authentication service.\nThis issue is being worked on at present and we hope that full service will be resumed soon.\n",
         
         
@@ -12455,10 +13522,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 419,
         href: "/news/updates/2019/2019-11-29-issues-with-downloading-data-29112019/",
-        title: "Issues with downloading data - 29/11/2019",
+        title: "Issues with downloading data -...",
         description: "We are currently experiencing difficulties with www.dap.ceda.ac.uk\u0026nbsp; - this is a service that allows web downloads from the CEDA Archive data browser ( www.data.ceda.ac.uk\u0026nbsp; ). ",
         
         
@@ -12469,16 +13539,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 420,
         href: "/news/updates/2023/2023-02-13-issues-with-pfs-storage-affecting-some-jasmin-ceda-services/",
-        title: "Issues with PFS storage affecting some JASMIN \u0026 CEDA services.",
+        title: "Issues with PFS storage affect...",
         description: "An issue with PFS storage volumes is currently being investigated with the vendor but may be affecting access to the following storage volumes used by CEDA and JASMIN services:\n",
         
         
         content: "An issue with PFS storage volumes is currently being investigated with the vendor but may be affecting access to the following storage volumes used by CEDA and JASMIN services:\n/gws/pw/j07 group workspaces /work/xfc transfer cache /work/scratch-pw[23] scratch volumes (/datacentre volumes used internally by the CEDA Archive) We apologise for any inconvenience caused.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -12497,10 +13571,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 422,
         href: "/news/updates/2019/2019-10-23-jasmin-ceda-services-at-risk-wednesday-30th-oct/",
-        title: "JASMIN \u0026 CEDA Services at risk Wednesday 30th Oct",
+        title: "JASMIN \u0026 CEDA Services at risk...",
         description: "We have been informed that due to electrical work associated with construction in the vicinity of the building in which JASMIN is hosted, there is a low level of risk that power supplies could be affected on this date.\n",
         
         
@@ -12511,10 +13588,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 423,
         href: "/news/updates/2021/2021-09-20-jasmin-1-cloud-issues-2-system-maintenance-5-october-2021/",
-        title: "JASMIN 1) Cloud issues 2) System Maintenance 5 October 2021",
+        title: "JASMIN 1) Cloud issues 2) Syst...",
         description: "Please note the following JASMIN announcements for your attention:\n1) Issues affecting access to JASMIN Cloud via portal and SSH currently under investigation.\nWe are currently aware of some issues affecting management of virtual machines via the JASMIN Cloud Portal. The issues are being investigated with cooperation from the platform vendor. As far as we are aware, the virtual machines themselves are running normally and are still accessible via SSH. If you are a cloud tenancy admin and are aware of any further problems, please report these to the JASMIN Helpdesk.\n",
         
         
@@ -12525,16 +13605,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 424,
         href: "/news/updates/2022/2022-03-28-jasmin-29th-march-maintenance-work-now-cancelled-advance-notice-of-network-intervention-18-22-june/",
-        title: "JASMIN 29th March maintenance work now CANCELLED, advance notice of network Intervention 18-22 June",
+        title: "JASMIN 29th March maintenance ...",
         description: "Dear users,\n1. CANCELLED: Further storage maintenance 29th March 2022\nMaintenance work on storage scheduled for tomorrow 29th March has now been cancelled by the vendor. A new date will be arranged in due course so please look out for further announcements.\n",
         
         
         content: "Dear users,\n1. CANCELLED: Further storage maintenance 29th March 2022\nMaintenance work on storage scheduled for tomorrow 29th March has now been cancelled by the vendor. A new date will be arranged in due course so please look out for further announcements.\nThe reservation which was in place on the LOTUS batch processing cluster has now been removed.\n2. Advance notice of STFC network intervention, 18-22 June 2022\nOver the weekend of 18/19 June, there will be NO ACCESS to the RAL network, in which JASMIN is hosted, so there will be no access to JASMIN and CEDA services. Work is expected to continue on Monday 20th \u0026amp; Tuesday 21st June affecting some or all parts of the network. This work is being carried out by STFC’s network team. We will provide further details as these become available.\nWe advise you to plan your work accordingly to minimise the impact, but please accept our apologies in advance for any inconvenience.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -12553,10 +13637,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 426,
         href: "/news/updates/2019/2019-06-24-jasmin-access-issues-today-are-now-fixed/",
-        title: "JASMIN access issues today are now fixed",
+        title: "JASMIN access issues today are...",
         description: "Dear JASMIN users,\nJASMIN access issues from this morning should now be fixed. We are still investigating some storage issues found in some GWS’s.\n",
         
         
@@ -12567,10 +13654,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 427,
         href: "/news/updates/2023/2023-04-26-jasmin-accounts-portal-email-delivery-problems/",
-        title: "JASMIN Accounts Portal - Email Delivery Problems",
+        title: "JASMIN Accounts Portal - Email...",
         description: "Dear JASMIN Users\nThe JASMIN accounts portal is currently having trouble delivering emails to users.\nThis means that login verification codes from the accounts portal are not being sent at the moment.\n",
         
         
@@ -12581,10 +13671,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 428,
         href: "/news/updates/2020/2020-02-04-jasmin-accounts-portal-down-for-maintenance-5th-feb-am/",
-        title: "JASMIN Accounts Portal down for maintenance - 5th Feb AM",
+        title: "JASMIN Accounts Portal down fo...",
         description: "The JASMIN Accounts Portal will be down from 0800 on 5th February in order to move to a new server. We anticipate only a short downtime.\n",
         
         
@@ -12595,10 +13688,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 429,
         href: "/news/updates/2023/2023-12-12-jasmin-accounts-portal-downtime/",
-        title: "JASMIN Accounts Portal Downtime 14/12/23",
+        title: "JASMIN Accounts Portal Downtim...",
         description: "Dear Users,\nThe JASMIN accounts portal will be unavailable for a short period this Thursday afternoon (14/12/23), and should be considered \u0026lsquo;at risk\u0026rsquo; from 14:00 until the end of the day.\n",
         
         
@@ -12609,10 +13705,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 430,
         href: "/news/updates/2019/2019-06-10-jasmin-accounts-portal-maintenance/",
-        title: "JASMIN Accounts Portal Maintenance",
+        title: "JASMIN Accounts Portal Mainten...",
         description: "The JASMIN Accounts Portal will be down for maintenance tomorrow (11 June). The service should be considered at risk all day.\n",
         
         
@@ -12623,10 +13722,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 431,
         href: "/news/updates/2020/2020-06-22-jasmin-and-ceda-services-affected-by-power-outage/",
-        title: "JASMIN and CEDA services affected by power outage - now resolved",
+        title: "JASMIN and CEDA services affec...",
         description: "Update 1 - 22/06/2020 17:00 \u0026nbsp; JASMIN and CEDA Archive services have been offline today due a power outage that affected the entire RAL site (including the JASMIN machine room) at approximately 13.30 on Monday 22 June 2020. The power is now back, but not all remaining actions can be carried out remotely. ",
         
         
@@ -12637,16 +13739,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 432,
         href: "/news/updates/2020/2020-08-24-jasmin-and-ceda-services-currently-at-risk/",
-        title: "JASMIN and CEDA services currently at risk",
+        title: "JASMIN and CEDA services curre...",
         description: "We are currently experiencing issues affecting our entire virtualisation platform. This is likely to include login and sci-analysis machines, VMs in the JASMIN Cloud and many JASMIN/CEDA services. Please consider all services at-risk/unavailable until further notice.\n",
         
         
         content: "We are currently experiencing issues affecting our entire virtualisation platform. This is likely to include login and sci-analysis machines, VMs in the JASMIN Cloud and many JASMIN/CEDA services. Please consider all services at-risk/unavailable until further notice.\nWe are investigating and will update you with more information ASAP. Apologies for the inevitable inconvenience caused, JASMIN team"
       })
       .add(
+      
       
       
       
@@ -12665,10 +13771,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 434,
         href: "/news/updates/2017/2017-07-13-jasmin-and-ceda-services-upgrade-update-most-now-back-online-lotus-queues-remain-closed/",
-        title: "JASMIN and CEDA services upgrade update most now back online",
+        title: "JASMIN and CEDA services upgra...",
         description: "Following a successful maintenance intervention to enable integration of new storage, most JASMIN and CEDA services are back online, with most login and transfer (xfer) nodes available again.\n",
         
         
@@ -12679,10 +13788,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 435,
         href: "/news/updates/2020/2020-06-02-jasmin-at-risk-period-11th-june-2020/",
-        title: "JASMIN at-risk period 11th June 2020",
+        title: "JASMIN at-risk period 11th Jun...",
         description: "We previously announced electrical work planned for the RAL site around the Bank Holiday weekend of 22nd-25th May, which carried with it a small risk of disruption to JASMIN’s power supply. In fact, the main part of this work has now been re-scheduled to Thursday 11th June 2020. The risk of disruption is small but if it occurs would result in all JASMIN and CEDA services being offline for several days if power was lost.\n",
         
         
@@ -12693,16 +13805,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 436,
         href: "/news/updates/2024/2024-01-29-jasmin-cloud-announcements/",
-        title: "JASMIN Cloud Survey and Announcements",
+        title: "JASMIN Cloud Survey and Announ...",
         description: "Dear Users,\nWe have a couple of cloud related announcements to share with the JASMIN community:\nJASMIN Cloud Survey Deprecation of CentOS 7 cloud images Upcoming migration of the Cloud Portal to Azimuth JASMIN Cloud Survey \u0026nbsp; We have recently been informed that our cloud platform VMWare Integrated OpenStack (VIO) is being discontinued. This presents us with an opportunity to make decisions on the direction which we want to take the JASMIN Cloud. The timescale for this is by mid 2025.\n",
         
         
         content: "Dear Users,\nWe have a couple of cloud related announcements to share with the JASMIN community:\nJASMIN Cloud Survey Deprecation of CentOS 7 cloud images Upcoming migration of the Cloud Portal to Azimuth JASMIN Cloud Survey \u0026nbsp; We have recently been informed that our cloud platform VMWare Integrated OpenStack (VIO) is being discontinued. This presents us with an opportunity to make decisions on the direction which we want to take the JASMIN Cloud. The timescale for this is by mid 2025.\nWe would like to ask all JASMIN Users to take the following short survey about the JASMIN Cloud so that we can gather information about why you do or do not use the cloud and about any features which you would like to see. Also we would specifically like to hear what existing tenants are using the cloud for so that we can capture those requirements.\nPlease click here to find the survey link.\u0026nbsp; Deprecation of CentOS 7 cloud images \u0026nbsp; As you may be aware, CentOS 7 is coming to its end of life in June. We have decided to move to Rocky Linux 9 for JASMIN services and are working hard to switch all JASMIN services to this as soon as possible.\nThe Rocky Linux 9 image has been available in the External cloud (*-U tenancies) for a few months. On 12th February the CentOS 7 image will be removed from all external tenancies meaning that no new machines will be able to be created with that image. We encourage you to migrate your machines over to Rocky Linux 9 (or Ubuntu) as soon as you can.\nWe will start chasing tenants in March to migrate their CentOS machines so that there are no remaining CentOS machines in the External cloud when CentOS 7 reaches its end of life.\nWe are still working on an image for the managed tenancies (*-M and *-S tenancies), and will be in touch with tenants in due course to migrate their machines over to Rocky Linux 9.\nUpcoming migration of the Cloud Portal to Azimuth \u0026nbsp; We will soon be changing the JASMIN Cloud portal to StackHPC’s Azimuth portal. For tenants who use the Cluster-as-a-Service (CaaS) system, you will need to recreate your clusters in the new system that Azimuth provides when Azimuth is ready for use. We will provide generous overlap between the two systems to ease the transition as much as possible, but the current CaaS system will be turned off at the end of this period.\nAzimuth will also allow all existing external cloud tenants to use the platforms feature (the replacement for CaaS), not just tenancies with CaaS enabled. Hopefully this will provide more flexibility to tenants, especially with Azimuth’s greatly expanded platforms compared to the existing CaaS system.\nIf there are any questions about any of these topics, please feel free to email the JASMIN Helpdesk. ( support@jasmin.ac.uk)\nThanks JASMIN Team"
       })
       .add(
+      
       
       
       
@@ -12721,6 +13837,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 438,
         href: "/events/past/jasmin2016/",
@@ -12731,6 +13848,7 @@ function initIndex() {
         content: "Thanks for coming to the JASMIN user conference! A big thank you to all who attended and contributed to our first JASMIN User Conference, held at RAL on 27/28 June 2016. Over two days, we shared information about the current scale and capabilities of JASMIN, heard about some of the data-intensive science going on right now, and learned about other environmental science challenges which could be helped by using JASMIN.\nLive notes created by the conference team during sessions are available here: \u0026nbsp; Day 1: Plenary session 1: JASMIN Overview Bryan Lawrence Director, CEDA Why JASMIN? \u0026nbsp; Matt Pritchard CEDA Functional View \u0026nbsp; Philip Kershaw CEDA JASMIN Services \u0026nbsp; Jonathan Churchill Scientific Computing Department, STFC Infrastructure Support \u0026nbsp; Day 1: Workshop session 1 Fatima Chami CEDA Getting Started \u0026nbsp; Fatima Chami CEDA Using LOTUS \u0026nbsp; Matt Pritchard CEDA Transferring Data to/from JASMIN \u0026nbsp; Matt Pritchard CEDA Group Workspace Management \u0026nbsp; Matt Pryor CEDA Managing a Cloud Tenancy \u0026nbsp; Day 1: Plenary session 2: Innovative Solutions Enabled with JASMIN (1) Matthew Mizielinski Met Office The Role of JASMIN in HRCM Simulation Campaigns \u0026nbsp; \u0026nbsp; Helen Snaith BODC BODC Acoustic Data at JASMIN \u0026nbsp; Owen Embury University of Reading Use of JASMIN-CEMS in the SST-CCI Project \u0026nbsp; Duncan Watson-Parris AOPP, University of Oxford CIS : A Tool for Intercomparing Models and Observations \u0026nbsp; Barry Latter Remote Sensing Group, RAL Space, STFC Large-scale and Near Real-Time Processing of Satellite Data for Climate and Air-quality Monitoring and Forecast \u0026nbsp; Day 1: Evening Reception/Poster Session Tony Hey Chief Data Scientist, STFC Data Intensive Science \u0026nbsp; Day 2: Plenary session 3: Innovative Solutions Enabled with JASMIN (2) Maliko Tanguy CEH MAJIC: Managing Access to JULES in the Cloud \u0026nbsp; Matt Pryor CEDA OPTIRAD iPython Notebook \u0026nbsp; Roger Milton Met Office Met Office Collaboration using JASMIN - Current Use and Future Plans \u0026nbsp; Neil Parley Institute for Environmental Analytics IEA Cloud Tenancy on JASMIN \u0026nbsp; Said Kharbouche Mullard Space Science Laboratory, UCL QA4ECV: Inter-Satellite Spectral Mapping for Spectral BRDF Using CEMS/JASMIN \u0026nbsp; Day 2: Discussion: Scientific Software Environments and Packaging Ag Stephens CEDA JASMIN Analysis Platform (JAP) \u0026nbsp; Philip Elson Met Office Scientific Software Environments within the Met Office \u0026nbsp; Day 2: Lightning talks: Use Cases Katie Smith CEH The Parallel World of Hydrological Uncertainty \u0026nbsp; Emma Hatton University Of Leeds Automated Processing of InSAR data \u0026nbsp; Mike Brown CEH NERC Environmental Work Bench \u0026nbsp; Patricio Ortiz University of Leicester Multimission SST processing using JASMIN \u0026nbsp; Day 2: Workshop session 2: Scientific Analysis on JASMIN Andy Heaps University of Reading cf-python/cf-plot Tools \u0026nbsp; Duncan Watson-Parris AOPP, University of Oxford Community Intercomparison Suite \u0026nbsp; Fatima Chami CEDA Best Practice: Being a Good JASMIN Citizen \u0026nbsp; Day 2: Plenary session 4: User engagement plans and JASMIN futures Matt Pritchard CEDA Plans for the future \u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -12749,6 +13867,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 440,
         href: "/events/past/jasmin2018/",
@@ -12759,6 +13878,7 @@ function initIndex() {
         content: "Introduction Conference Programme Introduction The third JASMIN user Conference on Advanced Computing for Environmental Science was held on 27th June 2018 at Milton Hill House, with additional training workshop sessions on the following day at JASMIN's host institution, the STFC Rutherford Appleton Laboratory (RAL) on 28th June 2018, with attendees from universities and research institutions across the UK and further afield.\u0026nbsp; Selected\u0026nbsp;conference presentations\u0026nbsp;are available to download\u0026nbsp;or watch in video form from the links within the programme below.\u0026nbsp;\nConference programme Day 1 Wednesday 27 June 2018\u0026nbsp; Presentation \u0026nbsp; 09:15 Arrivals, registration \u0026amp; refreshments \u0026nbsp; \u0026nbsp; 09:45 Welcome and opening, Prof. Tony Hey, Chief data scientist at STFC scientific computing department \u0026nbsp; 10:00 Plenary session 1: Update on JASMIN Phase 4 \u0026amp; what this means for users \u0026nbsp; \u0026nbsp; \u0026nbsp; The changing nature of JASMIN, Prof. Bryan Lawrence, NCAS, University of Reading \u0026nbsp; \u0026nbsp; JASMIN Infrastructure as of Phase 4, Jonathan Churchill, STFC Scientific Computing Department \u0026nbsp; \u0026nbsp; Storage improvements as of Phase 4, Dr. Matt Pritchard, STFC RAL Space / CEDA \u0026nbsp; \u0026nbsp; New capabilities and the evolution of services on JASMIN, Phil Kershaw, STFC RAL Space / CEDA \u0026nbsp; 11:00 Plenary session 2: Climate \u0026amp; Atmospheric Science\u0026nbsp; \u0026nbsp; \u0026nbsp; \u0026nbsp; Climate prediction.net program usage of JASMIN, Sarah Sparrow. University of Oxford \u0026nbsp; \u0026nbsp; The production of Near Real Time and 20+ year height-resolved ozone data from GOME-class instrument, Barry Latter. STFC RAL Space \u0026nbsp; \u0026nbsp; High Resolution Climate Modelling Analysis on JASMIN, Benoit Vanniere. NCAS Reading \u0026nbsp; \u0026nbsp; NPL's Use of the JASMIN Supercomputer Facility for Earth Observation and Climate Research, Andrew Banks. National Physical Laboratory NPL \u0026nbsp; \u0026nbsp; Earth system modelling in New Zealand enabled by JASMIN, Jonny Williams. National Institute of Water and Atmospheric Research(NIWA). New Zealand \u0026nbsp; 12:30 Lunch Coffee / posters / networking Posters:\nJULES users at University of Exeter Carolina Duran Rojas, University of Exeter The NAME-on-JASMIN facility for the atmospheric research community Andrew Jones Migrating a Sentinel Analysis Ready Data workflow from AWS to JASMIN, Cathy Jin, JNCC\u0026nbsp; Can geoengineering be optimised? A 'big data' thesis project. Thomas Hornigold Use of Machine Learning Algorithms for the Predictions of Atmospheric Attenuation to Satellite Commumication Systems Charilaos Kourogiorgas and Spiros Ventouras NCAS Computational Modelling Services Annette Osprey\u0026nbsp; PRIMAVERA Data Management and Analysis using JASMIN Jon Seddon, Ag Stephens and Malcolm Roberts\u0026nbsp; Sentinel 3 SLSTR Monitoring and Analysis System Ed Polehampton, Steve Donegan, Dave Smith, Mireya Etxaluze and Caroline Cox\u0026nbsp; Virtual Workspaces for the IPCC 6th Assessment Martin Juckes, Charlotte Pascoe, Martina Stockhause, Anna Pirani, Tim Waterfield and Ag Stephens\u0026nbsp; The EUSTACE project: delivering global, daily information on surface air temperature, Alison Waterfall on behalf of EUSTACE team\u0026nbsp; Summer convective precipitation over the UK and Europe from a regional weather projection,\u0026nbsp; Alan Gadian The ESA CCI Open Data Portal,\u0026nbsp; F. Done, K. Halsall, A. Waterfall, V.Bennett, P. Kershaw and C. Farquhar\u0026nbsp; \u0026nbsp; \u0026nbsp; 13:30 Plenary session 3: Innovation \u0026amp; Collaboration on JASMIN \u0026nbsp; \u0026nbsp; \u0026nbsp; The NERC Data Labs Initiative, James Downing. Tessella \u0026nbsp; \u0026nbsp; Using JASMIN as the Storage infrastructure for the CEDA Archive, Sam Pepler. STFC RAL Space / CEDA \u0026nbsp; \u0026nbsp; Building a Web Processing Service to run NAME-on-JASMIN, Teri Forey. University of Leicester \u0026nbsp; \u0026nbsp; Analysis Ready Data - standards and environmental applications in government, Ulric Wilson. JNCC \u0026nbsp; \u0026nbsp; Met Office collaboration and JASMIN - Current Use and Future Plans, Roger Milton. Met Office \u0026nbsp; 15:15 Round table discussion \u0026nbsp; \u0026nbsp; \u0026nbsp; Sharing your impact stories with the JASMIN team Installing software on JASMIN Essential climate variables (ECV) processing Porting\u0026nbsp;and executing workflows\u0026nbsp;on JASMIN 'I want to move my application to JASMIN, what services should I use?' Data discovery, visualisation and distribution \u0026nbsp; \u0026nbsp; 14:45 Coffee / posters / networking \u0026nbsp; \u0026nbsp; 16:45 Plenary session 4: Land and Environment \u0026nbsp; \u0026nbsp; \u0026nbsp; Exploitation of JASMIN architecture for multi-mission land surface temperature, Emma Dodd. University of Leicester \u0026nbsp; \u0026nbsp; COMET-LiCSAR: Automatic InSAR processing of Sentinel-1 products on JASMIN, Nicholas Greenall, University of Leeds \u0026nbsp; \u0026nbsp; Processing NERC Airborne Research Facility Data using JASMIN, Daniel Clewley, Plymouth Marine Laboratory \u0026nbsp; 17:45 Coffee / posters / netorking / further discussion \u0026nbsp; \u0026nbsp; 18:00 Close of JASMIN2018 conference \u0026nbsp; \u0026nbsp; Day 2 Thursday 28 June 2018 Presentation \u0026nbsp; 09:15 Arrivals, registration, refreshments \u0026nbsp; \u0026nbsp; 10:00 Workshop session 1 \u0026nbsp; \u0026nbsp; \u0026nbsp; Interactive computing Fatima Chami, STFC RAL Space / CEDA \u0026nbsp; \u0026nbsp; Porting processing to the LOTUS batch cluster Fatima Chami, STFC RAL Space \u0026nbsp; 11:00 Coffee and networking \u0026nbsp; \u0026nbsp; 11:30 Workshop session 2 \u0026nbsp; \u0026nbsp; \u0026nbsp; Storage system Matt Pritchard, STFC RAL Space / CEDA \u0026nbsp; \u0026nbsp; Cloud computing Phil Kershaw, STFC RAL Space / CEDA Demo-video: Accounts Portal Demo-video: Make a VM Demo-video: Make a VM and attach storage Demo-video: Move attached storage between VMs Demo-video: Webserver on VM \u0026nbsp; 13:00 End\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -12777,16 +13897,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 442,
         href: "/news/updates/2019/2019-10-24-jasmin-external-cloud-tenancies-network-change-today/",
-        title: "JASMIN External Cloud Tenancies Network change today",
+        title: "JASMIN External Cloud Tenancie...",
         description: "A network change that will affect a number of virtual machines in External Cloud tenancies is scheduled for today, October 24. If your VMs are going to be affected, you have been already notified about the potential disruption, and you need to take no further action. The disruption will happen in an ad-hoc manner during the day and it will last an expected maximum of 5 minutes per case.\n",
         
         
         content: "A network change that will affect a number of virtual machines in External Cloud tenancies is scheduled for today, October 24. If your VMs are going to be affected, you have been already notified about the potential disruption, and you need to take no further action. The disruption will happen in an ad-hoc manner during the day and it will last an expected maximum of 5 minutes per case.\nApologies for any inconvenience caused.\nJASMIN team"
       })
       .add(
+      
       
       
       
@@ -12805,6 +13929,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 444,
         href: "/news/updates/2023/2023-01-11-jasmin-gpu-webinar-31st-jan-2023/",
@@ -12819,10 +13944,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 445,
         href: "/news/updates/2023/2023-01-27-jasmin-gpu-webinar-31st-jan-2023-agenda-and-joining-details/",
-        title: "JASMIN GPU webinar, 31st Jan 2023 Agenda and joining details",
+        title: "JASMIN GPU webinar, 31st Jan 2...",
         description: "Dear JASMIN user,\nWe will be hosting a webinar on Tuesday 31st January 2023 at 10:30 about JASMIN’s new GPU cluster, ORCHID. The event will provide information about ORCHID itself, as well as hearing from recent test users about their experiences with it. Users of other research GPU clusters will also talk about their use cases and experience.\n",
         
         
@@ -12833,16 +13961,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 446,
         href: "/events/past/jasmin-gws-managers-webinar/",
-        title: "JASMIN Group Workspace Managers Webinar",
+        title: "JASMIN Group Workspace Manager...",
         description: "Webinar reflecting on results of the Group Workspace Mangers survey which aimed to examine how GWS Managers are utilising their Workspaces",
         
         
         content: "If you were unable to attend the webinar then you can watch a recording here on our youtube channel!\u0026nbsp; \u0026nbsp; Of if you\u0026rsquo;d prefer you can view the slides here.\u0026nbsp; \u0026nbsp; Thank you all for attending the Groupworkspaces Managers Webinar which explained more about the GWS Managers survey and its aims and new tools available to GWS managers to help with managing their workspace(s).\nThe survey that was filled in prior to the webinar gave us some real insight into how managers are utilising their workspace(s). We are grateful to everyone who was able to attend and we hope you were able to take something away from it.\nIf you have any further questions or would like to share your ideas please contact us here\nThank you!"
       })
       .add(
+      
       
       
       
@@ -12861,10 +13993,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 448,
         href: "/news/updates/2021/2021-06-08-jasmin-helps-to-predict-seabird-abundance/",
-        title: "JASMIN helps to predict seabird breeding abundance in a changing climate",
+        title: "JASMIN helps to predict seabir...",
         description: "Many of us have been to the coast and seen seabirds, but have you ever considered how they might be affected by climate change? The UK is surrounded by important populations of seabirds, including Arctic Tern, Kittiwake, and Puffin, that play a key role as top predators and indicators of the health of marine ecosystems. Like many animals, seabirds are exposed to climate change in both marine and terrestrial environments, but the combined effects are rarely considered. Climate change impacts seabird species through a number of mechanisms; for example, by shifting the distributions of prey species, influencing storminess which affects mortality rates, causing overheating at the nest site, or increasing sea level and reducing available breeding habitat. CEDA services were used by researchers at the British Trust for Ornithology (BTO) to predict future seabird abundance under both marine and terrestrial climate change, as part of the Marine Protected Area Management and Monitoring ( MarPAMM\u0026nbsp; ) project.\n",
         
         
@@ -12875,10 +14010,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 449,
         href: "/news/updates/2021/2021-01-28-jasmin-helps-track-the-impact-of-climate-change-on-uk-birds/",
-        title: "JASMIN helps track the impact of climate change on UK birds",
+        title: "JASMIN helps track the impact ...",
         description: "Over 600 different species of birds have been recorded in the UK to date[1] . For many of them formal monitoring is limited or absent. British Trust for Ornithology (BTO)\u0026nbsp; ask for volunteers from the public to report nature observations from around the UK on mobile apps or online data entries such as BirdTrack\u0026nbsp; . This is important because estimating bird distributions and population trends increases our knowledge about bird species or their habitats. Over 60,000 volunteers are involved recording bird species, resulting in a massive amount of data collected - in 2020 alone over 7.5 million records have been submitted to BirdTrack. Researchers at BTO have been using JASMIN\u0026nbsp; to carry out statistical analysis on these data in order to better understand the reliability of Citizen Science data and the changes in UK bird populations that can be inferred from it.\n",
         
         
@@ -12889,10 +14027,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 450,
         href: "/news/updates/2024/2024-03-13-jasmin-storage-issue-degraded-performance/",
-        title: "JASMIN issue with home directories and related storage",
+        title: "JASMIN issue with home directo...",
         description: "An issue with the storage used for the following services is causing degraded performance and is under investigation with the vendor:\n",
         
         
@@ -12903,16 +14044,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 451,
         href: "/news/updates/2021/2021-12-03-jasmin-issues-with-scratch-and-some-other-storage-volumes-limited-lotus-support/",
-        title: "JASMIN Issues with scratch and some other storage volumes, limited LOTUS support",
+        title: "JASMIN Issues with scratch and...",
         description: "Dear users,\nWe are aware of an issue with some PFS storage volumes, including:\n/work/scratch-pw (but not /work/scratch-pw2) /gws/pw/j05/ncas_obs (possibility of other volumes /gws/pw/j05/*) These volumes may be temporarily unavailable. LOTUS users are advised to use /work/scratch-pw2 while this is investigated with the storage vendor.\nPlease note that due to staff cover, response time on queries to the helpdesk may be slower than usual and we may not be able to respond to all queries individually. Please look out for further announcements.\n",
         
         
         content: "Dear users,\nWe are aware of an issue with some PFS storage volumes, including:\n/work/scratch-pw (but not /work/scratch-pw2) /gws/pw/j05/ncas_obs (possibility of other volumes /gws/pw/j05/*) These volumes may be temporarily unavailable. LOTUS users are advised to use /work/scratch-pw2 while this is investigated with the storage vendor.\nPlease note that due to staff cover, response time on queries to the helpdesk may be slower than usual and we may not be able to respond to all queries individually. Please look out for further announcements.\nWith apologies for any inconvenience,\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -12931,10 +14076,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 453,
         href: "/news/updates/2023/2023-06-20-jasmin-login-server-login2-currently-unavailable/",
-        title: "JASMIN login server login2 currently unavailable - Update This is now resolved",
+        title: "JASMIN login server login2 cur...",
         description: "The issue with server login2 is now resolved and it should be available again.\nApologies for any inconvenience.\nJASMIN Team\n",
         
         
@@ -12945,10 +14093,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 454,
         href: "/news/updates/2023/2023-02-28-jasmin-login-services-are-available-issue-resolved/",
-        title: "JASMIN login services are available - issue resolved",
+        title: "JASMIN login services are avai...",
         description: "Dear JASMIN user,\nWe believe that the recent issue that affected the PURE storage system that hosts the home users directories and some small-files group workspaces is now resolved and JASMIN login services are operational.\n",
         
         
@@ -12959,10 +14110,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 455,
         href: "/news/updates/2023/2023-02-24-jasmin-login-services-currently-unavailable-issue-under-investigation/",
-        title: "JASMIN login services currently unavailable - issue under investigation",
+        title: "JASMIN login services currentl...",
         description: "Dear users,\nJASMIN login services are currently unavailable because of issues with the home users directories. The issue is currently being investigated with the storage vendor.\n",
         
         
@@ -12973,10 +14127,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 456,
         href: "/news/updates/2020/2020-05-18-jasmin-low-at-risk-period-22nd-25th-may-2020/",
-        title: "JASMIN low at-risk period 22nd - 25th May 2020",
+        title: "JASMIN low at-risk period 22nd...",
         description: "Electrical work planned on the RAL site has a small risk of loss of power to the JASMIN data centre around the Bank Holiday weekend (22nd-25th May). The risk of disruption is small but would result in all JASMIN and CEDA services being offline for several days if power was lost.\n",
         
         
@@ -12987,10 +14144,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 457,
         href: "/news/updates/2020/2020-05-05-jasmin-maintenance-at-risk-periods-may-2020/",
-        title: "JASMIN maintenance \u0026 at-risk periods May 2020",
+        title: "JASMIN maintenance \u0026 at-risk p...",
         description: "Scheduled network maintenance on JASMIN is planned for Wednesday 13th May which requires a JASMIN downtime affecting CEDA and JASMIN systems including access to the CEDA Archive and JASMIN community cloud\n",
         
         
@@ -13001,10 +14161,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 458,
         href: "/news/updates/2019/2019-11-28-jasmin-maintenance-now-complete-some-changes-to-lotus-queues-please-read/",
-        title: "JASMIN maintenance now complete, some changes to LOTUS queues - please read",
+        title: "JASMIN maintenance now complet...",
         description: "Yesterday’s JASMIN maintenance went well and the work has now been completed. All services are back to normal - please let us know if you don’t think this is the case.\n",
         
         
@@ -13015,10 +14178,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 459,
         href: "/news/updates/2020/2020-04-14-jasmin-maintenance-tues-21-28-april-2020/",
-        title: "JASMIN Maintenance Tues 21 \u0026 28 April 2020",
+        title: "JASMIN Maintenance Tues 21 \u0026 2...",
         description: "Scheduled maintenance is planned for Tuesday 21st AND 28th April 2020, some of which will result in disruption to JASMIN systems, services and data in addition to the CEDA Archive.\n",
         
         
@@ -13029,10 +14195,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 460,
         href: "/news/updates/2020/2020-09-16-jasmin-migration-to-centos7-lsf-replacement-with-slurm-update-11/",
-        title: "JASMIN Migration to CentOS7 \u0026 LSF replacement with SLURM UPDATE 11",
+        title: "JASMIN Migration to CentOS7 \u0026 ...",
         description: "Dear JASMIN users,\nThis message includes information about the following:\nNew high-memory CentOS7 sci machines Retiring RHEL6 high-mem Sci machines on Friday 25th September Hpxfer servers Details of the update \u0026nbsp; The new high-memory (1TB) CentOS7 scientific analysis server with SLURM enabled sci3.jasmin.ac.uk and sci6.jasmin.ac.uk and sci8.jasmin.ac.uk are available for users to use\n",
         
         
@@ -13043,10 +14212,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 461,
         href: "/news/updates/2020/2020-02-04-jasmin-migration-to-centos7-lsf-replacement-with-slurm-update-4/",
-        title: "JASMIN Migration to CentOS7 \u0026 LSF replacement with SLURM UPDATE 4",
+        title: "JASMIN Migration to CentOS7 \u0026 ...",
         description: "This is the latest update about migrating the JASMIN infrastructure from RedHat Enterprise Linux 6 (RHEL6) to CentOS7 and preparing for the replacement of the LSF batch scheduler with SLURM.\n",
         
         
@@ -13057,10 +14229,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 462,
         href: "/news/updates/2020/2020-04-01-jasmin-migration-to-centos7-lsf-replacement-with-slurm-update-5/",
-        title: "JASMIN Migration to CentOS7 \u0026 LSF replacement with SLURM UPDATE 5",
+        title: "JASMIN Migration to CentOS7 \u0026 ...",
         description: "We are pleased to announce that the two new scientific analysis servers, “ sci1.jasmin.ac.uk\u0026nbsp; ” and “ sci2.jasmin.ac.uk\u0026nbsp; ” are now available with the CentOS7 systems and the new software environments1. These two VMs are available for testing and they are listed in the table of available “sci” servers shown when you log in to any of the login servers. [Please note that the domain name of the new “sci” servers has changed from “ .ceda.ac.uk” to “ .jasmin.ac.uk\u0026nbsp; ”].\n",
         
         
@@ -13071,10 +14246,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 463,
         href: "/news/updates/2020/2020-05-05-jasmin-migration-to-centos7-lsf-replacement-with-slurm-update-6/",
-        title: "JASMIN Migration to CentOS7 \u0026 LSF replacement with SLURM UPDATE 6",
+        title: "JASMIN Migration to CentOS7 \u0026 ...",
         description: "Dear JASMIN users,\nWe are pleased to announce the following:\nUpdate on SLURM\nNew data transfer servers\nNew JASMIN login server\n",
         
         
@@ -13085,10 +14263,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 464,
         href: "/news/updates/2020/2020-05-20-jasmin-migration-to-centos7-lsf-replacement-with-slurm-update-7/",
-        title: "JASMIN Migration to CentOS7 \u0026 LSF replacement with SLURM UPDATE 7",
+        title: "JASMIN Migration to CentOS7 \u0026 ...",
         description: "This message includes information about the following:\nUpdate on SLURM \u0026amp; CentOS7 LOTUS cluster New CentOS7 scientific servers for SLURM job submission New documentation on LOTUS/SLURM New CentOS7 \u0026ldquo;copy service\u0026rdquo; using LOTUS Important reminder about the timescale: the current batch system will be unavailable after the end of June 2020. After this, users will be expected to use SLURM.\n",
         
         
@@ -13099,10 +14280,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 465,
         href: "/news/updates/2020/2020-06-05-jasmin-migration-to-centos7-lsf-replacement-with-slurm-update-8/",
-        title: "JASMIN Migration to CentOS7 \u0026 LSF replacement with SLURM UPDATE 8",
+        title: "JASMIN Migration to CentOS7 \u0026 ...",
         description: "Dear JASMIN users,\nThis message includes information about the following:\nUpdate on SLURM \u0026amp; CentOS7 LOTUS cluster New MPI implementation on LOTUS SLURM/LOTUS webinar LSF-managed LOTUS resources to be reduced from mid-June. Important reminder about the timescale: the current batch system will be unavailable after the end of June 2020. After this, users will be expected to use SLURM.\n",
         
         
@@ -13113,10 +14297,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 466,
         href: "/news/updates/2020/2020-07-03-jasmin-migration-to-centos7-lsf-replacement-with-slurm-update-9/",
-        title: "JASMIN Migration to CentOS7 \u0026 LSF replacement with SLURM UPDATE 9",
+        title: "JASMIN Migration to CentOS7 \u0026 ...",
         description: "This message includes information about the following:\nUpdate on SLURM \u0026amp; CentOS7 LOTUS cluster sci[1,2].jasmin.ac.uk with SLURM enabled New CentOS7 JASMIN cylc server New CentOS7 cron server Details of the update \u0026nbsp; 1. More LOTUS hosts have been migrated to CentOS7 and added to the pool of hosts managed by the new batch scheduler SLURM. All LOTUS users are expected to use SLURM. The recording and PPT presentation of the first webinar on transitioning from LSF to SLURM are now available here ",
         
         
@@ -13127,10 +14314,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 467,
         href: "/news/updates/2019/2019-10-28-jasmin-migration-to-centos7-update-2/",
-        title: "JASMIN Migration to CentOS7 UPDATE 2",
+        title: "JASMIN Migration to CentOS7 UP...",
         description: "This is the second update about our progress towards updating our infrastructure from RedHat Enterprise Linux 6 (RHEL6) to CentOS7.\n",
         
         
@@ -13141,16 +14331,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 468,
         href: "/news/updates/2019/2019-12-11-jasmin-migration-to-centos7-update-3/",
-        title: "JASMIN Migration to CentOS7 UPDATE 3",
+        title: "JASMIN Migration to CentOS7 UP...",
         description: "This is the third update about migrating the JASMIN infrastructure from RedHat Enterprise Linux 6 (RHEL6) to CentOS7.\nThere are 2 main strands to this activity:\n",
         
         
         content: "This is the third update about migrating the JASMIN infrastructure from RedHat Enterprise Linux 6 (RHEL6) to CentOS7.\nThere are 2 main strands to this activity:\n1) Replacing the “JASMIN Analysis Platform” (JAP), the software stack deployed on both the JASMIN “sci” servers and LOTUS.\n2) Migrating virtual machines (VMs) used for hosting component services of JASMIN and CEDA, plus a small number of project-specific VMs.\nThis update focuses on item (1). In parallel, we are working on (2), which will happen in a manner largely transparent to most users.\nThe JAP replacement takes the form of 2 new software components:\na new Conda-based set of Python environments: known as \u0026ldquo;Jaspy\u0026rdquo; a Software Collections Library (SCL) which encapsulates the non-Python which were also part of the JAP: known as \u0026ldquo;jasmin-sci\u0026rdquo; It is important that all users consider how this change might affect their workflows so we invite you to test the new CentOS7 systems and the software environments being provided. The machines available for testing are:\nA \u0026ldquo;sci\u0026rdquo; server: jasmin-sci7-test.ceda.ac.uk A cluster of LOTUS nodes, available via the queue: \u0026ldquo;centos7\u0026rdquo; We have drafted documentation about the changes to software on JASMIN. The documentation is currently provided as a single web-based document (PDF). Please review the documentation here\u0026nbsp; .\nPlease let us know about your experience of using the CentOS7 machines, by e-mailing CEDA Support and including \u0026ldquo;centos7 support\u0026rdquo; in the subject line. Please send us both your positive and negative feedback so that we can gauge the response and react to problems. If you have any specific feedback regarding the documentation then please let us know.\nNext steps:\nIn early January we will review the user feedback and make any necessary changes. Assuming there are no major issues we will then publicise a timetable for a gradual transition of all \u0026ldquo;sci\u0026rdquo; servers and LOTUS queues to CentOS7.\nThank you for your attention and please look out for further updates as this work progresses.\nCEDA and JASMIN Team"
       })
       .add(
+      
       
       
       
@@ -13169,6 +14363,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 470,
         href: "/news/updates/2023/2023-10-13-jasmin-network-issues-update/",
@@ -13183,10 +14378,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 471,
         href: "/news/updates/2017/2017-01-06-jasmin-opns-service-interruption-tuesday-10th-jan-0700-0900/",
-        title: "JASMIN OPNs service interruption Tuesday 10th Jan 0700-0900",
+        title: "JASMIN OPNs service interrupti...",
         description: "The Joint Academic NETwork (JANET) will be undertaking router maintenance on Tuesday 10th January between 0700 and 0900.\nDuring this time period a 15 minute outage will occur affecting the 3 JASMIN Optical Path Network connections with JASMIN :\n",
         
         
@@ -13197,16 +14395,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 472,
         href: "/news/updates/2022/2022-11-09-jasmin-planned-mini-maintenance-and-other-updates-tuesday-22nd-november/",
-        title: "JASMIN planned mini maintenance and other updates - Tuesday 22nd November",
+        title: "JASMIN planned mini maintenanc...",
         description: "Dear users,\nPlease note the upcoming “mini” maintenance day on Tuesday 22nd November. The following system work/enhancements are also planned for that date in order to minimise disruption: ",
         
         
         content: "Dear users,\nPlease note the upcoming “mini” maintenance day on Tuesday 22nd November. The following system work/enhancements are also planned for that date in order to minimise disruption: PFS storage update New scratch area and retiring /work/scratch/pw SLURM configuration update JASMIN accounts portal service upgrade LOTUS at risk periods monthly schedule Globus Connect Personal users: important update required Details:\nPFS storage update\nPostponed from our recent October maintenance day, this work will now take place on Tuesday 22nd November. Servers and clients of the parallel file system (PFS) storage will be updated. Among other updates, this should address current issues with the PFS disk space usage reporting utility pan_df.\nNew scratch area and retiring /work/scratch/pw\nA new 1 PB scratch volume will be made available at /work/scratch-pw3, which will replace the old volume /work/scratch-pw: /work/scratch/pw will be made Read Only from 22nd November with no further access from 15th December Available scratch volumes from then on will be /work/scratch/pw2 /work/scratch/pw3, both 1 PB in size Any important data on /work/scratch/pw should be removed from that location before the 15th December 2022 Slurm configuration update As part of the continuous improvement to the Slurm scheduler, new features will be enabled on the scheduler to manage the load and control resources allocation for accessing the queues. The LOTUS batch processing cluster will be unavailable for the duration of the work on the day, to avoid running jobs being adversely affected. A reservation will start at 05:00 am on 22nd November till 02:00 pm****on the day, but any job submitted before 05:00 am with a running time that goes over the reservation period will not start until after the reservation has finished.\nIMPORTANT: No jobs will be accepted by SLURM from 05:00 am on 22nd November****until the reservation is lifted. Any attempt to submit a job to SLURM will be rejected with the following message: sbatch: error: Batch job submission failed: Required partition not available (inactive or drain)\nJASMIN accounts portal upgrade A downtime is required to upgrade the JASMIN Accounts Portal service, the application where users can administer their own JASMIN accounts.\nWhilst this downtime ought to be brief, access to https://accounts.jasmin.ac.uk/\u0026nbsp; is considered at risk throughout the morning. The upgrade should provide performance improvements and reduce the need for downtimes for this service in future.\nLOTUS at risk periods monthly schedule Going forward, we will be performing routine updates to the cluster LOTUS on a monthly basis. These are planned for the second Tuesday of each month (8:00am-10:30am). Emergency/major updates may interrupt this schedule – notice will be provided - but this new, regular maintenance window should help users to plan their work around these incremental interventions while minimising disruption.\nGlobus Connect Personal users: important update required Users who have installed instance(s) of Globus Connect Personal (software provided by Globus to run a local endpoint for data transfers) should already be aware via communications from Globus that an update is required in order to continue using the Globus service. Please see this announcement\u0026nbsp; and note the deadline of 12th December 2022.\nPlease note all the above updates and plan your work accordingly to minimise any inconvenience caused.\nThank you for your attention.\nBest wishes,\nJASMIN team"
       })
       .add(
+      
       
       
       
@@ -13225,10 +14427,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 474,
         href: "/news/updates/2022/2022-07-25-jasmin-possible-service-interruption-from-930am-until-2pm-on-monday-1st-august-2022/",
-        title: "JASMIN Reminder  “possible” service interruption from 930am until 2pm on Monday 1st August 2022",
+        title: "JASMIN Reminder  “possible” se...",
         description: "Dear users,\nPlease note upcoming maintenance work with “possible” service interruption affecting JASMIN from 9:30am until 2pm on Monday 1st August. The LOTUS batch processing cluster will be unavailable for the duration of the work on the day, to avoid running jobs being adversely affected. A reservation will start at 06:00 am on the day, but any job submitted before that with a running time that goes over the reservation period will not start until after the reservation has finished. We will release the reservation early if the work is completed early.\n",
         
         
@@ -13239,10 +14444,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 475,
         href: "/news/updates/2022/2022-06-20-jasmin-reminder-of-maintenance-work-on-weekend-of-1819-june-and-extended-at-risk-period-20-24-june-1/",
-        title: "JASMIN Reminder of maintenance work on weekend of 18/19 June and extended at risk period 20-24 June",
+        title: "JASMIN Reminder of maintenance...",
         description: "Dear users,\nPlease note upcoming maintenance work and extended \u0026ldquo;at risk\u0026rdquo; period affecting JASMIN \u0026amp; CEDA next week:\nAdvance notice of STFC network intervention, 18-19 June 2022 Over the weekend of 18/19 June, there will be NO ACCESS to the RAL network, in which JASMIN is hosted, so there will be no access to JASMIN and CEDA services. Work is expected to continue on Monday 20th \u0026amp; Tuesday 21st June affecting some or all parts of the network. This work is being carried out by STFC’s network team. We will provide further details as these become available.\n",
         
         
@@ -13253,10 +14461,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 476,
         href: "/news/updates/2021/2021-02-16-jasmin-sci35-reboot-at-0900-am-tomorrow/",
-        title: "JASMIN Sci3,5 reboot at 0900 AM TOMORROW!",
+        title: "JASMIN Sci3,5 reboot at 0900 A...",
         description: "Dear JASMIN users,\nThe JASMIN scientific analysis machines sci[3,5].jasmin.ac.uk need to be rebooted at 09:00 AM tomorrow, Wednesday 17th February, to clear up dead/hanging processes.\n",
         
         
@@ -13267,16 +14478,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 477,
         href: "/news/updates/2021/2021-01-20-jasmin-sci368-reboot-at-0830-am-tomorrow/",
-        title: "JASMIN Sci3,6,8 reboot at 0830 AM TOMORROW!",
+        title: "JASMIN Sci3,6,8 reboot at 0830...",
         description: "Dear JASMIN users,\nThe JASMIN scientific analysis machines sci[3,6,8].jasmin.ac.uk need to be rebooted at 08:30 AM tomorrow, Thursday 21st January, to clear up dead/hanging processes.\n",
         
         
         content: "Dear JASMIN users,\nThe JASMIN scientific analysis machines sci[3,6,8].jasmin.ac.uk need to be rebooted at 08:30 AM tomorrow, Thursday 21st January, to clear up dead/hanging processes.\nWe apologise for any inconvenience this may cause.\nThe JASMIN team."
       })
       .add(
+      
       
       
       
@@ -13295,10 +14510,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 479,
         href: "/news/updates/2022/2022-05-10-jasmin-slurm-scheduler-upgrade-wc-16-may-2022/",
-        title: "JASMIN SLURM scheduler upgrade w/c 16 May 2022",
+        title: "JASMIN SLURM scheduler upgrade...",
         description: "Dear users,\nFurther to our recent announcement about maintenance periods in May/June 2022, please note the following additional item:\nSLURM Scheduler upgrade, week commencing 16 May 2022\n",
         
         
@@ -13309,16 +14527,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 480,
         href: "/news/updates/2021/2021-06-24-jasmin-status-updates-and-reminder-of-planned-maintenance-tuesday-6-july/",
-        title: "JASMIN status updates and reminder of planned maintenance Tuesday 6 July",
+        title: "JASMIN status updates and remi...",
         description: "Dear all,\nSee below for an update on various aspects of JASMIN services and dates for your diary. Note that these updates are also available on the website news section.\n",
         
         
         content: "Dear all,\nSee below for an update on various aspects of JASMIN services and dates for your diary. Note that these updates are also available on the website news section.\nContents:\nReminder: scheduled maintenance Tuesday 6th July New disk storage capacity: coming soon Update on Elastic Tape service Update on data transfer issue 1) Reminder: Scheduled maintenance Tuesday 6th July 2021\nScheduled maintenance is planned for Tuesday 6th July 2021, which will cause some disruption to JASMIN and CEDA services. Systems will be “at risk” and users should expect many essential services (including compute and storage) to be unavailable for all or part of the day. Please plan your work to avoid using JASMIN on this day.\nOn a regular (roughly quarterly) basis, important updates are applied to systems within the JASMIN infrastructure (which also hosts the CEDA Archive and associated services) in order to keep them up to date and secure. Servers may need to be rebooted in order for these changes to take effect, so there may be an interruption to JASMIN and CEDA services on this date. Other system work is also scheduled for this date in order to minimise disruption.\nThe LOTUS batch processing cluster will be unavailable for the duration of the work on the day, to avoid running jobs being adversely affected. A reservation will start at 06:00 on the day, but any job submitted before that with a running time that goes over the reservation period will not start until after the reservation has finished.\n2) New disk storage capacity: coming soon\nMuch of the new disk storage purchased at the end of last year has now been delivered and the Scientific Computing Department team has been working hard with the relevant vendors to get this new hardware installed, tested and made operational. This has taken longer than planned for various reasons, but we now anticipate the first new storage coming online in July. Further updates about other benefits brought by the Phase 7 upgrade will follow in due course.\n3) Update on Elastic Tape Service\nSince earlier this year, the Elastic Tape service has been out of action to most users. Extensive testing and reconfiguration of relevant systems has enabled us to invite selected users to test the system with us over the past few weeks, which has been successful.\nMeanwhile, essential updates to the system to work with an updated operating system are also being applied, requiring further testing, which has also now completed successfully. We are taking this opportunity to apply this update before the return to service to avoid the need for further interruptions in the near future. If all goes as planned, we anticipate that the Elastic Tape service (including command line clients and use via JDMA\u0026nbsp; ) should be generally available again from Wednesday 7th July 2021, the day after the planned maintenance mentioned above. Please look out for further announcements and accept our sincere apologies for the unavailability of this service for what we appreciate has been a significant time.\n4) Update on data transfer issue\nAn issue has been affecting some data transfer methods (for example Globus Online) for several months. The JASMIN team is still investigating the cause and how to address it, but our current advice is summarised in this article\u0026nbsp; .\nWe apologise for any inconvenience caused by these issues.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -13337,10 +14559,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 482,
         href: "/news/updates/2024/2024-02-27-jasmin-storage-issues-many-services-affected/",
-        title: "JASMIN storage issues affecting JASMIN and CEDA services",
+        title: "JASMIN storage issues affectin...",
         description: "The current issue with JASMIN SOF storage\u0026nbsp; continues to affect many JASMIN and CEDA services.\n",
         
         
@@ -13351,10 +14576,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 483,
         href: "/news/updates/2023/2023-03-01-jasmin-storage-issues-affecting-sof-volumes/",
-        title: "JASMIN Storage Issues affecting SOF volumes",
+        title: "JASMIN Storage Issues affectin...",
         description: "Users may currently be experiencing impaired performance when using SOF storage volumes (/gws/nopw/j04/* and CEDA Archive volumes). The issue is under investigation with the storage vendor.\n",
         
         
@@ -13365,10 +14593,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 484,
         href: "/news/updates/2021/2021-04-22-jasmin-storage-issues-and-update-on-network-connectivity/",
-        title: "JASMIN storage issues and update on network connectivity",
+        title: "JASMIN storage issues and upda...",
         description: "We are aware of current issues with one of the JASMIN storage systems. While investigations are still ongoing, the current status is as follows.\n",
         
         
@@ -13379,16 +14610,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 485,
         href: "/news/updates/2024/2024-03-21-jasmin-storage-issues-having-wider-effects/",
-        title: "JASMIN storage issues having wider effects",
+        title: "JASMIN storage issues having w...",
         description: "An internal performance issue with SOF storage is causing many machines to be unresponsive. The storage vendor is engaged with the system team\u0026rsquo;s investigation.\n",
         
         
         content: "An internal performance issue with SOF storage is causing many machines to be unresponsive. The storage vendor is engaged with the system team\u0026rsquo;s investigation.\nSOF storage is used for /gws/nopw/* group workspaces and CEDA Archive storage volumes.\nThis will have wide-reaching effects across the JASMIN platform and CEDA Archive services.\nAs a result of the above, new LOTUS jobs are currently prevented from being started from the queues, to reduce load on the affected system and avoid failed jobs. New jobs are still being queued and will be run when the cluster is more stable.\nA separate issue with PFS storage from earlier in the week is now resolved: if any further issues are encountered with PFS storage (used for /work/scratch-pw* and /gws/pw/* group workspaces), please wait until the above issues are resolved before reporting to the JASMIN helpdesk.\nPlease watch for further updates on the status page.\nApologies for any inconvenience,\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -13407,16 +14642,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 487,
         href: "/news/updates/2019/2019-11-06-jasmin-storage-maintenance-wed-27th-november/",
-        title: "JASMIN storage maintenance 27th November all services should be considered unavailable",
+        title: "JASMIN storage maintenance 27t...",
         description: "Further scheduled maintenance is required on Wednesday 27th November to supplement the work recently undertaken on 14th October. The work this time will focus mainly on the Panasas system, used for parallel file system (PFS) storage.\n",
         
         
         content: "Further scheduled maintenance is required on Wednesday 27th November to supplement the work recently undertaken on 14th October. The work this time will focus mainly on the Panasas system, used for parallel file system (PFS) storage.\nAll volumes which use PFS storage should be considered unavailable for the duration of this work. Although this does not affect all areas of JASMIN, it is likely that this will cause some disruption to services and user processes, so you may wish to plan your work to avoid this period.\nThe extent of affected services includes but is not limited to:\n/work/scratch\nLOTUS batch processing cluster (because of dependency on /work/scratch)\n/group_workspaces/jasmin2\nParts of the CEDA Archive residing on PFS storage\nOther services which depend on PFS storage for their operation\nDuring the same period, maintenance is also scheduled on the PURE storage used for home directories, SMF volumes and /work/scratch-nompiio. However, the PURE maintenance is expected to be transparent to users, although some element of risk remains.\nThe JASMIN Community Cloud should be unaffected by all of the above.\nWe apologise for the inconvenience which this interruption will cause.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -13435,16 +14674,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 489,
         href: "/news/updates/2023/2023-12-13-jasmin-support-over-christmas-period/",
-        title: "JASMIN Support over the Christmas period and updates",
+        title: "JASMIN Support over the Christ...",
         description: "Dear JASMIN users,\nThis message includes information about the JASMIN support over the Christmas period and important updates on JASMIN services:\n",
         
         
         content: "Dear JASMIN users,\nThis message includes information about the JASMIN support over the Christmas period and important updates on JASMIN services:\nJASMIN support over the Christmas period Closure period schedule LOTUS throughput/capacity reduction Maintenance work planned for Tuesday 16th January 2024 New jasmin-community discussion forum JASMIN support over the Christmas period: \u0026nbsp; As we approach the Christmas period, please be aware of the limited support arrangements in place which will result in CEDA and JASMIN services running “at-risk”. While the shutdown of CEDA’s host organisation, STFC, runs from 15:00 on Friday 22nd December 2022 to 09:00 on Tuesday 2nd January 2024, a reduced number of staff remain at work from Friday 15th December, so we are unable to offer a normal helpdesk service between those dates.\nCEDA and JASMIN services should therefore be considered to be running “at-risk” from 17:00 on Friday 15th December to 9:00 on Tuesday 2nd January 2024, with little or no helpdesk service available during this period. A “change freeze” is also in place as of 17:00 on Thursday 14th December, so requests for new or changes to existing services will not be dealt with until the New Year.\nCEDA websites, archives and services, including access to JASMIN, should be available during this period but will operate unsupported. Should any problems occur to our services, it is unlikely that these would be fixed until staff return in the New Year.\nEmergency cover for site services (for issues such as fire or power outage) remains in place during the site shutdown period. Although we anticipate that the JASMIN infrastructure will remain operational throughout, it is possible that some issues may not receive attention until staff return in the New Year.\nAll user queries received during this period will be answered as soon as possible from Tuesday 2nd January 2024.\nClosure period schedule: \u0026nbsp; Thursday 14th December 2023 - 17:00 \u0026nbsp; change freeze starts limited helpdesk support available Friday 22nd December 2023 \u0026nbsp; site closure at 15:00 GMT services unsupported. Tuesday 2nd January 2024 \u0026nbsp; site reopens normal service resumes The CEDA and JASMIN teams would like to take this opportunity to wish all our users a very Merry Christmas and a Happy New Year.\nLOTUS throughput/capacity will be reduced while the network switch work is carried out. \u0026nbsp; By a gradual rack-draining, compute nodes per rack will be in “maint” state when viewed in SLURM node information e.g. sinfo\nScheduled maintenance is planned for Tuesday 16th January - 2024 \u0026nbsp; This will cause some disruption to JASMIN and CEDA services. Systems will be “at risk” and may be unavailable for all or part of the day. Other system work is also scheduled for this date in order to minimise disruption. The LOTUS batch processing cluster will be unavailable for the duration of the work on the day, to avoid running jobs being adversely affected. A reservation will start at 05:00 on the day, but any job submitted before that with a running time that goes over the reservation period will not start until after the reservation has finished.\nNew community discussion forum: \u0026nbsp; If you have useful tips or topics for discussion, feel free to contribute to the discussions taking shape over at our new \u0026ldquo;jasmin-community\u0026rdquo; area here: (you\u0026rsquo;ll need a Github account to post) https://github.com/cedadev/jasmin-community/discussions\u0026nbsp; For support enquiries, please continue to contact the helpdesk at support@jasmin.ac.uk\nThank you for your attention and please look out for further updates as this work progresses.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -13463,10 +14706,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 491,
         href: "/news/updates/2023/2023-12-22-jasmin-supports-hackathon-exploring-ocean-model-data/",
-        title: "JASMIN supports hackathon exploring ocean model data",
+        title: "JASMIN supports hackathon expl...",
         description: "JASMIN supported over 40 hackathon attendees to help improve their data analysis skills with high-resolution ocean data. The hackathon made use of the JASMIN notebook service, group workspace storage and processing simulations on the LOTUS batch processing cluster. \u0026nbsp; The EERIE project\u0026nbsp; is developing improved Earth system models, harnessing Europe’s pre-exascale computers and considering European ocean mesoscale eddies in preparation for the next Intergovernmental Panel on Climate Change report. The project’s first General Assembly, held in Germany, saw 43 project members from 15 different project partners attend an extra two days for the project’s first hackathon. The aim of the hackathon was for participants to get to know each other while looking at some of the initial EERIE high-resolution eddy-resolving simulations and to gain experience using some relevant software tools.\n",
         
         
@@ -13477,10 +14723,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 492,
         href: "/news/updates/2021/2021-03-03-jasmin-system-maintenance-now-complete/",
-        title: "JASMIN System Maintenance - now complete",
+        title: "JASMIN System Maintenance - no...",
         description: "The scheduled maintenance that happened yesterday, Tuesday 2nd March 2021, is now completed.\nMost JASMIN and CEDA services are back running as normal. However, there are ongoing issues related to access to MASS. We are working on resolving this ASAP.\n",
         
         
@@ -13491,16 +14740,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 493,
         href: "/news/updates/2020/2020-01-14-jasmin-systems-change-freeze-2401-to-0302/",
-        title: "JASMIN systems change freeze - 24/01 to 03/02",
+        title: "JASMIN systems change freeze -...",
         description: "There will be a freeze on any changes requested to JASMIN between Friday 24th January and Monday 3rd February. This is due to limited staff availability during this time.\n",
         
         
         content: "There will be a freeze on any changes requested to JASMIN between Friday 24th January and Monday 3rd February. This is due to limited staff availability during this time.\nThis change freeze means:\nThere may be slower response times to helpdesk queries\nA delay in fixing problems related to system issues\nSlower response to queries requesting changes (such as new volumes or tenancies, changes to quota’s etc.)\nWe apologise for the inevitable disruption this will cause. Normal service will resume from Tuesday 4th February when all requests will be dealt with as soon as possible.\nJASMIN team"
       })
       .add(
+      
       
       
       
@@ -13519,10 +14772,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 495,
         href: "/news/updates/2019/2019-08-02-jasmin-unmanaged-cloud-and-dtz-servers-at-risk-14th-august/",
-        title: "JASMIN Unmanaged Cloud and DTZ servers at risk 14th August",
+        title: "JASMIN Unmanaged Cloud and DTZ...",
         description: "The link between the JASMIN Unmanaged Cloud and the JASMIN Data Transfer Zone will be upgraded from 2x10Gb to 2x40Gb during the 14th August.\n",
         
         
@@ -13533,10 +14789,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 496,
         href: "/news/updates/2023/2023-11-01-jasmin-update-most-systems-now-available/",
-        title: "JASMIN Update - partial return to service",
+        title: "JASMIN Update - partial return...",
         description: "Most subsystems are now back up with the exception of SLURM (the scheduler used for LOTUS and ORCHID clusters) and Object Storage. Login, (most) sci and xfer servers are accessible again, but any services reliant on LOTUS, Object Storage (e.g some web-based services) are not yet available. Please await further updates for full availability.\n",
         
         
@@ -13547,10 +14806,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 497,
         href: "/news/updates/2021/2021-10-21-jasmin-update-1-tape-service-maintenance-2627-oct-2-new-scratch-volume/",
-        title: "JASMIN update 1) Tape service maintenance 26/27 Oct 2) new scratch volume",
+        title: "JASMIN update 1) Tape service ...",
         description: "Dear users,\nPlease note the following updates for your attention:\nTape service maintenance 26/27 October 2021 There will be a downtime for tape services (affecting Elastic Tape, JDMA and the Near-Line Archive service) on Wednesday 27th October, to apply essential updates. All tape activity will need to be stopped during the work, so in order to drain the system, these services will be unavailable to users from Tuesday 26th October until the work is completed on Wednesday afternoon.\n",
         
         
@@ -13561,10 +14823,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 498,
         href: "/news/updates/2022/2022-06-15-jasmin-update-and-reminder-of-maintenance-work-on-weekend-of-1819-june/",
-        title: "JASMIN Update and reminder of maintenance work on weekend of 18/19 June",
+        title: "JASMIN Update and reminder of ...",
         description: "Dear users,\nPlease note upcoming maintenance work affecting JASMIN \u0026amp; CEDA during next week:\nQuarterly maintenance day \u0026amp; storage update: 14th June completed! Work to update storage systems is now completed. Important updates were applied to systems within the JASMIN infrastructure in order to keep them up to date and secure. Users are now able to access JASMIN. ",
         
         
@@ -13575,10 +14840,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 499,
         href: "/news/updates/2022/2022-05-16-jasmin-update-on-forthcoming-maintenance-periods-may-june-2022-1/",
-        title: "JASMIN update on forthcoming maintenance periods May-June 2022",
+        title: "JASMIN update on forthcoming m...",
         description: "Dear users,\nPlease note the current/upcoming maintenance work affecting JASMIN:\nThis week: SLURM scheduler upgrade in progress\nLOTUS batch processing cluster unavailable for most of this week\n",
         
         
@@ -13589,10 +14857,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 500,
         href: "/news/updates/2022/2022-05-05-jasmin-update-on-forthcoming-maintenance-periods-may-june-2022/",
-        title: "JASMIN update on forthcoming maintenance periods May-June 2022",
+        title: "JASMIN update on forthcoming m...",
         description: "Dear users,\nPlease note the following announcements for your information:\nReboot of nx-login servers 09:30 Thurs 5th May NX login servers (nx-login[123].jasmin.ac.uk) will be rebooted at 09:30 tomorrow Thursday 5th May to apply new licences. This will cause a break in connected sessions so please ensure you are logged out of these servers before this time to avoid any problems.\n",
         
         
@@ -13603,10 +14874,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 501,
         href: "/news/updates/2022/2022-05-20-jasmin-update-on-slurm-scheduler-upgrade/",
-        title: "JASMIN update on SLURM Scheduler upgrade",
+        title: "JASMIN update on SLURM Schedul...",
         description: "Dear users,\nFurther to our recent notice about forthcoming maintenance periods and upgrade to the SLURM scheduler, please note the following update: ",
         
         
@@ -13617,10 +14891,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 502,
         href: "/news/updates/2022/2022-05-13-jasmin-update-on-slurm-scheduler-upgrade-starts-friday-13th-may-2022/",
-        title: "JASMIN update on SLURM Scheduler upgrade - starts Friday 13th May 2022",
+        title: "JASMIN update on SLURM Schedul...",
         description: "Dear users,\nFurther to our recent notice about forthcoming maintenance periods and upgrade to the SLURM scheduler, please note the following update: ",
         
         
@@ -13631,10 +14908,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 503,
         href: "/news/updates/2023/2023-06-19-jasmin-update-on-tape-services-restored-to-service-19th-june-2023/",
-        title: "JASMIN Update on tape services - restored to service, 19th June 2023.",
+        title: "JASMIN Update on tape services...",
         description: "We are happy to announce that all tape services are now available.\nThe NLA, ET and JDMA services are again available and ready for users to submit requests after a period of extensive testing last week.\n",
         
         
@@ -13645,16 +14925,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 504,
         href: "/news/updates/2023/2023-05-30-jasmin-update-on-tape-services-and-scheduled-maintenance-june-2023/",
-        title: "JASMIN Update on tape services and scheduled maintenance, June 2023.",
+        title: "JASMIN Update on tape services...",
         description: "Dear User,\nAs many users of the tape systems will know, we have recently experienced problems with the NLA, ET and JDMA services.\n",
         
         
         content: "Dear User,\nAs many users of the tape systems will know, we have recently experienced problems with the NLA, ET and JDMA services.\nWe resolved the problems with NLA and returned it to service on the 9th May 2023.\nWe had more problems with ET and JDMA, largely relating to problems with the Panasas storage used for intermediate storage internal to the service. These were resolved and ET and JDMA were returned to a limited service on the 23rd May 2023. This has been a success and we are now ready to return ET and JDMA to full service.\nWe thank our users for their patience during these outages.\nHowever, the tape system will be undergoing upgrade work in the week of 5th June to 9th June. The tape system will be unavailable from the afternoon of 1st June. This will affect ET, JDMA and NLA.\nWe apologise for the inconvenience and recognise that this will further impact user’s workflow.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -13673,16 +14957,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 506,
         href: "/news/updates/2021/2021-07-27-jasmin-updates-1-network-maintenance-2-elastic-tapejdma/",
-        title: "JASMIN updates 1) network maintenance 2) elastic tape/JDMA",
+        title: "JASMIN updates 1) network main...",
         description: "Dear users,\nPlease note the following updates:\n1. Network maintenance 14/15 \u0026amp; 21/22 August, at risk in between.\nAs part of work to upgrade the RAL core network (the network of CEDA and JASMIN’s host institution) to 100G, network components will be replaced during the weekend of 14th/15th August with follow-up work on 21st/22nd August. Connectivity between JASMIN/CEDA services and the outside world is expected to be disrupted over these 2 weekends to please plan your work accordingly to minimise inconvenience. The intervening week should be regarded as “at risk” and there is the possibility that changes made on the first weekend may need to be rolled back if the work cannot be completed successfully.\n",
         
         
         content: "Dear users,\nPlease note the following updates:\n1. Network maintenance 14/15 \u0026amp; 21/22 August, at risk in between.\nAs part of work to upgrade the RAL core network (the network of CEDA and JASMIN’s host institution) to 100G, network components will be replaced during the weekend of 14th/15th August with follow-up work on 21st/22nd August. Connectivity between JASMIN/CEDA services and the outside world is expected to be disrupted over these 2 weekends to please plan your work accordingly to minimise inconvenience. The intervening week should be regarded as “at risk” and there is the possibility that changes made on the first weekend may need to be rolled back if the work cannot be completed successfully.\n2. Elastic Tape and JDMA now operational again\nA reminder that these services, which provide access to near-line tape storage for group workspaces, are now operational again.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -13701,10 +14989,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 508,
         href: "/news/updates/2021/2021-08-18-jasmin-updates-network-maintenance-1/",
-        title: "JASMIN updates network maintenance",
+        title: "JASMIN updates network mainten...",
         description: "Dear users,\nPlease note the following update:\nNetwork maintenance 21/22 August, at risk in between.\nAs part of work to upgrade the RAL core network (the network of CEDA and JASMIN’s host institution) to 100G, network components will be replaced during the weekend of 14th/15th August with follow-up work on 21st/22nd August. Connectivity between JASMIN/CEDA services and the outside world is expected to be disrupted over these 2 weekends to please plan your work accordingly to minimise inconvenience. The intervening week should be regarded as “at risk” and there is the possibility that changes made on the first weekend may need to be rolled back if the work cannot be completed successfully.\n",
         
         
@@ -13715,10 +15006,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 509,
         href: "/news/updates/2021/2021-08-11-jasmin-updates-network-maintenance/",
-        title: "JASMIN updates network maintenance",
+        title: "JASMIN updates network mainten...",
         description: "Dear users,\nPlease note the following updates:\nNetwork maintenance 14/15 \u0026amp; 21/22 August, at risk in between.\nAs part of work to upgrade the RAL core network (the network of CEDA and JASMIN’s host institution) to 100G, network components will be replaced during the weekend of 14th/15th August with follow-up work on 21st/22nd August. Connectivity between JASMIN/CEDA services and the outside world is expected to be disrupted over these 2 weekends to please plan your work accordingly to minimise inconvenience. The intervening week should be regarded as “at risk” and there is the possibility that changes made on the first weekend may need to be rolled back if the work cannot be completed successfully.\n",
         
         
@@ -13729,16 +15023,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 510,
         href: "/news/updates/2023/2023-05-02-jasmin-updates-nx-login-machines-reboot-and-tape-services-status/",
-        title: "JASMIN updates nx-login machines reboot and tape services status",
+        title: "JASMIN updates nx-login machin...",
         description: "Please note the following JASMIN service updates for your attention:\nnx-login service update\nThe servers nx-login[123].jasmin.ac.uk will be rebooted tomorrow Wed 3 May between 08:30 - 09:30 to apply new licenses. This will result in the interruption to desktop sessions, so please log out of your NX desktop session by the end of today to avoid disruption.\n",
         
         
         content: "Please note the following JASMIN service updates for your attention:\nnx-login service update\nThe servers nx-login[123].jasmin.ac.uk will be rebooted tomorrow Wed 3 May between 08:30 - 09:30 to apply new licenses. This will result in the interruption to desktop sessions, so please log out of your NX desktop session by the end of today to avoid disruption.\nThe new license will enable us to add an additional server in due course to the existing 3, which will help ease the load on the existing servers.\ntape services status\nET, JDMA and NLA services have been affected by a problem with the NLA and underlying StorageD service since Friday evening (initially it had been thought that they were unaffected). The problem is now understood, but all services are currently unavailable. Testing is currently underway which should enable ET and JDMA to resume, but NLA is anticipated to take longer to resume service.\nPlease look out for further announcements.\nWith apologies for any inconvenience.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -13757,10 +15055,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 512,
         href: "/news/updates/2021/2021-11-30-jasmin-updates-reminder-network-at-risk-1st-dec/",
-        title: "JASMIN Updates reminder Network at risk 1st Dec - postponed",
+        title: "JASMIN Updates reminder Networ...",
         description: "UPDATE: this work has now been postponed, please look out for further announcements. Apologies for the inconvenience, JASMIN Team.\nDear Users,\n",
         
         
@@ -13771,10 +15072,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 513,
         href: "/news/updates/2023/2023-06-12-jasmin-updates-scheduled-maintenance-11-july-and-other-items/",
-        title: "JASMIN updates Scheduled maintenance 11 July and other items",
+        title: "JASMIN updates Scheduled maint...",
         description: "Dear users\nPlease note the following items for your attention:\nJASMIN Regular scheduled maintenance day: 11 July 2023 New NX server available Reboot of gws-access service Tuesday 13th June 08:30 \u0026amp; future changes to service. Details:\n",
         
         
@@ -13785,10 +15089,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 514,
         href: "/news/updates/2025/2025-01-15-jasmin-updates-new-cluster-and-maintenance-day/",
-        title: "JASMIN updates: new cluster and maintenance day",
+        title: "JASMIN updates: new cluster an...",
         description: " \u0026nbsp; Important updates regarding LOTUS cluster and upcoming maintenance on JASMIN In this update:\n",
         
         
@@ -13799,10 +15106,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 515,
         href: "/news/updates/2025/2025-01-28-jasmin-updates-new-cluster-scratch-conda-removal/",
-        title: "JASMIN updates: new cluster, scratch quotas, anaconda defaults removal",
+        title: "JASMIN updates: new cluster, s...",
         description: "In this update:\nNew LOTUS2 cluster now available - please use it! Scratch quotas now in force - please clean up! Anaconda defaults removal - please check if this affects you! Reboots and changes to physical sci servers Details:\n",
         
         
@@ -13813,10 +15123,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 516,
         href: "/news/updates/2018/2018-02-23-jasmin-upgrade-1-unavailability-14th-march-2-gws-changes/",
-        title: "JASMIN UPGRADE 1) Unavailability 14th March 2) GWS changes",
+        title: "JASMIN UPGRADE 1) Unavailabili...",
         description: " JASMIN Unavailable Wednesday 14th March Changes to Group Workspace storage There will be a major upgrade of JASMIN over the next few months\u0026nbsp; , more than doubling the available storage and adding significantly more compute. The upgrade will involve a rolling programme of data migration that will affect everyone.\n",
         
         
@@ -13827,10 +15140,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 517,
         href: "/news/updates/2018/2018-03-07-jasmin-upgrade-reminders-and-further-information/",
-        title: "JASMIN upgrade reminders and further information",
+        title: "JASMIN upgrade reminders and f...",
         description: " JASMIN Unavailability Wednesday 14th March (see previous email) Changes to Group Workspace Storage (see previous email) Changes to /work/scratch storage. Draining of LOTUS jobs starts TODAY 7th March. General \u0026ldquo;at risk\u0026rdquo; during phase4 installation work. For Items 1 \u0026amp; 2, please refer to our earlier announcement of 23/02/2018 or visit http://www.jasmin.ac.uk/phase4\u0026nbsp; for details.\n",
         
         
@@ -13841,10 +15157,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 518,
         href: "/news/updates/2022/2022-11-04-jasmin-tonga-volcano/",
-        title: "JASMIN used to show Tonga volcano had highest plume ever recorded",
+        title: "JASMIN used to show Tonga volc...",
         description: "Satellite images confirm that the Tonga eruption in January 2022 produced the highest ever recorded volcanic plume, at 57 km high. The open-source data used to confirm this finding was processed on JASMIN\u0026nbsp; - the UK’s data analysis facility for environmental science. ",
         
         
@@ -13855,16 +15174,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 519,
         href: "/news/updates/2025/2025-09-10-jasmin-conf-important-info/",
-        title: "JASMIN User Conference - important information",
+        title: "JASMIN User Conference - impor...",
         description: "We have reluctantly taken the decision NOT to go ahead with the current plan for the JASMIN User Conference scheduled for 1-2 October 2025. Low registration numbers meant that an in-person event was not viable in its planned format.\n",
         
         
         content: "We have reluctantly taken the decision NOT to go ahead with the current plan for the JASMIN User Conference scheduled for 1-2 October 2025. Low registration numbers meant that an in-person event was not viable in its planned format.\nThe team is currently in discussion about a series of webinars over coming weeks which will provide an alternative platform for presenting some of the conference material and opportunities for community discussion: please look out for further announcements.\nWe will also explore opportunities to link with other community events in the future.\nWe apologize for any inconvenience caused, and hope to see you at one or more of the events to follow.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -13883,16 +15206,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 521,
         href: "/news/updates/2025/2025-03-28-jasmin-user-conference-2025-save-the-dates/",
-        title: "JASMIN User Conference 2025 - save the dates",
+        title: "JASMIN User Conference 2025 - ...",
         description: " \u0026nbsp; IMPORTANT - Please note change of dates We will be hosting the next JASMIN conference at RAL on the Harwell Campus in Oxfordshire on Wednesday 1st and Thursday 2nd October 2025.\n",
         
         
         content: "\u0026nbsp; IMPORTANT - Please note change of dates We will be hosting the next JASMIN conference at RAL on the Harwell Campus in Oxfordshire on Wednesday 1st and Thursday 2nd October 2025.\nThe purpose of the conference is to:\nShare important updates from the JASMIN team about current services and developments Strengthen the community and enable sharing of experience and expertise Get feedback from users and provide an opportunity for discussion Over 2 days there will be a mixture of talks from user projects and from the JASMIN team, discussions, networking time and opportunities to learn about new services.\nWatch this space for further information about how to register, and details of the programme as it develops.\nWe look forward to seeing you in October 2025!"
       })
       .add(
+      
       
       
       
@@ -13911,16 +15238,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 523,
         href: "/news/updates/2024/2024-01-30-jasmin-user-seminar-series/",
-        title: "JASMIN User Seminar Series restarting 6th February - 1pm",
+        title: "JASMIN User Seminar Series res...",
         description: "Dear JASMIN users,\nWe are hosting a webinar on Tuesday 6th of February at 1pm.\nIt is part of the JASMIN seminar user series aiming to encourage knowledge sharing and best practices between JASMIN users - whilst showcasing the types of science enabled by JASMIN. The format is an online presentation from two JASMIN users for 20 minutes, followed by a QA session.\n",
         
         
         content: "Dear JASMIN users,\nWe are hosting a webinar on Tuesday 6th of February at 1pm.\nIt is part of the JASMIN seminar user series aiming to encourage knowledge sharing and best practices between JASMIN users - whilst showcasing the types of science enabled by JASMIN. The format is an online presentation from two JASMIN users for 20 minutes, followed by a QA session.\nRegistration details \u0026nbsp; Please register in advance for this webinar: https://ukri.zoom.us/meeting/register/tJcudeyhrz4pE9W8KQrX_Z0_GT45qjjLTxOa\u0026nbsp; After registering, you will receive a confirmation email containing information about joining the meeting.\nAgenda: \u0026nbsp; Time Title Speakers 13:00 Welcome and opening JASMIN team 13:05 Advancing Water Resources Research: Use of JASMIN in Hydrological Innovation Amulya Chevuturi, Wilson Chan, Burak Bulut, Nathan Rickards, Richard Smith 13:30 Computing for Climate: JASMIN\u0026rsquo;s Impact on Hydroclimatic Risk Science Matt Brown, Vicky Bell, Mark Rhodes-Smith, Nathan Missault, Toby Marthews 13:55 Q\u0026amp;A Session \u0026ndash; 14:15 Wrap-up and Close JASMIN team We look forward to seeing you at the webinar next week!\nNote: If you are interested in contributing to the next seminar please contact us at support@jasmin.ac.uk\nYou can catch up on previous JASMIN seminars here!"
       })
       .add(
+      
       
       
       
@@ -13939,16 +15270,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 525,
         href: "/news/updates/2022/2022-07-18-jasmin-warning-on-possible-disruptions-on-18th-19th-july/",
-        title: "JASMIN warning on possible disruptions on 18th-19th July",
+        title: "JASMIN warning on possible dis...",
         description: "Dear users,\nPlease note that there is potential for disruption to JASMIN services from Monday 18th July at 10am till Tuesday 19th July evening as a result of extreme heat forecast for RAL, where JASMIN is hosted. It may become necessary to take action to reduce load on JASMIN if cooling equipment is unable to keep up with demand\n",
         
         
         content: "Dear users,\nPlease note that there is potential for disruption to JASMIN services from Monday 18th July at 10am till Tuesday 19th July evening as a result of extreme heat forecast for RAL, where JASMIN is hosted. It may become necessary to take action to reduce load on JASMIN if cooling equipment is unable to keep up with demand\nMany thanks for your cooperation\nJASMIN team"
       })
       .add(
+      
       
       
       
@@ -13967,10 +15302,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 527,
         href: "/news/updates/2024/2024-03-26-jasmin-webinars-available/",
-        title: "JASMIN Webinars available to watch now!",
+        title: "JASMIN Webinars available to w...",
         description: "The recording from the latest JASMIN seminar series is available to watch on Yotube.\nYou can click here to watch the JASMIN talks given from the UK Centre for Ecology and Hydrology\u0026nbsp; All of the previous JASMIN Seminars have also been recorded and the slides saved. You can check out the other seminars on our event page here.\n",
         
         
@@ -13981,10 +15319,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 528,
         href: "/news/updates/2025/2025-02-07-jasmin-further-updates-new-cluster/",
-        title: "JASMIN: further updates about new cluster and notebooks service",
+        title: "JASMIN: further updates about ...",
         description: "In this update:\nFurther news and important dates regarding migration to the new cluster, LOTUS2 NEW: JASMIN notebooks service now supports GPUs Please note the following updates as part of our current migration\u0026nbsp; , which includes the retirement of the old CentOS7 cluster, LOTUS, with the new Rocky 9 cluster, LOTUS2:\n",
         
         
@@ -13995,10 +15336,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 529,
         href: "/news/updates/2016/2016-09-15-jasmincems-bcopy-service-temporarily-unavailable/",
-        title: "JASMIN/CEMS bcopy service temporarily unavailable",
+        title: "JASMIN/CEMS bcopy service temp...",
         description: "We are aware of a problem with the ‘bcopy’ service (used to copy data efficiently between disk areas within JASMIN/CEMS).\n",
         
         
@@ -14009,10 +15353,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 530,
         href: "/news/updates/2020/2020-03-09-jasmin2020-abstract-deadline-extension-16th-march/",
-        title: "JASMIN2020 abstract deadline extension 16th March",
+        title: "JASMIN2020 abstract deadline e...",
         description: "We are pleased to announce that the deadline for abstract submissions to JASMIN2020 has been extended until Monday 16th March at midday. This will be the final hard deadline for oral abstracts, so please don’t delay in submitting your abstracts! All details about submitting can be found here: http://www.jasmin.ac.uk/jasmin2020/\u0026nbsp; ",
         
         
@@ -14023,10 +15370,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 531,
         href: "/news/updates/2023/2023-10-17-jasmin2023-user-conference-call-for-registration-reminder/",
-        title: "JASMIN2023 user conference call for registration (REMINDER)",
+        title: "JASMIN2023 user conference cal...",
         description: "Dear JASMIN user,\nAs previously announced, we will be hosting the next JASMIN conference at our host institution, RAL, on the Harwell Campus in Oxfordshire. It will occur over two half days on the afternoon of Wednesday 1st November and the morning of Thursday 2nd of November 2023.\n",
         
         
@@ -14037,16 +15387,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 532,
         href: "/news/updates/2021/2021-11-10-jaspy-update-new-r-jasr-environment-and-notebook-service-update-to-be-released-on-16112021/",
-        title: "Jaspy update, new R (jasr) environment, and Notebook Service update to be released on 16/11/2021",
+        title: "Jaspy update, new R (jasr) env...",
         description: "Dear JASMIN users,\nWe are pleased to announce that (1) a new version of the Jaspy software environment, (2) a first (Jasr) R environment and an (3) update to the JASMIN Notebook Service software (using Jaspy) will be released on JASMIN on Tuesday 16th November.\n",
         
         
         content: "Dear JASMIN users,\nWe are pleased to announce that (1) a new version of the Jaspy software environment, (2) a first (Jasr) R environment and an (3) update to the JASMIN Notebook Service software (using Jaspy) will be released on JASMIN on Tuesday 16th November.\nThe new Jaspy release includes updates to a number of software packages as well as some new tools. The release, labelled as \u0026ldquo;jaspy/3.8/r20211105\u0026rdquo;, is described on our Help Page at https://help.jasmin.ac.uk/article/4729-jaspy-envs.\u0026nbsp; On Tuesday 16th November (9 am) we will be switching the default Jaspy version to this new release. Once the switch has happened, you can activate the new Jaspy release by simply typing:\nmodule load jaspy\nNote that the previous Jaspy release will continue to be available by using its full label: \u0026ldquo;jaspy/3.7/r20210320\u0026rdquo;.\nFor the first time, we have released an R software environment on JASMIN. This environment, known as \u0026ldquo;Jasr\u0026rdquo;, is detailed at: https://help.jasmin.ac.uk/article/4729-jaspy-envs#jasr-envs\u0026nbsp; .\nThe new Jaspy environment (see above) will also be released as the default environment on the JASMIN Notebook Service ( https://help.jasmin.ac.uk/article/4851-jasmin-notebook-service\u0026nbsp; ) on Tuesday 16th November. Note that there is only one software environment on the Notebook Service so the previous environment will no longer be available once the change has been made.\nThank you for your attention,\nCEDA and JASMIN Team"
       })
       .add(
+      
       
       
       
@@ -14065,6 +15419,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 534,
         href: "/news/updates/2008/2008-10-08-job-opportunities-at-the-badc/",
@@ -14075,6 +15430,7 @@ function initIndex() {
         content: "Two posts are currently being advertised:\nSPBU083 Data Scientist (RAL Band 5): Closing date 26 Oct 2008 SPBU084 Storage Coordinator (RAL Band 6/5): Closing date 29 Oct 2008 Full details are available here\u0026nbsp; BADC Helpdesk 8th October 2008"
       })
       .add(
+      
       
       
       
@@ -14093,10 +15449,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 536,
         href: "/news/updates/2021/2021-02-10-job-opportunity-jasmin-software-developer/",
-        title: "Job opportunity - JASMIN Software Developer",
+        title: "Job opportunity - JASMIN Softw...",
         description: "Job opportunity - JASMIN Software Developer\nWe are looking for an enthusiastic individual to contribute to the evolution of JASMIN – our globally unique facility for data-intensive computing for the environmental sciences. You will be working with world experts developing innovative technical solutions to address the challenge of building, growing and maintaining an infrastructure to support the needs of researchers in their work processing and analysing complex, high volume scientific data. ",
         
         
@@ -14107,10 +15466,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 537,
         href: "/news/updates/2021/2021-04-06-join-in-the-nerc-environmental-data-discovery-trails-you-might-get-a-reward/",
-        title: "Join in the NERC Environmental Data Discovery Trails, you might get a reward!",
+        title: "Join in the NERC Environmental...",
         description: "To improve the accessibility of data collected through NERC-funded research, or managed by NERC data centres and our collaborators, a NERC programme ( Constructing a Digital Environment\u0026nbsp; ) are collecting feedback on the user experience (UX) to improve the navigation of various web portals to assess these data. This is done via a series of events called the NERC Environmental Data Discovery Trails. ",
         
         
@@ -14121,10 +15483,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 538,
         href: "/news/updates/2023/2023-11-28-communicating-climate-uncertainty-workshop/",
-        title: "Join our Communicating Climate Uncertainty Workshop on November 30th!",
+        title: "Join our Communicating Climate...",
         description: "You are invited to a workshop on Uncertainty, delving into the crucial dialogue surrounding how users and providers of climate information navigate uncertainties.\n",
         
         
@@ -14135,10 +15500,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 539,
         href: "/news/updates/2024/2024-10-28-jasmin-training-workshop/",
-        title: "Join our JASMIN Training Workshop!",
+        title: "Join our JASMIN Training Works...",
         description: "On 28th November we will be running a JASMIN training workshop available to all new and intermediate users, please come along!",
         
         
@@ -14149,16 +15517,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 540,
         href: "/events/past/jupyter-notebook-webinar/",
-        title: "Jupyter Notebooks for Capacity Development Webinar",
+        title: "Jupyter Notebooks for Capacity...",
         description: "The CEOS Working Group on Capacity Building and Data Democracy and the Working Group on Information Systems and Services ran a joint webinar on Jupyter notebooks for Capacity Development.",
         
         
         content: "CEDA represents UKSA/NCEO on the Committee Earth Observation Satellites (CEOS) - this group hosted a virtual event called: Jupyter Notebooks for Capacity Development Webinar\u0026nbsp; in July 2021.\nFurther details about the event are below.\nYou can see a recording from the webinar here\u0026nbsp; .\nOverview \u0026nbsp; The CEOS Working Group on Capacity Building and Data Democracy and the Working Group on Information Systems and Services ran a joint webinar on Jupyter notebooks for Capacity Development. The webinar aimed to introduce space agencies and environmental organisations worldwide to Jupyter Notebooks and take a tour of emerging services from CEOS agencies and their applications. We illustrated how they can be used to support capacity development and the exploitation of Earth Observation data by a broad range of users. There were two sessions via zoom to allow for global attendance.\nAgenda \u0026nbsp; What are Jupyter Notebooks, and why do they have the potential to support capacity development?\nWe will provide an overview of what a Jupyter Notebook is and the benefits of using one. We will demonstrate using a simple example of plotting sea surface temperature data, navigating an archive and adjusting the colour scale. We continue by describing the ways it is supported by open-source resources and by different types of platform/environment. We then discuss how collaborative research and activities such as international Hackathons can also be supported.\nJupyter Hub and Notebooks on Data Analysis Platforms:\nWe take a look at two examples from the UK’s JASMIN\u0026nbsp; Jupyter notebook service, which can access over 20 Petabytes of data on the CEDA archive. We take a look at the Sentinel 5p global archive of data and demonstrate how by using a very basic notebook, we can explore questions such as how did pollution levels change in large cities during the Pandemic. We then continue by looking at the smaller scale specialist example of regional NCEO\u0026nbsp; biomass maps. We can demonstrate how in addition to obtaining domain-specific information from data, we can also train users on some technical aspects such as libraries, modules and shapefiles.\nOpen Data Cube and Google Earth Engine – A Jupyter Notebook Sandbox Demonstration\nThe Open Data Cube (ODC) Google Sandbox is a free and open programming interface that connects users to Google Earth Engine datasets. The open-source tool allows users to run Python application algorithms using Google’s Colab notebook environment. This demonstration will look at two examples Landsat applications focused on scene-based cloud statistics and historic water extent. Basic operation of the tool will support unlimited users for small-scale analyses and training but can also be scaled in size and scope with Google Cloud resources to support enhanced user needs.\nESA PGDS data cube and Times series Data\nThe ESA PDGS Data Cube is a pixel-based access service that enables human and machine-to-machine interfaces for Heritage Missions (HM), Third-Party Missions (TPM) and Earth Explorer (EE) datasets. The pixel-based access service provides the users with advanced retrieval capabilities such as time series extraction, data subsetting, mosaicking, band combinations and indexes generation (e.g. NDVI, anomalies, …) directly from the EO-SIP packages with no need of data duplication or data preparation.\nIn addition to the Explorer web-based graphic user interface, the ESA PDGS Data Cube service also provides the Jupyter processing environment to allow users to import, write and execute code that runs close to the data. This demonstration will showcase how to retrieve Soil Moisture time-series using the Jupyter environment in order to generate thematic maps (monthly anomalies map) over an area of interest. The benefit of using the pixel-based service with respect to traditional access services in term of resources usage will be also highlighted.\nEarth Analytics and Interoperability Lab – Big Data Processing\nThe CEOS Earth Analytics Interoperability Lab (EAIL) is a platform for CEOS projects to test interoperability in a live EO ecosystem. EAIL is hosted on Amazon Web Services and includes facilities for Jupyter notebooks, scalable compute infrastructure for integrated analysis and data pipelines that can connect to new and existing CEOS data discovery and access services. This demonstration will show how we use Jupyter notebooks with the python Dask library to efficiently compute and perform large-scale analyses (10s GB) with interactive plotting and scalable compute resources in EAIL.\nCapacity Development Panel and Discussion\nKenton Ross from NASA’s Capacity Building and Applied Sciences Program will lead discussions with a panel of international experts. We will explore the needs of EO data users worldwide and how this can be supported by CEOS agencies.\nWednesday 21st July 14:00 – 16:20 UTC Panelists: Edward Boamah (Digital Earth Africa), Sean McCartney (NASA DEVELOP) Thursday 22nd July 02:00 – 04:20 UTC Panelists: Edward Boamah (Digital Earth Africa), Franz Meyer (University of Alaska Fairbanks) Speakers: Kenton Ross (NASA), Yousuke Ikehata (JAXA), Esther Conway (NCEO/UKSA), Brian Killough (SEO/NASA), Giuseppe Troina (ESA), Matt Paget (CSIRO)"
       })
       .add(
+      
       
       
       
@@ -14177,10 +15549,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 542,
         href: "/news/updates/2006/2006-07-05-latest-portable-unified-model-software-from-the-b/",
-        title: "Latest Portable Unified Model Software from the BADC",
+        title: "Latest Portable Unified Model ...",
         description: "The Met Office Portable Unified Model (PUM) software version 6.1 is now available from the BADC. Access must be granted separately for each version, so you should apply for access following the link on the dataset webpage, under \u0026lsquo;Restricted Source Code\u0026rsquo;. See http://www.badc.rl.ac.uk/data/pum/\u0026nbsp; . The code itself is located in the software directory of the PUM dataset directory (/badc/ukmo-pum/software).\n",
         
         
@@ -14191,10 +15566,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 543,
         href: "/news/updates/2019/2019-01-29-new-improvements-to-the-ceda-catalogue/",
-        title: "Latests improvements to the CEDA Catalogue",
+        title: "Latests improvements to the CE...",
         description: "CEDA’s data catalogue service was updated last week as part of improvements to our Elasticsearch service. This technology underpins our catalogue search tool as well as CEDA’s flight-finder and Satellite finder tools. It will also be underpinning future service developments in CEDA - watch this space for more announcements on this!\n",
         
         
@@ -14205,16 +15583,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 544,
         href: "/news/updates/2020/2020-08-28-limited-support-for-cedajasmin-services-until-2nd-sept/",
-        title: "Limited support for CEDA/JASMIN services until 2nd Sept",
+        title: "Limited support for CEDA/JASMI...",
         description: "In line with the bank holiday shutdown of CEDA\u0026rsquo;s host institute, the CEDA and JASMIN teams will be unavailable from 16:00 today (Friday 28th August) until 09:00 on Wednesday 2nd September.\n",
         
         
         content: "In line with the bank holiday shutdown of CEDA\u0026rsquo;s host institute, the CEDA and JASMIN teams will be unavailable from 16:00 today (Friday 28th August) until 09:00 on Wednesday 2nd September.\nCEDA websites, archives and services, including access to JASMIN, should be available during this period but will operate unsupported. Therefore should any problems occur to our services, it is unlikely that these would be fixed until staff return on Wednesday 2nd September. Many staff members are taking advantage of the bank holiday for a longer break and will not be working again until 7th September. Therefore, there will be minimal helpdesk support during the week of the bank holiday due to limited staff availability. All user queries received during this period will be answered as soon as possible.\nThank you for your understanding, CEDA/JASMIN team"
       })
       .add(
+      
       
       
       
@@ -14233,6 +15615,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 546,
         href: "/news/updates/2008/2008-01-10-loss-of-data-on-my-request-area/",
@@ -14247,10 +15630,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 547,
         href: "/news/updates/2019/2019-06-26-lotus-lsf-upgrade-thursday-27th-june/",
-        title: "LOTUS LSF Upgrade Thursday 27th June",
+        title: "LOTUS LSF Upgrade Thursday 27t...",
         description: "As previously announced, the LSF job management system used for JASMIN\u0026rsquo;s LOTUS batch processing cluster, will be upgraded tomorrow (Thursday 27th June) with LOTUS unavailable for the whole day. This involves migrating the LSF master to new hardware and upgrading the LSF software version. Queues will be closed as of the evening of Wednesday 26th June after which it will not be possible to submit new jobs until after the work has completed.\n",
         
         
@@ -14261,16 +15647,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 548,
         href: "/news/updates/2020/2020-10-15-lotus-reservation-for-benchmark-work-on-saturday-17th-october-from-4-pm-to-8-pm/",
-        title: "LOTUS reservation for benchmark work on Saturday 17th October from 4 PM to 8 PM",
+        title: "LOTUS reservation for benchmar...",
         description: "Dear JASMIN user,\nThe LOTUS batch processing cluster will be unavailable for the duration of the benchmark work. The SLURM batch reservation will start on Saturday 17th October from 4 PM to 8 PM. Any job submitted before that time with a running time that goes over the reservation period will not start until after the reservation has finished. Note: jobs submitted to the long-serial queue may be affected.\n",
         
         
         content: "Dear JASMIN user,\nThe LOTUS batch processing cluster will be unavailable for the duration of the benchmark work. The SLURM batch reservation will start on Saturday 17th October from 4 PM to 8 PM. Any job submitted before that time with a running time that goes over the reservation period will not start until after the reservation has finished. Note: jobs submitted to the long-serial queue may be affected.\nThank you for your cooperation\nJASMIN team"
       })
       .add(
+      
       
       
       
@@ -14289,6 +15679,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 550,
         href: "/news/updates/2019/2019-08-19-lotus-service-currently-reduced/",
@@ -14299,6 +15690,7 @@ function initIndex() {
         content: "We are currently experiencing some problems with LOTUS capacity due to a power cut at the weekend. We expect LOTUS jobs may take a little longer to run until the problem has been resolved. We are working to fix this as soon as possible. Remedial work is underway and we expect it to be completed in the next few days, when services will resume as normal. Apologies for any inconvenience caused. JASMIN team "
       })
       .add(
+      
       
       
       
@@ -14317,6 +15709,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 552,
         href: "/news/updates/2020/2020-11-25-lotusslurm-issues-update-2/",
@@ -14331,10 +15724,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 553,
         href: "/news/updates/2020/2020-03-19-low-level-of-at-risk-for-et-jdma-and-nla-between-1400-and-1500-today/",
-        title: "Low level of at risk for ET, JDMA, and NLA between 1400 and 1500 today",
+        title: "Low level of at risk for ET, J...",
         description: "There is a very small risk of these services being affected by work being carried out in the machine room between these times.\n",
         
         
@@ -14345,10 +15741,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 554,
         href: "/news/updates/2022/2022-02-04-maintenance-downtime-for-ceda-login-and-accounts-pages/",
-        title: "Maintenance downtime for CEDA login and accounts pages",
+        title: "Maintenance downtime for CEDA ...",
         description: "Dear CEDA users,\nWe are planning an update to the CEDA login and account management servers between 10:00 am and 11:00 am on Tuesday, the 8th of February. During this time you may be unable to login to CEDA websites or check your account details.\n",
         
         
@@ -14359,10 +15758,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 555,
         href: "/news/updates/2024/2024-05-08-big-lotus-upgrade/",
-        title: "Major investment triples capacity for analysing environmental data",
+        title: "Major investment triples capac...",
         description: "Scientists will soon have access to triple the processing power for analysing environmental data. A £5.7 million investment for expanding the parallel compute cluster, called LOTUS\u0026nbsp; , on JASMIN has been secured. The improved infrastructure allows much greater volume of parallel computing tasks - where multiple streams of data analysis tasks are undertaken at the same time - whilst reducing the time that users have to wait for their analysis to complete. Capacity will be tripled and will be available to users from Summer 2024.\n",
         
         
@@ -14373,16 +15775,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 556,
         href: "/news/updates/2014/2014-06-26-mars-analysis-correction-data-assimilation-fully-citable-dataset-at-badc/",
-        title: "Mars Analysis Correction Data Assimilation - fully citable dataset at BADC.",
+        title: "Mars Analysis Correction Data ...",
         description: "The first publicly available, fully citable atmospheric reanalysis for the planet Mars can now be downloaded from the BADC website! ",
         
         
         content: "The first publicly available, fully citable atmospheric reanalysis for the planet Mars can now be downloaded from the BADC website! The \u0026ldquo;Mars Analysis Correction Data Assimilation\u0026rdquo; (MACDA) dataset version 1.0 contains the reanalysis of Mars\u0026rsquo; fundamental atmospheric and surface variables covering a period of about three Martian years (a Martian year is about 1.88 terrestrial years).\nThis dataset has been produced by data assimilation of observations from NASA\u0026rsquo;s Mars Global Surveyor (MGS) spacecraft during its science mapping phase (February 1999–August 2004). In particular, the authors have used retrieved thermal profiles and total dust optical depths from the Thermal Emission Spectrometer (TES) on board MGS.\nData have been assimilated into a Mars global climate model (MGCM) using the Analysis Correction scheme developed at the UK Meteorological Office. The MGCM used is the UK spectral version of the Laboratoire de Météorologie Dynamique (LMD, Paris, France) MGCM.\nMACDA is a joint project of the University of Oxford and The Open University in the UK.\nThe dataset is available at http://dx.doi.org/10.5285/78114093-E2BD-4601-8AE5-3551E62AEF2B\u0026nbsp; For detailed information about the dataset, please refer to the recently published paper in the Geoscience Data Journal:\nMontabone et al., 2014. The Mars Analysis Correction Data Assimilation (MACDA) Dataset V1.0. Geoscience Data Journal. DOI: 10.1002/gdj3.13\nPublishing datasets in data journals with the CEDA: \u0026nbsp; Publishing data in a data journal provides extra credit to researchers for making their data available, while at the same time opening the data up for re-use, increasing the potential for collaboration and strengthening the integrity of the scientific record.\nCEDA’s ability to mint DOIs for datasets (in partnership with DataCite and the British Library) lays the foundations for data citation and publication. CEDA and the other NERC Environmental Data Centres have been collaborating with academic publishers including Wiley, F1000Research, Elsevier, and Nature Publishing Group to develop the systems needed for data publication, as well as promoting it to researchers and data creators.\nIf you would like to know more about publishing your dataset with CEDA whether it is already archived with us not, and so receive due academic credit for your work please feel free to get in touch to discuss this further."
       })
       .add(
+      
       
       
       
@@ -14401,10 +15807,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 558,
         href: "/projects/met-office-ensembles-support/",
-        title: "Met Office - Support for Ensembles",
+        title: "Met Office - Support for Ensem...",
         description: "Providing storage and services for large climate multi-model ensembles, like CMIP6 data",
         
         
@@ -14415,10 +15824,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 559,
         href: "/news/updates/2008/2008-09-03-met-office-hadgem1-model-integrations-now-availab/",
-        title: "Met Office HadGEM1 Model Integrations now available from BADC",
+        title: "Met Office HadGEM1 Model Integ...",
         description: "The HadGEM1 model is the Met Office Hadley centre global environment model. This version of the model includes a detailed representation of the atmosphere, land surface, ocean, and cryosphere.\n",
         
         
@@ -14429,10 +15841,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 560,
         href: "/news/updates/2010/2010-02-26-met-office-radiosonde-archives-currently-unavaila/",
-        title: "Met Office Radiosonde archives currently unavailable",
+        title: "Met Office Radiosonde archives...",
         description: "Due to a technical issue, the Met Office Global Radiosonde and the Met Office UK High-resolution radiosonde datasets are currently unavailable.\n",
         
         
@@ -14443,10 +15858,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 561,
         href: "/news/updates/2003/2003-10-28-met-office-stratospheric-analyses-new-dynamics/",
-        title: "Met Office Stratospheric Analyses - New Dynamics",
+        title: "Met Office Stratospheric Analy...",
         description: " Met Office Stratospheric Analyses - New Dynamics ------------------------------------------------ The assimilation system that produces the Met Office stratospheric data will soon be changed to use the New Dynamics (ND) version of the Unified Model. The changeover is scheduled for 28th October 2003. **Users of the data need to be aware of the following points:** - The data will be ordered from South to North, instead of North to South. - As before, the wind components (u and v) will be produced on a grid that is staggered relative to the mass grid (used for T and z). The output fields use the \u0026#34;Arakawa B grid\u0026#34; staggering, as before, even though the ND model uses a \u0026#34;C grid\u0026#34; staggering. - The vertical velocity will be w (dz/dt), rather than omega (dP/dt), and will be output on the mass grid. - Three additional UARS levels will be output (25 instead of 22), up to 0.1 hPa (instead of 0.316 hPa). If you use the grid definitions in the PP header record, the changes to the ordering of the data will be transparent, otherwise you will need modify your programs to allow for those changes. Access routines are supplied by the Met Office to help users read the data files. The original versions were written to access data from the UARS CDHF, but recent versions also read PP format data, as supplied to the BADC. A revised version of the access routines has been written (version 5c - file name acsasm_v5c.f). This is very similar to the previous version (5b), except that it will recognize the new w fields (as well as omega), and the default settings for field types and number of levels have been modified for New Dynamics. VAX/VMS-specific code (only a few lines) has been deleted. At the BADC, the new data files can be found in the current year assimilated data directory: /badc/ukmo-assim/data/standard/2003/ The associated documentation, as provided by the Met Office is available in the assimilated data doc directory: /badc/ukmo-assim/doc/ieee_binary/new_dynamics/ The Assimilated data documentation on the BADC Web pages will be updated shortly. BADC Support 28th October 2003",
         
         
@@ -14457,10 +15875,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 562,
         href: "/news/updates/2002/2002-11-26-met-office-stratospheric-data-nesdis-made-a-chang/",
-        title: "Met Office Stratospheric Data - NESDIS made a change to NOAA-16 processing affecting the stratosp",
+        title: "Met Office Stratospheric Data ...",
         description: " Met Office Stratospheric Data - - NESDIS made a change to NOAA-16 processing affecting the stratospheric data ============================================================ Message from the Met Office: \u0026#34;NESDIS made a change to NOAA-16 processing on 22/11/02, which they expected to be null but has actually caused a significant degradation. As a result it has been excluded from the observations since then. This has significantly effected the stratospheric data. Efforts are being made to rectify this problem and we hope to be able to carry out reruns within a few weeks. Sorry for the inconvenience. In addition to the NOAA-16 problems we have realised that we have been failing to use NOAA-17 observations, which is why the impact of NOAA-16 failing was so severe. We hope to begin using the NOAA-17 observations operationally today, and reruns should follow.\u0026#34; BADC Support 27th November 2002",
         
         
@@ -14471,10 +15892,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 563,
         href: "/news/updates/2002/2002-02-27-met-office-stratospheric-data-now-using-operh-ide/",
-        title: "Met Office Stratospheric Data - now using OPERH identifiers",
+        title: "Met Office Stratospheric Data ...",
         description: " Met Office Stratospheric Data - now using OPERH identifiers ============================================================ The Middle Atmosphere Group at the Met Office has changed the data assimilation model to include a bug fix that corrects a persistent singularity over the South Pole in the stratosphere. It is only a minor change, but as of yesterday\u0026#39;s (26 Feb 2002) 12Z run, the assimilation identifier has been changed from OPERG to OPERH (e.g. ppassm_operh_y02_m02_d26_h12.pp ) If you require any more details on this change, please contact the BADC in a first instance. Thank You. BADC Support 27th February 2002",
         
         
@@ -14485,16 +15909,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 564,
         href: "/news/updates/2004/2004-01-07-met-office-wind-profiler-data-is-now-available-fr/",
-        title: "Met Office Wind Profiler data is now available from the BADC.",
+        title: "Met Office Wind Profiler data ...",
         description: " Met Office Wind Profiler data is now available from the BADC. ============================================================================== In the late 1990\u0026#39;s The Met Office purchased four boundary-layer wind-profilers (nominally 1 GHz), from Radian. The instruments are located at Camborne, Dunkeswell and Wattisham. The fourth was operated at the NERC MST Radar site at Capel Dewi, near Aberystwyth between November 1999 and March 2002; it has now been relocated to South Uist. Data from these instruments is now available at the BADC for the following dates: Camborne from 1998 to 2002, Dunkeswell from 1999 to 2002, and Wattisham from 2001 to 2002. Data from the fourth wind-profiler when it was located at Aberystwyth is also available. More information about the wind profiler data held at the BADC can be found at: \u0026lt;http://badc.nerc.ac.uk/data/ukmo-wind-prof/\u0026gt; BADC Support 07th January 2004",
         
         
         content: "Met Office Wind Profiler data is now available from the BADC. ============================================================================== In the late 1990\u0026#39;s The Met Office purchased four boundary-layer wind-profilers (nominally 1 GHz), from Radian. The instruments are located at Camborne, Dunkeswell and Wattisham. The fourth was operated at the NERC MST Radar site at Capel Dewi, near Aberystwyth between November 1999 and March 2002; it has now been relocated to South Uist. Data from these instruments is now available at the BADC for the following dates: Camborne from 1998 to 2002, Dunkeswell from 1999 to 2002, and Wattisham from 2001 to 2002. Data from the fourth wind-profiler when it was located at Aberystwyth is also available. More information about the wind profiler data held at the BADC can be found at: \u0026lt;http://badc.nerc.ac.uk/data/ukmo-wind-prof/\u0026gt; BADC Support 07th January 2004"
       })
       .add(
+      
       
       
       
@@ -14513,6 +15941,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 566,
         href: "/news/updates/2011/2011-03-17-midas-data-2011-updates-delayed/",
@@ -14527,10 +15956,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 567,
         href: "/news/updates/2019/2019-11-04-midas-open-version-201908-released-more-uk-weather-station-data-added/",
-        title: "MIDAS Open version 201908 released More UK weather station data added",
+        title: "MIDAS Open version 201908 rele...",
         description: "Earlier this year the Met Office released the “ MIDAS Open\u0026nbsp; ” dataset, a publically available version of the popular, but restricted, Met Office Integrated Data Archive System ( MIDAS\u0026nbsp; ) Land and Marine Surface Stations dataset. Thanks to the efforts of the MIDAS Open team at the Met Office\u0026nbsp; we’ve now published an updated version of MIDAS Open, bringing in new data for 2018 and updates for some existing years too. Though aimed at being of interest to everyone, we anticipate these new data\u0026nbsp; will be particularly useful for service providers or members of the public who have previously been unable to use the restricted MIDAS dataset.\n",
         
         
@@ -14541,10 +15973,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 568,
         href: "/news/updates/2020/2020-10-21-midas-open-version-202007-released-more-uk-weather-station-data-added/",
-        title: "MIDAS Open version 202007 released More UK weather station data added",
+        title: "MIDAS Open version 202007 rele...",
         description: "Last year the Met Office released the “ MIDAS Open\u0026nbsp; ” dataset, a publically available version of the popular, but restricted, Met Office Integrated Data Archive System ( MIDAS\u0026nbsp; ) Land and Marine Surface Stations dataset. Thanks to the efforts of the MIDAS Open team at the Met Office\u0026nbsp; we’ve now published an updated version of MIDAS Open, bringing in new data for 2019 and updates for some existing years too. Though aimed at being of interest to everyone, we anticipate these new data\u0026nbsp; will be particularly useful for service providers or members of the public who have previously been unable to use the restricted MIDAS dataset.\n",
         
         
@@ -14555,10 +15990,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 569,
         href: "/news/updates/2019/2019-10-01-migration-of-jasmin-virtual-machines-how-will-this-affect-you/",
-        title: "Migration of JASMIN virtual machines - how will this affect you?",
+        title: "Migration of JASMIN virtual ma...",
         description: "RHEL6 virtual machines to be migrated to CentOS7\nCurrently, many CEDA and JASMIN services are hosted using virtual machines (VMs) which run on RedHat Enterprise Linux 6 (RHEL6). These will soon need to be migrated to VMs based on the CentOS7 operating system. This is because:\n",
         
         
@@ -14569,16 +16007,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 570,
         href: "/news/updates/2023/2023-10-03-minor-power-issue-affected-some-lotus-jobs/",
-        title: "Minor power issue affected some LOTUS jobs.",
+        title: "Minor power issue affected som...",
         description: "Dear Users\nA minor power issue yesterday evening resulted in a number of LOTUS hosts rebooting. This will have affected any jobs running on those hosts. The hosts have now been returned to the queues.\n",
         
         
         content: "Dear Users\nA minor power issue yesterday evening resulted in a number of LOTUS hosts rebooting. This will have affected any jobs running on those hosts. The hosts have now been returned to the queues.\nApologies for any inconvenience caused.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -14597,6 +16039,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 572,
         href: "/projects/mohc-data-pipeline/",
@@ -14611,10 +16054,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 573,
         href: "/news/updates/2000/2000-04-01-monthly-public-release-of-acsoe-data-sets-c-130-o/",
-        title: "Monthly   public release of ACSOE data sets (C-130, ozone profiles)",
+        title: "Monthly   public release of AC...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE project have been released to the public domain: * C-130 data from 1997; * ozone profile data (OZPROF) collected in September 1997. Data directores: * [/badc/acsoe/data/c-130/97/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/c-130/97/) * [/badc/acsoe/data/ozprof/aberystwyth/97/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/97/) ______________ Anne De Rudder 1/4/2000",
         
         
@@ -14625,10 +16071,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 574,
         href: "/news/updates/2000/2000-02-01-monthly-public-release-of-acsoe-data-sets-eae-eas/",
-        title: "Monthly   public release of ACSOE data sets (EAE, EASE, ozone profiles)",
+        title: "Monthly   public release of AC...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE project have been released to the public domain: * the EAE (-96 and -97) data; * the EASE (-96 and -97) data; * ozone profile data (OZPROF) collected in July 1997. Data directories: * [/badc/acsoe/data/eae-96/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/eae-96/) * [/badc/acsoe/data/eae-97/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/eae-97/) * [/badc/acsoe/data/ease-96/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ease-96/) * [/badc/acsoe/data/ease-97/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ease-97/) * [/badc/acsoe/data/ozprof/aberystwyth/97/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/97/) ______________ Anne De Rudder 1/2/2000",
         
         
@@ -14639,10 +16088,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 575,
         href: "/news/updates/2000/2000-11-01-monthly-public-release-of-acsoe-data-sets-freetex/",
-        title: "Monthly   public release of ACSOE data sets (FREETEX, OZPROF)",
+        title: "Monthly   public release of AC...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE project have been released to the public domain: * data from the FREETEX campaign of 1996 (FREETEX-96); * data from the FREETEX campaign of 1998 (FREETEX-98); * ozone profiles (OZPROF) collected in April 1998. Data directories: * [/badc/acsoe/data/freetex-96/jungfrau/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/freetex-96/jungfrau/) * [/badc/acsoe/data/freetex-98/jungfrau/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/freetex-98/jungfrau/) * [/badc/acsoe/data/ozprof/aberystwyth/98/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/98/) ______________ BADC Support 1/11/2000",
         
         
@@ -14653,10 +16105,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 576,
         href: "/news/updates/2000/2000-08-01-monthly-public-release-of-acsoe-data-sets-ozone-p/",
-        title: "Monthly   public release of ACSOE data sets (ozone profiles, HILLCLOUD)",
+        title: "Monthly   public release of AC...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE project have been released to the public domain: * ozone profile data (OZPROF) collected in December 1997 and January 1998; * data from the HILLCLOUD campaigns of June-July 1996 and June-July 1997. Data directories: * [/badc/acsoe/data/ozprof/aberystwyth/97/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/97/) * [/badc/acsoe/data/ozprof/aberystwyth/98/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/98/) * [/badc/acsoe/data/hillcloud-96/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/hillcloud-96/) * [/badc/acsoe/data/hillcloud-97/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/hillcloud-97/) ______________ BADC Support 1/8/2000",
         
         
@@ -14667,10 +16122,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 577,
         href: "/news/updates/2000/2000-10-02-monthly-public-release-of-acsoe-data-sets-ozone-p/",
-        title: "Monthly   public release of ACSOE data sets (ozone profiles)",
+        title: "Monthly   public release of AC...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE project have been released to the public domain: * ozone profile data (OZPROF) collected in March 1998. Data directory: [/badc/acsoe/data/ozprof/aberystwyth/98/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/98/) ______________ BADC Support 2/10/2000",
         
         
@@ -14681,10 +16139,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 578,
         href: "/news/updates/2000/2000-09-01-monthly-public-release-of-acsoe-data-sets-ozone-p/",
-        title: "Monthly   public release of ACSOE data sets (ozone profiles)",
+        title: "Monthly   public release of AC...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE project have been released to the public domain: * ozone profile data (OZPROF) collected in February 1998. Data directory: [/badc/acsoe/data/ozprof/aberystwyth/98/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/98/) ______________ BADC Support 1/9/2000",
         
         
@@ -14695,10 +16156,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 579,
         href: "/news/updates/2000/2000-06-05-monthly-public-release-of-acsoe-data-sets-ozone-p/",
-        title: "Monthly   public release of ACSOE data sets (ozone profiles)",
+        title: "Monthly   public release of AC...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE project have been released to the public domain: * ozone profile data (OZPROF) collected in November 1997. Data directory: * [/badc/acsoe/data/ozprof/aberystwyth/97/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/97/) ______________ BADC Support 5/6/2000",
         
         
@@ -14709,10 +16173,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 580,
         href: "/news/updates/2000/2000-05-02-monthly-public-release-of-acsoe-data-sets-ozone-p/",
-        title: "Monthly   public release of ACSOE data sets (ozone profiles)",
+        title: "Monthly   public release of AC...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE project have been released to the public domain: * ozone profile data (OZPROF) collected in October 1997. Data directory: * [/badc/acsoe/data/ozprof/aberystwyth/97/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/97/) ______________ BADC Support 2/5/2000",
         
         
@@ -14723,10 +16190,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 581,
         href: "/news/updates/2000/2000-03-01-monthly-public-release-of-acsoe-data-sets-ozone-p/",
-        title: "Monthly   public release of ACSOE data sets (ozone profiles)",
+        title: "Monthly   public release of AC...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE project have been released to the public domain: * ozone profile data (OZPROF) collected in August 1997. Data directory: * [/badc/acsoe/data/ozprof/aberystwyth/97/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/97/) ______________ Anne De Rudder 1/3/2000",
         
         
@@ -14737,10 +16207,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 582,
         href: "/news/updates/2001/2001-04-30-monthly-public-release-of-acsoe-data-sets-ozprof/",
-        title: "Monthly   public release of ACSOE data sets (OZPROF)",
+        title: "Monthly   public release of AC...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE project have been released to the public domain: * ozone profiles (OZPROF) collected in October 1998. Data directory: * [/badc/acsoe/data/ozprof/aberystwyth/98/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/98/) ______________ BADC Support 30/4/2001",
         
         
@@ -14751,10 +16224,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 583,
         href: "/news/updates/2001/2001-03-15-monthly-public-release-of-acsoe-data-sets-ozprof/",
-        title: "Monthly   public release of ACSOE data sets (OZPROF)",
+        title: "Monthly   public release of AC...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE project have been released to the public domain: * ozone profiles (OZPROF) collected in September 1998. Data directory: * [/badc/acsoe/data/ozprof/aberystwyth/98/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/98/) ______________ BADC Support 15/3/2001",
         
         
@@ -14765,10 +16241,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 584,
         href: "/news/updates/2001/2001-03-02-monthly-public-release-of-acsoe-data-sets-ozprof/",
-        title: "Monthly   public release of ACSOE data sets (OZPROF)",
+        title: "Monthly   public release of AC...",
         description: " ACSOE data monthly release ========================== Some data archived in the framework of the ACSOE project have been released to the public domain: * ozone profiles (OZPROF) collected in August 1998. Data directory: * [/badc/acsoe/data/ozprof/aberystwyth/98/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/98/) ______________ BADC Support 2/3/2001",
         
         
@@ -14779,10 +16258,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 585,
         href: "/news/updates/2006/2006-02-23-msg-satellite-images-now-available-at-badc/",
-        title: "MSG Satellite Images now available at BADC",
+        title: "MSG Satellite Images now avail...",
         description: "Images from the EUMETSAT Meteosat Second Generation (MSG1) satellite (renamed Meteosat 8) obtained from the Met Office are now archived at the BADC. These include:\n",
         
         
@@ -14793,10 +16275,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 586,
         href: "/news/updates/2003/2003-02-19-my-badc-data-catalogues-registration-system-tempo/",
-        title: "My BADC, Data catalogues, registration system temporarily unavailable",
+        title: "My BADC, Data catalogues, regi...",
         description: "Due to technical difficulties, the following BADC Services are temporarily not available:\nMy BADC New user registration and application for access to restricted datasets Search for dataset facility As an alternative, please use the Dataset Dataset Index. . Please note that the link to Catalogue Record is however not available due to the same problems. Search for Met Office Station details facility. For the time being, please use the link to List of Station names and numbers. Who\u0026rsquo;s who facility Access to the following datasets is currently not possible: CLAES-L3 ECMWF-ERA ECMWF-FOR ECMWF-TRJ LIMS METEOSAT NDSC SAMS TOMS UARS UKMO-CLIMOD UKMO-PUM All other services and access to datasets not listed above should be operational as usual.\n",
         
         
@@ -14807,10 +16292,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 587,
         href: "/news/updates/2021/2021-06-22-my-path-into-software-engineering/",
-        title: "My path into Software Engineering - Elle Smith",
+        title: "My path into Software Engineer...",
         description: "Hi! I’m Elle Smith and I’m a Software Engineer at the Centre for Environmental Data Analysis (CEDA). The first time I started to code was in my first year of university, where I was studying physics. We had a whole module learning how to apply our programming skills to solve physics-based problems. I hated this module, I felt like I never really knew what was going on, but I stuck with it. As time went on and I practiced, I started to enjoy this work more and more, although I still never considered that software engineering would be something I would pursue.\n",
         
         
@@ -14821,10 +16309,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 588,
         href: "/news/updates/2010/2010-06-17-my-requested-data-area-and-data-extractor-service/",
-        title: "My requested data area and Data Extractor service not available",
+        title: "My requested data area and Dat...",
         description: "Due to problems with one of our servers, \u0026ldquo;My requested data\u0026rdquo; directory which can usually be accessed via My BADC webpage, is currently not available. This is unfortunately also affecting the Data Extractor Service.\n",
         
         
@@ -14835,10 +16326,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 589,
         href: "/news/updates/2009/2009-12-12-my-requested-data-directory-and-data-extractor-se/",
-        title: "My requested data directory and Data Extractor service not available",
+        title: "My requested data directory an...",
         description: "Due to problems with one of our servers, \u0026ldquo;My requested data\u0026rdquo; directory which can usually be accessed via My BADC webpage, is currently not available. This is unfortunately also affecting the Data Extractor Service.\n",
         
         
@@ -14849,10 +16343,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 590,
         href: "/news/updates/2002/2002-01-17-nasa-unveils-new-natural-hazards-web-site/",
-        title: "NASA unveils new 'NATURAL HAZARDS' web site",
+        title: "NASA unveils new 'NATURAL HAZA...",
         description: " January 16, 2002 NASA UNVEILS NEW \u0026#39;NATURAL HAZARDS\u0026#39; WEB SITE NASA unveiled a new Web site today in which it publishes satellite images in near real time over natural hazards around the world. A new addition to NASA\u0026#39;s Earth Observatory, [the Natural Hazards section](http://earthobservatory.nasa.gov/NaturalHazards/), contains images and information about major environmental events that are potentially hazardous to human populations. Initially, the Earth Observatory team will track five categories of natural hazards: wildfires, severe storms, floods, volcanic eruptions, and major air pollution events (dust storms, smog, and smoke). The images-acquired by NASA Earth Science Enterprise and Earth Observing System (EOS) satellite missions-are freely available to the public as well as news media. \u0026#34;We are pleased to be able to share these spectacular new images with the world in a timely manner,\u0026#34; said Michael King, EOS senior project scientist at NASA\u0026#39;s Goddard Space Flight Center. \u0026#34;We are often able to publish these images within a matter of hours after they are acquired by the satellite sensors.\u0026#34; \u0026#34;We believe the combination of high quality and moderate to high resolution of the scenes we publish demonstrates the significant technological advancements NASA has made in the design of satellite remote sensors,\u0026#34; King continued. \u0026#34;We hope the public finds the images informative as well as useful for educational purposes.\u0026#34; Earth scientists around the world use NASA satellite imagery to better understand the causes and effects of natural hazards. The goal in sharing these new images in the Earth Observatory is to help people visualize where and when natural hazards occur, and to possibly help mitigate their effects. There are plans to expand the section\u0026#39;s scope to include other types of natural hazards information, such as earthquakes, coastal erosion, and landslides. The Earth Observatory is managed by the EOS Project Science Office, and funded by NASA\u0026#39;s Earth Science Enterprise. The Earth Science Enterprise is a long-term research program dedicated to understanding how human-induced and natural changes affect our global environment. -- Dave Olsen, EOS Webmaster Science Systems and Applications, Inc. Seabrook, MD 20706 Phone: 301-867-2032 [-- Earth Observatory](http://earthobservatory.nasa.gov/) [-- Visible Earth](http://visibleearth.nasa.gov/) [-- NASA\u0026#39;s Earth Observing System Project Science Office](http://eospso.gsfc.nasa.gov/) [-- GSFC\u0026#39;s Web Resource List](http://thelist.gsfc.nasa.gov/)",
         
         
@@ -14863,16 +16360,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 591,
         href: "/news/updates/2007/2007-09-06-national-database-of-atmospheric-and-weather-data/",
-        title: "National database of atmospheric and weather data tops 10,000 users",
+        title: "National database of atmospher...",
         description: " News Release - Monday 3rd September 2007 A scientist studying amphibians is the ten thousandth user to access a national database of weather and atmospheric measurements. Kerry Murton from Cardiff University\u0026rsquo;s Llysdinam Field Centre has been investigating the affect of climate change on the timing of events in the lifecycle of newts. Kerry is using data from the British Atmospheric Data Centre (BADC) at the Science and Technology Facilities Council\u0026rsquo;s (STFC) Rutherford Appleton Laboratory. Kerry Murton checking pitfall traps Phenology is the timing of events in the life cycle, eg migration or breeding, and in the amphibian life cycle phenology it is largely driven by factors such as moisture and temperature. For her PhD Kerry is conducting a site-specific study at Llysdinam Pond on newt migration, courtship behaviour, egg laying and larval development. She is also contributing to a long term dataset on newt movements to and from the pond. Newt migrations at Llysdinam have been monitored since 1980 when the pond was encircled with a drift fence and pitfall traps enabling daily monitoring of the numbers of newts entering and exiting the pond. A male smooth newt Kerry will be accessing the BADC to get the UK\u0026rsquo;s Meteorological Office rainfall and temperature data for her local weather station which was established at Llysdinam, mid Wales, in 1988. The weather data will be matched to the records of newly metamorphosed juvenile newts, \u0026rsquo;efts\u0026rsquo; leaving the pond annually. One aim is to investigate how the number of \u0026rsquo;efts\u0026rsquo; leaving the pond over the past 26 years varies with recorded temperature and rainfall data to determine which conditions are more favourable to them. In addition, newt courtship surveys and egg laying data will be analysed against the weather data. Torchlight surveys for the newt courtship dance were carried out regularly each week and data on newt egg laying over the season were collected. Previous research on adult newt migrations to the pond found a change in the timing of arrival over the years. Milder spring temperatures have resulted in first arrival dates being five weeks earlier than in the 1980s, with male palmate newts arriving increasingly earlier than the other groups. Kerry said, \u0026ldquo;In my research I aim to find out what the consequences of this earlier arrival are for courtship timing and egg laying and ultimately breeding success. The ability of animals and plants to adapt to climate change will have a large impact on the biodiversity of the UK\u0026rdquo;. The number of adult newts breeding at the pond varies annually, with between 1500 and 3500 newts arriving at the pond each year. The project focuses on palmate newts Triturus helveticus and smooth newts T. vulgaris, although small populations of great crested newts T. cristatus, common toads Bufo bufo and common frogs Rana temporaria also breed at the pond. Although the smooth newt is more widely distributed in the UK, the smaller palmate newt is more common in Wales and makes up 75% of the population at Llysdinam pond. The BADC, hosted by STFC Rutherford Appleton Laboratory (RAL) in Oxfordshire, is the Natural Environment Research Council\u0026rsquo;s (NERC) designated data centre for atmospheric sciences, and is part of the National Centre for Atmospheric Science. It holds many atmospheric datasets totalling more than a 100 Terabytes of data in over 80 million files, from a variety of sources, including satellites, balloons, aircraft, computer models of the atmosphere and ground-based instruments. The data are accessible free to non-commercial research projects through the BADC website. Dr Sam Pepler, who manages the Data Centre at RAL says, \u0026ldquo;We have many users researching a diverse range of subjects including climate change and its impact on ecology and water resources, through to medical research and social issues, like housing. NERC values the data it produces and ensures that access is provided to as many different researchers as possible and that the data is kept for posterity.\u0026rdquo; The role of the BADC is to assist UK atmospheric researchers to locate, access and interpret atmospheric data and to ensure the long-term integrity of atmospheric data produced by NERC projects. The BADC is part of the National Centre for Atmospheric Science (NCAS). NCAS is a NERC established collaborative centre, which supports the national capability in atmospheric science research. Further information from : Dr Sam Pepler, BADC manager, RAL, Tel: 01235 44 6538 Miss Kerry Murton - Llysdinam Field Centre, (part of the School of Biosciences, Cardiff University) Tel: + 44 (0)1597 860308 Website\u0026nbsp; Mrs Natalie Bealing, STFC Press Officer, Tel: 01235 44 6482\n",
         
         
         content: "News Release - Monday 3rd September 2007 A scientist studying amphibians is the ten thousandth user to access a national database of weather and atmospheric measurements. Kerry Murton from Cardiff University\u0026rsquo;s Llysdinam Field Centre has been investigating the affect of climate change on the timing of events in the lifecycle of newts. Kerry is using data from the British Atmospheric Data Centre (BADC) at the Science and Technology Facilities Council\u0026rsquo;s (STFC) Rutherford Appleton Laboratory. Kerry Murton checking pitfall traps Phenology is the timing of events in the life cycle, eg migration or breeding, and in the amphibian life cycle phenology it is largely driven by factors such as moisture and temperature. For her PhD Kerry is conducting a site-specific study at Llysdinam Pond on newt migration, courtship behaviour, egg laying and larval development. She is also contributing to a long term dataset on newt movements to and from the pond. Newt migrations at Llysdinam have been monitored since 1980 when the pond was encircled with a drift fence and pitfall traps enabling daily monitoring of the numbers of newts entering and exiting the pond. A male smooth newt Kerry will be accessing the BADC to get the UK\u0026rsquo;s Meteorological Office rainfall and temperature data for her local weather station which was established at Llysdinam, mid Wales, in 1988. The weather data will be matched to the records of newly metamorphosed juvenile newts, \u0026rsquo;efts\u0026rsquo; leaving the pond annually. One aim is to investigate how the number of \u0026rsquo;efts\u0026rsquo; leaving the pond over the past 26 years varies with recorded temperature and rainfall data to determine which conditions are more favourable to them. In addition, newt courtship surveys and egg laying data will be analysed against the weather data. Torchlight surveys for the newt courtship dance were carried out regularly each week and data on newt egg laying over the season were collected. Previous research on adult newt migrations to the pond found a change in the timing of arrival over the years. Milder spring temperatures have resulted in first arrival dates being five weeks earlier than in the 1980s, with male palmate newts arriving increasingly earlier than the other groups. Kerry said, \u0026ldquo;In my research I aim to find out what the consequences of this earlier arrival are for courtship timing and egg laying and ultimately breeding success. The ability of animals and plants to adapt to climate change will have a large impact on the biodiversity of the UK\u0026rdquo;. The number of adult newts breeding at the pond varies annually, with between 1500 and 3500 newts arriving at the pond each year. The project focuses on palmate newts Triturus helveticus and smooth newts T. vulgaris, although small populations of great crested newts T. cristatus, common toads Bufo bufo and common frogs Rana temporaria also breed at the pond. Although the smooth newt is more widely distributed in the UK, the smaller palmate newt is more common in Wales and makes up 75% of the population at Llysdinam pond. The BADC, hosted by STFC Rutherford Appleton Laboratory (RAL) in Oxfordshire, is the Natural Environment Research Council\u0026rsquo;s (NERC) designated data centre for atmospheric sciences, and is part of the National Centre for Atmospheric Science. It holds many atmospheric datasets totalling more than a 100 Terabytes of data in over 80 million files, from a variety of sources, including satellites, balloons, aircraft, computer models of the atmosphere and ground-based instruments. The data are accessible free to non-commercial research projects through the BADC website. Dr Sam Pepler, who manages the Data Centre at RAL says, \u0026ldquo;We have many users researching a diverse range of subjects including climate change and its impact on ecology and water resources, through to medical research and social issues, like housing. NERC values the data it produces and ensures that access is provided to as many different researchers as possible and that the data is kept for posterity.\u0026rdquo; The role of the BADC is to assist UK atmospheric researchers to locate, access and interpret atmospheric data and to ensure the long-term integrity of atmospheric data produced by NERC projects. The BADC is part of the National Centre for Atmospheric Science (NCAS). NCAS is a NERC established collaborative centre, which supports the national capability in atmospheric science research. Further information from : Dr Sam Pepler, BADC manager, RAL, Tel: 01235 44 6538 Miss Kerry Murton - Llysdinam Field Centre, (part of the School of Biosciences, Cardiff University) Tel: + 44 (0)1597 860308 Website\u0026nbsp; Mrs Natalie Bealing, STFC Press Officer, Tel: 01235 44 6482"
       })
       .add(
+      
       
       
       
@@ -14891,10 +16392,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 593,
         href: "/news/updates/2023/2023-04-27-near-line-archive-nla-unavailable-from-27th-april/",
-        title: "Near-line archive (NLA) unavailable from 27th April.",
+        title: "Near-line archive (NLA) unavai...",
         description: "Dear Users\nDue to problems arising from the JASMIN maintenance day on Tuesday 25th April, the Near-line Archive (NLA) remains unavailable. We are working hard to remedy this, but it is likely that the NLA will not be available until after the bank holiday weekend, 2nd May at the earliest.\n",
         
         
@@ -14905,10 +16409,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 594,
         href: "/news/updates/2010/2010-05-04-neodc-closure-during-christmas-and-new-year-200809/",
-        title: "NEODC Closure during Christmas and New Year 2008/09",
+        title: "NEODC Closure during Christmas...",
         description: "The NEODC helpdesk will be unavailable from Wednesday 24th December 2008 to 4th January 2009.\nAll queries received in this period will be answered as soon as possible on our return on 5th January.\n",
         
         
@@ -14919,10 +16426,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 595,
         href: "/news/updates/2010/2010-02-05-neodc-closure-during-christmas-and-new-year-200910/",
-        title: "NEODC Closure during Christmas and New Year 2009/10",
+        title: "NEODC Closure during Christmas...",
         description: "The NEODC helpdesk will be unavailable from Thursday 24th December 2009 to 4th January 2010. All queries received in this period will be answered as soon as possible on our return.\n",
         
         
@@ -14933,10 +16443,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 596,
         href: "/news/updates/2010/2010-12-20-neodc-closure-during-christmas-and-new-year-201011/",
-        title: "NEODC Closure during Christmas and New Year 2010/11",
+        title: "NEODC Closure during Christmas...",
         description: "The NEODC helpdesk will be unavailable from Friday 24th December 2010 to Tuesday 4th January 2011. All queries received in this period will be answered as soon as possible on our return.\n",
         
         
@@ -14947,10 +16460,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 597,
         href: "/news/updates/2010/2010-05-05-neodc-service-disruption-13-15-july/",
-        title: "NEODC Service Disruption 13-15 July",
+        title: "NEODC Service Disruption 13-15...",
         description: "Due to essential maintenance work at RAL, disruption to NEODC services can be expected on from Friday 13th July (afternoon) to Sunday 15th July (evening)\n",
         
         
@@ -14961,16 +16477,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 598,
         href: "/news/updates/2010/2010-05-05-neodc-services-affected-by-network-problems/",
-        title: "NEODC services affected by network problems",
+        title: "NEODC services affected by net...",
         description: "Following the recent power outage, network services with RAL have been severely damaged and are not yet back to normal. Some NEODC services are still not available, and the rest must be considered at risk until further notice.\n",
         
         
         content: "Following the recent power outage, network services with RAL have been severely damaged and are not yet back to normal. Some NEODC services are still not available, and the rest must be considered at risk until further notice.\nWe apologise for the inconvenience caused, which is out of our control.\nNEODC Team 10/11/2008"
       })
       .add(
+      
       
       
       
@@ -14989,10 +16509,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 600,
         href: "/news/updates/2010/2010-05-05-neodc-user-database-interruption-monday-23rd-april/",
-        title: "NEODC user database interruption Monday 23rd April",
+        title: "NEODC user database interrupti...",
         description: "The user database system for NEODC and BADC will be upgraded on Monday morning 23rd April. During this time users will be unable to register with NEODC/BADC, apply for datasets or update their details. Full service is expected to be resumed by lunchtime. We apologise in advance for the inconvenience.\n",
         
         
@@ -15003,10 +16526,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 601,
         href: "/news/updates/2010/2010-05-04-neodc-website-and-services-affected-by-scheduled-/",
-        title: "NEODC Website and services affected by scheduled network outage",
+        title: "NEODC Website and services aff...",
         description: "On July 7th 2009 between 7-10am, the operating software on the Rutherford Appleton Laboratory site core routers will be upgraded. As a result, the NEODC site and services will be affected.\n",
         
         
@@ -15017,10 +16543,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 602,
         href: "/news/updates/2010/2010-05-04-neodc-website-and-services-heavy-network-traffic-/",
-        title: "NEODC Website and services heavy network traffic expected.",
+        title: "NEODC Website and services hea...",
         description: "Due to public interest in the launch of the UK Climate Projections service on 18th June heavy network load is expected on the RAL network and may lead to some delay on the NEODC website and services.\n",
         
         
@@ -15031,10 +16560,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 603,
         href: "/news/updates/2010/2010-05-04-nerc-arsf-announcement-of-opportunity/",
-        title: "NERC ARSF Announcement of  Opportunity",
+        title: "NERC ARSF Announcement of  Opp...",
         description: "The Announcements of Opportunity for the NERC Airborne Research and Survey Facility ( ARSF\u0026nbsp; ) for UK and Europe, and Greece and Eastern Mediterranean 2010 flying season have been issued. The Airborne Research \u0026amp; Survey Facility (ARSF) invites direct access applications for UK and European, and Greece and Eastern Mediterranean flying in the 2010 season. The Natural Environment Research Council will provide flying time and data processing for approved projects, at no cost to the applicant. Eligible persons wishing to use the Facility in the 2010 Season are invited to submit detailed proposals, including a supporting scientific case, by Friday 9 October 2009. Please note that only the latest application form and guidance notes should be used.\n",
         
         
@@ -15045,16 +16577,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 604,
         href: "/news/updates/2010/2010-10-19-nerc-environmental-data-centres-do-they-meet-your/",
-        title: "NERC Environmental Data Centres do they meet your needs?",
+        title: "NERC Environmental Data Centre...",
         description: "The Earth is relentlessly changing. Tracing and understanding past environmental change plays an important role in the prediction of future environmental change. The data held by Natural Environment Research Council (NERC) consists of historical records accumulated over decades that provide a valuable resource to support research, survey and monitoring activities and for users in academia, government, the public sector, industry and commerce. The NERC data centres ( www.nerc.ac.uk/research/sites/data/\u0026nbsp; ) are responsible for the long-term management of data and provide access to NERC\u0026rsquo;s data holdings. They also provide support and guidance in data management to NERC funded researchers.\n",
         
         
         content: "The Earth is relentlessly changing. Tracing and understanding past environmental change plays an important role in the prediction of future environmental change. The data held by Natural Environment Research Council (NERC) consists of historical records accumulated over decades that provide a valuable resource to support research, survey and monitoring activities and for users in academia, government, the public sector, industry and commerce. The NERC data centres ( www.nerc.ac.uk/research/sites/data/\u0026nbsp; ) are responsible for the long-term management of data and provide access to NERC\u0026rsquo;s data holdings. They also provide support and guidance in data management to NERC funded researchers.\nThe NERC has recently launched a new Science Information Strategy ( www.nerc.ac.uk/research/sites/data/sis.asp)\u0026nbsp; . It has been created to provide the framework for NERC to work more closely and effectively with the scientific communities, both internal and external, in delivering data and information management services to support its five year science strategy, the Next Generation for Planet Earth ( www.nerc.ac.uk/about/strategy/ngscience.asp)\u0026nbsp; .\nA key part of working more closely and effectively with the scientific community is understanding the requirements and expectations of existing users, as well any barriers or obstacles that can prevent other people from becoming users. To this end NERC will be seeking the views of the wider community to discover if the activities of the NERC data centres are meeting their needs.\nThe views of existing and potential users are extremely valuable and we would ask that you take a 10 to 15 minutes to take part in the consultation. The result of the initial consultation will provide valuable information to help us plan for future developments and will be the foundation for further dialogue. The initial consultation is via means of an online questionnaire which will be available between the 15th October and the 19th November 2010. It can be found at:\nwww.nerc.ac.uk/research/sites/data/consultation\u0026nbsp; During the initial online questionnaire you will be asked to indicate if you would be willing to take part in a subsequent phone interviews, this is entirely voluntary.\nThe results of the study will be made available through the NERC website early 2011.\nMark Thorley and Jeremy Giles\nNatural Environment Research Council\nBADC Helpdesk 6th October 2010"
       })
       .add(
+      
       
       
       
@@ -15073,10 +16609,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 606,
         href: "/news/updates/2011/2011-07-21-network-and-server-problems-notice-of-affected-datasets/",
-        title: "Network and server problems - notice of affected datasets",
+        title: "Network and server problems - ...",
         description: "Following problems with network switch on site and system disk problems on one of data servers the following datasets are temporarily unavailable:\n",
         
         
@@ -15087,10 +16626,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 607,
         href: "/news/updates/2016/2016-10-07-network-maintenance-completed-successfully/",
-        title: "Network maintenance completed successfully!",
+        title: "Network maintenance completed ...",
         description: " Maintaining, upgrading and continually preparing for the future developments of world class data analysis infrastructure for the environmental research community is an essential part of CEDA\u0026rsquo;s ongoing service. This week saw the successful completion of a major system upgrade by our dedicated systems team, paving the way for the future of CEDA\u0026rsquo;s JASMIN infrastrucutre.\n",
         
         
@@ -15101,10 +16643,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 608,
         href: "/news/updates/2019/2019-07-02-network-maintenance-saturday-6th-july/",
-        title: "Network maintenance Saturday 6th July",
+        title: "Network maintenance Saturday 6...",
         description: "JANET and STFC networking have announced maintenance work on the RAL site primary network link on Saturday. This will likely affect the JASMIN private networks (OPNs) to MetOffice , Archer and Leeds. The disruption will involve breaks of up to an hour on Saturday morning.\n",
         
         
@@ -15115,10 +16660,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 609,
         href: "/news/updates/2017/2017-02-08-new-jasmin-accounts-portal-launched/",
-        title: "NEW  - JASMIN Accounts Portal launched!",
+        title: "NEW  - JASMIN Accounts Portal ...",
         description: "We are pleased to announce the successful rollout of the new JASMIN Accounts Portal this morning. The new portal should be accessible at https://accounts.jasmin.ac.uk\u0026nbsp; .\n",
         
         
@@ -15129,10 +16677,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 610,
         href: "/news/updates/2017/2017-11-13-new-ceda-data-catalogue-beta-search-archive-catalogue-links/",
-        title: "NEW - CEDA Data Catalogue beta Search + archive-catalogue links",
+        title: "NEW - CEDA Data Catalogue beta...",
         description: "Last week CEDA rolled out some new features to help CEDA archive users to find datasets in the CEDA archive and link back to additional information.\n",
         
         
@@ -15143,10 +16694,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 611,
         href: "/news/updates/2003/2003-09-11-new-cdat-and-grads-web-pages-at-badc/",
-        title: "New CDAT and GrADS web pages at BADC",
+        title: "New CDAT and GrADS web pages a...",
         description: " The BADC help pages now includes a description and tutorial of two software packages used extensively in the atmospheric sciences: * **CDAT** - see \u0026lt;http://badc.nerc.ac.uk/help/software/cdat/\u0026gt; * **GrADS** - see \u0026lt;http://badc.nerc.ac.uk/help/software/grads/\u0026gt; We have also made a GrADS/GRIB interface page which is relevant to all users of our datasets held in GRIB format. This is located at: \u0026lt;http://badc.nerc.ac.uk/help/software/grads/grads-grib.html\u0026gt; Climate Data Analysis Tools (CDAT) is a freely available software infrastructure used for analysis, manipulation and plotting of atmospheric science (and other) data. It is designed for gridded datasets but can also cope with other types. Below are some key features of CDAT: * the software is open-source, consisting of a collection of Python modules. * available for multiple platforms (but not Windows). * a choice of interfaces: command-line, scripting or graphical user-interface (Visual CDAT (VCDAT)). * an XML-based format and tools for aggregating large datasets. * manipulation of large data arrays possible due to use of Python *Numeric* package. * interfaces to external packages such as the Live Access Server (LAS) for web-based access to datasets.\u0026lt; /LI\u0026gt; Grid Analysis and Display System (GrADS) is a freely available package used for analysis, manipulation and plotting of earth science data. It is designed for gridded datasets but can also cope with station data. Below are some key features of GrADS: * available for multiple platforms as an executable (including Windows). * accessible by both a command-line and scripting interface. * support for multiple common data formats. * significant support for user-defined plotting. * manipulation of large 4-D datasets. * a rich set of built-in functions for data manipulation. Ag Stephens, BADC, 11th September 2003",
         
         
@@ -15157,10 +16711,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 612,
         href: "/news/updates/2017/2017-03-02-new-ceda-download-service-successfully-launched/",
-        title: "New CEDA download service successfully launched",
+        title: "New CEDA download service succ...",
         description: "Yesterday CEDA rolled out a new, improved web download service, paving the way for improved usability of the CEDA Archive: available now at:\n",
         
         
@@ -15171,16 +16728,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 613,
         href: "/news/updates/2018/2018-05-24-new-ceda-privacy-and-cookie-notice-and-archive-terms-and-conditions/",
-        title: "New CEDA Privacy and Cookie Notice and Archive Terms and Conditions",
+        title: "New CEDA Privacy and Cookie No...",
         description: "A new CEDA Privacy and Cookie Notice, which users can view here\u0026nbsp; , has been released. This aims to give greater clarity on how CEDA holds and makes use of user information.\n",
         
         
         content: "A new CEDA Privacy and Cookie Notice, which users can view here\u0026nbsp; , has been released. This aims to give greater clarity on how CEDA holds and makes use of user information.\nAdditionally, an updated set of CEDA Archive service Terms and Conditions have been released and can be viewed here\u0026nbsp; .\nExisting and new CEDA users do not need to undertake any action, but if you are a data user, data provider or a dataset application authoriser you should read the new Terms and Conditions and let us know if you no longer wish to use your CEDA User account in line with these. Similarly, we would like to invite users to review their account details and update as necessary.\nPlease contact the CEDA Help Desk for any further assistance."
       })
       .add(
+      
       
       
       
@@ -15199,16 +16760,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 615,
         href: "/news/updates/2017/2017-04-21-new-dataset-esa-sentinel-3a-slstr-data/",
-        title: "New dataset ESA Sentinel 3A SLSTR data",
+        title: "New dataset ESA Sentinel 3A SL...",
         description: "CEDA are pleased to announce that Sentinel 3A SLSTR data are now available in our archive.\nFollowing the launch of Sentinel 3A in February 2016, as part of the European Commission’s Copernicus programme for monitoring the Earth from Space, CEDA have been obtaining these data to support research and applications within the UK’s Earth Observation communities.\n",
         
         
         content: "CEDA are pleased to announce that Sentinel 3A SLSTR data are now available in our archive.\nFollowing the launch of Sentinel 3A in February 2016, as part of the European Commission’s Copernicus programme for monitoring the Earth from Space, CEDA have been obtaining these data to support research and applications within the UK’s Earth Observation communities.\nThe Sentinel 3A Sea and Land Surface Temperature Radiometer (SLSTR) Level 1 RBT data are being mirrored on the CEDA archive from the ESA Data Hubs and are available for download or local access via the JASMIN infrastructure for large scale analysis\nThe CEDA archive already holds over 40TB of Sentinel 3A SLSTR products, from November 2016, and aims to have data available within 3 days of ESA releasing it. These data are open for access to anyone with a CEDA account.\nCEDA plans to make further products from Sentinel 3A available in the near future:\nOcean and Land Colour Instrument (OLCI) Top of Atmosphere (TOA) radiances at Full Resolution (EFR) Ocean and Land Colour Instrument (OLCI) Top of Atmosphere (TOA) radiances at Reduced Resolution (ERR) Synthetic Aperture Radar Altimeter (SRAL) Level 1 and Level 2 data For more information about this dataset and for access click here\u0026nbsp; . For further information on the Copernicus programme click here\u0026nbsp; . "
       })
       .add(
+      
       
       
       
@@ -15227,10 +16792,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 617,
         href: "/news/updates/2015/2015-09-10-new-dataset-met-office-lidarnet-ceilometers-network-cloud-base-and-backscatter-data/",
-        title: "New dataset Met Office LIDARNET Ceilometers network cloud base and backscatter data",
+        title: "New dataset Met Office LIDARNE...",
         description: "The Met Office have opened up their LIDARNET ceilometer data to allow the research community to access cloud height and backscatter data from a network of 47 lidars around the British Isles.\n",
         
         
@@ -15241,10 +16809,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 618,
         href: "/news/updates/2000/2000-09-26-new-download-ukmo-station-data-service/",
-        title: "New Download UKMO Station data Service",
+        title: "New Download UKMO Station data...",
         description: "The BADC has made available a new service allowing registered users to download selected UKMO surface station data from multiple stations and multiple years. To access this new service, proceed as follows:\n",
         
         
@@ -15255,10 +16826,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 619,
         href: "/news/updates/1996/1996-12-10-new-earth-probe-and-adeos-toms-images-available/",
-        title: "New Earth-Probe   and ADEOS TOMS images available",
+        title: "New Earth-Probe   and ADEOS TO...",
         description: "10th Dec. 1996: GIF images\u0026nbsp; of ADEOS and Earth-Probe TOMS are now being produced automatically on arrival of the data at the BADC. The full set of northern and southern hemisphere images for these data are available in the adeos and earthprobe subdirectories below /badc/toms/images/south (and /north).See: http://badc.nerc.ac.uk/data/toms/\u0026nbsp; ",
         
         
@@ -15269,10 +16843,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 620,
         href: "/news/updates/2004/2004-03-12-new-ecmwf-seasonal-forecast-hindcast-ensemble-dat/",
-        title: "New ECMWF Seasonal Forecast (hindcast) Ensemble dataset",
+        title: "New ECMWF Seasonal Forecast (h...",
         description: " New ECMWF Seasonal Forecast (hindcast) Ensemble dataset ======================================================= In support of the COAPEC Thematic Programme the BADC has extracted ECMWF Seasonal Forecast ensemble data. These data are also known as \u0026#34;Hindcasts\u0026#34; as they are forecasts run retrospectively. The dataset includes monthly means, maxima, minima and standard deviations for the available surface variables for the period 1987-2001 (with 2002 onwards currently being extracted). Atmospheric variables are only currently available as monthly means. There are 33 parameters held on surface or single levels including winds, temperatures, heat fluxes, radiation, precipitation and soil moisture. Geopotential, Temperature, Specific Humidity, Relative Vorticity and Divergence are available on pressure levels. The data is held on a regular 1.875 x 1.875 degree grid in GRIB format. For each month there are six forecast months archived, with 5 ensemble members for 10 months of the year, and 40 ensemble members in May and November of each year. The data is now available to BADC users as part of the main ECMWF Operational archive with documentation located at: \u0026lt;http://badc.nerc.ac.uk/data/ecmwf-op/seasonal_fcs.html\u0026gt; Further documentation on the seasonal forecasts is available at the following ECMWF links: \u0026lt;http://www.ecmwf.int/products/forecasts/seasonal/documentation\u0026gt; \u0026lt;http://www.ecmwf.int/publications/newsletters/pdf/98.pdf\u0026gt; BADC Support. 12th March 2004.",
         
         
@@ -15283,10 +16860,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 621,
         href: "/news/updates/2003/2003-04-16-new-hadisst-v11-dataset-released-to-badc-users/",
-        title: "New HadISST v1.1 dataset released to BADC users",
+        title: "New HadISST v1.1 dataset relea...",
         description: " The Met Office has now stopped updating GISST/GIICE datasets. HadISST 1.1 is the replacement product provided by the Hadley Centre at the The Met Office. It contains monthly long-term global gridded SST and sea ice analysis (1870 to present). This dataset was available from the Met Office as an historical dataset and is now being made operational (i.e. updated every month). HadISST has a different sea-ice analysis from GISST; as a consequence of this, the data will not be available until the 2nd of the month, 2 months afterwards (e.g. January\u0026#39;s data will become available in March). To find out more about this new dataset and access restrictions, please read through the [HadIsst dataset web pages](/data/hadisst/). BADC Support 16/04/03.",
         
         
@@ -15297,10 +16877,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 622,
         href: "/news/updates/2008/2008-09-17-new-hirdls-level-2-version-400-data-release-publi/",
-        title: "New HIRDLS level 2 version 4.00 data release publicly available",
+        title: "New HIRDLS level 2 version 4.0...",
         description: "The latest of level 2 data - version 4.00, (also known as v02-04-19), has now been released for public access and is available at BADC. This release adds three new data products (F11, F12 and aerosol extinction), and significantly enhances those previously available (T, O3, HNO3, Cloud tops). Each HIRDLS Level 2 data file contains one day\u0026rsquo;s worth of data.\n",
         
         
@@ -15311,10 +16894,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 623,
         href: "/news/updates/2010/2010-05-13-new-hirdls-level-2-version-500-data-now-at-badc/",
-        title: "New HIRDLS level 2 Version 5.00 data now at BADC",
+        title: "New HIRDLS level 2 Version 5.0...",
         description: "A new version of the HIRDLS level 2 data - version 5.00 - has been released and is now available at the BADC. 1000+ days of data are available for 2005-2007. Data quality documents are also included.\n",
         
         
@@ -15325,16 +16911,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 624,
         href: "/news/updates/2017/2017-01-27-new-jasmin-accounts-portal/",
-        title: "New JASMIN accounts portal planned for 8 Feb 2017",
+        title: "New JASMIN accounts portal pla...",
         description: "New JASMIN Accounts Portal: 8th February 2017\nCEDA has been developing a new portal for JASMIN/CEMS users to manage their accounts. This will bring greater clarity for current JASMIN/CEMS users and introduce new functionality for the management of Group Workspaces, Projects VMs and JASMIN Cloud tenancies.\n",
         
         
         content: "New JASMIN Accounts Portal: 8th February 2017\nCEDA has been developing a new portal for JASMIN/CEMS users to manage their accounts. This will bring greater clarity for current JASMIN/CEMS users and introduce new functionality for the management of Group Workspaces, Projects VMs and JASMIN Cloud tenancies.\nWe plan to launch this new service on 8th February. Both current and future JASMIN/CEMS users should read the following announcement to prepare for this change.\nWhy are we doing this? \u0026nbsp; JASMIN now offers several different types of service, including traditional batch compute (LOTUS), Group Workspaces, bespoke VMs and self-service cloud tenancies. In order to provide a clear separation between JASMIN services (access to compute and storage resources) and CEDA services (access to datasets in the CEDA archive), we are separating JASMIN accounts from CEDA accounts. The JASMIN Accounts Portal is where users will manage their new JASMIN accounts, and addresses a growing need for more advanced account management that goes beyond the present system that CEDA have employed to date. It will also allow us to support JASMIN users who do not need access to the CEDA archive, such as those who only need access to Group Workspaces or JASMIN Cloud tenancies.\nThe new system will:\nProvide a modern portal for users to manage their JASMIN accounts Streamline the process of applying for access to JASMIN resources Streamline the approval process for GWS and VM managers Allow cloud tenants to manage the users in their tenancy Simplify the choice of login accounts Provide clarity for users between JASMIN services and CEDA archive services What will happen? \u0026nbsp; On the go-live date users will notice the following changes:\nExisting JASMIN/CEMS users will continue to have their present access to JASMIN/CEMS system Existing users will have their details ported over to the new JASMIN Accounts Portal and be asked to complete the migration by activating their new JASMIN account and linking to their CEDA account JASMIN, CEMS and \u0026ldquo;commercial\u0026rdquo; login will be merged into one generic \u0026ldquo;JASMIN login\u0026rdquo; service New users will apply for JASMIN accounts and resources via the new portal only External authorisers will have a new, streamlined portal through which to grant/reject resource applications A new set of Terms and Conditions for JASMIN users will also be issued What support will there be available? \u0026nbsp; The CEDA/JASMIN team have been testing the new portal to make it as intuitive as possible and have prepared \u0026ldquo;how-to\u0026rdquo; videos and new documentation to guide users through the new portal.\nAccess to this new documentation has been integrated into the new JASMIN Accounts Portal with simple and easy to use help tool.\nShould users encounter any further issues they will be able to contact the CEDA helpdesk for further support.\nWhat will I be able to do in the new portal? \u0026nbsp; Users will be able to manage their JASMIN account and access to resources on JASMIN including:\nLogin, scientific analysis and transfer servers and the LOTUS cluster Group Workspaces Project-specific Virtual Machines Cloud Tenancies Access to CEDA Archive datasets will, however, remain with the user\u0026rsquo;s CEDA account. Access to some (but not all) restricted datasets associated with a user\u0026rsquo;s CEDA account will be possible via the JASMIN filesystem by linking their CEDA and JASMIN accounts.\nWhat if I have further questions? \u0026nbsp; The transition process should be a smooth one for all users of the JASMIN system, with no noticeable changes to user login or service access. Should you have any questions following the switch-over please consult the JASMIN online help pages in the first instance or send a message to our helpdesk: support@ceda.ac.uk"
       })
       .add(
+      
       
       
       
@@ -15353,6 +16943,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 626,
         href: "/news/updates/2020/2020-11-30-new-jasmin-website-live/",
@@ -15367,10 +16958,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 627,
         href: "/news/updates/2017/2017-07-04-new-map-application-launched-ceda-satellite-data-finder/",
-        title: "New Map Application launched ! CEDA Satellite Data Finder",
+        title: "New Map Application launched !...",
         description: "We are very pleased to announce a new map-application for locating scenes and scans from a range of Earth Observation data sets held in the CEDA archive. The CEDA Satellite Data Finder\u0026nbsp; provides spatial, temporal and satellite filters for data from the following satellite missions:\n",
         
         
@@ -15381,10 +16975,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 628,
         href: "/news/updates/2005/2005-09-07-new-met-office-dataset-available-at-badc/",
-        title: "New Met Office dataset available at BADC",
+        title: "New Met Office dataset availab...",
         description: " The HadAT data are global radiosonde gridded temperature anomalies at standard levels in the troposphere and in the lower stratosphere from 1958 to present. This dataset supersedes the [HadRT](http://badc.nerc.ac.uk/data/hadrt/) dataset. All values are anomalies relative to the monthly 1966-95 climatology. This dataset is restricted to academic research use only. More information about this dataset can be found at: \u0026lt;http://badc.nerc.ac.uk/data/hadat/\u0026gt; BADC Support 7th September 2005",
         
         
@@ -15395,16 +16992,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 629,
         href: "/news/updates/2007/2007-01-10-new-midas-station-search-engine-released-at-the-b/",
-        title: "New MIDAS Station search engine released at the BADC",
+        title: "New MIDAS Station search engin...",
         description: "The new MIDAS weather station search engine\u0026nbsp; is available for use on the BADC website. Stations can be searched by name, location, postcode, county or source id and also through an interactive map to give details of data type and availability.\n",
         
         
         content: "The new MIDAS weather station search engine\u0026nbsp; is available for use on the BADC website. Stations can be searched by name, location, postcode, county or source id and also through an interactive map to give details of data type and availability.\nBADC Support 10 January 2007"
       })
       .add(
+      
       
       
       
@@ -15423,6 +17024,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 631,
         href: "/news/updates/2008/2008-08-21-new-neodc-sse-services-launched/",
@@ -15433,6 +17035,7 @@ function initIndex() {
         content: "NEODC is pleased to announce the launch of three new web services using the ESA Service Support Environment (SSE). The services allow the user to search and manipulate data online.\nThe new services allow extraction of subscenes and production of radiance logs from the AATSR data archive, as well as search and discovery of resources made available through the NERC DataGrid. For further information click here\u0026nbsp; ."
       })
       .add(
+      
       
       
       
@@ -15451,10 +17054,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 633,
         href: "/news/updates/2008/2008-10-30-new-service-available-ceda-repository/",
-        title: "New Service available - CEDA Repository",
+        title: "New Service available - CEDA R...",
         description: "We are pleased to announce the launch of the new CEDA Repository.\nThe CEDA* Repository is now available for storage of your documents, images, conference papers, theses, talks, videos, etc. The repository has been developed to aid preservation and accessibility of documents and other digital items associated with Earth observation and the atmospheric sciences, which may otherwise be inaccessible to the general public.\n",
         
         
@@ -15465,10 +17071,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 634,
         href: "/news/updates/2020/2020-03-19-new-service-jupyter-notebooks-on-jasmin/",
-        title: "New service Jupyter notebooks on JASMIN",
+        title: "New service Jupyter notebooks ...",
         description: "We are pleased to announce the release of a new JASMIN service providing access to Jupyter notebooks. What is the JASMIN Notebook service?\nThe JASMIN Notebook service\u0026nbsp; provides access to Jupyter Notebooks\u0026nbsp; in the web browser. A Jupyter Notebook is an interactive document containing live code and visualisations that can be viewed and modified in a web browser. These documents can be shared, often using GitHub, and many projects distribute example code as Jupyter notebooks. Users interact with their notebooks using the open-source Jupyter Notebook server application.\n",
         
         
@@ -15479,10 +17088,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 635,
         href: "/news/updates/2024/2024-08-29-new-services-and-reminder-software-changes/",
-        title: "New services and reminder of software changes on JASMIN",
+        title: "New services and reminder of s...",
         description: "Dear users\nNew services now available \u0026nbsp; Details of the new Rocky 9 environment are now available here\u0026nbsp; .\n",
         
         
@@ -15493,10 +17105,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 636,
         href: "/news/updates/2006/2006-06-27-new-surface-data-dataset-available-at-the-badc/",
-        title: "New surface data dataset available at the BADC",
+        title: "New surface data dataset avail...",
         description: "A new BADC dataset to replace the UKMO surface dataset, containing both UK and global measurements is now available for users registered to use the UKMO surface data. The data are stored in yearly files for extraction by data type. Data is available from 1853 to date.\n",
         
         
@@ -15507,10 +17122,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 637,
         href: "/news/updates/2021/2021-09-15-new-tech-blog/",
-        title: "New technical blog sharing expertise about managing petabytes of data",
+        title: "New technical blog sharing exp...",
         description: "Experts at the Centre for Environmental Data Analysis (CEDA) have launched a new technical blog for sharing expertise about how we manage petabytes of data. \u0026nbsp; The CEDA team has a wealth of expertise in world-leading data management practices and software engineering that we use to support the environmental science community. We want to share our knowledge, best practices and lessons learnt with others - so have launched a new CEDA Technical Blog\u0026nbsp; . This blog aims to showcase how our team uses open source tools to efficiently manage multi-petabytes of environmental data and collaborate with international research projects working on society’s most pressing environmental issues.\n",
         
         
@@ -15521,10 +17139,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 638,
         href: "/news/updates/2014/2014-01-08-news-article-on-jasmin-phases-2-and-3/",
-        title: "News article on JASMIN Expansion Phases 2 and 3",
+        title: "News article on JASMIN Expansi...",
         description: "Major expansion for the JASMIN super-data-cluster \u0026nbsp; After a successful first year of operations for JASMIN, which saw many exciting science collaborations taking advantage of the JASMIN petascale data processing and storage, the system began to operate near capacity. It was clear there was a pent up demand for a “big data analytic environment” in the environmental science community.\n",
         
         
@@ -15535,10 +17156,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 639,
         href: "/news/updates/2010/2010-05-05-nextmap-britain-dataset-now-available/",
-        title: "NEXTMap Britain dataset now available!",
+        title: "NEXTMap Britain dataset now av...",
         description: "The NEXTMap Britain dataset, a high-resolution digital terrain model of the UK, is now available from the NEODC.\nThe dataset was purchased by British Geological Survey\u0026nbsp; on behalf of NERC, and is available for use by NERC staff and award holders (including NERC-funded researchers in universities). Further information about the dataset can be found here, including details of how to register to use the dataset. The dataset, which is divided into OS grid 10 km x 10 km tiles, is available as 7 distinct products, varying in resolution from 5 to 50 metre cell size.\n",
         
         
@@ -15549,10 +17173,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 640,
         href: "/news/updates/2010/2010-05-05-nextmap-britain-full-gb-coverage-now-at-neodc/",
-        title: "NEXTMap Britain full GB coverage now at NEODC",
+        title: "NEXTMap Britain full GB covera...",
         description: "Data for the whole of Scotland have now been added to the NEXTMap Britain dataset available from NEODC.\nThe NEXTMap dataset, which is divided into OS grid 10 km x 10 km tiles, is available as 7 distinct products, varying in resolution from 5 to 50 metre cell size. For the recently added Scotland tiles however only diff, dsm, dtm and ori products are available (not dtm10, dtm50 or dtme).\n",
         
         
@@ -15563,10 +17190,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 641,
         href: "/news/updates/2010/2010-05-05-nextmap-workshop-exploiting-nextmap-for-nerc-scie/",
-        title: "NEXTMap workshop Exploiting NEXTMap for NERC Science",
+        title: "NEXTMap workshop Exploiting NE...",
         description: "Registration is now open for the NEXTMap workshop at BGS Keyworth on 21st September.\nThe aim is to disseminate the results of using NEXTMap data for NERC science projects and studentships. All NEXTMap users are encouraged to attend, registration forms must be returned by 2 September.\n",
         
         
@@ -15577,10 +17207,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 642,
         href: "/news/updates/2020/2020-09-10-nla-unavailable-from-fri-11th-to-tues-15th-sept-2020/",
-        title: "NLA unavailable from Fri 11th to Tues 15th Sept 2020",
+        title: "NLA unavailable from Fri 11th ...",
         description: "The Near-Line Archive (NLA) tape system will be unavailable from Friday the 11th September until Tuesday 15th September 2020.\nDuring this time the operating system of the NLA server will be updated.\n",
         
         
@@ -15591,10 +17224,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 643,
         href: "/news/updates/2020/2020-12-02-nla-unavailable-from-fri-4th-to-tues-7th-dec-2020/",
-        title: "NLA unavailable from Fri 4th to Tues 7th Dec 2020",
+        title: "NLA unavailable from Fri 4th t...",
         description: "The Near-Line Archive (NLA) tape system will be unavailable from the evening of Friday the 4th December until Monday the 7th December 2020.\nNo new retrievals will be accepted from the evening of Friday 4th December, so as to allow any remaining retrievals to finish over the weekend.\n",
         
         
@@ -15605,10 +17241,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 644,
         href: "/news/updates/2006/2006-01-19-no-more-real-time-earth-probe-toms-data/",
-        title: "No more real time Earth Probe TOMS data",
+        title: "No more real time Earth Probe ...",
         description: "",
         
         
@@ -15619,10 +17258,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 645,
         href: "/news/updates/2020/2020-03-10-no-user-support-for-cedajasmin-on-thursday-12th-march/",
-        title: "No user support for CEDA/JASMIN on Thursday 12th March",
+        title: "No user support for CEDA/JASMI...",
         description: "There will be no user support available via the CEDA helpdesk on Thursday 12th March, due to the team participating in an all-staff away day. This means user queries submitted to the helpdesk will not be answered on Thursday (and there may be a delayed response to queries submitted on Wednesday). ",
         
         
@@ -15633,10 +17275,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 646,
         href: "/news/updates/2003/2003-02-21-normal-service-resumed-at-the-badc/",
-        title: "Normal service resumed at the BADC",
+        title: "Normal service resumed at the ...",
         description: "The technical problems affecting the BADC over the past two day ( see previous news item) have now been fixed and all areas of the BADC site are now operational. We appologise for any inconvenience this disruption may have caused.\n",
         
         
@@ -15647,10 +17292,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 647,
         href: "/news/updates/2001/2001-02-23-northern-hemisphere-geopotential-height-data-1998/",
-        title: "Northern Hemisphere Geopotential Height data (1998-present) now available",
+        title: "Northern Hemisphere Geopotenti...",
         description: " Northern Hemisphere Geopotential Height data now available ========================================================== This data set holds gridded (5 degree latitude by 5 degree longitude grid) Northern Hemisphere (north of 15N) daily and monthly series of 500hPa geopotential height fields and also daily and monthly series of 1000-500hPa thickness fields. The data is available for the period 1998 to present. More information available at \u0026lt;http://www.badc.rl.ac.uk/data/height/\u0026gt; BADC Team 23/2/2001",
         
         
@@ -15661,10 +17309,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 648,
         href: "/news/updates/2023/2023-10-02-now-hiring-senior-technical-manager/",
-        title: "Now Hiring! Senior Technical Manager",
+        title: "Now Hiring! Senior Technical M...",
         description: "Come join our team! We\u0026rsquo;re looking for a Technical Manager to join our Senior Management Team.\nYou will lead the technical development of software and services we provide for the environmental science community. You will need skills in both software and managing people as you\u0026rsquo;ll head up a team of around ten developers.\n",
         
         
@@ -15675,10 +17326,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 649,
         href: "/news/updates/2021/2021-09-20-issues-to-ceda-archive-download-service/",
-        title: "Now resolved Issues to CEDA Archive download service",
+        title: "Now resolved Issues to CEDA Ar...",
         description: "The below issue is now resolved. We are currently experiencing some issues with the following CEDA Archive service:\ndap.ceda.ac.uk\u0026nbsp; This will be causing some issues when you try to download data.\nYou can still access and download data via FTP.\nSee details about this here\u0026nbsp; .\nWe are working on resolving these issues and will update progress on here ASAP.\nSorry for any inconvenience caused.\nCEDA team\n",
         
         
@@ -15689,10 +17343,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 650,
         href: "/news/updates/2019/2019-11-06-issues-to-dapcedaacuk-service/",
-        title: "Now resolved Issues to dap.ceda.ac.uk service",
+        title: "Now resolved Issues to dap.ced...",
         description: "The below issues have now been resolved. Please contact the CEDA helpdesk if you experience futher issues. We are currently experiencing some issues with the following CEDA Archive service:\ndap.ceda.ac.uk\u0026nbsp; ",
         
         
@@ -15703,10 +17360,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 651,
         href: "/news/updates/2010/2010-08-20-numerical-model-data-scientist-vacancy/",
-        title: "Numerical Model Data Scientist Vacancy",
+        title: "Numerical Model Data Scientist...",
         description: "The Centre for Environmental Data Archival (CEDA) at STFC Rutherford Appleford Laboratory is seeking a Numerical Model Data Scientist. Further details available at:\n",
         
         
@@ -15717,16 +17377,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 652,
         href: "/news/updates/2021/2021-03-23-oceans-in-the-cloud/",
-        title: "Oceans in the Cloud working interactively with huge datasets using Pangeo",
+        title: "Oceans in the Cloud working in...",
         description: "The properties of our oceans are changing. The Southern Ocean absorbs more heat than any other ocean and as a consequence of climate change, it is warming at an alarming rate. Warming oceans lead to a decline in Antarctic sea ice, increased ocean freshening, sea-level rise, reduced oxygen and CO2 uptake and slow the vertical exchange of waters. This may bring about increased food scarcity, diseases, extreme weather events, loss of coastal protection, and more. It is therefore extremely important to have a detailed understanding of what could happen in the future with a Southern Ocean that is warmer, less salty and is circulating in different ways.\n",
         
         
         content: "The properties of our oceans are changing. The Southern Ocean absorbs more heat than any other ocean and as a consequence of climate change, it is warming at an alarming rate. Warming oceans lead to a decline in Antarctic sea ice, increased ocean freshening, sea-level rise, reduced oxygen and CO2 uptake and slow the vertical exchange of waters. This may bring about increased food scarcity, diseases, extreme weather events, loss of coastal protection, and more. It is therefore extremely important to have a detailed understanding of what could happen in the future with a Southern Ocean that is warmer, less salty and is circulating in different ways.\nImage by Angie Agostino from Pixabay These interactions are challenging to simulate accurately in coupled climate models, making it hard to predict changes and consequences. To understand what the models are simulating well and what not so well, researchers need to undertake detailed data analysis and intercomparison. However, the immense size of these datasets means that simply examining the model output is a technical challenge all of its own. With the help of JASMIN, detailed analysis of the Southern Ocean can be undertaken, using the largest ever climate model dataset (the Coupled Model Intercomparison Project 6 - CMIP6, clocking in at over 90 Petabytes!).\nDr Andrew Meijers from the British Antarctic Survey (BAS), has been working with JASMIN’s Community Cloud computing platform to analyse Southern Ocean CMIP6 data. “This is a service unique in the UK, that has allowed me to use cutting edge tools to manipulate and explore the extremely large datasets that make up coupled climate model ensembles. This allows for much faster discovery and analysis than was previously possible”, Andrew explains.\nThe research deployed a range of tools to create a unique environment on JASMIN’s Community Cloud. The following tools were used:\nPangeo\u0026nbsp; - an open-source community platform for data analysis for large Earth science datasets. Pangeo can be deployed on the JASMIN Community Cloud to enable use of the tools mentioned below. Jupyter Notebooks\u0026nbsp; - a web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. The JASMIN Notebook Service\u0026nbsp; uses Jupyter notebook technology. Various Python\u0026nbsp; tools and packages, such as the Xarray package\u0026nbsp; - Python is an open-source programming language which has various packages for data analysis. The xarray package can be used to make working with labelled multi-dimensional arrays simpler and more efficient. Dask\u0026nbsp; - a tool used to scale Python packages. It works with the existing Python ecosystem to scale it to multi-core machines and distributed clusters. Dr Meijers research combines the powerful Xarray package for the manipulation of gridded datasets with a Dask backend, allowing the relatively seamless manipulation of extremely large datasets using parallel computation in an interactive environment. JASMIN’s Cloud enables users to dynamically deploy a complete working Pangeo environment using a point and click web interface. This circumvents some of the technical problems involved with setting up such a state of the art interface and allows scientists and researchers to focus on the science rather than deployment issues.\nJASMIN services are essential for this type of large scale analysis of climate model data. Andrew’s research looks at how water masses vary between models and how they change their heat/carbon properties under different climate forcing scenarios. This research will help determine how Southern Ocean properties may change in the future, as well as identify areas where models are underperforming (see Figure 1). This research will ultimately help improve climate models, notably those run by the UK Met Office, and inform governmental and intergovernmental bodies such as the Intergovernmental Panel on Climate Change (IPCC). It is vital to improve understanding of the Southern Ocean’s properties so that we can better prepare for the challenges society may face in future years. The scale and complexity of the datasets means that it would not have been possible without JASMIN.\nTo find out how this new, and potentially very powerful, technology could help you get more out of using JASMIN watch Andrew’s talk here.\nFigure 1: CMIP6 model ensemble average heat content change for various key Southern Ocean water masses south of 20S between the present day and 2100 under the strong climate forcing scenario SSP585. The red line gives the ensemble mean, and the blue envelope one standard deviation around this. This shows that the majority of the warming occurs in the circumpolar deep water, and to a lesser extent in the Antarctic Intermediate and Mode Waters. This is slightly unexpected, as the mode and intermediate waters are traditionally thought to be the water masses where heat is injected into the ocean. The cause of their more modest heat uptake is thought to be due to the thinning of these water masses as the surface ocean warms. Contact:\nFor more information about using JASMIN, please contact our helpdeskTo find out more about this work, contact:\nDr. Andrew Meijers, Polar Oceans Deputy Science Leader\nPI, ORCHESTRA LTSM\nBritish Antarctic Survey\n+44 (0) 1223221383\nandmei@bas.ac.uk"
       })
       .add(
+      
       
       
       
@@ -15745,16 +17409,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 654,
         href: "/news/updates/2019/2019-06-27-our-first-ever-hands-on-jasmin-workshop/",
-        title: "Our first ever ‘hands on’ JASMIN workshop",
+        title: "Our first ever ‘hands on’ JASM...",
         description: "On Wednesday 26th June, we welcomed 28 JASMIN users to our first ever hands-on interactive training event. The workshop consisted of a short introduction, followed by nine scenario based exercises that encourage good practice for using JASMIN. Participants left the day with a set of common examples of how to use JASMIN efficiently which allows for easy adaptation to suit their individual workflows as appropriate. ",
         
         
         content: "On Wednesday 26th June, we welcomed 28 JASMIN users to our first ever hands-on interactive training event. The workshop consisted of a short introduction, followed by nine scenario based exercises that encourage good practice for using JASMIN. Participants left the day with a set of common examples of how to use JASMIN efficiently which allows for easy adaptation to suit their individual workflows as appropriate. The day was jam-packed with content; exercises were presented by Matt Pritchard (JASMIN Operations Manager), Fatima Chami (JASMIN User Support) and Ag Stephens (Head of Partnerships), whilst a range of other members of the JASMIN team were also on hand to provide 1-1 support with the exercises. All participants had access to a laptop so they could try out the exercises for themselves - which could have been a recipe for disaster! Luckily, the team was well equipped to deal with any difficulties faced on the day. We have received lots of positive, constructive feedback from the participants and will incorporate this into the current notes and worksheets. These resources, created for this workshop, will be shared freely as soon as possible over the next few weeks and via future workshops. You can see the exercise titles below:\nExercise 1: Accessing JASMIN “sci” machines \u0026amp; how to use them Exercise 2: Copy data to JASMIN to share with collaborators Exercise 3: Processing on the scientific analysis servers Exercise 4: A script to extract 1 variable from a file in the ERA-Interim dataset Exercise 5: Batch running the extraction script on LOTUS Exercise 6: Managing a multi-step workflow Exercise 7: Building your own Python 3 environment Exercise 8: Compiling and running parallel Fortran code to run on LOTUS Exercise 9: Optimising storage usage on JASMIN (scratch/GWS/tape) We also intend on running this workshop regularly at RAL in the future, with the initial aim being quarterly. We may also take it ‘on tour’ to our partner organisations (such as NCAS-Leeds, Met Office, CEH), so please do let us know if this is something you would be interested in.\nThanks to all who supported and attended our first hands on event - here’s to many more!"
       })
       .add(
+      
       
       
       
@@ -15773,16 +17441,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 656,
         href: "/news/updates/2020/2020-03-06-outage-of-et-nla-and-jdma-over/",
-        title: "Outage of ET, NLA, and JDMA - OVER",
+        title: "Outage of ET, NLA, and JDMA - ...",
         description: "These services are now available again.\nIngestions in progress have been recommenced, but and retrievals will have to be restarted.\n",
         
         
         content: "These services are now available again.\nIngestions in progress have been recommenced, but and retrievals will have to be restarted.\nThe cause was a brief communication problem with the storage underlying a DB node. The services have now been moved to another node while investigations continue."
       })
       .add(
+      
       
       
       
@@ -15801,6 +17473,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 658,
         href: "/outreach/",
@@ -15811,6 +17484,7 @@ function initIndex() {
         content: "At the Centre for Environmental Data Analysis we support lots of different environmental research. As part of this, it’s important to share what we do and the impact that the science we support has on our planet.\nThis page includes some activities that we have designed for public engagement events. If you wish to reuse this content, please credit this webpage.\nWarming Stripes \u0026nbsp; Warming stripes showing temperature change in Harwell, Oxfordshire The warming stripes are a simple visual way to represent our planet’s changing climate - with each stripe representing the temperature of a single year.\nYou can freely access all the data, tools and knowledge you need to produce your personalised climate stripe for a location within the UK - whether that’s for your hometown, workplace or favourite holiday destination.\nTalking about our changing climate is one of the most powerful ways we can encourage positive change. We have made a tool that allows you to make a personalised warming stripes with your chosen location and timespan - to inspire conversations about climate change.\nYou could use this data to create a craft project - whether that\u0026rsquo;s with crochet, paint, embroidery, mosaic, cake baking or any other technique it is up to you.\nTry this activity at home \u0026nbsp; The warming stripes are a simple visual way to represent our planet’s changing climate. You can make your own personalised warming stripes at home. You can freely access all the data, tools and knowledge you need to produce a climate visualisation for your chosen location - whether that’s your hometown, workplace or favourite holiday destination. We hope that this guide (available here as a PDF!)\u0026nbsp; helps you to create your own warming stripes whilst encouraging conversations about climate change. Please send us photos of your creations!\nStep 1: Choose a craft that you’d like to use \u0026nbsp; You could knit, crochet, paint, embroider, mosaic, bake or any other craft technique it is up to you.\nStep 2: Gather craft materials \u0026nbsp; Try to recycle and reuse wherever possible! Plan how many colours you’d like to include in your stripe.\nStep 3: Get the data for your chosen location \u0026nbsp; Use this tool to create your own personalised climate stripes! (UK only)\u0026nbsp; \u0026nbsp; \u0026nbsp; It will create a PDF showing the data for a chosen UK location. You can choose the time period, how many colours to use and the latitude and longitude of your chosen location.\nCreate personalised climate stripes for anywhere in the world!\u0026nbsp; \u0026nbsp; \u0026nbsp; This tool functions the same but can be used for any country, not just the UK.\nStep 4: Create! \u0026nbsp; Make your project using the climate data and your chosen craft.\nStep 5: Share and talk about it \u0026nbsp; Show off your craft project with friends, family and even strangers! Can you display it in your window or share on your social media? We’d love to see pictures of your crafts too. Send pictures to support@ceda.ac.uk or tag us @cedanews on Twitter/X\nStep 6: Inspire and take action \u0026nbsp; Talking about our changing climate is one of the most powerful ways we can encourage positive change. By sharing and talking, you can inspire others to take climate action. We hope we have inspired you to create your own warming stripes and encourage conversations about climate change.\nExample Craft Projects \u0026nbsp; Painting\nMolly painted stripes showing temperature change in her local area! Mosaic Tiles\nPoppy used small tiles to create a warming stripe mosaic! Crochet\nYou could also crochet an **extra** warm warming stripes scarf! Resources to support this activity \u0026nbsp; Don\u0026rsquo;t know if you can make a difference? \u0026nbsp; Climate change can feel so huge and overwhelming that you may think local action isn’t enough to make a difference. But there are lots that individuals and communities can do.\nSimply talking and sharing ideas about local issues and solutions can have an impact. It can help you to feel more in control.\nTaking action with your neighbours, friends or family helps build community and strengthen local pride. It can also deliver a host of health and wellbeing benefits… whilst of course having a positive impact on your local environment.\nHere\u0026rsquo;s a poster showcasing changes that we can all make in order to reduce emmisions!\u0026nbsp; Worried about climate change? \u0026nbsp; Climate anxiety or eco-anxiety is a way of describing how some people feel about the future in relation to our changing planet. Lots of people feel worried about the future and how things might change. It can sometimes be hard to know what to do with those feelings.\nYou are not alone - when asked about climate change, three-quarters of young people said the future of the world was frightening - and even scientists feel these feelings.\nHere are some tips:\nLearn more about what’s happening - this can help you feel more confident in talking about your fears Share how you’re feeling - find a likeminded community who understand Reduce your carbon footprint - do something, even if it’s small Get involved - talk, raise awareness, encourage others to make changes Take care of yourself - you will have good and bad days Useful external resources \u0026nbsp; 7 Tips to Recycle Better - Earth Day\u0026nbsp; Personal Climate Action Pledge – For the Love of Creation\u0026nbsp; Reducing your carbon footprint - KAIROS Canada (pdf)\u0026nbsp; 7 Ways Youth Can Reduce Their Ecological Footprints\u0026nbsp; Make a pledge, keep climate positive | Eden Project\u0026nbsp; The climate mitigation gap: education and government recommendations miss the most effective individual actions - IOPscience\u0026nbsp; Coping with Climate Anxiety - Childline\u0026nbsp; Coping with Climate Doom - BBC News\u0026nbsp; Young People Climate Change Survey - BBC News\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -15829,6 +17503,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 660,
         href: "/news/updates/2020/2020-02-26-performance-issues-on-jasmin/",
@@ -15843,10 +17518,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 661,
         href: "/news/updates/2020/2020-03-03-performance-issues-on-jasmin-3rd-march/",
-        title: "Performance issues on JASMIN (3rd March)",
+        title: "Performance issues on JASMIN (...",
         description: "We are aware of some performance issues on JASMIN. We are currently investigating these issues and will provide updates via our news channel here. ",
         
         
@@ -15857,10 +17535,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 662,
         href: "/news/updates/2020/2020-03-06-performance-issues-on-jasmin-6th-march/",
-        title: "Performance issues on JASMIN (6th March)",
+        title: "Performance issues on JASMIN (...",
         description: "We are aware that performance issues on JASMIN are still causing issues for users. Please be assured that we are doing our best to address these issues in different ways behind the scenes. ",
         
         
@@ -15871,16 +17552,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 663,
         href: "/projects/prise/",
-        title: "Pest Risk Modelling in Africa (PRISE)",
+        title: "Pest Risk Modelling in Africa ...",
         description: "Improving the livelihoods of smallholder farmers by reducing crop losses caused by pests across six sub-Saharan African countries",
         
         
         content: "Funder: UKSA IPP programme\nDates: 2016 - 2021\nAim: PRISE will improve the livelihoods of smallholder farmers by reducing crop losses caused by pests across six sub-Saharan African countries. This will be achieved through: An early warning system being created to predict the risk of pest outbreaks using cutting-edge space infrastructure, Earth Observation data and state-of- the-art modelling techniques.\nCEDA role: Provision of cloud tenancy and GWS for Risk alert system. Support increased uptake of UK data services"
       })
       .add(
+      
       
       
       
@@ -15899,6 +17584,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 665,
         href: "/news/updates/2010/2010-05-05-planned-downtime-this-weekend/",
@@ -15913,10 +17599,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 666,
         href: "/news/updates/2008/2008-02-15-planned-downtime-this-weekend-midas-data-updated-/",
-        title: "Planned Downtime this weekend. MIDAS data Updated. Paperless Forms System",
+        title: "Planned Downtime this weekend....",
         description: "Please note that due to unavoidable electrical work the BADC system will be offline for several hours on Saturday morning 16th February 2008. It is itended that the system will be up and running again by lunchtime.\n",
         
         
@@ -15927,10 +17616,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 667,
         href: "/news/updates/2007/2007-01-23-planned-power-outage-at-the-badc-this-weekend/",
-        title: "Planned Power Outage at the BADC this weekend",
+        title: "Planned Power Outage at the BA...",
         description: "A power outage is planned at the BADC this Weekend (27th/28th January 2007), for unavoidable site power maintenance. Power will be off for a maximum of 5 hours on both Saturday and Sunday which will affect some BADC servers. Apologies in advance for any inconvenience.\n",
         
         
@@ -15941,10 +17633,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 668,
         href: "/news/updates/2008/2008-11-07-planned-power-outage-at-the-badc-this-weekend/",
-        title: "Planned Power Outage at the BADC this Weekend",
+        title: "Planned Power Outage at the BA...",
         description: "BADC servers will be at risk this weekend due to an unavoidable power outage at the Rutherford Appleton Laboratory this weekend. A temporary power supply will be used to cover the BADC servers but services will be at risk between 23:30 GMT Friday 7th November to 18:00 GMT Sunday 9th November.\n",
         
         
@@ -15955,10 +17650,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 669,
         href: "/news/updates/2010/2010-05-05-planned-power-outage-at-the-neodc-this-weekend/",
-        title: "Planned Power Outage at the NEODC this Weekend",
+        title: "Planned Power Outage at the NE...",
         description: "NEODC servers will be at risk this weekend due to an unavoidable power outage at the Rutherford Appleton Laboratory this weekend.\n",
         
         
@@ -15969,10 +17667,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 670,
         href: "/news/updates/2007/2007-03-16-planned-server-downtime-on-monday-19th-march-2007/",
-        title: "Planned Server Downtime on Monday 19th March 2007",
+        title: "Planned Server Downtime on Mon...",
         description: "Work on the BADC servers is planned for Monday afternoon (19th March). Obviously we will keep the downtime to a minimum, hopefully for less than an hour. Apologies in advance for any inconvenience.\n",
         
         
@@ -15983,10 +17684,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 671,
         href: "/news/updates/2006/2006-10-13-please-ensure-your-email-address-is-correct/",
-        title: "Please ensure your email address is correct",
+        title: "Please ensure your email addre...",
         description: "Please check that your email address and other details are correct through your My BADC webpage and update as necessary.\n",
         
         
@@ -15997,16 +17701,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 672,
         href: "/news/updates/2001/2001-10-25-portable-unified-model-v45-software-now-available/",
-        title: "Portable Unified Model (V4.5) software now available from the BADC",
+        title: "Portable Unified Model (V4.5) ...",
         description: "Portable Unified Model Software from the BADC ================================== The Met Office Portable Unified Model (PUM) version 4.5 software is now available from the BADC to registered Portable Unified Model (PUM) data users. Details can be found at http://www.badc.rl.ac.uk/data/pum/\u0026nbsp; . The code itself is located the software directory of the PUM dataset directory (/badc/ukmo-pum/software).\n",
         
         
         content: "Portable Unified Model Software from the BADC ================================== The Met Office Portable Unified Model (PUM) version 4.5 software is now available from the BADC to registered Portable Unified Model (PUM) data users. Details can be found at http://www.badc.rl.ac.uk/data/pum/\u0026nbsp; . The code itself is located the software directory of the PUM dataset directory (/badc/ukmo-pum/software).\nThe BADC Team\n25/10/01"
       })
       .add(
+      
       
       
       
@@ -16025,16 +17733,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 674,
         href: "/news/updates/2018/2018-12-21-prestigious-esgf-awards-for-ceda-staff-members/",
-        title: "Prestigious ESGF awards for CEDA staff members",
+        title: "Prestigious ESGF awards for CE...",
         description: "Earlier this month, three CEDA staff members were presented with awards at the annual ESGF conference. The Earth System Grid Federation (ESGF) is a collaborative project for distributing climate data, especially from the Coupled Model Intercomparison Project (CMIP) models. It gives users a unified interface to search for and download data hosted at numerous data centres internationally.\n",
         
         
         content: "Earlier this month, three CEDA staff members were presented with awards at the annual ESGF conference. The Earth System Grid Federation (ESGF) is a collaborative project for distributing climate data, especially from the Coupled Model Intercomparison Project (CMIP) models. It gives users a unified interface to search for and download data hosted at numerous data centres internationally.\nImage: showing the partners involved with ESGF.\nCEDA Software Engineer, Alan Iwi, was presented a joint award with IPSL’s Guillame Levavasseur for, ‘Exceptional contribution to CDNOT data challenges’. The CMIP Data Node Operations Team (CDNOT) sets requirements on the ESGF infrastructure for delivering the CMIPs. They ran a set of ‘data challenges’ to prepare the federation for the arrival of CMIP6 data. Guillame and Alan worked dedicatedly, over and above what was expected, to fix (often complex) operational and deployment issues.\nThe second award was presented to Ruth Petrie, a CEDA Data Scientist, for ‘Exceptional Service to the CDNOT’. This was related to Ruth’s indispensable contribution made to the operation of the CDNOT, particularly during the ESGF Data Challenges (DC) in preparation for handling the CMIP6 model output. The award stated ‘Without her contribution, it would be very hard to see that the data challenges could have been run successfully, and that the community would be able to make our goal of June 2018 readiness for a CMIP6 opening.’\nFinally, Matt Pryor (JASMIN Cloud Developer) was awarded for his ‘Technical Contribution to the Development of the Container-based ESGF Deployment’. This was related to his dedicated work with the Container Working Team (CWT), who have been developing a fully containerised version of the ESGF software. This has required the integration of a complex set of application components into a completely new deployment and operational framework. Matt worked closely with the team and incorporated key innovations and applied best practice in this new and and fasting moving field - particularly in the application of Kubernetes and the use of Helm Charts. Ultimately, Matt’s work is beneficial to the whole ESGF community as it has made installing and maintaining the ESGF software much easier. This is really important for the future development of the system.\nCEDA has been participating in ESGF for many years and hosts one of the primary search indexes for the federation. CEDA also has one of the largest data holdings for CMIP5 in the federation. We use ESGF software to serve data from the ESA Climate Change Initiative and Climate Projections data for the EU\u0026rsquo;s Copernicus Climate Data Store.\nAs well as deploying ESGF servers, CEDA staff contribute actively in the ESGF community, including development of the software. Significant areas of recent contributions have included work on load-balanced server deployments, containerised architecture, enhancements to the system for identity management and access control and helping to coordinate activities for CMIP6.\nThe ESGF portal at CEDA can be found at https://esgf-index1.ceda.ac.uk/\u0026nbsp; The ESA Climate Change Initiative Open Data Portal is at http://cci.esa.int/\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -16053,10 +17765,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 676,
         href: "/news/updates/2021/2021-02-11-problem-with-lotus-batch-scheduler-slurm/",
-        title: "Problem with LOTUS batch scheduler - SLURM",
+        title: "Problem with LOTUS batch sched...",
         description: "13:30 11th Feb - update 1\nThere is currently an issue with the LOTUS batch scheduler - SLURM. This has manifested in unusually long pending time per job, a slow response time when querying SLURM and occasional failed job submissions.We are aware of the issue and are working on a resolution. Please do not email the helpdesk about issues related to SLURM. We will update you when we know more.\n",
         
         
@@ -16067,10 +17782,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 677,
         href: "/news/updates/2008/2008-09-05-problem-with-the-badc-midas-data-extractor-service/",
-        title: "Problem with the BADC MIDAS Data Extractor Service",
+        title: "Problem with the BADC MIDAS Da...",
         description: "There is currently a problem with the BADC Data extractor Service in extracting MIDAS data for a specific station (by src_id). Extracting MIDAS data by geographical area (lat/long) or by county is not affected by this problem.\n",
         
         
@@ -16081,16 +17799,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 678,
         href: "/news/updates/2007/2007-12-18-problems-with-ecmwf-operational-total-cloud-cover/",
-        title: "Problems with ECMWF Operational Total Cloud Cover Data and BADC Helpdesk Christmas closure",
+        title: "Problems with ECMWF Operationa...",
         description: "The ECMWF has announced that due to some fields not initialising properly all analysis total cloud cover data within the ECMWF operational data are unreliable. Therefore, the BADC has removed such data from its ECWMF operational data archive and is writing to inform present users of the ECMWF operational data of this.\n",
         
         
         content: "The ECMWF has announced that due to some fields not initialising properly all analysis total cloud cover data within the ECMWF operational data are unreliable. Therefore, the BADC has removed such data from its ECWMF operational data archive and is writing to inform present users of the ECMWF operational data of this.\nA 24 hour forecast TCC field has been generated from the +24 hour forecast fields and has been placed in the archive. These data are available from 01012002 to 01112007.\nIf you require further information regarding these changes please contact the BADC helpdesk.\nThe BADC helpdesk will also be unavailable from 3pm Friday 21st December 2007 to 9am 2nd January 2008. All queries received in this period will be answered as soon as possible in the New Year.\nFinally, the Helpdesk team would like to wish all BADC users past and present a\nBADC Helpdesk 20th December 2007"
       })
       .add(
+      
       
       
       
@@ -16109,16 +17831,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 680,
         href: "/news/updates/2010/2010-11-24-public-christmas-lecture-the-eyjafjallajokull-eru/",
-        title: "Public Christmas Lecture The Eyjafjallajokull eruption the science behind the disruption by Pro",
+        title: "Public Christmas Lecture The E...",
         description: "Stephen Mobbs is a Professor of Atmospheric Dynamics, and the Director of NERC\u0026rsquo;s National Centre for Atmospheric Science. He is a physicist by training and took a leadership role in NERC\u0026rsquo;s airborne observations of the ash cloud over the UK during the Eyjafjallajokull eruption. Prof. Mobbs serves on scientific and operational advisory groups set up by the UK government to deal with the Eyjafjallajokull and future environmental emergencies.\n",
         
         
         content: "Stephen Mobbs is a Professor of Atmospheric Dynamics, and the Director of NERC\u0026rsquo;s National Centre for Atmospheric Science. He is a physicist by training and took a leadership role in NERC\u0026rsquo;s airborne observations of the ash cloud over the UK during the Eyjafjallajokull eruption. Prof. Mobbs serves on scientific and operational advisory groups set up by the UK government to deal with the Eyjafjallajokull and future environmental emergencies.\nThe lecture, organised by the Nonlinear and Complex Physics Group of the Institute of Physics (IOP), will take place at 7pm on Wednesday 8th December 2010 in the Roscoe Building, Lecture Theatre B at the University of Manchester. Directions to the Roscoe Building can be found on the campus map\u0026nbsp; . The Roscoe Building is number 53.\nMembership of the IOP is not required to come to the lecture, entry is free. Members of the public are very welcome.\nInformation about the Eyjafjallajokull - Volcanic Ash Cloud Measurements stored at the BADC can be found at: http://badc.nerc.ac.uk/data/eyjafjallajokull_apr2010\u0026nbsp; BADC Helpdesk 24th November 2010"
       })
       .add(
+      
       
       
       
@@ -16137,6 +17863,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 682,
         href: "/news/updates/2005/2005-03-01-public-release-of-namblex-data/",
@@ -16147,6 +17874,7 @@ function initIndex() {
         content: "The data collected during the North Atlantic Marine Boundary Layer EXperiment (NAMBLEX 2002) has now been released to the public domain. NAMBLEX, which took place during July-September 2002, was an atmospheric composition campaign to study the oxidation processes, atmospheric chemistry and composition of a number of species primarily in the marine boundary layer.\nParticipating institutions were the Universities of Leeds, York, East Anglia, Leicester, Birmingham, Bristol, Edinburgh, UMIST, Lancaster and Cambridge and involved had a major contribution from UFAM\u0026nbsp; instruments.\nFor more information on NAMBLEX and to view data held at the BADC please see http://badc.nerc.ac.uk/data/namblex/\u0026nbsp; .\nBADC Support 1st March 2005"
       })
       .add(
+      
       
       
       
@@ -16165,10 +17893,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 684,
         href: "/news/updates/2024/2024-06-14-quota-issue-with-sof-storage-volumes/",
-        title: "Quota issue with SOF storage volumes",
+        title: "Quota issue with SOF storage v...",
         description: "Dear users,\nWe are aware of an issue with volume quotas in the SOF storage system, affecting GWS volumes /gws/nopw/j04/* and CEDA Archive volumes. It appears that the system is permitting writes beyond the initial volume quota, then artificially increasing the quota reported by “df -H” up to a point where writes are no longer possible. The volume quota is initially set when a volume is created; this is recorded in the JASMIN Projects Portal and available to view in the GWS Dashboard at https://mon.jasmin.ac.uk\u0026nbsp; (accounts portal credentials required). This is the true volume quota: it appears that the value reported by df -H has become unreliable in these cases. The suggested course of action for GWS managers is as follows:\n",
         
         
@@ -16179,10 +17910,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 685,
         href: "/news/updates/2005/2005-09-28-radiosonde-and-surface-data-extractions-from-the-/",
-        title: "Radiosonde and Surface data extractions from the Met Office temporarily stopped",
+        title: "Radiosonde and Surface data ex...",
         description: "Unfortunately, since mid-August 2005, our remote access to the Met Office network and archives has been disabled by the Met Office.\n",
         
         
@@ -16193,10 +17927,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 686,
         href: "/news/updates/2005/2005-05-13-real-time-earth-probe-toms-data-return-next-week/",
-        title: "Real-Time Earth Probe TOMS Data Return Next Week!",
+        title: "Real-Time Earth Probe TOMS Dat...",
         description: "The satellite ephemeris problem has been solved and NASA is now evaluating the accuracy of the new files. You should begin to see TOMS data and images\u0026nbsp; early next week (May 23, 2005). It should then take only a couple of days to fill in all of the data back to April 15, 2005.\n",
         
         
@@ -16207,10 +17944,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 687,
         href: "/news/updates/2019/2019-07-03-reboot-of-cems-sci2-jasmin-sci3-1630-thurs-4-july/",
-        title: "Reboot of cems-sci2, jasmin-sci3 1630 Thurs 4 July",
+        title: "Reboot of cems-sci2, jasmin-sc...",
         description: "The scientific analysis servers cems-sci2 and jasmin-sci3 have been suffering impaired performance for the past few days and need to be rebooted to clear a number of accumulated issues.\n",
         
         
@@ -16221,10 +17961,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 688,
         href: "/news/updates/2020/2020-10-22-reboot-of-globusgridftp-server-22-oct-1700/",
-        title: "Reboot of Globus/GridFTP server 22 Oct 1700",
+        title: "Reboot of Globus/GridFTP serve...",
         description: "The server used as the “JASMIN GridFTP Server” Globus endpoint (data-xfer1.ceda.ac.uk), will be rebooted at 17:00 in an attempt to clear a performance issue.\n",
         
         
@@ -16235,10 +17978,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 689,
         href: "/news/updates/2020/2020-02-03-reboot-of-jasmin-xfer2-overloading-on-xfer-hosts/",
-        title: "Reboot of jasmin-xfer2, overloading on xfer hosts",
+        title: "Reboot of jasmin-xfer2, overlo...",
         description: "We will shortly be rebooting transfer host jasmin-xfer2.ceda.ac.uk to clear problems mainly due to overloading.\nWe are aware that the current period is proving very busy for the transfer servers, with many users moving data from the RDF to JASMIN. Please bear in mind that these servers are for shared use and that overloading by running multiple transfers at once will have an impact on the usability of the servers and possibly cause disruption for other users. Please be considerate in your use of these machines during this busy period.\n",
         
         
@@ -16249,10 +17995,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 690,
         href: "/news/updates/2020/2020-03-16-reboot-of-jasmin-xfer3-at-1030-today/",
-        title: "Reboot of jasmin-xfer3 at 1030 today",
+        title: "Reboot of jasmin-xfer3 at 1030...",
         description: "In order to clear a number of issues on the transfer server jasmin-xfer3.ceda.ac.uk\u0026nbsp; , it will be rebooted at 10:30 today.\n",
         
         
@@ -16263,10 +18012,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 691,
         href: "/news/updates/2021/2021-01-25-reboot-of-server-hpxfer1jasminacuk/",
-        title: "Reboot of server hpxfer1.jasmin.ac.uk",
+        title: "Reboot of server hpxfer1.jasmi...",
         description: "Server hpxfer1.jasmin.ac.uk will be rebooted at 09:00 on 26/1/2021 to clear some stuck processes.\nApologies for any inconvenience.\nJASMIN Team\n",
         
         
@@ -16277,10 +18029,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 692,
         href: "/news/updates/2021/2021-02-17-reboot-of-server-nx-login2-at-1600-today/",
-        title: "reboot of server nx-login2 at 1600 today",
+        title: "reboot of server nx-login2 at ...",
         description: "Server nx-login2.jasmin.ac.uk needs to be rebooted at 16:00 today, Wednesday 17th February, to clear up dead/hanging processes.\nWe apologise for any inconvenience this may cause.\n",
         
         
@@ -16291,10 +18046,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 693,
         href: "/news/updates/2021/2021-05-13-reboot-of-servers-for-software-update-interruption-in-access-to-object-store/",
-        title: "Reboot of servers for software update, interruption in access to object store",
+        title: "Reboot of servers for software...",
         description: "Dear users,\nRescheduled work to apply a storage-related software update to key JASMIN servers (sci, xfer, hpxfer and a limited number of other machines) will take place on Friday 14th May 2021 at 08:30-10:00. A further intervention will take place during the day on Monday 17th May to reboot any servers which have not picked up the update automatically by then. In both cases, please look out for announcements at the console/command line on the machine. Sessions will be interrupted while the server is rebooted but you should be able to re-connect again after a few minutes when the machine has come back up.\n",
         
         
@@ -16305,10 +18063,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 694,
         href: "/news/updates/2021/2021-05-06-reboot-of-servers-tuesday-11-may-2021/",
-        title: "Reboot of servers Tuesday 11 May 2021",
+        title: "Reboot of servers Tuesday 11 M...",
         description: "Dear all,\nAs anticipated in our recent update, a software update is now available which should address the remaining disk storage issue mentioned in earlier announcements. This update is already being rolled out across the JASMIN platform but will require a reboot of most JASMIN and CEDA servers in order to take effect.\n",
         
         
@@ -16319,10 +18080,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 695,
         href: "/news/updates/2019/2019-08-19-reduced-services-on-2627th-august-and-surrounding-weeks/",
-        title: "Reduced services on 26/27th August and surrounding weeks",
+        title: "Reduced services on 26/27th Au...",
         description: "CEDA and JASMIN services will be unsupported on Monday 26th and Tuesday 27th August due to the UK summer bank holiday. No helpdesk queries or services will be answered or fixed on these dates.\n",
         
         
@@ -16333,10 +18097,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 696,
         href: "/news/updates/2017/2017-11-03-prise-visit-to-ral-space/",
-        title: "Reducing pest risk through collaboration; PRISE visit to RAL Space",
+        title: "Reducing pest risk through col...",
         description: "On Friday 29th September, the Centre for Environmental Data Analysis (CEDA) hosted key partners from the PRISE project; including a variety of organisations across the UK, Zambia, Kenya and Ghana as part of the UK Stakeholder workshop.\n",
         
         
@@ -16347,10 +18114,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 697,
         href: "/news/updates/2025/2025-10-14-isc-course-2025/",
-        title: "Register for the introduction to Scientific Computing Course now!",
+        title: "Register for the introduction ...",
         description: " Want to study scientific computing? From the Linux Shell to Python, our Introduction to Scientific Computing course will prepare you to use computing in environmental science research.\n",
         
         
@@ -16361,10 +18131,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 698,
         href: "/news/updates/2024/2024-02-19-ncas-early-careers-symposium/",
-        title: "Registration still open for NCAS’ Early Career Staff Symposium on 20th-21st March 2024!",
+        title: "Registration still open for NC...",
         description: "The National Centre for Atmospheric Science (NCAS) are hosting the first Harmony in the Skies: Bridging Horizons in Atmospheric Science symposium for the early career atmospheric science community!\n",
         
         
@@ -16375,10 +18148,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 699,
         href: "/news/updates/2023/2023-12-19-eodh-itt-announcement/",
-        title: "Release of EO DataHub Applications and Integrations ITT",
+        title: "Release of EO DataHub Applicat...",
         description: " \u0026nbsp; Deadline now extended to 29 January 2024, 14:00 NCEO and the EO DataHub team are pleased to announce the release of our latest invitation to tender, the EO DataHub Applications and Integrations ITT. The tender is now open for submissions and will close on the 29 January 2024, 14:00:\n",
         
         
@@ -16389,10 +18165,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 700,
         href: "/news/updates/2021/2021-01-20-change-of-server-for-elastic-tape-service/",
-        title: "Reminder - Change of server for Elastic Tape service.",
+        title: "Reminder - Change of server fo...",
         description: "The server used to access the Elastic Tape service (et1.ceda.ac.uk) has reached its end of life and is due to be decommissioned.\n",
         
         
@@ -16403,10 +18182,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 701,
         href: "/news/updates/2024/2024-01-29-reminder-gws-survey-webinar/",
-        title: "Reminder - GWS managers survey \u0026 webinar on 8th Feb",
+        title: "Reminder - GWS managers survey...",
         description: "To: all JASMIN Group Workspace Managers\n(please ignore if you are not involved in managing a GWS)\nReminder to GWS Managers: Please take a few minutes to complete our survey of Group Workspaces on JASMIN.\n",
         
         
@@ -16417,10 +18199,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 702,
         href: "/news/updates/2020/2020-07-27-reminder-important-changes-to-scratch-storage-2/",
-        title: "Reminder - IMPORTANT Changes to Scratch Storage",
+        title: "Reminder - IMPORTANT Changes t...",
         description: "Dear JASMIN users,\nAs previously announced:\nThe old scratch volume /work/scratch remains available READ ONLY until Friday 31st July but will then be retired. A new volume /work/scratch-pw is now in place on PFS (parallel file system) storage with a total capacity of 1 Petabyte. Both /work/scratch-pw and /work/scratch-nopw have automated processes to “police” usage by deleting files that have not been accessed for the past 28 days. Please be aware that this automated clearout process is now running on a weekly basis.\n",
         
         
@@ -16431,10 +18216,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 703,
         href: "/news/updates/2020/2020-07-16-reminder-important-changes-to-scratch-storage-1/",
-        title: "Reminder - IMPORTANT Changes to Scratch Storage",
+        title: "Reminder - IMPORTANT Changes t...",
         description: "Dear JASMIN users,\nAs previously announced:\nThe old scratch volume /work/scratch remains available READ ONLY until Friday 31st July but will then be retired. A new volume /work/scratch-pw is now in place on PFS (parallel file system) storage with a total capacity of 1 Petabyte. Both /work/scratch-pw and /work/scratch-nopw have automated processes to “police” usage by deleting files that have not been accessed for the past 28 days. Please be aware that this automated clearout process will now start running on a weekly basis from this Friday 17th July.\n",
         
         
@@ -16445,10 +18233,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 704,
         href: "/news/updates/2020/2020-06-24-reminder-important-changes-to-scratch-storage/",
-        title: "Reminder - IMPORTANT Changes to Scratch Storage",
+        title: "Reminder - IMPORTANT Changes t...",
         description: "Dear JASMIN users,\nPlease note the following changes that affect the /work/scratch\nWe have previously announced that the new scratch volume /work/scratch-pw is available. This volume is on PFS (parallel file system) storage with a total capacity of 1 Petabyte, but has automated processes in place to “police” usage. The old volume, /work/scratch will be available for READ access only from this Friday 26th June until 31st July. Please do not run batch jobs that write to /work/scratch as your job will fail.\n",
         
         
@@ -16459,10 +18250,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 705,
         href: "/news/updates/2022/2022-03-21-jasmin-further-maintenance-period-29th-march/",
-        title: "REMINDER - JASMIN further maintenance period 29th March",
+        title: "REMINDER - JASMIN further main...",
         description: "Dear users,\nA major component of the recent work scheduled for 1st March was not able to take place, so an alternative date has now been set for this part of the work.\n",
         
         
@@ -16473,10 +18267,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 706,
         href: "/news/updates/2020/2020-10-26-jasmin-migration-to-centos7-lsf-replacement-with-slurm-update-12/",
-        title: "Reminder - JASMIN‌ ‌Migration‌ ‌to‌ ‌CentOS7‌ ‌\u0026‌ ‌LSF‌ ‌replacement‌ ‌with‌ ‌SLURM‌ ‌UPDATE‌ ‌12‌",
+        title: "Reminder - JASMIN‌ ‌Migration‌...",
         description: "Dear JASMIN users,\nNew CentOS7 MASS client server Old jasmin-cylc.ceda.ac.uk to be retired on Tuesday 3rd November. JASPY default version will be updated on Tuesday 3rd November. Reminder to use the new login, sci and xfer servers Closing down LSF and removing access to LOTUS head node Support for parallel NetCDF libraries (under /apps/jasmin/) ESMValTool installed on JASMIN Details of the update\n",
         
         
@@ -16487,10 +18284,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 707,
         href: "/news/updates/2022/2022-10-14-jasmin-planned-maintenance-and-updates-tuesday-18th-october/",
-        title: "Reminder - JASMIN planned maintenance and updates - Tuesday 18th October",
+        title: "Reminder - JASMIN planned main...",
         description: "Dear users,\nPlease note the upcoming maintenance work affecting JASMIN on Tuesday 18th October. The following system work/enhancements are also planned for that date in order to minimise disruption: ",
         
         
@@ -16501,10 +18301,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 708,
         href: "/news/updates/2020/2020-10-26-reminder-tape-library-maintenance-26-28-oct/",
-        title: "Reminder - Tape library maintenance 26-28 Oct",
+        title: "Reminder - Tape library mainte...",
         description: "This is just a reminder that Tape library maintenance scheduled for Tuesday 27th October will mean that the Elastic Tape (ET) and Near-Line Archive (NLA) services are unavailable from lunchtime today, Monday 26th October until the morning of Wednesday 28th October.\n",
         
         
@@ -16515,10 +18318,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 709,
         href: "/news/updates/2021/2021-03-30-access-to-ceda-and-jasmin-services-at-risk-30-31-march-2021/",
-        title: "Reminder Access to CEDA and JASMIN services at risk today and tomorrow (30-31 March 2021)",
+        title: "Reminder Access to CEDA and JA...",
         description: "Please be aware that due to Domain Name Server (DNS) upgrades undertaken by our host institution on 30 and 31 March 2021, there could be delays or interruptions to access to CEDA and JASMIN services after 18:00 on each of these dates.\n",
         
         
@@ -16529,10 +18335,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 710,
         href: "/news/updates/2023/2023-09-08-reminder-advance-notice-of-jasmin-power-maintenance-autumn-2023/",
-        title: "REMINDER Advance notice of JASMIN power maintenance Autumn 2023",
+        title: "REMINDER Advance notice of JAS...",
         description: "Dear Users,\nAs per our previous announcement in July, essential work will be taking place this Autumn in the data centre (machine room) where JASMIN is hosted to carry out safety checks and 5-yearly recertification of power supply equipment.\n",
         
         
@@ -16543,10 +18352,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 711,
         href: "/news/updates/2021/2021-03-10-brief-network-interruptions-10th-march/",
-        title: "Reminder Brief network interruptions Today, 10th March",
+        title: "Reminder Brief network interru...",
         description: "Dear users,\nPlease be aware that due to scheduled network maintenance carried out by our host organisation, there will be a series of brief interruptions to network connectivity (a few seconds each) today, Wednesday 10th March 2021, between 09:00 and 10:30.\nThese will affect network connections to the RAL site (and hence JASMIN and CEDA services), so may result in disconnected terminal sessions, interruptions to processing or data transfers in progress or availability of services.\nWe are informed that the interruptions will also affect connections made using the Optical Private Network (OPN) connections to Leeds, Edinburgh and the Met Office.\n",
         
         
@@ -16557,10 +18369,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 712,
         href: "/news/updates/2017/2017-07-11-reminder-ceda-and-jasmin-storage-downtime-12-13-july-no-new-job-submission-at-present/",
-        title: "Reminder CEDA and JASMIN storage downtime 12-13 July | No new job submission at present",
+        title: "Reminder CEDA and JASMIN stora...",
         description: "AllJASMIN and CEDA users are reminded of the scheduled down time period 12-13th July to allow for essential storage infrastructure upgrades to take place.\n",
         
         
@@ -16571,10 +18386,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 713,
         href: "/news/updates/2020/2020-12-11-reminder-ceda-and-jasmin-support-over-christmas-period/",
-        title: "Reminder CEDA and JASMIN support over Christmas period",
+        title: "Reminder CEDA and JASMIN suppo...",
         description: "A reminder there is a \u0026ldquo;change freeze\u0026rdquo; in place from 17:00 today. Requests for new or changes to existing services will not be dealt with until the New Year.\n",
         
         
@@ -16585,10 +18403,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 714,
         href: "/news/updates/2020/2020-06-10-reminder-jasmin-at-risk-period-11th-june-2020/",
-        title: "Reminder JASMIN at-risk period 11th June 2020",
+        title: "Reminder JASMIN at-risk period...",
         description: "We previously announced electrical work planned for the RAL site around the Bank Holiday weekend of 22nd-25th May, which carried with it a small risk of disruption to JASMIN’s power supply. In fact, the main part of this work has now been re-scheduled to Thursday 11th June 2020. The risk of disruption is small but if it occurs would result in all JASMIN and CEDA services being offline for several days if power was lost.\n",
         
         
@@ -16599,10 +18420,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 715,
         href: "/news/updates/2020/2020-05-13-reminder-jasmin-maintenance-at-risk-periods-may-2020/",
-        title: "Reminder JASMIN maintenance \u0026 at-risk periods May 2020",
+        title: "Reminder JASMIN maintenance \u0026 ...",
         description: "Scheduled network maintenance on JASMIN is planned for Wednesday 13th May which requires a JASMIN downtime affecting CEDA and JASMIN systems including access to the CEDA Archive and JASMIN community cloud\n",
         
         
@@ -16613,10 +18437,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 716,
         href: "/news/updates/2020/2020-04-21-reminder-jasmin-maintenance-today-28-april-2020/",
-        title: "Reminder JASMIN Maintenance Today \u0026 28 April 2020",
+        title: "Reminder JASMIN Maintenance To...",
         description: "Scheduled maintenance is planned for Today AND 28th April 2020, some of which will result in disruption to JASMIN systems, services and data in addition to the CEDA Archive.\n",
         
         
@@ -16627,10 +18454,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 717,
         href: "/news/updates/2020/2020-04-27-reminder-jasmin-maintenance-tomorrow-28-april-2020/",
-        title: "Reminder JASMIN Maintenance Tomorrow 28 April 2020",
+        title: "Reminder JASMIN Maintenance To...",
         description: "A reminder that scheduled maintenance is planned for tomorrow 28th April 2020, potentially affecting some storage systems and services which rely on them.\n",
         
         
@@ -16641,10 +18471,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 718,
         href: "/news/updates/2020/2020-04-20-reminder-jasmin-maintenance-tues-21-28-april-2020/",
-        title: "Reminder JASMIN Maintenance Tues 21 \u0026 28 April 2020",
+        title: "Reminder JASMIN Maintenance Tu...",
         description: "Scheduled maintenance is planned for Tuesday 21st AND 28th April 2020, some of which will result in disruption to JASMIN systems, services and data in addition to the CEDA Archive.\n",
         
         
@@ -16655,10 +18488,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 719,
         href: "/news/updates/2020/2020-01-13-reminder-jasmin-maintenance-tuesday-14th-january-2020-1/",
-        title: "Reminder JASMIN Maintenance Tuesday 14th January 2020",
+        title: "Reminder JASMIN Maintenance Tu...",
         description: "Scheduled maintenance is planned for Tuesday 14th January 2020, which could result in disruption to JASMIN systems, services and data in addition to the CEDA Archive.\n",
         
         
@@ -16667,12 +18503,15 @@ function initIndex() {
       .add(
       
       
+      
+      
+          
       
       
       {
         id: 720,
         href: "/news/updates/2020/2020-01-06-reminder-jasmin-maintenance-tuesday-14th-january-2020/",
-        title: "Reminder JASMIN Maintenance Tuesday 14th January 2020",
+        title: "Reminder JASMIN Maintenance Tu...",
         description: "Scheduled maintenance is planned for Tuesday 14th January 2020, which could result in disruption to JASMIN systems, services and data in addition to the CEDA Archive.\n",
         
         
@@ -16683,10 +18522,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 721,
         href: "/news/updates/2020/2020-08-28-jasmin-migration-to-centos7-lsf-replacement-with-slurm-update-10/",
-        title: "Reminder JASMIN Migration to CentOS7 \u0026 LSF replacement with SLURM UPDATE 10",
+        title: "Reminder JASMIN Migration to C...",
         description: "Dear JASMIN users,\nThis message includes information about the following:\nUpdate on SLURM and the CentOS7 LOTUS cluster Timeline to retire old RHEL6 login, sci and data transfer servers New high-memory CentOS7 sci machines Details of the update\n",
         
         
@@ -16697,10 +18539,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 722,
         href: "/news/updates/2020/2020-11-16-jasmin-migration-to-centos7-lsf-replacement-with-slurm-update-13/",
-        title: "Reminder JASMIN Migration to CentOS7 \u0026 LSF replacement with SLURM UPDATE 13",
+        title: "Reminder JASMIN Migration to C...",
         description: "Dear JASMIN users,\nNew MASS client server is available Old mass-cli1.ceda.ac.uk server will be retired on Tuesday 17th November Old jasmin-cylc.ceda.ac.uk has been retired JASPY default version was updated on Tuesday 3rd November Reminder to use the new login, sci and xfer servers SLURM update Details of the update \u0026nbsp; The new CentOS7 MASS mass-cli.jasmin.ac.uk server is now available for use. ",
         
         
@@ -16711,10 +18556,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 723,
         href: "/news/updates/2023/2023-03-20-jasmin-mini-patch-day-tuesday-21st-march-2023/",
-        title: "Reminder JASMIN mini-patch day Tomorrow - Tuesday 21st March 2023",
+        title: "Reminder JASMIN mini-patch day...",
         description: "Dear JASMIN user,\nPlease note the upcoming “mini” maintenance day on Tuesday 21st March. The following system work/enhancements are also planned for that date in order to minimise disruption:\n",
         
         
@@ -16725,10 +18573,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 724,
         href: "/news/updates/2022/2022-11-21-jasmin-planned-mini-maintenance-and-other-updates-tuesday-22nd-november-1/",
-        title: "Reminder JASMIN planned mini maintenance and other updates - Tuesday 22nd November",
+        title: "Reminder JASMIN planned mini m...",
         description: "Dear users,\nPlease note the upcoming “mini” maintenance day on Tuesday 22nd November. The following system work/enhancements are also planned for that date in order to minimise disruption: ",
         
         
@@ -16739,10 +18590,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 725,
         href: "/news/updates/2023/2023-10-19-reminder-jasmin-power-maintenance-autumn-2023/",
-        title: "REMINDER JASMIN power maintenance Autumn 2023",
+        title: "REMINDER JASMIN power maintena...",
         description: "Dear Users,\nAs per our previous announcements, essential work will be taking place this Autumn in the data centre (machine room) where JASMIN is hosted to carry out safety checks and 5-yearly recertification of power supply equipment.\n",
         
         
@@ -16753,10 +18607,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 726,
         href: "/news/updates/2019/2019-11-26-reminder-jasmin-storage-maintenance-27th-november-all-services-should-be-considered-unavailable-2/",
-        title: "REMINDER JASMIN storage maintenance 27th November all services should be considered unavailable",
+        title: "REMINDER JASMIN storage mainte...",
         description: "This is another reminder that further scheduled maintenance is required TOMORROW (Wednesday 27th November) to supplement the work recently undertaken on 14th October. We anticipate the work will take all day.\n",
         
         
@@ -16767,10 +18624,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 727,
         href: "/news/updates/2019/2019-11-19-reminder-jasmin-storage-maintenance-27th-november-all-services-should-be-considered-unavailable-1/",
-        title: "REMINDER JASMIN storage maintenance 27th November all services should be considered unavailable",
+        title: "REMINDER JASMIN storage mainte...",
         description: "This is another reminder that further scheduled maintenance is required on Wednesday 27th November to supplement the work recently undertaken on 14th October. The work this time will focus mainly on the Panasas system, used for parallel file system (PFS) storage.\n",
         
         
@@ -16781,10 +18641,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 728,
         href: "/news/updates/2019/2019-11-12-reminder-jasmin-storage-maintenance-27th-november-all-services-should-be-considered-unavailable/",
-        title: "REMINDER JASMIN storage maintenance 27th November all services should be considered unavailable",
+        title: "REMINDER JASMIN storage mainte...",
         description: "This is just a reminder that further scheduled maintenance is required on Wednesday 27th November to supplement the work recently undertaken on 14th October. The work this time will focus mainly on the Panasas system, used for parallel file system (PFS) storage.\n",
         
         
@@ -16795,10 +18658,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 729,
         href: "/news/updates/2021/2021-07-05-jasmin-system-maintenance-tuesday-6th-july-2021/",
-        title: "Reminder JASMIN system maintenance tomorrow, Tuesday 6th July 2021",
+        title: "Reminder JASMIN system mainten...",
         description: "Dear users,\nScheduled maintenance is planned for tomorrow, Tuesday 6th July 2021, which will cause some disruption to JASMIN and CEDA services. Systems will be “at risk” and may be unavailable for all or part of the day.\n",
         
         
@@ -16809,10 +18675,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 730,
         href: "/news/updates/2020/2020-01-23-reminder-jasmin-systems-change-freeze-2401-to-0302/",
-        title: "REMINDER JASMIN systems change freeze - 24/01 to 03/02",
+        title: "REMINDER JASMIN systems change...",
         description: "There will be a freeze on any changes requested to JASMIN between Friday 24th January and Monday 3rd February. This is due to limited staff availability during this time.\n",
         
         
@@ -16823,10 +18692,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 731,
         href: "/news/updates/2021/2021-04-20-network-interruption-wed-21-april-2021/",
-        title: "Reminder Network interruption tomorrow, Wed 21 April 2021",
+        title: "Reminder Network interruption ...",
         description: "Tomorrow, Wednesday 21st April, upgrades by our host institution to the RAL site firewall will be undertaken between 06:00 and 10:00. This will involve some disruption to all services using the RAL network: this includes JASMIN and CEDA services. Please be aware of this scheduled interruption so that you can plan your work accordingly.\n",
         
         
@@ -16837,10 +18709,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 732,
         href: "/news/updates/2021/2021-05-17-new-jaspy-python37-version-to-be-released-on-20052021/",
-        title: "Reminder New Jaspy python3.7 version to be released on 20/05/2021",
+        title: "Reminder New Jaspy python3.7 v...",
         description: "Dear JASMIN users,\nWe are pleased to announce that a new version of the JASPY Python 3.7 software environment has been released on JASMIN. It is currently ready for testing on the JASMIN \u0026ldquo;sci\u0026rdquo; servers and the LOTUS cluster.\n",
         
         
@@ -16851,10 +18726,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 733,
         href: "/news/updates/2021/2021-02-23-advance-notice-jasmin-system-maintenance-tues-2-march-2021/",
-        title: "Reminder Notice JASMIN System Maintenance Tues 2 March 2021",
+        title: "Reminder Notice JASMIN System ...",
         description: "Scheduled maintenance is planned for Tuesday 2nd March 2021, which may cause some disruption to JASMIN and CEDA services.\nOn a regular (roughly quarterly) basis, important updates are applied to systems within the JASMIN infrastructure (which also hosts the CEDA Archive and associated services) in order to keep them up to date and secure. Some servers may need to be rebooted in order for these changes to take effect, so there may be an interruption to some JASMIN and CEDA services on this date.\nOther work may also be scheduled for this date in order to minimise disruption to users.\n",
         
         
@@ -16865,10 +18743,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 734,
         href: "/news/updates/2022/2022-06-17-jasmin-reminder-of-maintenance-work-on-weekend-of-1819-june-and-extended-at-risk-period-20-24-june/",
-        title: "Reminder of maintenance work on weekend of 18/19 June and extended at risk period 20-24 June",
+        title: "Reminder of maintenance work o...",
         description: "Please note upcoming maintenance work and extended \u0026ldquo;at risk\u0026rdquo; period affecting JASMIN \u0026amp; CEDA next week:\nAdvance notice of STFC network intervention, 18-19 June 2022 Over the weekend of 18/19 June, there will be NO ACCESS to the RAL network, in which JASMIN is hosted, so there will be no access to JASMIN and CEDA services. Work is expected to continue on Monday 20th \u0026amp; Tuesday 21st June affecting some or all parts of the network. This work is being carried out by STFC’s network team. We will provide further details as these become available.\n",
         
         
@@ -16879,10 +18760,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 735,
         href: "/news/updates/2024/2024-10-04-reminder-upcoming-changes-and-maintenance/",
-        title: "Reminder of upcoming JASMIN changes and maintenance periods",
+        title: "Reminder of upcoming JASMIN ch...",
         description: "Dear users\nPlease note the following JASMIN announcements for your attention:\nNew services now available: please start using them! JASMIN maintenance: electrical testing, 8-10 October (all systems at risk) JASMIN Scheduled maintenance day, Tuesday 15 October (all systems at risk) 1. New services now available \u0026nbsp; General \u0026nbsp; JASMIN Help Documentation\u0026nbsp; has now been updated to reflect the new Rocky 9 servers, so users are now asked to start using these (login, sci, xfer, hpxfer, etc) wherever possible. Please update your local configuration if you have stored the names of older servers. Older servers will start to be withdrawn over the next weeks, but will be announced in advance.\n",
         
         
@@ -16893,10 +18777,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 736,
         href: "/news/updates/2021/2021-10-04-system-maintenance-5th-october-2021/",
-        title: "Reminder System Maintenance 5th October 2021",
+        title: "Reminder System Maintenance 5t...",
         description: "Reminder: System Maintenance planned for 5th October 2021.\nScheduled maintenance is planned for Tuesday 5th October 2021, which will cause some disruption to JASMIN and CEDA services. Systems will be “at risk” and may be unavailable for all or part of the day.\n",
         
         
@@ -16907,10 +18794,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 737,
         href: "/news/updates/2019/2019-09-19-advance-notice-system-maintenance-15-october-2019/",
-        title: "Reminder system maintenance Today 15 October 2019",
+        title: "Reminder system maintenance To...",
         description: "Scheduled maintenance is planned for Tuesday 15th October, which will result in many systems, services and data (including parts of the CEDA Archive) being unavailable for much of the day. We apologise for any inconvenience this may cause.\n",
         
         
@@ -16921,10 +18811,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 738,
         href: "/news/updates/2020/2020-08-17-reminder-tape-library-maintenance-1718-aug/",
-        title: "Reminder Tape library maintenance 17/18 Aug",
+        title: "Reminder Tape library maintena...",
         description: "Dear users,\nThis is a reminder to please be aware that further maintenance work on the tape library system used is now scheduled for Tuesday 18th August 2020 for one day, however it will be taken out of service from 17:00 today to clear any queued tasks first.\nThis will mean that the Elastic Tape (ET, whether accessed directly or via the JDMA interface) and Near-Line Archive services will be unavailable for this period.\n",
         
         
@@ -16935,10 +18828,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 739,
         href: "/news/updates/2021/2021-10-25-reminder-tape-service-maintenance-2627-oct/",
-        title: "Reminder Tape service maintenance 26/27 Oct",
+        title: "Reminder Tape service maintena...",
         description: "Dear users\nThere will be a downtime for tape services (affecting Elastic Tape, JDMA and the Near-Line Archive service) on Wednesday 27th October, to apply essential updates. All tape activity will need to be stopped during the work, so in order to drain the system, these services will be unavailable to users from Tuesday 26th October until the work is completed on Wednesday afternoon.\n",
         
         
@@ -16949,10 +18845,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 740,
         href: "/news/updates/2022/2022-08-08-tape-services-maintenance-8-9-august-2022/",
-        title: "Reminder Tape services maintenance 8-9 August 2022",
+        title: "Reminder Tape services mainten...",
         description: "Dear Users\nTape services will be out of action from midday on Monday 8th August 2022 until the afternoon of Tuesday 9th August 2022, to enable updates to be applied to firmware and software components of the tape library and servers involved in the delivery of tape services. ",
         
         
@@ -16963,10 +18862,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 741,
         href: "/news/updates/2021/2021-02-11-reminder-update-to-high-performance-data-transfer-services/",
-        title: "Reminder Update to high-performance data transfer services",
+        title: "Reminder Update to high-perfor...",
         description: "Dear users,\nAs announced last week, the following servers will be decommissioned tomorrow Friday 12th Feb:\njasmin-xfer[23].ceda.ac.uk (high-performance data transfer servers)\nnow replaced by hpxfer[12].jasmin.ac.uk: please use these instead. ftp.ceda.ac.uk (CEDA Archive FTP server)\nThe new host for this service will operate at the same name ftp.ceda.ac.uk, but if you have used the hostname ftp2.ceda.ac.uk directly, then you are advised to change to using the alias ftp.ceda.ac.uk so that the change happens transparently to you when the old server is decommissioned. We have been aware for a while of an issue affecting transfers to and from some file system (particularly affecting transfers made using Globus) but this is still under investigation. Please look out for further announcements about this and replacement of the remaining high-performance data transfer servers.\n",
         
         
@@ -16977,16 +18879,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 742,
         href: "/news/updates/2020/2020-06-29-reminder-user-survey-to-gauge-needs-in-preparation-for-purchase-of-a-new-gpu-cluster/",
-        title: "Reminder User survey to gauge needs in preparation for purchase of a new GPU cluster",
+        title: "Reminder User survey to gauge ...",
         description: "This is just a reminder that the planned 2020 upgrade for JASMIN will include a substantial upgrade to JASMIN GPU capacity. While we have a panel of experts helping us develop requirements, it will be useful for us to get direct feedback about actual and potential GPU usage within the community of existing and potential JASMIN users. To that end we have a short survey. It should only take 5-10 minutes to complete, and we would value you doing that before the end of June.\n",
         
         
         content: "This is just a reminder that the planned 2020 upgrade for JASMIN will include a substantial upgrade to JASMIN GPU capacity. While we have a panel of experts helping us develop requirements, it will be useful for us to get direct feedback about actual and potential GPU usage within the community of existing and potential JASMIN users. To that end we have a short survey. It should only take 5-10 minutes to complete, and we would value you doing that before the end of June.\nhttps://www.surveymonkey.co.uk/r/FRLSCSD\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -17005,10 +18911,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 744,
         href: "/news/updates/2023/2023-07-24-issue-with-jasmin-gridftp-and-globus-transfers/",
-        title: "RESOLVED - Issue with JASMIN GridFTP and Globus transfers",
+        title: "RESOLVED - Issue with JASMIN G...",
         description: "Dear Users\nThe earlier issue with GridFTP and Globus transfers to/from JASMIN has now been resolved.\nApologies for any inconvenience.\n",
         
         
@@ -17019,10 +18928,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 745,
         href: "/news/updates/2022/2022-01-19-jasmin-issue-with-access-roles/",
-        title: "RESOLVED JASMIN issue with access roles",
+        title: "RESOLVED JASMIN issue with acc...",
         description: "Dear Users,\nWe believe that the issue with JASMIN access roles is now resolved and missing access roles have been restored. Please contact support@jasmin.ac.uk if you find any remaining issues with your access roles.\n",
         
         
@@ -17033,10 +18945,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 746,
         href: "/news/updates/2014/2014-08-15-results-of-the-cemsnceo-user-survey-and-new-earth-observation-datasets/",
-        title: "Results of the CEMS/NCEO User Survey and New Earth Observation Datasets",
+        title: "Results of the CEMS/NCEO User ...",
         description: "The results from the 2014 CEMS and NCEO user survey on data requirements are out, and a number of new EO datasets are being added to the archive this summer!\n",
         
         
@@ -17047,10 +18962,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 747,
         href: "/news/updates/2008/2008-06-06-resumption-of-mipas-near-real-time-data-available/",
-        title: "Resumption of MIPAS Near Real Time data available through the NEODC",
+        title: "Resumption of MIPAS Near Real ...",
         description: "NEODC is pleased to announce the resumption of MIPAS NRT data into the NEODC archive. This follows an interuption in the supply as a result of instrument difficulties.\n",
         
         
@@ -17061,10 +18979,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 748,
         href: "/news/updates/2025/2025-02-06-retirement-of-ftp-service/",
-        title: "Retirement of authenticated FTP service",
+        title: "Retirement of authenticated FT...",
         description: "After a review of our FTP service following a security incident at the end of 2024 we have decided that we will no longer support authenticated FTP access to restricted data in the CEDA Archive via ftp.ceda.ac.uk.\n",
         
         
@@ -17075,10 +18996,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 749,
         href: "/news/updates/2010/2010-05-04-rspsoc-annual-student-meeting-2009/",
-        title: "RSPSOC Annual Student Meeting 2009",
+        title: "RSPSOC Annual Student Meeting ...",
         description: "The 2009 Annual Student Meeting of the Remote Sensing and Photogrammetry Society is taking place in the Lake District on 14-16 April.\n",
         
         
@@ -17089,10 +19013,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 750,
         href: "/news/updates/2005/2005-03-04-sage-ii-version-62-data-now-available-from-the-ba/",
-        title: "SAGE II version 6.2 data now available from the BADC",
+        title: "SAGE II version 6.2 data now a...",
         description: "Version 6.1 data are available from October 1984 through July 2000, in the form of index files and spec files, with software to assist processing in IDL.\n",
         
         
@@ -17103,16 +19030,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 751,
         href: "/news/updates/2005/2005-07-28-sage-iii-version-3-data-now-available-from-badc/",
-        title: "SAGE III version 3 data now available from BADC",
+        title: "SAGE III version 3 data now av...",
         description: "The Stratospheric Aerosol and Gas Experiment III (SAGE III) was successfully launched onboard a Meteor-3M spacecraft on December 10, 2001. The satellite is in a sun-synchronous orbit with an ascending node time of about 9 AM. Routine measurement operations began in March 2002.\n",
         
         
         content: "The Stratospheric Aerosol and Gas Experiment III (SAGE III) was successfully launched onboard a Meteor-3M spacecraft on December 10, 2001. The satellite is in a sun-synchronous orbit with an ascending node time of about 9 AM. Routine measurement operations began in March 2002.\nThe specific measurement objectives of SAGE III provide 1 km vertical resolution profiles of:\naerosols and clouds at seven wavelengths from the mid-troposphere into the stratosphere and where appropriate, the mesosphere; O3 from the mid-troposphere to 85 km; H2O from the planetary boundary layer to 50 km; NO2 from the tropopause to 45 km; NO3 from 20 to 55 km; OClO from 15 to 25 km; O2 from the mid-troposphere to 70 km For more information on SAGE III data, software and conditions of access, please see http://badc.nerc.ac.uk/data/sage3/\u0026nbsp; .\nBADC Support 28th July 2005"
       })
       .add(
+      
       
       
       
@@ -17131,10 +19062,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 753,
         href: "/news/updates/2019/2019-12-10-save-the-date-jasmin2020/",
-        title: "Save the date! JASMIN2020 conference dates now announced",
+        title: "Save the date! JASMIN2020 conf...",
         description: "The JASMIN2020 conference will showcase how the JASMIN facility is supporting and advancing environmental research. This free event will be held at JASMIN’s home institution, the Science and Technology Facilities Council (STFC) at the Harwell Campus in Oxfordshire, on Tuesday 16th June 2020. The one day event will be an opportunity for users to share experiences of using JASMIN and see how others have solved problems with the available tools/applications. The conference aims to help users get the most out of JASMIN’s facilities by learning from others\u0026rsquo; experiences. It will also be an opportunity for users to tell the team (and our funders) how using JASMIN for their research has had a positive benefit on the science community and/or wider society. We want the event to be about networking and sharing knowledge so that attendees can go home with ideas for improving their work on JASMIN. The conference will therefore be a mixture of user presentations, updates from the JASMIN team and poster sessions. The JASMIN team will share information about existing (and new) services that are of interest to the community. The conference will be preceded by a hands on training workshop on Monday 15th June covering the topics detailed here (spaces will be limited for this). \u0026nbsp; Further details will be announced in the New Year - please save the date in the meantime!\n",
         
         
@@ -17145,10 +19079,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 754,
         href: "/news/updates/2020/2020-08-04-save-the-date-jasmin2020-virtual-event/",
-        title: "Save the date! JASMIN2020 virtual event",
+        title: "Save the date! JASMIN2020 virt...",
         description: "This online event will take place on the mornings of Tuesday 29th and Wednesday 30th September - and is free to attend. ",
         
         
@@ -17159,10 +19096,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 755,
         href: "/news/updates/2009/2009-09-24-seminars-and-conferences-list-updated/",
-        title: "Seminars and Conferences list updated",
+        title: "Seminars and Conferences list ...",
         description: "Updated lists of national and international conferences, meetings and workshops can be found at:\nhttp://badc.nerc.ac.uk/community/conferences/\u0026nbsp; ",
         
         
@@ -17173,16 +19113,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 756,
         href: "/news/updates/2017/2017-11-22-sentinel-data-in-ceda-archive-latest-news/",
-        title: "Sentinel data in CEDA archive latest news",
+        title: "Sentinel data in CEDA archive ...",
         description: "CEDA have filled the archive space allocated for the Sentinel mirror data archive.\nThe recent power outage has further delayed our efforts of moving older data to the Near Line Archive (NLA). This allows archive space to be allocated to new and gapfilling data.\n",
         
         
         content: "CEDA have filled the archive space allocated for the Sentinel mirror data archive.\nThe recent power outage has further delayed our efforts of moving older data to the Near Line Archive (NLA). This allows archive space to be allocated to new and gapfilling data.\nCEDA currently have 64TB of Sentinel data on the transfer cache. As soon as the NLA transfer process allows allocation of new archive space we will begin moving this data to the archive for users to access. Gapfilling will proceed with the most recent data first.\nCEDA have recently updated systems to improve the mirroring of the ESA hubs. These improvements include increasing the number of source hubs used and streamlining the allocation of older data to the NLA. CEDA are also updating reporting tools visible to users so users can see the current archive and cache status on a daily basis.\nCEDA will also shortly begin the mirroring of Sentinel2b and Sentinel3a L2 data.\nWe apologise for any inconvienace caused."
       })
       .add(
+      
       
       
       
@@ -17201,6 +19145,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 758,
         href: "/news/updates/2021/2021-11-04-sentinel-data-variety-and-volume/",
@@ -17215,10 +19160,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 759,
         href: "/news/updates/2017/2017-07-20-sentinel-data-weighs-in-at-a-horn-ormous-2pb/",
-        title: "Sentinel data weighs in at a 'horn'-ormous 2PB",
+        title: "Sentinel data weighs in at a '...",
         description: "The CEDA archive now contains more than 2 Petabytes of Sentinel data comprised of a whopping ~1.6 million individual Sentinel data products. If 2PB\u0026rsquo;s were represented by weight (when 1gram = 1GB), the archived Sentinel data would \u0026lsquo;weigh\u0026rsquo; the equivalent of a Rhino - absolutely \u0026lsquo;horn\u0026rsquo;-ormous! In contrast, your average smartphone data capacity would weigh the equivalent of a mouse. See infographic below for more details.\n",
         
         
@@ -17229,16 +19177,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 760,
         href: "/news/updates/2011/2011-08-16-server-problems-notice-of-affected-datasets/",
-        title: "Server problems - notice of affected datasets",
+        title: "Server problems - notice of af...",
         description: "Following system disk problems, the following datasets are temporarily unavailable:\nRAPID Met Office metDB Met Office land surface data (old dataset, now superseded by MIDAS dataset which is still available) We are working at restoring access to the affected datasets as soon as possible.\n",
         
         
         content: "Following system disk problems, the following datasets are temporarily unavailable:\nRAPID Met Office metDB Met Office land surface data (old dataset, now superseded by MIDAS dataset which is still available) We are working at restoring access to the affected datasets as soon as possible.\nWe apologise for any inconvenience that this may cause.\nBADC Helpdesk\n16 August 2011"
       })
       .add(
+      
       
       
       
@@ -17257,10 +19209,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 762,
         href: "/news/updates/2007/2007-04-20-services-at-risk-on-monday-23-april/",
-        title: "Services at risk on Monday 23 April",
+        title: "Services at risk on Monday 23 ...",
         description: "We will be making updates to the BADC website on the morning of Monday 23 April. Certain services, such as user registration and dataset application will be unavailable for a while during this morning. In addition, other services are at risk during this time. We aim to minimise any disruption and hope to be fully functional again by lunchtime. We appologise for any inconvenience.\n",
         
         
@@ -17271,10 +19226,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 763,
         href: "/news/updates/2007/2007-07-18-services-at-risk-on-thursday-19-july/",
-        title: "Services at risk on Thursday 19 July",
+        title: "Services at risk on Thursday 1...",
         description: "Following service interruptions over the weekend one of our system disks is being upgraded and as a result the following datasets will be unavailable for approximately 24 hours: autex-wintex, chablis, eaquate, hadgem1-control, meris, neon, pose, sage2, ukmo-assim, ukmo-surface.\n",
         
         
@@ -17285,10 +19243,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 764,
         href: "/news/updates/2020/2020-10-29-short-jasmin-outage-on-wednesday-4th-november-at-7am/",
-        title: "Short JASMIN outage on Wednesday 4th November at 7am",
+        title: "Short JASMIN outage on Wednesd...",
         description: "Dear Users,\nJASMIN’s host institute at RAL are planning some short breaks in connectivity for a site wide firewall firmware upgrade. This will affect all access to JASMIN - except the DTZ machines and external cloud.\n",
         
         
@@ -17299,10 +19260,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 765,
         href: "/news/updates/2009/2009-12-16-site-phone-line-issues-badc-helpdesk-number-unava/",
-        title: "Site phone line issues - BADC helpdesk number unavailable",
+        title: "Site phone line issues - BADC ...",
         description: "A problem has occured with the site phone system that affects the BADC helpdesk number. Please contact the BADC on badc@rl.ac.uk for helpdesk assistance.\n",
         
         
@@ -17313,10 +19277,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 766,
         href: "/news/updates/2010/2010-05-19-site-proxy-server-problem-fixed-access-to-restric/",
-        title: "Site Proxy server problem fixed - Access to restricted data restored",
+        title: "Site Proxy server problem fixe...",
         description: "The BADC has been informed that the problem with the RAL site proxy server is now resolved. This means that access to the BADC archive and associated services (e.g. My requested data area) is now fully restored.\n",
         
         
@@ -17327,10 +19294,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 767,
         href: "/news/updates/2010/2010-03-04-site-router-upgrade-neodc-access-down-tuesday-9th/",
-        title: "Site Router Upgrade - NEODC access down Tuesday 9th February 2010",
+        title: "Site Router Upgrade - NEODC ac...",
         description: "Advance notice: NEODC unavailable 0800-0830 09/02/2010 due to site router upgrade.\nOn Tuesday 9th February the Site Access Router for the Rutherford Appleton Laboratory, where the NEODC is based, will be upgraded. It is anticipated that access will not be possible from 0800 to around 0830, but access should be considered at risk from 0700 to 1000.\n",
         
         
@@ -17341,10 +19311,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 768,
         href: "/news/updates/2004/2004-11-30-soapex-data-now-publicly-available/",
-        title: "SOAPEX data now publicly available",
+        title: "SOAPEX data now publicly avail...",
         description: "The Southern Ocean Atmospheric Photochemistry Experiment 2 (SOAPEX) data is now publically available.\nMore information about the SOAPEX data held at the BADC can be found at: http://badc.nerc.ac.uk/data/soapex/\u0026nbsp; .\n",
         
         
@@ -17355,10 +19328,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 769,
         href: "/news/updates/2024/2024-06-19-software-and-operating-system-changes-update1/",
-        title: "Software and operating system changes - update 1",
+        title: "Software and operating system ...",
         description: "This is the first update about our progress migrating operating systems on JASMIN from CentOS7 to Rocky Linux 9 as announced previously here. Details of the migration in particular software packages can be found here\u0026nbsp; .\n",
         
         
@@ -17369,10 +19345,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 770,
         href: "/news/updates/2024/2024-05-03-software-and-operating-system-updates-coming-soon-to-jasmin/",
-        title: "Software and operating system updates coming soon to JASMIN",
+        title: "Software and operating system ...",
         description: "Moving to Rocky Linux 9 \u0026nbsp; For the past few weeks and months we have been preparing for a change of operating system version on JASMIN. We are now sharing our plans and progress with you, so that you are aware of the remaining changes about to happen. We can then keep you up to date with further progress as the migration gets underway.\n",
         
         
@@ -17383,10 +19362,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 771,
         href: "/news/updates/2019/2019-10-29-some-ceda-archive-services-currently-unavailable/",
-        title: "Some CEDA Archive services currently unavailable",
+        title: "Some CEDA Archive services cur...",
         description: "We are currently experiencing some issues with the following CEDA Archive services:\ndata.ceda.ac.uk\u0026nbsp; dap.ceda.ac.uk\u0026nbsp; ",
         
         
@@ -17397,10 +19379,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 772,
         href: "/news/updates/2020/2020-11-27-some-cedajasmin-services-unavailable/",
-        title: "Some CEDA/JASMIN Services unavailable",
+        title: "Some CEDA/JASMIN Services unav...",
         description: "Over the last year, the team has worked hard to migrate all of our services to a new operating system (CentOS7). The deadline for this work to be achieved is Monday 30th November. The majority of user-facing services have now been migrated successfully with minimal disruption to users. However, a small number of services still need to be migrated.\n",
         
         
@@ -17411,10 +19396,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 773,
         href: "/news/updates/2023/2023-01-10-some-group-workspace-volumes-currently-unavailable-issue-under-investigation/",
-        title: "Some Group Workspace volumes currently unavailable - issue under investigation",
+        title: "Some Group Workspace volumes c...",
         description: "Dear users,\nSeveral Group Workspace volumes are currently not accessible because of a metadata server issue. The issue is currently being investigated with the storage vendor.\n",
         
         
@@ -17425,16 +19413,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 774,
         href: "/news/updates/2020/2020-09-18-some-sci-machines-unavailable-on-monday-21-sept-at-~0830-840/",
-        title: "Some sci machines unavailable on Monday 21 Sept at ~0830-840",
+        title: "Some sci machines unavailable ...",
         description: "The following scientific analysis servers will be unavailable for 5-10 minutes on Monday, 21st September at 08:30 AM for memory changes:\n",
         
         
         content: "The following scientific analysis servers will be unavailable for 5-10 minutes on Monday, 21st September at 08:30 AM for memory changes:\nsci1.jasmin.ac.uk\nsci2.jasmin.ac.uk\nsci4.jasmin.ac.uk\nsci5.jasmin.ac.uk Please log off before that time. Apologies for any inconvenience this may entail.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -17453,10 +19445,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 776,
         href: "/news/updates/2019/2019-04-08-storage-problems-on-jasmin-has-now-been-resolved/",
-        title: "Storage Problems on JASMIN has now been resolved",
+        title: "Storage Problems on JASMIN has...",
         description: "There have been some issues with the JASMIN storage cluster which have created problems effecting access to some Group Workspaces and causing JASMIN and CEMS to hang.\n",
         
         
@@ -17467,10 +19462,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 777,
         href: "/news/updates/2000/2000-01-12-subsets-of-acsoe-datasets-are-made-public-c-130-o/",
-        title: "Subsets   of ACSOE datasets are made public (c-130, ozone profiles)",
+        title: "Subsets   of ACSOE datasets ar...",
         description: " ACSOE data made public up to June 1997 ====================================== Some data archived in the framework of the ACSOE project have been released to the public. These are * the C-130 data collected during the September 1996 campaign; * ozone profile data (OZPROF) collected between January and June 1997. Data directories: * [/badc/acsoe/data/c-130/96/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/c-130/96/) * [/badc/acsoe/data/ozprof/aberystwyth/97/](/cgi-bin/data_browser/data_browser/badc/acsoe/data/ozprof/aberystwyth/97/) ______________ Anne De Rudder 12/1/2000",
         
         
@@ -17481,10 +19479,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 778,
         href: "/news/updates/2024/2024-12-12-support-over-christmas-period/",
-        title: "Support over the Christmas period and JASMIN updates",
+        title: "Support over the Christmas per...",
         description: "Dear JASMIN and CEDA users,\nThis message includes information about JASMIN and CEDA support arrangements over the Christmas period and important updates on JASMIN services:\n",
         
         
@@ -17495,16 +19496,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 779,
         href: "/news/updates/2021/2021-06-17-supporting-air-quality-assessments-in-the-uk/",
-        title: "Supporting air quality assessments in the UK",
+        title: "Supporting air quality assessm...",
         description: "Air pollution is the largest environmental health risk we face today. To better understand the sources of air pollution, and the impacts on our health and ecosystems, teams of researchers across the UK are monitoring the quality of the air we breathe. ",
         
         
         content: "Air pollution is the largest environmental health risk we face today. To better understand the sources of air pollution, and the impacts on our health and ecosystems, teams of researchers across the UK are monitoring the quality of the air we breathe. It is essential that the scientific community can access data and services to research this important topic. On Clean Air Day\u0026nbsp; , we share how the Centre for Environmental Data Analysis (CEDA) currently supports the scientific air quality community.\nImage 1: Chilbolton Observatory. Credit: NCAS Image 1: The Chilbolton Observatory - measures particle mass concentrations, carbon dioxide and water vapour concentrations. Credit: NCAS\nArchival of air quality data \u0026nbsp; The Environment Bill\u0026nbsp; requires the UK Government to set ambitious air quality targets that will allow cleaner air for all. In order to meet these targets, it is essential that important air quality datasets are freely available for monitoring how the UK is reducing its emissions. The CEDA Archive is the UK’s dedicated data centre for atmospheric data, our role is to promote good data management practices to enable wider reuse of important data, such as air quality datasets. Air quality is measured across the UK through a network of monitoring stations, research campaigns, atmospheric observatories and satellites. The long-term CEDA Archive holds over 1000 freely available* air quality datasets, such as: Air quality observations on board the specially-adapted aircraft, operated by the FAAM Airborne Laboratory\u0026nbsp; (FAAM), including greenhouse gas emissions and aerosol composition and concentration data. Ground-based air quality measurements collected at a variety of long-term observational facilities, run by the National Centre for Atmospheric Science AMOF\u0026nbsp; , including; Chilbolton\u0026nbsp; - measures particle mass concentrations, carbon dioxide and water vapour concentrations Weybourne\u0026nbsp; - measures nitrogen oxide, carbon monoxide, hydrogen, methane and sulfur hexafluoride BT-Tower\u0026nbsp; in London - measures ozone and nitrous oxide Cape Verde\u0026nbsp; - measures carbon dioxide, halocarbon, ozone, carbon monoxide, methane, nitrous oxide and more! UK Deriving Emissions linked to Climate Change Tall tower network\u0026nbsp; - measurements from four sites in the UK and Ireland measuring greenhouse and ozone depleting gases from tall telecommunication towers Penlee Point Observatory\u0026nbsp; - long term observatory established by Plymouth Marine Laboratory - measurements of sulfur dioxide, ozone and total number of aerosols in the atmosphere European Space Agency Climate Change Initiative\u0026nbsp; - air quality measurements derived from satellite data Image 2: The FAAM aircraft in the hangar. Credit: NCAS Image 2: The FAAM aircraft in the hangar. Credit: NCAS\nEngaging with science, industry and policy experts \u0026nbsp; Alongside archiving data, the CEDA team is heavily involved with sharing expertise in areas such as data curation, environmental science, and analysis services. Several CEDA staff contribute their expertise to the Science and Technology Facilities Council’s (STFC) Air Quality Network\u0026nbsp; - known as SAQN. This network brings together over 450 members from research, industry and policy - all with an interest in air quality research. The SAQN aims to make the best use of STFC research, capabilities and facilities to address air quality challenges by bringing together this multi-disciplinary community. CEDA’s host institute is STFC, making it well placed to engage with the network. Many members of the network are not from our core user communities, so may not be familiar with CEDA or STFC’s work. We have been helping explain our services and facilitating access to the air quality datasets we hold through meetings, workshops and leaflets. CEDA staff hosted a webinar\u0026nbsp; to the SAQN community explaining to researchers how our services - the long-term data archive, and JASMIN - our globally unique data analysis facility, could be of benefit to their research. We will continue to engage with the network to ensure the community is fully supported by our services and expertise.\nImage 3: Inside the FAAM aircraft. Credit: NCAS Image 3: Inside the FAAM aircraft. Credit: NCAS\nFootnotes: \u0026nbsp; * Air quality data in the CEDA Archive may have access restrictions depending on the type of license we can distribute it under. We aim to make all datasets open access, however sometimes they may require users to make a CEDA Account. This is so we can keep track of usage statistics (which is sometimes required by the data provider). Anyone can make an account, so most datasets are freely available to anyone to use.\nIf you’d like to know more about how we’re involved with air quality research, contact the CEDA helpdesk.\nThe Centre for Environmental Data Analysis (CEDA) provides services on behalf of the Natural Environment Research Council ( NERC\u0026nbsp; ) via the National Centre for Atmospheric Science ( NCAS\u0026nbsp; ) and the National Centre for Earth Observation ( NCEO\u0026nbsp; ). CEDA is based within RAL Space\u0026nbsp; , a department of the Science and Technology Facilities Council ( STFC\u0026nbsp; ). JASMIN is co-managed by STFC\u0026rsquo;s Scientific Computing Department\u0026nbsp; and CEDA. "
       })
       .add(
+      
       
       
       
@@ -17523,16 +19528,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 781,
         href: "/news/updates/2019/2019-05-23-supporting-scientists-to-study-our-complex-planet/",
-        title: "Supporting scientists to study our complex planet",
+        title: "Supporting scientists to study...",
         description: "The CEDA team are using data science expertise to support a major project that will warn us of changes in the Earth’s ecosystem.\n",
         
         
         content: "The CEDA team are using data science expertise to support a major project that will warn us of changes in the Earth’s ecosystem.\n​​​Data from Earth observation satellites are being generated at an ever-increasing rate. The Sentinel-3 satellites alone produce up to 2 petabytes of data each year. The quantity and quality of data available can enable innovative environmental science projects but the huge range of data available can also present issues of its own.\n“One of the greatest challenges facing our scientific community is being able to access, process and analyse vast amounts of diverse data. It is only by working effectively with such data that we gain much needed insight into the state of the Earth\u0026quot; said Esther Conway, Senior Earth Observation Data Scientist at CEDA.\nThe Biosphere Atmosphere Change Index (BACI) is a prototype early warning system combining large amounts of data, including satellite observations and ecosystem properties, to provide an indication of how Earth\u0026rsquo;s ecosystems are interacting and changing.\nIn order to do this, BACI brings together diverse data from a number of different streams and of different scales, from tree ring records to satellite optical and radar data. In order for the scientists using BACI to compare very different types of data, they used infrastructure, software and tools provided by CEDA. “This dataset is being used to identify unexpected changes in the land surface, which may indicate problems that could lead to a potential loss in biodiversity. Once flagged, these changes can be examined more closely to identify the underlying causes and appropriate response. The BACI project is already helping us to understand the human impact on our varying ecosystems, particularly forests and crops. CEDA has been a key part of this process, allowing the BACI team to run computer models to merge satellite data in new ways\u0026quot; said Professor Mat Disney, Professor of Remote Sensing in the UCL Department of Geography and Project Lead for BACI in the UK. The work Professor Disney and his team at ​UCL have carried out on the BACI project has been partly funded by the UK\u0026rsquo;s National Centre for Earth Observation (NCEO).​​\nCEDA provided BACI with access to around 12 petabytes of environmental data stored on its archive, equivalent to around 180,000 64GB smartphones. The data were combined and processed using JASMIN, a data-intensive supercomputer for environmental science.\nBy using both the CEDA Archive and JASMIN\u0026rsquo;s analysis and processing capabilities, BACI scientists and researchers can access and process their own complex data. By accessing these tools remotely, they can cut processing time down from months to days. This has a major impact on the speed these projects become accessible to the public domain and scientific communities for the benefit of all. “At the Centre for Environmental Data Analysis we are continually developing cutting edge data infrastructure, software and processes to rise to the challenge of increasingly large and complex data sets\u0026quot; said Esther Conway. “This not only supports the production and analysis of data sets on projects such as BACI but also ensures the further long term exploitation of such datasets – allowing the data to remain valuable and meet the needs of science long into the future. We are extremely proud to have been able to support projects such as BACI and hope to continue to evolve our data science capabilities to take care of our fragile planet long into the future\u0026quot;.\n​One of the datasets produced from BACI, project \u0026lsquo;System State Vector\u0026rsquo;, has recently been opened to everyone on the CEDA Archive - find it here\u0026nbsp; . The dataset contains Earth observation data that could be easily used and extended for future biodiversity studies and to help policy-makers plan ecosystem loss initiatives more effectively for years to come.\nBACI is funded through the European Union\u0026rsquo;s Horizon 2020 research and innovation programme. It was jointly carried out by: Max Planck Institute for Biogeochemistry, Università degli Studi della Tuscia, Eidgenoessische Forschungsanstalt, Friedrich-Schiller-Universität Jena, Wageningen University, University College London, University of Natural Resources and Life Sciences, Aarhus University, Rezatec Limited and the Science and Technology Facilities Council.\nJASMIN \u0026nbsp; JASMIN is managed jointly by RAL Space\u0026rsquo;s Centre for Environmental Data Analysis and the Scientific Computing Department for STFC on behalf of NERC. Find out more about CEDA and how to access the data here ​Bringing space down to Earth \u0026nbsp; The work done at RAL Space\u0026nbsp; (CEDA\u0026rsquo;s home institute) isn\u0026rsquo;t just restricted to exploring and understanding the space that surrounds our planet, it\u0026rsquo;s also about feeding space science, technology and data back down to Earth. Our staff are involved in a number of exciting projects that have used their roots in space and satellite technology to develop products and services with important applications for life on Earth.​​\nWe are collecting thoughts and opinions on the \u0026lsquo;Bringing space down to Earth\u0026rsquo; campaign.\nPlease fill out this questionnaire here: Bringing space down to Earth ​\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -17551,10 +19560,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 783,
         href: "/news/updates/2023/2023-08-04-net-zero-digital-research-infrastructure/",
-        title: "Sustainable computing the UK’s journey to net zero digital research infrastructure by 2040",
+        title: "Sustainable computing the UK’s...",
         description: "Leading UK data and computing experts have developed a toolkit and roadmap to get the UK’s digital research infrastructure sector to net zero.\n",
         
         
@@ -17565,10 +19577,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 784,
         href: "/news/updates/2020/2020-09-14-system-maintenance-tues-15-sept-2020/",
-        title: "System maintenance Tues 15 Sept 2020",
+        title: "System maintenance Tues 15 Sep...",
         description: "Scheduled maintenance is planned for Tuesday 15th September, which may cause some disruption to JASMIN and CEDA services.\nOn a regular (roughly quarterly) basis, important updates are applied to systems within the JASMIN infrastructure (which also hosts the CEDA Archive and associated services) in order to keep them up to date and secure. Some servers may need to be rebooted in order for these changes to take effect, so there may be an interruption to some JASMIN and CEDA services on this date. The maintenance work will also include a network change which should help prevent recent problems experienced with the virtualization cluster.\n",
         
         
@@ -17579,10 +19594,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 785,
         href: "/news/updates/2020/2020-08-13-tape-library-maintenance-1718-aug/",
-        title: "Tape library maintenance 17/18 Aug",
+        title: "Tape library maintenance 17/18...",
         description: "Dear users,\nPlease be aware that further maintenance work on the tape library system used is now scheduled for Tuesday 18th August 2020 for one day, however it will be taken out of service from 17:00 on Monday 17th August to clear any queued tasks first.\nThis will mean that the Elastic Tape (ET, whether accessed directly or via the JDMA interface) and Near-Line Archive services will be unavailable for this period.\n",
         
         
@@ -17593,10 +19611,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 786,
         href: "/news/updates/2020/2020-10-23-tape-library-maintenance-26-28-oct/",
-        title: "Tape library maintenance 26-28 Oct",
+        title: "Tape library maintenance 26-28...",
         description: "Tape library maintenance scheduled for Tuesday 27th October will mean that the Elastic Tape (ET) and Near-Line Archive (NLA) services are unavailable from lunchtime on Monday 26th October until the morning of Wednesday 28th October.\n",
         
         
@@ -17607,10 +19628,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 787,
         href: "/news/updates/2020/2020-09-07-tape-library-maintenance-tues-8-sept-2020/",
-        title: "Tape library maintenance Tues 8 Sept 2020",
+        title: "Tape library maintenance Tues ...",
         description: "Maintenance work on the Spectra tape library is now planned for tomorrow Tuesday 8th September, which may mean a delay to tape retrievals with Elastic Tape (ET) and Near-Line Archive (NLA) services.\n",
         
         
@@ -17621,10 +19645,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 788,
         href: "/news/updates/2022/2022-03-15-tape-maintenance-18th-to-28th-march/",
-        title: "Tape Maintenance 18th to 28th March",
+        title: "Tape Maintenance 18th to 28th ...",
         description: "Dear Users,\nDue to a Tape Library expansion and upgrade, the tape services offered by CEDA and JASMIN will be unavailable from midday on Friday 18th March until the morning of Monday 28th March 2022.\n",
         
         
@@ -17635,10 +19662,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 789,
         href: "/news/updates/2023/2023-10-18-tape-services-currently-unavailable/",
-        title: "Tape services currently unavailable",
+        title: "Tape services currently unavai...",
         description: "Dear Users\nDue to an issue with the tape library, the tape services including NLA, JDMA and ET are currency unavailable. We are working to fix this issue as soon as possible.\n",
         
         
@@ -17649,10 +19679,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 790,
         href: "/news/updates/2023/2023-03-31-tape-services-unavailable-28th-to-30th-march-2023/",
-        title: "Tape services unavailable 28th to 30th March 2023 - Postponed",
+        title: "Tape services unavailable 28th...",
         description: "Please note - regarding the following information:\nThis maintenance work on tape systems has now been postponed. A new date will be announced in due course.\n",
         
         
@@ -17663,10 +19696,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 791,
         href: "/news/updates/2021/2021-12-14-tape-services-unavailable-after-1700-today-14-dec-network-at-risk-15-dec/",
-        title: "Tape services unavailable after 1700 today (14 Dec), network at risk 15 Dec",
+        title: "Tape services unavailable afte...",
         description: "Dear Users,\nIn line with recent announcements regarding “at risk” status of tape services, please be aware that at 17:00 today, access to tape services will be closed in advance of RAL network reconfiguration work tomorrow Wednesday 15th December.\nA network intervention planned for tomorrow (17:00-21:00) should not affect most JASMIN services, but there is the possibility of some disruption. Access to tape services is being paused to minimise the risk of tape operations over-running into the intervention period.\n",
         
         
@@ -17677,16 +19713,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 792,
         href: "/news/updates/2020/2020-07-09-tape-systems-unavailable-22-24-july/",
-        title: "Tape systems unavailable 22-24 July",
+        title: "Tape systems unavailable 22-24...",
         description: "Dear users,\nMaintenance work is planned for 22-24 July 2020 to add additional capacity to the tape library shared by CEDA and JASMIN tape services. The tape library, and hence all tape services: Elastic Tape (ET) and StorageD (SD) and Near Line Archive (NLA) will be unavailable for this period\n",
         
         
         content: "Dear users,\nMaintenance work is planned for 22-24 July 2020 to add additional capacity to the tape library shared by CEDA and JASMIN tape services. The tape library, and hence all tape services: Elastic Tape (ET) and StorageD (SD) and Near Line Archive (NLA) will be unavailable for this period\nWe apologize for any inconvenience this may cause.\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -17705,10 +19745,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 794,
         href: "/news/updates/2023/2023-08-02-experiments-with-kerchunk/",
-        title: "Technical Blog Post - Experiments with Kerchunk",
+        title: "Technical Blog Post - Experime...",
         description: " Check out our technical blog post all about Kerchunk!\u0026nbsp; ",
         
         
@@ -17719,10 +19762,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 795,
         href: "/news/updates/2024/2024-01-05-telespazio-uk-win-eo-datahub-platform-software-development-and-operations-contract/",
-        title: "Telespazio UK win EO DataHub Platform Software Development and Operations contract",
+        title: "Telespazio UK win EO DataHub P...",
         description: "We are pleased to announce the winner of the EO DataHub Platform Software Development and Operations ITT– Telespazio UK, a subsidiary of Telespazio (a joint venture between Leonardo, 67%, and Thales, 33%).\u0026nbsp; The EODH team are excited to start the development process of the new data platform with one of Europe’s leading players in space applications and services.\n",
         
         
@@ -17733,10 +19779,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 796,
         href: "/news/updates/2002/2002-11-01-telnet-connections-to-the-badc-file-server-not-su/",
-        title: "Telnet connections to the BADC file server not supported from January 2003",
+        title: "Telnet connections to the BADC...",
         description: " Telnet connections to the BADC file server not supported from January 2003 ========================================================================== As of January 2003, connections to tornado, the BADC file server, through Telnet and rlogin will not be supported. However, connections through SSH are supported. SSH stands for Secure Shell, a program to log into another computer over a network, to execute commands in a remote machine. SSH is a program very similar to Telnet.The difference is that SSH uses encryption to keep the connection secure so that it is more difficult for hackers to spy on users password or other sensitive information that may pass through the connection. If you have an account on tornado, then you need to download and install an SSH client program onto your computer. For more details including links to SSH downloads, please go to the [Help page](/help/software/ssh/)",
         
         
@@ -17747,10 +19796,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 797,
         href: "/news/updates/2001/2001-11-15-temporary-badc-file-server-shutdown/",
-        title: "Temporary BADC File Server Shutdown",
+        title: "Temporary BADC File Server Shu...",
         description: " Dear BADC User, This message is to inform you that the BADC File server (tornado) will be temporarily shutdown from Friday 16th November at 3pm to Sunday 18th November. The BADC file server is expected to be operational again from Monday 19th November. This shutdown unfortunately implies that the BADC Web site and access to data and services will be temporarily unavailable. We are sorry for the inconvenience this may cause. Regards, BADC Support BADC Support 15/11/01.",
         
         
@@ -17761,10 +19813,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 798,
         href: "/news/updates/2001/2001-12-07-temporary-badc-file-server-shutdown-on-tuesday-12/",
-        title: "Temporary BADC file server shutdown on Tuesday 12th December from 5pm",
+        title: "Temporary BADC file server shu...",
         description: " Temporary BADC file server shutdown on Tuesday 12th December from 5pm ====================================================================== The BADC File server (tornado) will be temporarily shutdown on ** Tuesday 11th December 2001 from 5pm. ** This temporary interruption is necessary for some hardware upgrade. ** Normal service should resume on Wednesday 12th December 2001 ** This shutdown unfortunately implies that the BADC Web site and access to data and services will be temporarily unavailable. We are sorry for the inconvenience this may cause. BADC Support 07/12/01.",
         
         
@@ -17775,10 +19830,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 799,
         href: "/news/updates/2003/2003-04-10-temporary-disruption-to-badc-ftp-service-on-frida/",
-        title: "Temporary Disruption to BADC FTP service on Friday 11th April 2003 from 2pm",
+        title: "Temporary Disruption to BADC F...",
         description: " Temporary Disruption to BADC FTP service on Friday 11th April 2003 from 2pm ============================================================================ The power supply to selected BADC computers is being checked. This will result in the disruption of BADC FTP services from 2pm on Friday 11th April for about an hour. Data will still be available for [download via the web](http://badc.nerc.ac.uk/cgi-bin/data_browser/data_browser). We are sorry for the inconvenience this may cause. BADC Support 10/04/03.",
         
         
@@ -17789,10 +19847,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 800,
         href: "/news/updates/2002/2002-10-16-temporary-disruption-to-badc-services-on-friday-1/",
-        title: "Temporary Disruption to BADC services on Friday 18th October from 8am to noon.",
+        title: "Temporary Disruption to BADC s...",
         description: " Temporary Disruption to BADC services on Friday 18th October from 8am to noon. ============================================================================== The power supply to the BADC computer room is being upgraded. This will result in the disruption of BADC services from 8am to noon on Friday 18th October. In this period data will not be avaliable and the main server is likley to go down without warning. We are sorry for the inconvenience this may cause. BADC Support 16/10/02.",
         
         
@@ -17803,10 +19864,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 801,
         href: "/news/updates/2003/2003-06-30-temporary-disruption-to-badc-services-today/",
-        title: "Temporary Disruption to BADC services today",
+        title: "Temporary Disruption to BADC s...",
         description: " Temporary Disruption to BADC services on Monday 30th June 2003 ============================================================== The BADC file server, Tornado, has experienced a hardware fault earlier this morning. The fault appears to have been cleared after reseating the controllers. An engineer is still expected later today and we may need to take the machine down for him to investigate the fault. We are sorry for the inconvenience this may cause. BADC Support 30/06/03.",
         
         
@@ -17817,10 +19881,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 802,
         href: "/news/updates/2017/2017-06-23-temporary-disruption-to-esgf-eufar-flight-finder-and-sentinel-opensearch-services/",
-        title: "Temporary disruption to ESGF, EUFAR Flight Finder and Sentinel OpenSearch services",
+        title: "Temporary disruption to ESGF, ...",
         description: "Due to a software problem, there has been some disruption to a number of CEDA services yesterday (Thursday 22nd June).\n",
         
         
@@ -17831,10 +19898,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 803,
         href: "/news/updates/2010/2010-05-05-temporary-unavailability-of-some-datasets/",
-        title: "Temporary unavailability of some datasets",
+        title: "Temporary unavailability of so...",
         description: "Some datasets (AVHRR-fasir, Landsat7, ncaveo-field, ncaveo-lcm2000, NEXTmap, Shac2000) are currently unavailable due to a hardware failure. We are working to have them available again shortly. Apologies for the interruption.\n",
         
         
@@ -17845,10 +19915,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 804,
         href: "/news/updates/2004/2004-04-27-temporary-unavailability-of-some-datasets/",
-        title: "Temporary unavailability of some datasets",
+        title: "Temporary unavailability of so...",
         description: " There is a problem curently affecting a storage disk. This unfortunately means that some of our datasets are currently not available for download. The service will be restored as soon as possible. We are sorry for the inconvenience this may cause in the mean time. BADC Support 27 April 2004",
         
         
@@ -17859,10 +19932,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 805,
         href: "/news/updates/2006/2006-06-14-termination-of-meteosat-7-0-deg-longitude-service/",
-        title: "Termination of Meteosat-7 0 deg longitude service",
+        title: "Termination of Meteosat-7 0 de...",
         description: "EUMETSAT has announced the termination of satellite image transmission from Meteosat 7 from 0o longitude as of 0900 UTC on 14th June 2006. This ends the provision of 0o longitude services from the first generation of Meteosat. An archive of past images is still publicly available at the BADC extending back to November 1999.\n",
         
         
@@ -17873,10 +19949,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 806,
         href: "/news/updates/2022/2022-01-17-cmip-survey/",
-        title: "The Coupled Model Intercomparison Project (CMIP) Survey",
+        title: "The Coupled Model Intercompari...",
         description: "If you are part of a community that makes use of data from the Coupled Model Intercomparison Project (CMIP)\u0026nbsp; , please consider completing the survey. Details from the project team below.\n",
         
         
@@ -17887,10 +19966,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 807,
         href: "/news/updates/2021/2021-08-09-the-data-behind-the-new-ipcc-report/",
-        title: "The data behind the new IPCC report",
+        title: "The data behind the new IPCC r...",
         description: "Climate Change 2021: The Physical Science Basis - the Working Group I Contribution to the Intergovernmental Panel on Climate Change’s Sixth Assessment Report - has been released today\u0026nbsp; . This regular assessment provides policymakers with information on the physical science of climate change. Data from key figures of the Summary for Policymakers (SPM) section are now available\u0026nbsp; for anyone to access from the CEDA Archive\u0026nbsp; - with more data expected in the coming months. This is the first time SPM figure data has been available on the same day as report publication. ",
         
         
@@ -17901,10 +19983,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 808,
         href: "/news/updates/2005/2005-09-05-the-met-office-stratospheric-analyses-are-changing/",
-        title: "The Met Office Stratospheric Analyses are changing",
+        title: "The Met Office Stratospheric A...",
         description: "",
         
         
@@ -17915,10 +20000,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 809,
         href: "/news/updates/2010/2010-07-15-the-met-office-wind-profiler-dataset-updated-with/",
-        title: "The Met Office wind-profiler dataset updated with records for 2005-2009",
+        title: "The Met Office wind-profiler d...",
         description: "The Met Office wind-profiler dataset at BADC has now been updated with records for 2005-2009.\nSee http://badc.nerc.ac.uk/view/badc.nerc.ac.uk__ATOM__dataent_ukmowindpr\u0026nbsp; for details and links to the archive.\n",
         
         
@@ -17929,10 +20017,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 810,
         href: "/news/updates/2021/2021-05-20-ncas-launches-childrens-story/",
-        title: "The National Centre for Atmospheric Science launches online children’s story exploring changes in air pollution",
+        title: "The National Centre for Atmosp...",
         description: "An inspirational online children’s story titled Grandma’s Footsteps\u0026nbsp; prompts readers to take note of changes in their environment, and to imagine what they want their own future to look like.\n",
         
         
@@ -17943,10 +20034,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 811,
         href: "/news/updates/2023/2023-05-10-the-near-line-archive-is-now-available-elastic-tape-and-jdma-are-currently-unavailable/",
-        title: "The Near-line archive is now available.  Elastic Tape and JDMA are currently unavailable.",
+        title: "The Near-line archive is now a...",
         description: "Dear Users\nBelow follows an update to the tape services, NLA and JDMA/ET.\nThe NLA is now available again for users. JDMA and ET remain unavailable due to ongoing problems. We are working hard to remedy this and hope to have a resolution soon. We apologise for the inconvenience and impact on user’s workflows that are dependent on the tape services.\n",
         
         
@@ -17957,10 +20051,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 812,
         href: "/news/updates/2018/2018-07-16-third-annual-jasmin-conference-presentations-available-now/",
-        title: "Third annual JASMIN conference presentations available now!",
+        title: "Third annual JASMIN conference...",
         description: "Scientists using the UK’s largest environmental super computer and data store gathered last month to share their experiences of big data environmental science and now you can view their presentations too.\n",
         
         
@@ -17971,16 +20068,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 813,
         href: "/news/updates/2016/2016-10-11-tips-to-avoid-problems-accessing-jasmincems-services/",
-        title: "Tips to avoid problems accessing JASMIN/CEMS services",
+        title: "Tips to avoid problems accessi...",
         description: "With JASMIN/CEMS system now past its third anniversary, users will now start to encounter default access periods for their accounts. Users will be sent reminder emails to renew their access to our systems, but the following article provides advice to help avoid any issues which may cause common problems accessing JASMIN/CEMS services :\n",
         
         
         content: "With JASMIN/CEMS system now past its third anniversary, users will now start to encounter default access periods for their accounts. Users will be sent reminder emails to renew their access to our systems, but the following article provides advice to help avoid any issues which may cause common problems accessing JASMIN/CEMS services :\nGo to myCEDA\u0026nbsp; and check that your email address and other details are up to date. This ensures that when we, or automated system messages attempt to contact you, we can be sure that messages will reach you. Your CEDA account only gives you certain privileges by default. As with CEDA archive datasets, most JASMIN services (including access to the login, science analysis servers and transfer machines, and individual Group Workspaces) require additional registration steps which expire after a default period (usually 3 years). You can check the validity period of all your current registrations at myCEDA\u0026nbsp; , and renew in advance to avoid any gaps in access. Typically, you will be emailed 3 months, 14 days and again 7 days before any registration expires, but the onus is on you to renew your registration for each service. If your registration for a \u0026ldquo;login\u0026rdquo; role expires, your SSH key will automatically be revoked from the relevant servers and you will be unable to log in, so login registrations are particularly important to keep up-to-date. Please avoid workflows which involve multiple SSH connections in quick succession (e.g. copying many very small files with individual scp commands). These can appear similar to \u0026ldquo;denial of service\u0026rdquo; attempts and can cause your account to be denied access for periods of time. See also http://help.ceda.ac.uk/article/276-tips-to-avoid-problems-accessing-jasmin-services\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -17999,6 +20100,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 815,
         href: "/news/updates/2003/2003-05-15-toms-data-temporarily-unavailable/",
@@ -18009,6 +20111,7 @@ function initIndex() {
         content: "Earth Probe TOMS went into safehold mode at 0025UTC on May 15, 2003. The problem appears to be a single event upset (SEU) in the attitude control system. This is very similar to the event that occurred in August 2002. TOMS is hoped to be back in science mode operation within a week.\nFor additional details, check out the TOMS News Page\u0026nbsp; ."
       })
       .add(
+      
       
       
       
@@ -18027,10 +20130,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 817,
         href: "/news/updates/2003/2003-06-20-trajectory-web-service-temporarily-unavailable/",
-        title: "Trajectory Web   Service temporarily unavailable",
+        title: "Trajectory Web   Service tempo...",
         description: "TRAJECTORY WEB SERVICE TEMPORARILY UNAVAILABLE =================================================== We regret that the BADC trajectory service is not currently available due to a technical problem. We hope to have it fixed shortly. Sorry for any inconvenience. BADC Support 20/06/03.",
         
         
@@ -18041,16 +20147,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 818,
         href: "/news/updates/2003/2003-06-26-trajectory-web-service-is-back-online/",
-        title: "Trajectory Web Service is back online",
+        title: "Trajectory Web Service is back...",
         description: "TRAJECTORY WEB SERVICE IS BACK ONLINE =========================================== The BADC Trajectory is now back in service at: \u0026lt;http://badc.nerc.ac.uk/community/trajectory/\u0026gt; BADC Support 26/06/03.",
         
         
         content: "TRAJECTORY WEB SERVICE IS BACK ONLINE =========================================== The BADC Trajectory is now back in service at: \u0026lt;http://badc.nerc.ac.uk/community/trajectory/\u0026gt; BADC Support 26/06/03."
       })
       .add(
+      
       
       
       
@@ -18069,16 +20179,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 820,
         href: "/news/updates/2018/2018-09-13-two-graduate-vacancies-now-open-closing-date-28th-october/",
-        title: "Two graduate vacancies now open. Closing date 28th October",
+        title: "Two graduate vacancies now ope...",
         description: "We are pleased to announce that two graduate posts are now open for applications. Details for how to apply can be found on the links below, closing date is 28th October. ",
         
         
         content: "We are pleased to announce that two graduate posts are now open for applications. Details for how to apply can be found on the links below, closing date is 28th October. Environmental Data Scientist: http://ow.ly/i5t930lNLlr\u0026nbsp; Software Developer: http://ow.ly/y6F630lNLmh\u0026nbsp; Please contact the [helpdesk](mailto: support@ceda.ac.uk) if you need any additional information. We look forward to reading your applications. The CEDA team"
       })
       .add(
+      
       
       
       
@@ -18097,10 +20211,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 822,
         href: "/news/updates/2023/2023-08-03-two-week-offline-period-for-all-jasmin-and-ceda-services-in-october/",
-        title: "Two-week offline period for all JASMIN and CEDA services in October",
+        title: "Two-week offline period for al...",
         description: "We have recently been informed that due to essential maintenance work on the building power supply, we will need to take JASMIN (and therefore all services reliant on the infrastructure) completely offline for a period of up to two weeks from 23rd October 2023.\n",
         
         
@@ -18111,16 +20228,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 823,
         href: "/news/updates/2001/2001-08-08-uars-instrument-operations-to-cease-on-sep-30-2001/",
-        title: "UARS Instrument Operations to Cease on Sep. 30, 2001",
+        title: "UARS Instrument Operations to ...",
         description: " Message forwarded from Dr. Charles H. Jackman, NASA/Goddard Space Flight Center. ================================================================================ July 23, 2001 UARS Colleagues: We have some \u0026#34;Very Sad News\u0026#34; to report. We were informed on Friday, July 20, 2001, that a final decision to shut off UARS instrument operations on September 30, 2001, has been made at NASA Headquarters. Given the positive response that we received at our May meeting with Jack Kaye, Ghassem Assarar, and Mike Luther, we thought that UARS measurements would continue for at least part of FY02. We were encouraged to develop a minimum cost plan for operations through December 31, 2002, and this had been our principle activity up until Friday. We were totally surprized and extremely disappointed by this decision and we don\u0026#39;t know if anything can be done to reverse this decision. No final decision has yet been made concerning the disposition of the UARS and it is still possible that a retrieval will occur. Also, there has yet been no final decision concerning the final archiving of the UARS data. It is possible that this message is not reaching everyone with interests in the UARS. Please send it on to anyone who you think might need to be informed about this decision. This is all the information that we and Mike Kurylo (UARS Program Scientist) have at this time. We will inform you if we hear any other information. Sincerely, Charles Jackman and Anne Douglass UARS Project Scientist UARS Deputy Project Scientist",
         
         
         content: "Message forwarded from Dr. Charles H. Jackman, NASA/Goddard Space Flight Center. ================================================================================ July 23, 2001 UARS Colleagues: We have some \u0026#34;Very Sad News\u0026#34; to report. We were informed on Friday, July 20, 2001, that a final decision to shut off UARS instrument operations on September 30, 2001, has been made at NASA Headquarters. Given the positive response that we received at our May meeting with Jack Kaye, Ghassem Assarar, and Mike Luther, we thought that UARS measurements would continue for at least part of FY02. We were encouraged to develop a minimum cost plan for operations through December 31, 2002, and this had been our principle activity up until Friday. We were totally surprized and extremely disappointed by this decision and we don\u0026#39;t know if anything can be done to reverse this decision. No final decision has yet been made concerning the disposition of the UARS and it is still possible that a retrieval will occur. Also, there has yet been no final decision concerning the final archiving of the UARS data. It is possible that this message is not reaching everyone with interests in the UARS. Please send it on to anyone who you think might need to be informed about this decision. This is all the information that we and Mike Kurylo (UARS Program Scientist) have at this time. We will inform you if we hear any other information. Sincerely, Charles Jackman and Anne Douglass UARS Project Scientist UARS Deputy Project Scientist"
       })
       .add(
+      
       
       
       
@@ -18139,16 +20260,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 825,
         href: "/news/updates/2019/2019-02-15-uk-weather-station-records-now-freely-available-to-all-midas-open/",
-        title: "UK weather station records now freely available to all MIDAS Open",
+        title: "UK weather station records now...",
         description: "Measurements of historical weather variables across the UK are now freely available to all, through the Met Office “ MIDAS Open\u0026nbsp; ” dataset held at CEDA. This new dataset is an open data version\u0026nbsp; of the popular Met Office Integrated Data Archive System (MIDAS)\u0026nbsp; for land surface station data (1853-2017). MIDAS Open contains UK weather observations for the UK that can now be accessed by everyone, rather than restricted to academic use as in the full MIDAS dataset. We anticipate this to be particularly useful for researchers, service providers or members of the public who have previously been unable to use MIDAS data.\n",
         
         
         content: "Measurements of historical weather variables across the UK are now freely available to all, through the Met Office “ MIDAS Open\u0026nbsp; ” dataset held at CEDA. This new dataset is an open data version\u0026nbsp; of the popular Met Office Integrated Data Archive System (MIDAS)\u0026nbsp; for land surface station data (1853-2017). MIDAS Open contains UK weather observations for the UK that can now be accessed by everyone, rather than restricted to academic use as in the full MIDAS dataset. We anticipate this to be particularly useful for researchers, service providers or members of the public who have previously been unable to use MIDAS data.\nThe key differences for MIDAS Open, compared to the fuller MIDAS dataset, include:\nIt is limited to UK land, surface site data only (no global sites, upper air or marine observations). Currently this represents approximately 95% of available daily temperature and weather observations, 83% of hourly weather data, and 13% of daily rainfall within the full MIDAS collection. The collection include surface site data from stations owned, operated or run by Met Office as part of the public weather service. The wider MIDAS provision include sites operated by or on behalf of others, but these will still be available for research-only use through the full MIDAS. The data are formatted in BADC-CSV making them more user friendly. The directory structure makes it easier to find specific variables, sites and time periods. Each year a versioned release will update with the latest data (e.g. 2018 data will be available in summer 2019) and additionally include late arriving data or new data that is added in for old time periods (e.g. new data for 1950s has been added in recently). It’s open access, but you will still need to register as a CEDA user\u0026nbsp; (anyone can do this in a couple of simple steps\u0026nbsp; ). This is so we can gather more useful download statistics for the data. MIDAS Open comprises of hourly and daily weather measurements and observations of parameters relating to temperature, rainfall, sunshine, radiation, wind and weather observations such as present weather codes, cloud cover, snow etc.\nThe MIDAS data are currently used by a wide range of academic users. One example is for solar panel (photovoltaic) research undertaken by Dr Diane Palmer from Loughborough University. Diane uses ground measurements of global horizontal irradiation data from weather stations in the MIDAS data. “Without the ground measurements held at CEDA, I would need to use satellite data and conduct very different research. The archive allows me to easily access the data I need” said Diane. She uses these data to produce national solar profile maps to study the impact of solar panel generation on the National Grid. Her research also helps identify suitable locations for solar farms and rooftop systems. Installation of renewable energy resources, such as solar panels, helps to combat greenhouse emissions and reduce fossil fuel dependence - ultimately helping to tackle climate change. Diane’s research, which relied on MIDAS data held at CEDA, has been used by the Department for Business, Energy \u0026amp; Industrial Strategy (BEIS) to inform government policy. The list of Diane’s publications produced using MIDAS data are below for further reference.\nThe new open access MIDAS dataset will allow further applications and uses of the data - by many users who could not previously access the data under the restricted licenses. If you already use MIDAS data for your research, or you are planning to use the new MIDAS Open data, we’d love to hear from you about how you use it and for what. Please fill in our form here\u0026nbsp; , it will take less than 10 minutes and help us to gather evidence of the impact CEDA services have on researchers and wider society.\nImage: Met Office weather station site in the UK. Diane Palmer, Ian Cole, Tom Betts, Ralph Gottschalg, 2017, Interpolating and estimating horizontal diffuse solar irradiation to provide UK-wide coverage: selection of the best performing models, Energies, Special Issue “Solar Photovoltaics Trilemma: Efficiency, Stability and Cost Reduction 2017”, 10, 181; doi:10.3390/en10020181, URL: http://www.mdpi.com/1996-1073/10/2/181\u0026nbsp; Diane Palmer, Elena Koubli, Ian Cole, Tom Betts, Ralph Gottschalg. Satellite or ground-based measurements for production of site specific hourly irradiance data: Which is most accurate and where? Solar Energy, Volume 165, 1 May 2018, Pages 240–255, URL: https://doi.org/10.1016/j.solener.2018.03.029\u0026nbsp; D. Palmer, E. Koubli, I. Cole, T. Betts and R. Gottschalg, 2016, Comparison of Solar Radiation and PV Generation Variability: System Dispersion in the UK, IET Renew. Power Gener., Volume 11, Issue 5, 12 April 2017, p. 550 – 557, DOI: 10.1049/iet-rpg.2016.0768 , Print ISSN 1752-1416, Online ISSN 1752-1424, URL: http://ietdl.org/t/iJLSVb\u0026nbsp; Diane Palmer, Elena Koubli, Tom Betts and Ralph Gottschalg, 2017, The UK Solar Farm Fleet: A Challenge for the National Grid?, Energies 2017, 10(8), 1220; doi:10.3390/en10081220, URL: http://www.mdpi.com/1996-1073/10/8/1220\u0026nbsp; Palmer, Diane; Betts, Thomas; Gottschalg, Ralph, 2018, The future scope of large-scale solar in the UK: site suitability and target analysis, Renewable Energy, URL: https://doi.org/10.1016/j.renene.2018.08.109\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -18167,6 +20292,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 827,
         href: "/projects/ukcp18-services/",
@@ -18177,6 +20303,7 @@ function initIndex() {
         content: "Funder: Met Office/Defra\nDates: 2018 - 2019\nAim: To provide data services to support access to the next generation of climate projections for the UK (2018).\nCEDA role: provide web-interface and web processing service (WPS), JASMIN-hosted services."
       })
       .add(
+      
       
       
       
@@ -18195,10 +20322,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 829,
         href: "/news/updates/2000/2000-05-17-ukmo-global-mean-sea-level-pressure-gmslp21f-data/",
-        title: "UKMO Global Mean Sea-Level       Pressure (GMSLP2.1f) data set  now available at the BADC",
+        title: "UKMO Global Mean Sea-Level    ...",
         description: "The GMSLP is a fully global mean sea-level pressure (GMSLP) data set, developed in collaboration with CSIRO (Scientific and Industrial Research for Australia), Australia and NIWA (National Institute of Water and Atmospheric Research), New Zealand. It is an historical, 5x5 deg. gridded monthly dataset covering the period 1949-1994.\n",
         
         
@@ -18209,10 +20339,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 830,
         href: "/news/updates/2000/2000-06-09-ukmo-global-mean-sea-level-pressure-gmslp21f-data/",
-        title: "UKMO Global Mean Sea-Level       Pressure (GMSLP2.1f) data set covering period 1871-1994 just rele",
+        title: "UKMO Global Mean Sea-Level    ...",
         description: "The GMSLP is a fully global mean sea-level pressure (GMSLP) data set, developed in collaboration with CSIRO (Scientific and Industrial Research for Australia), Australia and NIWA (National Institute of Water and Atmospheric Research), New Zealand. It is an historical, 5x5 deg. gridded monthly dataset covering the period 1871-1994.\n",
         
         
@@ -18223,10 +20356,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 831,
         href: "/news/updates/2019/2019-01-10-ukri-cloud-workshop-free-registration-now-open/",
-        title: "UKRI Cloud Workshop - free registration now open",
+        title: "UKRI Cloud Workshop - free reg...",
         description: "The UKRI Cloud Workshop is being held on the 12th February at the Francis Crick Institute in central London.\nThe event provides an opportunity for the members of the UK research community to meet and find out more about how they can make use of cloud computing with their research or share experiences and best practice with existing applications that run on cloud.\n",
         
         
@@ -18237,16 +20373,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 832,
         href: "/projects/net-zero-scoping-project/",
-        title: "UKRI Net-Zero Digital Research Infrastructure (DRI) Scoping Project",
+        title: "UKRI Net-Zero Digital Research...",
         description: "A wide ranging project examining digital infrastructure within the UKRI sector to ensure they will be sustainable within the next 17 years.",
         
         
-        content: "Initial Project Aim \u0026nbsp; Our initial aim was to provide a clear roadmap to deliver carbon neutral digital research infrastructure (DRI) by 2040 or earlier. This covers the entire DRI estate for UK Research and Innovation. the core project team at CEDA was to lead an initial, 18-month UKRI-wide study to survey the digital carbon landscape, run a set of demonstrators and develop a roadmap to ensure that our data infrastructure can achieve net zero. Taking a systems-based approach, CEDA would work to develop adaptation strategies for the way data is conserved, analysed and managed.\nThe link to the project website is here\u0026nbsp; Results Over the last 2 years, we have led a scoping project that has compiled recommendations for UK Research and Innovation (UKRI) to ensure all digital tools used in the sector - from supercomputers like JASMIN to staff laptops - will be sustainable within the next 17 years. The final technical report has now been published and is freely available for anyone to make use of\u0026nbsp; The scoping project has developed a toolkit, and roadmapped the initial steps required, for the decarbonisation of our national digital research infrastructure. This project was made possible by a £1.9 million investment from the Natural Environment Research Council (NERC) on behalf of UKRI. Over 180 evidence-based recommendations have been synthesised by the scoping project team - involving CEDA, over 90 UK researchers, and more than 20 nationwide research institutes. The recommendations recognise UKRI’s ambition for facilitating state-of-the-art computing tools and techniques, while playing a leading role in navigating the transition to an equitable and sustainable future. A new holistic toolkit now sets out the proposals for reaching net zero - supported by a clear roadmap - and intended for people that use, manage, maintain, fund, or make decisions about digital research infrastructure. Six elements of the sustainable computing strategic toolkit The toolkit sets out the \"what\" can be done. The evidence-based recommendations are synthesised into six areas that reflect the challenges likely to be faced as we embark on the net zero journey: Mission Focus\nContinuous assessment and focus on the mission of achieving sustainability; active measures to counter the risk of enhanced demand negating efficiency gains. Build and Share Knowledge\nProviding leadership, support and advice for business cases and large procurements feeding into reporting; central hub for information and institutional knowledge. Action-based-research\nWork must start now with commitment appropriate to the climate emergency while recognising that there will be a need for regular checks and adjustments; focus on progress not perfection; small steps; learn from experience. Work with peers and suppliers\nThrough contracts, conditionalities, and understanding mutual benefits, to develop a low carbon supply chain (essential in the longer term). Recognition of shared responsibility\nmandate and empower all staff to take proportionate action to drive change and reduce the environmental impact of their work; community building; encourage discussion among colleagues and learn from others to foster positive changes in behaviour. Green Software Engineering\nCreating a body of expertise around green software engineering, providing training, developing tools, and standards to transform current approaches to writing code, and supporting codes running in data centres, such that GSE becomes the norm rather than an optional extra. Three delivery pathways for reaching net zero digital research infrastructure by 2040 Reflecting the actions required and the mechanisms available to effect change, the roadmap describes \"how\" UKRI can implement the recommendations by 2040 or sooner. UKRI policy and governance\nCreating a policy framework which can deliver the steps needed to achieve the net zero ambition. Delivery partnership\nFunders and facility leads or service providers work together to implement the fundamental changes required. Competitive funding\nDeveloping the necessary capabilities and tools drawing on the creativity, diversity and strength in depth of the UK academic community."
+        content: "Initial Project Aim \u0026nbsp; Our initial aim was to provide a clear roadmap to deliver carbon neutral digital research infrastructure (DRI) by 2040 or earlier. This covers the entire DRI estate for UK Research and Innovation. the core project team at CEDA was to lead an initial, 18-month UKRI-wide study to survey the digital carbon landscape, run a set of demonstrators and develop a roadmap to ensure that our data infrastructure can achieve net zero. Taking a systems-based approach, CEDA would work to develop adaptation strategies for the way data is conserved, analysed and managed.\nThe link to the project website is here\u0026nbsp; Results Over the last 2 years, we have led a scoping project that has compiled recommendations for UK Research and Innovation (UKRI) to ensure all digital tools used in the sector - from supercomputers like JASMIN to staff laptops - will be sustainable within the next 17 years. The final technical report has now been published and is freely available for anyone to make use of\u0026nbsp; The scoping project has developed a toolkit, and roadmapped the initial steps required, for the decarbonisation of our national digital research infrastructure. This project was made possible by a £1.9 million investment from the Natural Environment Research Council (NERC) on behalf of UKRI. Over 180 evidence-based recommendations have been synthesised by the scoping project team - involving CEDA, over 90 UK researchers, and more than 20 nationwide research institutes. The recommendations recognise UKRI’s ambition for facilitating state-of-the-art computing tools and techniques, while playing a leading role in navigating the transition to an equitable and sustainable future. A new holistic toolkit now sets out the proposals for reaching net zero - supported by a clear roadmap - and intended for people that use, manage, maintain, fund, or make decisions about digital research infrastructure. Six elements of the sustainable computing strategic toolkit The toolkit sets out the \"what\" can be done. The evidence-based recommendations are synthesised into six areas that reflect the challenges likely to be faced as we embark on the net zero journey: Mission Focus Continuous assessment and focus on the mission of achieving sustainability; active measures to counter the risk of enhanced demand negating efficiency gains. Build and Share Knowledge Providing leadership, support and advice for business cases and large procurements feeding into reporting; central hub for information and institutional knowledge. Action-based-research Work must start now with commitment appropriate to the climate emergency while recognising that there will be a need for regular checks and adjustments; focus on progress not perfection; small steps; learn from experience. Work with peers and suppliers Through contracts, conditionalities, and understanding mutual benefits, to develop a low carbon supply chain (essential in the longer term). Recognition of shared responsibility mandate and empower all staff to take proportionate action to drive change and reduce the environmental impact of their work; community building; encourage discussion among colleagues and learn from others to foster positive changes in behaviour. Green Software Engineering Creating a body of expertise around green software engineering, providing training, developing tools, and standards to transform current approaches to writing code, and supporting codes running in data centres, such that GSE becomes the norm rather than an optional extra. Three delivery pathways for reaching net zero digital research infrastructure by 2040 Reflecting the actions required and the mechanisms available to effect change, the roadmap describes \"how\" UKRI can implement the recommendations by 2040 or sooner. UKRI policy and governance Creating a policy framework which can deliver the steps needed to achieve the net zero ambition. Delivery partnership Funders and facility leads or service providers work together to implement the fundamental changes required. Competitive funding Developing the necessary capabilities and tools drawing on the creativity, diversity and strength in depth of the UK academic community."
       })
       .add(
+      
       
       
       
@@ -18265,10 +20405,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 834,
         href: "/news/updates/2016/2016-06-29-ukssdc-website-and-services-partially-restored/",
-        title: "UKSSDC website and services partially restored",
+        title: "UKSSDC website and services pa...",
         description: "Following the UKSSDC web site being hacked last week the website and services are being returned online gradually.\nApologies for the inconvenience this may cause as we work to return all functionality to the site as quickly as possible.\n",
         
         
@@ -18279,16 +20422,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 835,
         href: "/news/updates/2017/2017-11-30-unearthed-a-science-showcase-with-ice-beards-pledges-and-grains-of-rice/",
-        title: "UnEarthed a science showcase with ice beards, pledges and grains of rice",
+        title: "UnEarthed a science showcase w...",
         description: "A stand at NERC’s public engagement event, called UnEarthed\u0026nbsp; , was recently run by CEDA (Centre for Environmental Data Analysis*) staff. UnEarthed was a showcase of the diverse environmental science undertaken by NERC scientists, ranging from decaying Puffins, making clouds in a bottle, to virtual reality floods. The event was free to attend at Dynamic Earth, in Edinburgh, and nearly ~7000 people visited over 4 days.\n",
         
         
         content: "A stand at NERC’s public engagement event, called UnEarthed\u0026nbsp; , was recently run by CEDA (Centre for Environmental Data Analysis*) staff. UnEarthed was a showcase of the diverse environmental science undertaken by NERC scientists, ranging from decaying Puffins, making clouds in a bottle, to virtual reality floods. The event was free to attend at Dynamic Earth, in Edinburgh, and nearly ~7000 people visited over 4 days.\nir camera demo Poppy Townsend organised the ‘Our changing planet seen from space’ stand with colleagues at NCEO (National Centre of Earth Observation). Activities included the Infra-red camera, Sentinel 3 satellite model, visualisations for how big Sentinel data is, and a pledge wall.\nPoppy explains, ‘The main narrative was that we use similar thermal cameras on satellites in space to measure temperature - and therefore climate change (whilst demonstrating all the usual fun IR activities - like drawing beards with ice, or wearing safety goggles).\nThe next section linked to the Sentinel satellites and how they produce huge amounts of data; ~10TB is archived at CEDA every day… and just like when we take too many photos on our phones, we run out of space for satellite data too. This was represented by grains of rice and comparison to animal weights.\n(2 grains of rice = average smartphone; 625 grains = 10TB daily Sentinel data; ~125,000 grains = 2PB of total archived Sentinel data)\nAs the nature of the science discussed climate change, we thought it would be a nice way to suggest small easy changes (or pledges) that individual’s could make. The idea being that climate change is a huge issue and sometimes it’s hard to know how to reduce your impact on the planet. Examples included; using less single-use plastic, going vegetarian one day a week, and only filling the kettle with the water you need. Approximately 180 pledges were recorded on our poster wall and visitors even suggested new pledges of their own.’\nPledges and sea surface temperature floor puzzle The event was a huge success and had very positive feedback - some examples include;\n‘It was amazing. I would go again and again and again’\n‘I want to be a scientist when I’m older’\n‘SCIENCE IS AWESOME’\nIf you’d like to see more photos from the event then search for #UnEarthed2017 on Twitter. Contact Poppy Townsend if you’d like more information about the activities and resources used.\nThe CEDA staff involved were Poppy Townsend, Ed Williamson and Kate Winfield - massive thanks to you all!"
       })
       .add(
+      
       
       
       
@@ -18307,10 +20454,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 837,
         href: "/news/updates/2022/2022-06-01-upcoming-at-risk-periods-for-cedajasmin-7th-14th-18-19th-june/",
-        title: "Upcoming at risk periods for CEDA/JASMIN - 7th, 14th, 18-19th June",
+        title: "Upcoming at risk periods for C...",
         description: "Please note upcoming \u0026ldquo;at risk\u0026rdquo; periods and maintenance work affecting JASMIN \u0026amp; CEDA during the next couple of weeks:\nTuesday 7th June \u0026ldquo;at risk\u0026rdquo; period between 08:00 am and 10:00 am: Further preparatory work ahead of the network intervention on the weekend of 18/19th June, is required and is expected to cause minimal disruption.\n",
         
         
@@ -18321,16 +20471,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 838,
         href: "/news/updates/2023/2023-01-12-upcoming-events-net-zero-digital-research-infrastructure/",
-        title: "Upcoming events net zero digital research infrastructure",
+        title: "Upcoming events net zero digit...",
         description: "We have been busy preparing a schedule of events\u0026nbsp; for the final 6 months of the UKRI Net Zero Digital Research Infrastructure Scoping Project\u0026nbsp; - with the aims of sharing findings, gathering further evidence and gaining greater consensus. Details of our first few events are below. Please register to attend and/or share widely with your networks! Further events will be announced in due course.\n",
         
         
         content: "We have been busy preparing a schedule of events\u0026nbsp; for the final 6 months of the UKRI Net Zero Digital Research Infrastructure Scoping Project\u0026nbsp; - with the aims of sharing findings, gathering further evidence and gaining greater consensus. Details of our first few events are below. Please register to attend and/or share widely with your networks! Further events will be announced in due course.\nBest wishes, The UKRI Net Zero DRI project team.\nProject partners webinars \u0026nbsp; We are holding two webinars to share the outcomes of work undertaken by our project partners.\u0026nbsp; These pieces of work have been undertaken by over 40 researchers from 20 different institutions over the last ~6 months.Both webinars are intended to provide an opportunity for the wider research community to engage with and discuss the project outcomes.The webinars have been divided according to two themes reflected in the findings and recommendations of the projects: * Webinar 1 - Technical and Operational Challenges - Tuesday 31 January 2-4pm (UK time)\nWebinar 2 - Community and Organisational Challenges - Thursday 2 February, 1:30-3:30pm (UK time) Please register to attend here\u0026nbsp; .\nCreative workshops \u0026nbsp; We have commissioned artist Paul Millhouse-Smith\u0026nbsp; to deliver a large-scale art-work in response to the core ambitions - and challenges - associated with the net zero agenda. The final piece will inspire collective action and stimulate conversations surrounding the transition to net zero digital research infrastructure (DRI).As part of this commission, Paul is facilitating four creative workshops\u0026nbsp; in January and February to gather information that will inspire his final artwork and facilitate discussion.Decarbonising the digital research infrastructure will require a reassessment of existing habits, values and methodologies across the research community. These workshops are therefore open to anyone working with DRI, including researchers within any and all disciplines and career stages.The workshops offer an opportunity to engage critically and creatively with the environmental sustainability discussion.The online creative workshops will be held on the following dates, you only need to attend one:* Friday 27 January 1-4pm\nMonday 30 January 1-4pm Friday 3 February 10am-1pm Tuesday 7 February 10am-1pm There is also an option to participate offline For further information and to register your interest\u0026nbsp; ."
       })
       .add(
+      
       
       
       
@@ -18349,10 +20503,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 840,
         href: "/news/updates/2023/2023-01-10-update-some-group-workspaces-and-virtual-machines-unavailable/",
-        title: "UPDATE - some group workspaces and virtual machines unavailable",
+        title: "UPDATE - some group workspaces...",
         description: "Dear users,\nFurther to our earlier message, issues with the affected storage volumes are currently being resolved. Some are now available again while the root cause is still being investigated.\n",
         
         
@@ -18363,16 +20520,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 841,
         href: "/news/updates/2023/2023-02-01-update-2-jasmin-maintenance-work-still-in-progress/",
-        title: "UPDATE 2 - JASMIN maintenance work still in progress",
+        title: "UPDATE 2 - JASMIN maintenance ...",
         description: "Dear users,\nMaintenance work is still in progress today.\nParallel File System (PFS) Storage A second phase of the upgrade is now likely to be postponed to another date. PFS storage is running, but at reduced performance. This affects some CEDA Archive services, group workspaces with /gws/pw/j07 paths, /work/xfc and /work/scratch-pw[2,3] volumes The old /work/scratch-pw volume should no longer be used and will be physically removed shortly. LOTUS batch processing cluster: a reservation will remain in place until later today. An announcement will be made when this is lifted. In summary: while many systems are back in operation, there is more work to be completed so in order to avoid disruption to their work, users are advised to avoid resuming work on the system until further notice.\n",
         
         
         content: "Dear users,\nMaintenance work is still in progress today.\nParallel File System (PFS) Storage A second phase of the upgrade is now likely to be postponed to another date. PFS storage is running, but at reduced performance. This affects some CEDA Archive services, group workspaces with /gws/pw/j07 paths, /work/xfc and /work/scratch-pw[2,3] volumes The old /work/scratch-pw volume should no longer be used and will be physically removed shortly. LOTUS batch processing cluster: a reservation will remain in place until later today. An announcement will be made when this is lifted. In summary: while many systems are back in operation, there is more work to be completed so in order to avoid disruption to their work, users are advised to avoid resuming work on the system until further notice.\nNB: as part of the changes introduced yesterday, access to storage volumes other than /home/users from login servers is now removed. This is in line with documentation and training materials but some login servers intermittently allowed this. Please refer to documentation about access to storage\u0026nbsp; and login servers\u0026nbsp; for further information.\nPlease look out for further updates today.\nWith apologies for any inconvenience caused,\nJASMIN Team"
       })
       .add(
+      
       
       
       
@@ -18391,10 +20552,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 843,
         href: "/news/updates/2021/2021-01-05-update-covid-19-impact-on-ceda-and-jasmin-operations/",
-        title: "Update COVID-19 impact on CEDA and JASMIN operations",
+        title: "Update COVID-19 impact on CEDA...",
         description: "At the beginning of the Covid-19 pandemic, we announced that all of our services should be considered at risk. Thankfully, our services have run largely as normal throughout the pandemic, but 10 months on, unfortunately, this ‘at risk’ status still stands. See below for details about how we anticipate it will continue to affect us and you.\n",
         
         
@@ -18405,16 +20569,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 844,
         href: "/news/updates/2019/2019-10-16-update-for-yesterdays-system-maintenance/",
-        title: "Update for yesterday’s system maintenance",
+        title: "Update for yesterday’s system ...",
         description: "Yesterday’s scheduled maintenance went well and we anticipate services to be back to normal. However, we are aware of a few outstanding issues - we are working on these and will update on progress here.\n",
         
         
         content: "Yesterday’s scheduled maintenance went well and we anticipate services to be back to normal. However, we are aware of a few outstanding issues - we are working on these and will update on progress here.\nThe most common issue, which was a 404 error on data.ceda.ac.uk, should now be resolved, please let us know if you see further errors.\nThank you for bearing with us during the maintenance.\nBest wishes,\nCEDA team"
       })
       .add(
+      
       
       
       
@@ -18433,6 +20601,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 846,
         href: "/news/updates/2023/2023-06-01-update-jasmin-gws-io-errors/",
@@ -18447,10 +20616,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 847,
         href: "/news/updates/2014/2014-07-22-update-jasmin-vm-disruptions-2207/",
-        title: "Update JASMIN VM disruptions 22/07",
+        title: "Update JASMIN VM disruptions 2...",
         description: "Following a hardware failure on one of the pair of disk arrays which housing the JASMIN virtual machine (VM) images over the weekend, the SCD team supporting the JASMIN infrastructure have managed to recover most VM images from the array, with the result that most affected VMs are now back up and running.\n",
         
         
@@ -18461,10 +20633,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 848,
         href: "/news/updates/2021/2021-04-30-update-on-jasmin-disk-and-tape-storage-issues/",
-        title: "Update on JASMIN disk and tape storage issues",
+        title: "Update on JASMIN disk and tape...",
         description: "Contents:\nUpdate on disk storage issues New disk storage capacity Update on Elastic Tape service Update on network connectivity 1) Update on disk storage issues\n",
         
         
@@ -18475,10 +20650,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 849,
         href: "/news/updates/2023/2023-08-30-update-on-jasmin-issues-30-aug-2023/",
-        title: "Update on JASMIN issues 30 Aug 2023",
+        title: "Update on JASMIN issues 30 Aug...",
         description: "Further investigation of the storage and networking issues affecting CEDA and JASMIN services means that some additional interventions are required:\n",
         
         
@@ -18489,10 +20667,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 850,
         href: "/news/updates/2023/2023-08-31-update-on-jasmin-issues-31-aug-2023/",
-        title: "Update on JASMIN issues 31 Aug 2023",
+        title: "Update on JASMIN issues 31 Aug...",
         description: "Dear users,\nWe thank you for your patience while the system team has been working to resolve the network and storage issues of the past few days. The current situation is as follows:\n",
         
         
@@ -18503,10 +20684,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 851,
         href: "/news/updates/2020/2020-04-22-update-on-jasmin-maintenance-21-april-2020/",
-        title: "Update on JASMIN Maintenance 21 April 2020",
+        title: "Update on JASMIN Maintenance 2...",
         description: "Following scheduled maintenance on parts of the JASMIN system yesterday, please note the following:\nServers were patched and rebooted where necessary to apply important updates. There were nearly double the number of hosts to update this time, as we transition from RHEL6 to CentOS7 operating systems, so this took longer than usual.\n",
         
         
@@ -18517,10 +20701,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 852,
         href: "/news/updates/2023/2023-01-31-update-on-jasmin-maintenance-tues-31-jan-2023-window-extended/",
-        title: "Update on JASMIN maintenance Tues 31 Jan 2023 - window extended",
+        title: "Update on JASMIN maintenance T...",
         description: "Scheduled maintenance work today has progressed well but some tasks will require extending the maintenance window into tomorrow Wednesday 1st February 2023.\n",
         
         
@@ -18531,10 +20718,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 853,
         href: "/news/updates/2023/2023-05-11-update-on-jasmin-tape-services-and-related-issues/",
-        title: "Update on JASMIN tape services and related issues",
+        title: "Update on JASMIN tape services...",
         description: "Please note the further updates below:\nAlthough initially thought to be only a problem with ET/JDMA service itself, the current issues with slow throughput are now thought to be mainly due to a problem with the PFS storage from where the particular tape jobs are being ingested. The issue with PFS storage is also affecting other volumes in that system, including XFC volumes /work/xfc/*, and /work/scratch-pw* and /gws/pw/j07/*. These issues are being actively pursued with the storage vendor and the urgency has been escalated. Further interventions to restore stability to the tape services are possible in due course. We apologise for the disruption caused by these issues, but are working to understand and resolve them as soon as possible.JASMIN Team.\n",
         
         
@@ -18545,10 +20735,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 854,
         href: "/news/updates/2020/2020-08-19-update-on-tape-library-maintenance-1718-aug/",
-        title: "Update on tape library maintenance 17/18 Aug",
+        title: "Update on tape library mainten...",
         description: "Dear users,\nMaintenance work to the tape library has now been completed including tests to check that all is operating as expected. The tape library, and hence all tape services: Elastic Tape (ET), Joint Data Migration App (JDMA), StorageD (SD) and Near Line Archive (NLA) are therefore ready for use again.\n",
         
         
@@ -18559,10 +20752,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 855,
         href: "/news/updates/2020/2020-10-28-update-on-tape-library-maintenance-26-28-oct/",
-        title: "Update on tape library maintenance 26-28 Oct",
+        title: "Update on tape library mainten...",
         description: "Dear Users,\nMaintenance work to the tape library has now been completed including tests to check that all is operating as expected. The tape library, and hence all tape services: Elastic Tape (ET), Joint Data Migration App (JDMA), StorageD (SD) and Near Line Archive (NLA) are therefore ready for use again.\n",
         
         
@@ -18573,16 +20769,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 856,
         href: "/news/updates/2023/2023-01-12-update-on-tape-services-and-storage-issues/",
-        title: "Update on tape services and storage issues",
+        title: "Update on tape services and st...",
         description: " Interruption to tape services (including week of 16-20 Jan)\nThe tape library is now functioning but with only one robot so performance is reduced. Please avoid using for now, as any jobs remaining over the weekend will likely need to be stopped ahead of scheduled maintenance due start on Monday 16th Jan for four days. Tape services should therefore be considered at reduced performance for now, but fully unavailable for most/all of next week. This affects Elastic Tape, JDMA, and Near-Line Archive (NLA) services.\n",
         
         
         content: "Interruption to tape services (including week of 16-20 Jan)\nThe tape library is now functioning but with only one robot so performance is reduced. Please avoid using for now, as any jobs remaining over the weekend will likely need to be stopped ahead of scheduled maintenance due start on Monday 16th Jan for four days. Tape services should therefore be considered at reduced performance for now, but fully unavailable for most/all of next week. This affects Elastic Tape, JDMA, and Near-Line Archive (NLA) services.\nUpdate in storage issues:\nNo further update at this stage: users may observe a brief unavailability of some GWS volumes, please be patient for a few minutes and they should become accessible again.\nWith apologies for any inconvenience. JASMIN Team."
       })
       .add(
+      
       
       
       
@@ -18601,10 +20801,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 858,
         href: "/news/updates/2019/2019-03-15-update-re-offline-group_workspacesjasmin4/",
-        title: "Update re. offline /group_workspaces/jasmin4/",
+        title: "Update re. offline /group_work...",
         description: "The /group\\_workspaces/jasmin4 volumes have been stable overnight and are now officially back online.\nThe SOF storage (where many of the GWS sit) was struggling with parallel writes. This caused a bug to occur in the hardware.\n",
         
         
@@ -18615,10 +20818,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 859,
         href: "/news/updates/2019/2019-03-14-update-re-offline-group_workspacesjasmin4-please-check-your-code/",
-        title: "Update re. offline /group_workspaces/jasmin4/ - please check your code!",
+        title: "Update re. offline /group_work...",
         description: "The following group workspaces are still offline:\n/group_workspaces/jasmin4/\nThis downtime is caused by a bug in the storage that the GWS’s are hosted on. The error is triggered by the use of parallel writes within the GWS. The SOF storage that the GWS’s are located on do not allow use of parallel writes; please refer to the documentation here for guidance about how to avoid using parallel writes within the new GWS’s: https://help.jasmin.ac.uk/article/4700-understanding-new-jasmin-storage\u0026nbsp; .\n",
         
         
@@ -18629,10 +20835,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 860,
         href: "/news/updates/2022/2022-08-10-update-tape-services-maintenance-8-9-august-2022/",
-        title: "Update Tape services maintenance 8-9 August 2022",
+        title: "Update Tape services maintenan...",
         description: "Dear Users\nElastic Tape, JDMA Near-Line Archive (NLA) services are now re-enabled and should be running as usual.\nWith apologies for any inconvenience caused.\n",
         
         
@@ -18643,10 +20852,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 861,
         href: "/news/updates/2020/2020-07-28-update-tape-system-upgrade-completed-services-now-available-for-use/",
-        title: "UPDATE Tape system upgrade completed services now available for use",
+        title: "UPDATE Tape system upgrade com...",
         description: "Maintenance work to add additional capacity to the tape library has now been completed including tests to check that all is operating as expected. The tape library, and hence all tape services: Elastic Tape (ET) and StorageD (SD) and Near Line Archive (NLA) are therefore ready for use again.\n",
         
         
@@ -18657,10 +20869,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 862,
         href: "/news/updates/2020/2020-07-27-update-tape-systems-unavailable-duration-extended/",
-        title: "UPDATE Tape systems unavailable (duration extended)",
+        title: "UPDATE Tape systems unavailabl...",
         description: "Dear users,\nAs previously announced, maintenance work is currently underway to add additional capacity to the tape library shared by CEDA and JASMIN tape services. The tape library, and hence all tape services: Elastic Tape (ET) and StorageD (SD) and Near Line Archive (NLA) are currently unavailable.\n",
         
         
@@ -18671,10 +20886,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 863,
         href: "/news/updates/2020/2020-07-20-update-tape-systems-unavailable-21-28-july-duration-extended/",
-        title: "UPDATE Tape systems unavailable 21-28 July (duration extended)",
+        title: "UPDATE Tape systems unavailabl...",
         description: "Dear users,\nMaintenance work previously announced for 22-24 July 2020 will add additional capacity to the tape library shared by CEDA and JASMIN tape services. The tape library, and hence all tape services: Elastic Tape (ET) and StorageD (SD) and Near Line Archive (NLA) will be unavailable for this period.\n",
         
         
@@ -18685,10 +20903,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 864,
         href: "/news/updates/2025/2025-02-10-ceda-dataset-application-update/",
-        title: "Update to CEDA dataset application system on the 11th of February, from 10am onwards.",
+        title: "Update to CEDA dataset applica...",
         description: "On Tuesday 11th February, starting from 10am and continuing all day, we will be rolling out a number of improvements to the way dataset access applications and authorisations are managed for CEDA accounts. During this time, some CEDA account features will be inaccessible. These include sign up for datasets, users’ dataset overview pages, and JASMIN account linking.\n",
         
         
@@ -18699,10 +20920,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 865,
         href: "/news/updates/2021/2021-02-26-update-to-high-performance-data-transfer-services-1/",
-        title: "Update to high-performance data transfer services",
+        title: "Update to high-performance dat...",
         description: "Dear users,\nAs previously announced, we are making further changes to some data transfer services:\nftp.ceda.ac.uk (CEDA Archive FTP server)\nThe new host for this service will operate at the same name ftp.ceda.ac.uk, but if you have used the hostname ftp2.ceda.ac.uk directly, then you are advised to change to using the alias ftp.ceda.ac.uk so that the change happens transparently to you when the old server is decommissioned. JASMIN GridFTP Server Globus Endpoint\nThe Globus endpoint will change to a new server on Tuesday 2nd March. If you are using the “JASMIN GridFTP Server” Globus endpoint via Globus web or command-line interfaces, the endpoint ID of the service will remain the same but the server at the JASMIN end will change. This should only affect transfers in progress at the time of the change, so impact should be minimal given that this coincides with the planned maintenance day already announced.\nHowever, if you use certificate-based gridftp (gsiftp) directly i.e, not via Globus Online interfaces, but with the globus-url-copy client, then the hostname data-xfer1.ceda.ac.uk will need to be replaced with gridftp1.jasmin.ac.uk in your gsiftp:// URIs. All other aspects should remain the same. We are still investigating an issue affecting transfers to and from some file system (particularly affecting transfers made using Globus) and this is still not yet fully resolved.\n",
         
         
@@ -18713,10 +20937,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 866,
         href: "/news/updates/2021/2021-02-01-update-to-high-performance-data-transfer-services/",
-        title: "Update to high-performance data transfer services",
+        title: "Update to high-performance dat...",
         description: "Dear users,\nYou will be aware that many JASMIN and CEDA services were redeployed from RHEL6 to CentOS7 operating systems last year. The final few services - those deployed on physical servers in the JASMIN Data Transfer Zone - are now nearly ready for user access, so please note the following if you make use of these services:\n",
         
         
@@ -18727,16 +20954,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 867,
         href: "/news/updates/2017/2017-07-11-update-to-jasmin-analysis-platform-software-across-lotus-hosts/",
-        title: "Update to JASMIN Analysis Platform software across LOTUS hosts",
+        title: "Update to JASMIN Analysis Plat...",
         description: "Please be aware that on Monday 17th July the JASMIN Analysis Platform (JAP) software stack will be updated to the latest version across LOTUS compute hosts.\n",
         
         
         content: "Please be aware that on Monday 17th July the JASMIN Analysis Platform (JAP) software stack will be updated to the latest version across LOTUS compute hosts.\nA reservation has been put in place on the LOTUS batch processing cluster to drain it of jobs so that all hosts can be updated at the same time, scheduled for 08:00-11:00 on 17th July, although the task is expexted to take less than 1 hour.\nThis means that jobs on the long-serial queue are unlikely to start from today until the end of Monday\u0026rsquo;s reservation. The system team may be able to \u0026ldquo;force start\u0026rdquo; long-serial jobs between now and Monday only for jobs that do not make use of any of the JAP packages.\nPlease note that the above applies in addition to the JASMIN storage downtime planned for tomorrow Wednesday 12 July."
       })
       .add(
+      
       
       
       
@@ -18755,16 +20986,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 869,
         href: "/news/updates/2020/2020-08-06-update-to-the-ceda-user-database-at-9pm-this-evening-06082020/",
-        title: "Update to the CEDA User Database at 9pm this evening (06/08/2020)",
+        title: "Update to the CEDA User Databa...",
         description: "An update is planned for the CEDA user database this evening (06/08/20) at about 9pm. This will mean that CEDA login and new user registration will not work for a few minutes. However, all CEDA services should be regarded as at risk.\n",
         
         
         content: "An update is planned for the CEDA user database this evening (06/08/20) at about 9pm. This will mean that CEDA login and new user registration will not work for a few minutes. However, all CEDA services should be regarded as at risk.\nApologies for any inconveniences\nKind regards\nCEDA Team"
       })
       .add(
+      
       
       
       
@@ -18783,10 +21018,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 871,
         href: "/news/updates/2024/2024-04-03-updates-to-software-environments/",
-        title: "Updates to jaspy and jasr software environments",
+        title: "Updates to jaspy and jasr soft...",
         description: "The following software environments jaspy and jasr will have new default versions on Tuesday 16th April (JASMIN patch day):\njaspy: Python, and other tools and libraries. based on Python 3.11, release notes at https://github.com/cedadev/ceda-jaspy-envs/releases/tag/jaspy3.11_r20240302\u0026nbsp; jasr: R tools and libraries. based on R 4.3, release notes at https://github.com/cedadev/ceda-jaspy-envs/releases/tag/jasr4.3_r20240320\u0026nbsp; The new version of Jaspy (jaspy/3.11/r20240302) and Jasr (jasr/4.3/r20240320) will become the default version that is obtained when using module load jaspy or module load jasr without an explicit version number.\n",
         
         
@@ -18797,10 +21035,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 872,
         href: "/news/updates/2023/2023-11-24-updates-to-software-environments-jaspy-jasr/",
-        title: "Updates to software environments Jaspy and Jasr",
+        title: "Updates to software environmen...",
         description: "The following software environments Jaspy and Jasr will have new default versions at 9:00 am on Wednesday 13th December 2023:\n",
         
         
@@ -18811,10 +21052,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 873,
         href: "/news/updates/2018/2018-03-08-upgrade-to-uk-environmental-science-supercomputer-will-make-it-twice-as-capable/",
-        title: "Upgrade to UK environmental science supercomputer will make it twice as capable",
+        title: "Upgrade to UK environmental sc...",
         description: "A major upgrade is being made to double the storage available on JASMIN; a globally unique data intensive supercomputer for environmental science. The upgraded system will support the global analysis of the next generation of climate models and provide a venue for UK academia and industry to exploit Earth observation data.\n",
         
         
@@ -18825,10 +21069,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 874,
         href: "/news/updates/2022/2022-05-26-urgent-network-outage-at-1700-today-26-may/",
-        title: "Urgent network outage at 1700 today 26 May",
+        title: "Urgent network outage at 1700 ...",
         description: "With apologies for the very short notice: this will affect access to JASMIN and CEDA services:\nDue to an ongoing technical issue with the main RAL firewalls, there is going to be a period of network disruption from 17:00 today. We apologise for the very short notice but are passing on the information to you now that we have been made aware of the potential impact.\n",
         
         
@@ -18839,10 +21086,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 875,
         href: "/news/updates/2020/2020-06-22-user-survey-to-gauge-needs-in-preparation-for-purchase-of-a-new-gpu-cluster/",
-        title: "User survey to gauge needs in preparation for purchase of a new GPU cluster",
+        title: "User survey to gauge needs in ...",
         description: "The planned 2020 upgrade for JASMIN will include a substantial upgrade to JASMIN GPU capacity. While we have a panel of experts helping us develop requirements, it will be useful for us to get direct feedback about actual and potential GPU usage within the community of existing and potential JASMIN users. To that end we have a short survey. It should only take 5-10 minutes to complete, and we would value you doing that before the end of June.\n",
         
         
@@ -18853,10 +21103,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 876,
         href: "/events/past/stfc-air-quality-network-event/",
-        title: "Using CEDA for Air Quality Research - STFC Air Quality Network event",
+        title: "Using CEDA for Air Quality Res...",
         description: "A webinar about how CEDA/JASMIN can be used for air quality research.",
         
         
@@ -18867,16 +21120,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 877,
         href: "/news/updates/2019/2019-10-31-using-jasmin-for-the-largest-ever-uk-wildlife-assessment/",
-        title: "Using JASMIN for the largest ever UK wildlife assessment",
+        title: "Using JASMIN for the largest e...",
         description: " Most of the UK’s wildlife is in decline, according to the 2019 State of Nature (SoN) report\u0026nbsp; . However getting to this statement was not an easy process. Imagine trying to measure trends across thousands of different species and millions of datapoints, with biases in the data thrown in for added complexity… but that’s exactly what scientists have now done. The most comprehensive SoN report has now been completed with the help of JASMIN - our globally unique petascale analysis facility for data-intensive environmental science. Researchers relying on JASMIN for their data analysis contributed information to the SoN report, including several wildlife groups that had previously been impossible to analyse.\n",
         
         
         content: "Most of the UK’s wildlife is in decline, according to the 2019 State of Nature (SoN) report\u0026nbsp; . However getting to this statement was not an easy process. Imagine trying to measure trends across thousands of different species and millions of datapoints, with biases in the data thrown in for added complexity… but that’s exactly what scientists have now done. The most comprehensive SoN report has now been completed with the help of JASMIN - our globally unique petascale analysis facility for data-intensive environmental science. Researchers relying on JASMIN for their data analysis contributed information to the SoN report, including several wildlife groups that had previously been impossible to analyse.\nResearchers from the Centre for Ecology and Hydrology (CEH) used JASMIN’s large scale processing capability to contribute to the groundbreaking wildlife assessment. “I use observation data for our work, which is when volunteers go out and record what wildlife they’ve seen and where. This can be used to get a picture of how biodiversity has changed, in this case, from 1970 to 2015” explained Dr Charlie Outhwaite, a Research Associate at University College London and CEH. Unfortunately, as these data are collected in an unstandardised way it can lead to biases in the datasets. Therefore, to analyse these data, complex models must be used - which is where JASMIN steps in. To account for some of these biases the researcher used occupancy models - these are hierarchical models that allow the separation of the data collection process and the ecological processes enabling the accounting of certain data biases. “When there are a lot of data, these models take a long time to run. We wanted to analyse 12,000 species using over 34,000,000 records - so using a home computer, or even CEH’s small computing cluster, was simply not feasible for all datasets” explains Dr Outhwaite. Even with JASMIN’s fast parallel processing it still took months to complete some of the model runs, but without JASMIN, the scale of this research would not have been possible at all. At a national scale, the trends of less well-studied taxonomic groups (such as ants, mayflies and spiders) over time was not previously known. This was due to the limited availability of records and subsequent biases in the data. The use of occupancy modelling has now allowed us to explore these groups. Groups, including bryophytes, lichens and moths, had not been included in the State of Nature reports previously due to the challenge of analysing the huge datasets. JASMIN’s processing power means it is now possible to analyse these groups and for this research to contribute to a clearer and more detailed picture of change in less well-studied wildlife groups. However, there are still gaps in the available data for many of the UK’s less common species, even in well surveyed groups such as birds. One example is the Pied Flycatcher which is threatened in the UK (see image). Additional research is now being undertaken on JASMIN to more precisely estimate trends for less common bird species. Dr Philipp Boersch-Supan, an Ecological Statistician at the British Trust for Ornithology, explains “This research heavily relies on the computing and storage capabilities of JASMIN - which enable us to do new types of analyses that had previously been impossible to conduct on our in-house hardware. We also relied on the ability to easily access climate data from the CEDA Archive\u0026nbsp; to feed into our analyses”. Image credit: Pied Flycatcher, by Edmund Fellowes / BTO.\nJASMIN enabled research that contributed to the largest study of UK wildlife to date and continues to be essential for future research. Studying wildlife trends can help us to gain a better understanding of how and why species populations change by considering man-made and environmental drivers. As well as the State of Nature report\u0026nbsp; , this research also contributes to the annual UK Biodiversity Indicators report\u0026nbsp; , which is an obligation for the UK government to monitor progress towards biodiversity targets (like the Aichi targets\u0026nbsp; ). This work helps guide government policy on environmental issues such as pollinator declines and impacts of climate change on wildlife. Without JASMIN, it is unlikely that so many species could have been analysed. The outputs of the occupancy models produced by this research can be downloaded from the NERC Environmental Information Data Centre here\u0026nbsp; . Research papers are currently in preparation, and will be added into this article when available.\nContact:\nTo find out more about this research, contact: Dr Charlie Outhwaite, Postdoctoral Research Associate, Centre for Biodiversity and Environment Research, University College London - https://charlieouthwaite.weebly.com/\u0026nbsp; For more information about using JASMIN, please contact our helpdesk: support@ceda.ac.uk Footnotes:\nJASMIN\u0026nbsp; is managed jointly by STFC\u0026nbsp; \u0026rsquo;s Scientific Computing Department\u0026nbsp; and CEDA (Centre for Environmental Data Analysis), part of RAL Space\u0026nbsp; . It is funded by the Natural Environment Research Council ( NERC\u0026nbsp; ).\n*References:*Outhwaite, C.L., Powney, G.D., August, T.A., Chandler, R.E., Rorke, S., Pescott, O.L., Harvey, M., Roy, H.E., Fox, R., Roy, D.B., Alexander, K., Ball, S., Bantock, T., Barber, T., Beckmann, B.C., Cook, T., Flanagan, J., Fowles, A., Hammond, P., Harvey, P., Hepper, D., Hubble, D., Kramer, J., Lee, P., MacAdam, C., Morris, R., Norris, A., Palmer, S., Plant, C.W., Simkin, J., Stubbs, A., Sutton, P., Telfer, M., Wallace, I., Isaac, N.J.B., (In Press) Annual estimates of occupancy for bryophytes, lichens and invertebrates in the UK, 1970 – 2015. Sci. Data.\nOuthwaite, C.L., Powney, G.D., August, T.A., Chandler, R.E., Rorke, S., Pescott, O.L., Harvey, M., Roy, H.E., Fox, R., Roy, D.B., Alexander, K., Ball, S., Bantock, T., Barber, T., Beckmann, B.C., Cook, T., Flanagan, J., Fowles, A., Hammond, P., Harvey, P., Hepper, D., Hubble, D., Kramer, J., Lee, P., MacAdam, C., Morris, R., Norris, A., Palmer, S., Plant, C.W., Simkin, J., Stubbs, A., Sutton, P., Telfer, M., Wallace, I., Isaac, N.J.B.. (2019). Annual estimates of occupancy for bryophytes, lichens and invertebrates in the UK (1970-2015) [Data set]. doi: 10.5285/0ec7e549-57d4-4e2d-b2d3-2199e1578d84\nOuthwaite, C.L., Gregory, R.D., Chandler, R.E. et al. Complex long-term biodiversity change among invertebrates, bryophytes and lichens. Nat Ecol Evol (2020). https://doi.org/10.1038/s41559-020-1111-z\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -18895,6 +21152,7 @@ function initIndex() {
       
       
       
+      
       {
         id: 879,
         href: "/news/updates/2004/2004-07-09-utls-ozone-data-release/",
@@ -18909,10 +21167,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 880,
         href: "/news/updates/2021/2021-12-17-vacancies-head-of-ceda-project-manager/",
-        title: "Vacancies Head of CEDA, Project Manager, JASMIN Director",
+        title: "Vacancies Head of CEDA, Projec...",
         description: "We have three new exciting job opportunities to join our team. Further details are at the links below.\nHead of Centre for Environmental Data Analysis\u0026nbsp; (deadline extended to 23rd January) Project Manager\u0026nbsp; (deadline extended to 16th January) JASMIN Director\u0026nbsp; (deadline 23rd January) Please contact the helpdesk if you need any additional information. ",
         
         
@@ -18923,10 +21184,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 881,
         href: "/news/updates/2023/2023-02-02-vacancies-2023-feb/",
-        title: "Vacancies several opportunities to join our team",
+        title: "Vacancies several opportunitie...",
         description: "We have several new exciting job opportunities to join our team. Further details at the link below.\nHead of Earth Observation\u0026nbsp; - deadline: 26 February 2023 Principal Programme/Project Manager\u0026nbsp; - deadline: 26 February 2023 Technical Manager\u0026nbsp; - deadline: 26 February 2023 Assistant Environmental Data Scientist\u0026nbsp; - deadline: 5 March 2023 Scientific Programming and Outreach Graduate\u0026nbsp; - deadline: 5 March 2023 Please contact the helpdesk if you need any additional information.\n",
         
         
@@ -18937,16 +21201,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 882,
         href: "/news/updates/2022/2022-01-24-vacancies-student-placement-opportunities/",
-        title: "Vacancies student placement opportunities",
+        title: "Vacancies student placement op...",
         description: "There are several exciting opportunities for students to work with the CEDA team. Deadline for all roles is 6th March 2022, however, you are advised to submit your application as soon as possible as we reserve the right to close the vacancies once we have received sufficient applications. ",
         
         
         content: "There are several exciting opportunities for students to work with the CEDA team. Deadline for all roles is 6th March 2022, however, you are advised to submit your application as soon as possible as we reserve the right to close the vacancies once we have received sufficient applications. 12 week summer placements \u0026nbsp; Net Zero Project Engagement Assistant Summer Placement - two roles availableThe applicants will join the team running the project office for the UKRI initiative\u0026nbsp; to draft a roadmap to achieve net zero carbon emissions for UKRI’s digital research infrastructures (DRIs). Main tasks will include: Support communication activities within the team, i.e. social media, written communication, newsletters and website editing Support the team with delivering events e.g. creating web pages, producing feedback and evaluation reports Develop ideas for how the project can communicate its findings Apply here: Net Zero Project Engagement Assistant Summer Placement\u0026nbsp; Assistant Atmospheric Data Scientist Summer Placement - one role available\nThe appointee will join a team providing atmospheric and climate data to the research community. Primary responsibilities will be supporting the data management and curation of atmospheric and earth observation data including key climate change datasets. Tasks will include: Formatting data for long term preservation and accessibility Quality control checks Updating discovery metadata catalogue records Apply here: Assistant Atmospheric Data Scientist Summer Placement\u0026nbsp; 12 month placement \u0026nbsp; Software Developer Industrial Placement - one role available\nThe placement will involve a range of tasks that might include: Maintenance of existing software systems Development of scripts and tools to perform data management and analysis Design and development of larger software systems/applications Development of Django (python) web applications and web APIs. Interactions with scientists/developers Development of tools for working with large data sets and batch processing systems Exploratory work with new technologies Apply here: Software Developer Industrial Placement\u0026nbsp;"
       })
       .add(
+      
       
       
       
@@ -18965,10 +21233,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 884,
         href: "/news/updates/2021/2021-11-12-vacancy-data-specialist-job-opportunity-at-ncas/",
-        title: "Vacancy data specialist job opportunity at NCAS",
+        title: "Vacancy data specialist job op...",
         description: "There is an exciting new opportunity based at the National Centre for Atmospheric Science (NCAS) as a Data Specialist. The role will work closely with our team to ensure NCAS funded data is provided to the CEDA Archive. For more information about the role, look on the NCAS website.\u0026nbsp; Deadline to apply is 18th November.\n",
         
         
@@ -18979,10 +21250,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 885,
         href: "/news/updates/2021/2021-06-08-vacancy-jasmin-research-software-engineer/",
-        title: "Vacancy JASMIN Research Software Engineer",
+        title: "Vacancy JASMIN Research Softwa...",
         description: "We have an exciting opportunity to join our team as a Research Software Engineer, where you will develop and maintain software used to deliver JASMIN\u0026nbsp; , and to operate processes which support users in their work on the JASMIN platform.\n",
         
         
@@ -18993,10 +21267,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 886,
         href: "/news/updates/2023/2023-04-24-vacancy-principal-projectprogramme-manager/",
-        title: "Vacancy Principal Project/Programme Manager",
+        title: "Vacancy Principal Project/Prog...",
         description: "We have an exciting new vacancy for a Principal Project/Programme Manager within our CEDA team.\nYou will be responsible for effective leadership, management, delivery, and co-ordination of programmes and projects across CEDA. This includes oversight for major grants from our funders; management of complex software development projects involving multiple partners and stakeholders; project management for ongoing investment of hardware, software and services for the JASMIN computer facility and a portfolio of projects providing data science support, training and the development of new and innovative software and services for CEDA.\n",
         
         
@@ -19007,16 +21284,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 887,
         href: "/news/updates/2023/2023-01-12-vacancy-storage-ops-and-user-support/",
-        title: "Vacancy Storage Ops and User Support",
+        title: "Vacancy Storage Ops and User S...",
         description: "We have a new exciting job opportunity to join our team. Further details at the link below.\nStorage Ops and User Support\u0026nbsp; (deadline - 29 January 2023) Please contact the helpdesk if you need any additional information.\n",
         
         
         content: "We have a new exciting job opportunity to join our team. Further details at the link below.\nStorage Ops and User Support\u0026nbsp; (deadline - 29 January 2023) Please contact the helpdesk if you need any additional information.\nWe look forward to reading your applications.\nThe CEDA team"
       })
       .add(
+      
       
       
       
@@ -19035,10 +21316,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 889,
         href: "/news/updates/2020/2020-02-06-virtualisation-host-reboot-friday-7-feb-am-virtual-machines-affected/",
-        title: "Virtualisation host reboot Friday 7 Feb AM virtual machines affected",
+        title: "Virtualisation host reboot Fri...",
         description: "The below work has now been completed and all services are back to normal. An issue has been identified with one of the hypervisors (virtualisation servers) which hosts a number of CEDA and JASMIN virtual machines.\n",
         
         
@@ -19049,10 +21333,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 890,
         href: "/events/past/jasmin-orchid-webinar/",
-        title: "Webinar - JASMIN's new GPU cluster, ORCHID",
+        title: "Webinar - JASMIN's new GPU clu...",
         description: "Webinar about JASMIN’s new GPU cluster, ORCHID. The event provided information about ORCHID itself, as well as hearing from recent test users about their experiences with it.",
         
         
@@ -19063,10 +21350,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 891,
         href: "/news/updates/2006/2006-12-20-weybourne-atmospheric-observatory-dataset/",
-        title: "Weybourne Atmospheric Observatory Dataset",
+        title: "Weybourne Atmospheric Observat...",
         description: "The Weybourne Atmospheric Observatory (WAO) is part of the School of Environmental Sciences at the University of East Anglia (UEA). It is situated on the north Norfolk coast and is a world class facility for fundamental research, background atmospheric monitoring and teaching purposes. WAO operates a range of chemistry and meteorological instruments in its monitoring programme. Data from 2002 onwards is now available at the BADC.\n",
         
         
@@ -19077,16 +21367,20 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 892,
         href: "/events/past/jasmin-hands-on-workshop/",
-        title: "Working on JASMIN - a hands-on workshop",
+        title: "Working on JASMIN - a hands-on...",
         description: "An interactive workshop aimed at novice to intermediate users of JASMIN.",
         
         
         content: "CEDA regularly run hands-on interactive workshops for users of JASMIN.\u0026nbsp;Past event details can be seen below. Resources used in the workshops can be found here.\nThis hands-on workshop is aimed at novice to intermediate users of\u0026nbsp;JASMIN\u0026nbsp;who wish to further their knowledge about efficiently working on JASMIN.\u0026nbsp;We will cover a range of topics related to best practice for working on JASMIN. The workshop format will be via hands-on exercises and short presentations. Some example exercises include:\nCopying data to JASMIN\nBatch running scripts on LOTUS\nBuilding your own Python 3 environment\nOptimising storage usage on JASMIN\nManaging a multi-step workflow\nWe hope that this hands-on, attendee driven workshop format will encourage interaction and collaboration between attendees and the JASMIN team. You can see the material from our last workshop\u0026nbsp;here. We will largely cover the same topics but note it may change slightly.\u0026nbsp; \u0026nbsp;\nThe one day workshop will take place\u0026nbsp;in a classroom\u0026nbsp;in Oxfordshire at CEDA's home institute - STFC Rutherford Appleton Laboratory. We intend to cover the general exercises between 9.30-4pm, we will then cover some more advanced specialist topics between 4-6pm (e.g. Build your own Python3 environment, Compile and run parallel Fortran code on LOTUS). It is your choice whether you stay until 4pm or 6pm depending on your training requirements.\u0026nbsp;\nThe workshop will be delivered and supported by the JASMIN team (from both\u0026nbsp;CEDA\u0026nbsp;and\u0026nbsp;SCD), so is a great chance to interact, to discuss your research needs, and to provide feedback on the JASMIN service.\u0026nbsp; \u0026nbsp;\nOverall aims of the workshop:\u0026nbsp; To engage novice to intermediate users in best practice for working on JASMIN via hands-on exercises\nTo increase understanding about:\nwhich parts of JASMIN are suited for different tasks\navailable software on JASMIN\nTo provide a face-to-face environment where the JASMIN Team can offer support and feedback on a range of issues/problems\nTo gather feedback on the gaps in current provision of documentation"
       })
       .add(
+      
       
       
       
@@ -19105,10 +21399,13 @@ function initIndex() {
       
       
       
+          
+      
+      
       {
         id: 894,
         href: "/news/updates/2022/2022-03-18-ai-review-survey/",
-        title: "Your current and future needs for AI - Review of UK Digital Research Infrastructure for AI",
+        title: "Your current and future needs ...",
         description: "Technopolis, on behalf of The Alan Turing Institute and UKRI, is carrying out a review to understand the UK research and innovation community’s future requirements for Digital Research Infrastructure for AI.\n",
         
         
@@ -19339,24 +21636,163 @@ const togglers = document.querySelectorAll('.main-nav-toggler')
 const modeSelectors = document.querySelectorAll('.switch-mode-collapsed')
 const colorsBG = ['body', 'secondary', 'tertiary']
 
-function updateNavbar () {
-  let storedTheme
-  if (typeof getLocalStorage === "function") {
-    storedTheme = getLocalStorage('theme', null, 'functional')
+let scrollPosition = 0
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms))
+}
+
+function getStyle(el, styleProp) {
+    let y
+    
+    if (window.getComputedStyle) {
+      y = document.defaultView.getComputedStyle(el).getPropertyValue(styleProp)
+    } else if (el.currentStyle) {
+      y = el.currentStyle[styleProp]
+    }
+
+    return y
+}
+
+function updateNavbarColor () {
+  const scrollTop = window.pageYOffset
+  const scrollBottom = scrollTop + navbar.offsetHeight
+
+  // find which section is currently under the navbar
+  let currentSection = null
+  const sections = document.querySelectorAll('article,section,footer')
+  let currentIndex = -1
+
+  sections.forEach(section => {
+    const rect = section.getBoundingClientRect()
+    const sectionTop = scrollTop + rect.top
+    const sectionBottom = sectionTop + section.offsetHeight - 1
+
+    // check if navbar overlaps with this section
+    if (scrollTop <= sectionBottom && scrollBottom >= sectionTop) {
+      let index = getStyle(section, 'z-index')
+      if (index === 'auto') {
+        index = 1
+      }
+      if (index > currentIndex) {
+        currentSection = section
+        currentIndex = index
+      }
+    }
+  })
+
+  // use main part as backup (defined in baseof.html template)
+  if (!currentSection) {
+    currentSection = document.querySelector('main')
   }
 
-  if (window.scrollY > 75) {
-    navbar.classList.add('nav-active')
-    if (storedTheme) {
-      navbar.setAttribute('data-bs-theme', storedTheme)
+  if (currentSection) {
+    adaptToSection(currentSection)
+  }
+}
+
+function getBackgroundColor (section) {
+  // get computed background color of the section
+  let color = window.getComputedStyle(section).backgroundColor
+
+  // use body background when section background is undefined or transparent
+  if (color === 'rgba(0, 0, 0, 0)' || color === 'transparent') {
+    color = window.getComputedStyle(document.body).getPropertyValue('background-color')
+  }
+
+  return color
+}
+
+function adaptToSection (section) {
+  // retrieve the section background color, using body color as fallback
+  const color = getBackgroundColor(section)
+
+  // determine if the background is light or dark
+  const isLightBackground = isLightColor(section, color)
+
+  // set appropriate mode class
+  const nav = document.querySelector('.navbar')
+  if (isLightBackground) {
+    if (navbar.dataset.bsTheme !== 'light') {
+      navbar.dataset.bsTheme = 'light'
     }
   } else {
-    navbar.classList.remove('nav-active')
-    const defaultTheme = navbar.getAttribute('data-bs-overlay')
+    if (navbar.dataset.bsTheme !== 'dark') {
+      navbar.dataset.bsTheme = 'dark'
+    }
+  }
 
-    const targetTheme = defaultTheme ? defaultTheme : storedTheme
-    if (targetTheme) {
-      navbar.setAttribute('data-bs-theme', defaultTheme)
+  // update semi-transparent background color of navbar
+  const rgb = parseRGB(color)
+  if (rgb) {
+    navbar.style.backgroundColor = `rgba(${rgb.r},${rgb.g},${rgb.b},.4)`
+  }
+}
+
+function isLightColor (section, color) {
+  if (section.dataset.bsTheme === 'light') {
+    return true
+  }
+
+  if (section.dataset.bsTheme === 'dark') {
+    return false
+  }
+
+  // parse RGB color of the section backgroiund
+  const rgb = parseRGB(color)
+  if (!rgb) return true // Default to light if can't parse
+
+  // calculate relative luminance
+  const luminance = calculateLuminance(rgb.r, rgb.g, rgb.b)
+
+  // return true if light (luminance > 0.5)
+  return luminance > 0.5
+}
+
+function parseRGB (color) {
+  const match = color.match(/rgba?\((\d+),\s*(\d+),\s*(\d+)/)
+  if (match) {
+    return {
+      r: parseInt(match[1]),
+      g: parseInt(match[2]),
+      b: parseInt(match[3])
+    }
+  }
+  return null
+}
+
+function calculateLuminance (r, g, b) {
+  // convert RGB to relative luminance using sRGB formula
+  const [rs, gs, bs] = [r, g, b].map(c => {
+    c = c / 255
+    return c <= 0.03928 ? c / 12.92 : Math.pow((c + 0.055) / 1.055, 2.4)
+  })
+
+  return 0.2126 * rs + 0.7152 * gs + 0.0722 * bs
+}
+
+function updateNavbar () {
+  if (navbar.dataset.transparent) {
+    updateNavbarColor()
+  } else {
+    let storedTheme
+    if (typeof getLocalStorage === "function") {
+      storedTheme = getLocalStorage('theme', null, 'functional')
+    }
+
+    if (window.scrollY > 75) {
+      navbar.classList.add('nav-active')
+      if (storedTheme) {
+        navbar.setAttribute('data-bs-theme', storedTheme)
+      }
+    } else {
+      navbar.classList.remove('nav-active')
+      const defaultTheme = navbar.getAttribute('data-bs-overlay')
+
+      const targetTheme = defaultTheme ? defaultTheme : storedTheme
+      if (targetTheme) {
+        navbar.setAttribute('data-bs-theme', defaultTheme)
+      }
     }
   }
 }
@@ -19368,28 +21804,49 @@ if ((navbar !== null) && (window.performance.getEntriesByType)) {
 }
 
 if (navbar !== null && togglers !== null) {
+  // initialize and update the navbar on load, on resize, and on scroll
+  document.addEventListener('DOMContentLoaded', () => { fixed && updateNavbar() })
+  document.addEventListener('resize', () => fixed && updateNavbar())
+  document.addEventListener('scroll', () => fixed && updateNavbar())
+
+  // hook up collapse events
+  document.querySelectorAll('.navbar-collapse').forEach((collapse) => {
+    collapse.addEventListener('show.bs.collapse', function () {
+      scrollPosition = window.pageYOffset
+      document.body.style.top = `-${scrollPosition}px`
+      document.body.classList.add('navbar-open')
+    })
+    collapse.addEventListener('hide.bs.collapse', function () {
+      document.body.classList.remove('navbar-open')
+      document.body.style.top = ''
+      window.scrollTo({ top: scrollPosition, behavior: 'instant' })
+    })
+  })
+
   // observe state changes to the site's color mode
   const html = document.querySelector('html')
   const config = {
     attributes: true,
     attributeFilter: ['data-bs-theme']
   }
-  const Observer = new MutationObserver((mutationrecords) => {
-    fixed && updateNavbar()
+  const Observer = new MutationObserver(() => {
+    if (fixed) {
+      // wait for the theme animation to finish
+      sleep(600).then(() => { 
+        updateNavbar() 
+      })
+    }
   })
   Observer.observe(html, config)
 
   // initialize background color
-  const color = (navbar.getAttribute('data-navbar-color') || 'body')
-  const bg = colorsBG.includes(color) ? `var(--bs-${color}-bg)` : `var(--bs-navbar-color-${color})`
-  navbar.style.setProperty('--bs-navbar-expanded-color', bg)
-
-  // set the navbar background color to opaque when scrolling past a breakpoint
-  window.onscroll = () => {
-    fixed && updateNavbar()
+  if (!navbar.dataset.transparent) {
+    const color = (navbar.getAttribute('data-navbar-color') || 'body')
+    const bg = colorsBG.includes(color) ? `var(--bs-${color}-bg)` : `var(--bs-navbar-color-${color})`
+    navbar.style.setProperty('--bs-navbar-expanded-color', bg)
   }
 
-  // set the navbar background color to opaque when expanded
+  // update the navbar background color when expanded
   for (let i = 0; i < togglers.length; ++i) {
     togglers[i].onclick = () => {
       navbar.classList.toggle('navbar-expanded')
