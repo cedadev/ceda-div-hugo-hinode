@@ -1,7 +1,7 @@
 ---
 title: CEDA ARCHIVE INCIDENT - 18th November 2025
 date: 2025-11-19 16:30:00
-tags: ['news', 'ceda']
+tags: ['news', 'ceda', 'data-incident-nov25']
 thumbnail: 
 icon: fa-solid fa-triangle-exclamation fa-3x fa-fade text-danger
 ---
