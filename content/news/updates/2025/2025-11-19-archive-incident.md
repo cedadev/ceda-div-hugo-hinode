@@ -8,7 +8,7 @@ icon: fa-solid fa-triangle-exclamation fa-3x fa-fade text-danger
 
 Dear JASMIN and CEDA users,
 
-At approximately 10:02 on 18th November 2025, as part of the migration of data in the CEDA archive, a mistake was made which resulted in some data being deleted from the archive. The issue was identified at approximately 12:07, the archive was  locked down preventing further loss by approximately 12:25, and the incident was fully diagnosed by 14:00.
+At approximately 10:02 on 18th November 2025, during the migration of data in the CEDA archive, a mistake was made which resulted in some data being deleted from the archive. The issue was identified at approximately 12:07, the archive was  locked down preventing further loss by approximately 12:25, and the incident was fully diagnosed by 14:00.
 
 As a result of this incident, approximately 5 Petabytes of data have been deleted from the archive.
 
