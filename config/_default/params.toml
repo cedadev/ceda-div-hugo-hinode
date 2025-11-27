@@ -263,7 +263,7 @@
 
 [statusData]
     # URL for publicly-shared CSV view of Google Sheet with CEDA status updates
-    "sourceURL" = "https://raw.githubusercontent.com/cedadev/ceda-status/main/status.json"
+    "sourceURL" = "https://cedadev.github.io/ceda-status/status.json"
     "viewURL" = "https://github.com/cedadev/ceda-status/blob/main/status.json"
 
 #[modules.cookieyes]
