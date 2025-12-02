@@ -196,7 +196,7 @@
 
                         
 
-                        $.getJSON("https:\/\/raw.githubusercontent.com\/cedadev\/ceda-status\/main\/status.json?random="+randomString, 
+                        $.getJSON("https:\/\/cedadev.github.io\/ceda-status\/status.json?random="+randomString, 
                             function (dataObject) { 
                                 var incidents = [];
                                 $.each( dataObject, function (key, value) {
@@ -262,7 +262,7 @@
                 </script>
 <h2>Source data</h2>
 <p>
-<a href=https://raw.githubusercontent.com/cedadev/ceda-status/main/status.json class="btn btn-primary btn-sm" target=_blank rel="noopener noreferrer nofollow">JSON data feed&nbsp;
+<a href=https://cedadev.github.io/ceda-status/status.json class="btn btn-primary btn-sm" target=_blank rel="noopener noreferrer nofollow">JSON data feed&nbsp;
 <svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512"><use href="#fas-up-right-from-square"/></svg></a> used for this page, check
 <a href=https://github.com/cedadev/ceda-status/blob/main/status.json class="btn btn-primary btn-sm" target=_blank rel="noopener noreferrer nofollow">here&nbsp;
 <svg class="svg-inline--fa fas fa-up-right-from-square fa-2xs" fill="currentColor" aria-hidden="true" role="img" viewBox="0 0 512 512"><use href="#fas-up-right-from-square"/></svg></a> for date/time of last update.</p>
