@@ -15,9 +15,9 @@ Some of the larger volume datasets like Sentinel and CMIP have some significant 
 
 We are working on retrieving data from our routine back ups. We will initially focus on missing top level directories so that the structure of the Archive is complete. This will then allow us to progress quickly with the recovery of priority datasets.
 
-We do have a full list of more specific directories that have been affected - but it is a long list so we recommend checking the shorter list (below) in the first instance: https://dap.ceda.ac.uk/badc/ARCHIVE_INFO/logical_paths_of_affected_data_nov2025.txt
+We do have a {{<link "https://dap.ceda.ac.uk/badc/ARCHIVE_INFO/logical_paths_of_affected_data_nov2025.txt">}}full list of more specific directories that have been affected{{</link>}} - but it is a long list so we recommend checking the shorter list (below) in the first instance.
 
-All affected directories in the archive are flagged with a “recovery_readme_nov2025.txt” file.
+All affected directories in the archive are flagged with a `recovery_readme_nov2025.txt` file.
 
 Please see the FAQ further down about how these directories map to datasets.
 
@@ -165,8 +165,8 @@ The “top-level” directories in the archive that were affected by the inciden
 
 **FAQ:** How do I understand the impact on specific datasets? How will you inform users about this?
 
-The CEDA Archive includes both small and very large datasets. This means that, coupled with the hierarchical structure we have, means the above directory list may relate to one or more datasets as listed in our data catalogue service (https://catalogue.ceda.ac.uk).
+The CEDA Archive includes both small and very large datasets. This means that, coupled with the hierarchical structure we have, means the above directory list may relate to one or more datasets as listed in our {{<link "https://catalogue.ceda.ac.uk">}}data catalogue service{{</link>}}.
 
-Whilst users can discover datasets via the catalogue, we also know users go direct to parts of the archive (via https://data.ceda.ac.uk/), so in the first instance we wanted to make sure the affected directories were suitably flagged with the `recovery_readme_nov2025.txt` files. This ensures we are conveying the information to all users, regardless of how they get to the affected directories.
+Whilst users can discover datasets via the catalogue, we also know users go direct to parts of the archive (via {{<link "https://data.ceda.ac.uk/">}}data.ceda.ac.uk{{</link>}}), so in the first instance we wanted to make sure the affected directories were suitably flagged with the `recovery_readme_nov2025.txt` files. This ensures we are conveying the information to all users, regardless of how they get to the affected directories.
 
 With this in place, our next step will be to add in a news banner on the catalogue records for the affected datasets to further inform users.
