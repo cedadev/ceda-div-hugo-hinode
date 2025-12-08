@@ -9,7 +9,7 @@ thumbnail: img/stock-CEDA.jpg
 
 We aim to support environmental science, further environmental data archival practices, and develop and deploy new technologies to enhance access to data. Additionally we provide services to aid large scale data analysis.
 
-**To see all the latest projects we've been working on, check out our latest Annual Report! {{< link href="https://doi.org/10.5281/zenodo.14205181">}} Click here to view the CEDA Annual Report 2023-2024 {{< /link >}}**
+**To see all the latest projects we've been working on, check out our latest Annual Report! {{< link href="https://doi.org/10.5281/zenodo.17791624">}} Click here to view the CEDA Annual Report 2024-2025 {{< /link >}}**
 
 ## Our mission:
 
@@ -63,6 +63,7 @@ We aim to support environmental science, further environmental data archival pra
 
 ### Look at our previous Annual Reports:
 
+- CEDA Annual Report 2022-2023 - {{< link href="https://doi.org/10.5281/zenodo.14205181">}} Click here {{< /link >}}
 - CEDA Annual Report 2022-2023 - {{< link href="https://doi.org/10.5281/zenodo.10522821">}} Click here {{< /link >}}
 - CEDA Annual Report 2021-2022 - {{< link href="https://doi.org/10.5281/zenodo.7554901">}} Click here {{< /link >}}
 - CEDA Annual Report 2020-2021 - {{< link href="https://doi.org/10.5281/zenodo.5592465">}} Click here {{< /link >}}
