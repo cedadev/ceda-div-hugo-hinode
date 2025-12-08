@@ -227,11 +227,17 @@
       "thumbnail": "/img/people/ed-williamson.jpg",
       "title": "Senior Data Scientist: Earth Observation"
         },
-    "adaley": {
+    "annadaley": {
       "bio": "Anna joined the JASMIN team in CEDA through the graduate scheme in 2025 after completing a Masters in Computer Science at the University of Birmingham, and a BA in Animation from the University of Wolverhampton. Anna's role involves assisting JASMIN users through the helpdesk, writing documentation and status page updates, and developing the tools used to manage access to JASMIN.",
       "name": "Anna Daley",
       "thumbnail": "/img/people/anna-daley.jpg",
       "title": "Graduate Research Computing Service Support"
+        },
+    "lucykilloran": {
+      "bio": "Lucy joined CEDA in 2025 through the STFC graduate scheme after completing a PhD at the University of Glasgow and Historic Environment Scotland. Her PhD research explored the automation of large-area archaeological survey for heritage management using a sociotechnical perspective informed by decision-making theory. To the CEDA team, she brings experience in developing human-centred and systems-aware data services. Lucy's role involves supporting the archiving of NERC-funded environmental research data and the development of data service workflows.",
+      "name": "Lucy Killoran",
+      "thumbnail": "/img/people/lucy-killoran.png",
+      "title": "Graduate Environmental Data Scientist"
         }
 
   }
