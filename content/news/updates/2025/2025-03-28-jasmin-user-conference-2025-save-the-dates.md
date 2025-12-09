@@ -20,6 +20,6 @@ The purpose of the conference is to:
 
 Over 2 days there will be a mixture of talks from user projects and from the JASMIN team, discussions,  networking time and opportunities to learn about new services.
 
-{{<link "/events/jasmin-conference-2025">}}Watch this space{{</link>}} for further information about how to register, and details of the programme as it develops. 
+{{<link "/events/past/jasmin-conference-2025">}}Watch this space{{</link>}} for further information about how to register, and details of the programme as it develops. 
 
 We look forward to seeing you in **October 2025**!

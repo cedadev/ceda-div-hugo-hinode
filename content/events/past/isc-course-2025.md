@@ -28,4 +28,3 @@ The course is taught as a series of hands-on workshops. Students may register fo
 We aim to equip students with fundamental knowledge and build the skills that are essential for almost all researchers in modern scientific disciplines. Each topic will be introduced and students will then apply their learning by working through practical exercises, supported by the trainers. The course is highly interactive – students are encouraged to ask questions and request support as needed.
 
 The course will also provide you with the necessary experience to attend our {{<link "https://ncas.ac.uk/study-with-us/data-analysis-tools/">}}  Data Analysis Tools course {{</link>}} and  {{<link "https://ncas.ac.uk/study-with-us/atmospheric-measurement-summer-school/" >}} Atmospheric Measurement and Modelling Summer School. {{</link>}}
-

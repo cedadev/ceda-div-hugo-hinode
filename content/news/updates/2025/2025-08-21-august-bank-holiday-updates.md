@@ -17,6 +17,6 @@ We apologise for any inconvinience.
 A quick reminder that registration is open for the JASMIN User Conference 2025!
 This is a great chance to hear the latest updates about JASMIN, network and with other users, and provide feedback to the JASMIN Team.
 
-- [You can find out more details and register over on our event page](/events/jasmin-conference-2025/)
+- [You can find out more details and register over on our event page](/events/past/jasmin-conference-2025/)
 
 We hope you have a great bank holiday weekend and look forward to seeing you at the conference!

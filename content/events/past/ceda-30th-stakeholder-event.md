@@ -44,4 +44,5 @@ You can {{< link "https://drive.google.com/drive/folders/15J3HeY7CrJ8BWmCySNJpZy
 | 15:00 - 15:30| Coffee and Cake | {{< icon "fa-solid fa-cake-candles" >}}|
 | 15:30 - 16:30| Parallel Session | JASMIN Tours & Bookable individual Meetings |
 | 16:30 - 16:40| Wrap up | {{< icon "fa-solid fa-handshake" >}}|
+
 {.table .table-striped}
