@@ -13412,7 +13412,7 @@ function initIndex() {
       
       {
         id: 412,
-        href: "/events/isc-course-2025/",
+        href: "/events/past/isc-course-2025/",
         title: "Introduction to Scientific Com...",
         description: "Join us this November to study an introduction scientific computing with the National Centre for Atmospheric Science!",
         
@@ -15294,7 +15294,7 @@ function initIndex() {
       
       {
         id: 526,
-        href: "/events/jasmin-conference-2025/",
+        href: "/events/past/jasmin-conference-2025/",
         title: "JASMIN User Conference 2025",
         description: "CANCELLED - see details",
         
