@@ -7,7 +7,7 @@ icon: fa-solid fa-earth-americas text-success
 
 {{< link href="https://doi.org/10.5281/zenodo.17791624">}} Our latest annual report is now available! {{< /link >}} The report presents key statistics about the Centre for Environmental Data Analysis (CEDA) for the past year (2024 - 2025) as well as a series of snapshots of activity, expressed as short highlight reports.
 
-In this report we also highlight the success of our landmark event celebrating 30 yers of CEDA!
+In this report we also highlight the success of {{< link "../2024/2024-11-29-Celebrating-30-years-of-CEDA.md" >}} our landmark event celebrating 30 yers of CEDA! {{< /link >}}
 
 __Philip Kershaw, Head of CEDA:__
 *"We hope this report will share with you the diversity, impact and importance of our work supporting environmental research over the last three decades which will hopefully continue for many years to come!"*
