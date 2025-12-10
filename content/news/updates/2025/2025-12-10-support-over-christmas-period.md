@@ -35,7 +35,7 @@ New scratch volumes are now available, please now use these:
 We previously announced closure of the old volumes `/work/scratch-pw2, /work/scratch-pw3` would be on 4th December 2025: revised dates are now as follows:
 
 - Made read-only by end of **Wed 17th December**
-- Removed from use by patch date in January.
+- Removed from use by the [scheduled maintenance day in January 2026, see below](#jasmin-scheduled-maintenance-day-27-jan-2026).
 
 Additional notes:
 
