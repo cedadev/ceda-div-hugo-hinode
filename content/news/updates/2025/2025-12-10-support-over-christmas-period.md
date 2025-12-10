@@ -57,8 +57,9 @@ A new, single login service is now available at `login.jasmin.ac.uk`. Users can 
 
 ## VS Code usage with JASMIN
 
-Users wishing to use VSCode with JASMIN should NOT do this on any login node: an automated process has now been set up to kill vscode processes on login nodes.
-Please see the {{<link "https://help.jasmin.ac.uk/docs/interactive-computing/access-from-vscode/">}}VSCode help page{{</link>}} for the recommended routes, but note that your local `~/.ssh/config` can now be updated to use the single login service mentioned above.
+Users wishing to use VSCode with JASMIN should NOT do this on any login node: an automated process has now been set up to kill vscode processes on login nodes (since login nodes are not for running any user processes).
+
+Please see the {{<link "https://help.jasmin.ac.uk/docs/interactive-computing/access-from-vscode/">}}VSCode help page{{</link>}} for the recommended routes (normally, to a sci server but via a `ProxyJump` directive specifying the login service). So your local `~/.ssh/config` should now be updated to use the single login service mentioned above for the `ProxyJump` directive.
 
 ## JASMIN scheduled maintenance day 27 Jan 2026
 
