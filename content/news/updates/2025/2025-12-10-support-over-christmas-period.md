@@ -14,6 +14,7 @@ This message includes information about JASMIN and CEDA support arrangements ove
 - Changes to scratch storage - **action required!**
 - Storage migration progress
 - New single login service
+- VSCode usage with JASMIN
 - JASMIN scheduled maintenance day 27 Jan 2026
 
 ## JASMIN and CEDA support over the Christmas period
@@ -33,8 +34,8 @@ New scratch volumes are now available, please now use these:
 
 We previously announced closure of the old volumes `/work/scratch-pw2, /work/scratch-pw3` would be on 4th December 2025: revised dates are now as follows:
 
-- Made read-only by end of **Friday 12th December**
-- Removed from use by end of **Thursday 18th December**
+- Made read-only by end of **Wed 17th December**
+- Removed from use by patch date in January.
 
 Additional notes:
 
@@ -53,6 +54,11 @@ Progress with recovery from the recent data incident is [covered separately here
 A new, single login service is now available at `login.jasmin.ac.uk`. Users can use this single name as the login host for onward connections to sci servers and other locations within JASMIN. Initially 3 new login servers have been put in place behind this: you are assigned one of them automatically as you connect. If all goes well, we plan to decommission the individual servers `login-0[1,2,3,4]` (date TBC) and encourage users to connect to the single entity instead. Further updates to follow, but you are invited to try connecting to the new login service now.
 
 - Some users may need to run `ssh-keygen -R login.jasmin.ac.uk` first to remove previous host key entries for that name from their `~/.ssh/authorized_keys`.
+
+## VS Code usage with JASMIN
+
+Users wishing to use VSCode with JASMIN should NOT do this on any login node: an automated process has now been set up to kill vscode processes on login nodes.
+Please see the {{<link "https://help.jasmin.ac.uk/docs/interactive-computing/access-from-vscode/">}}VSCode help page{{</link>}} for the recommended routes, but note that your local `~/.ssh/config` can now be updated to use the single login service mentioned above.
 
 ## JASMIN scheduled maintenance day 27 Jan 2026
 
