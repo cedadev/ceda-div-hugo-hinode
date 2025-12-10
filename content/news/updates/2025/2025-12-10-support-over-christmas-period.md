@@ -18,8 +18,9 @@ This message includes information about JASMIN and CEDA support arrangements ove
 
 ## JASMIN and CEDA support over the Christmas period
 
-JASMIN and CEDA support will close for the Christmas period at 16:30 on Friday 19th December 2025 and reopen on 5th January 2026. During that time, JASMIN and CEDA services will be running at risk; any issues that occur and tickets raised will be dealt with after staff return on the 5th January.
-No changes to services will be made after Friday 19th December.
+JASMIN and CEDA support will close for the Christmas period at 16:30 on Friday 19th December 2025 and reopen on 5th January 2026. 
+
+During that time, JASMIN and CEDA services will be running at risk; monitoring will remain in place for critical infrastructure, but any tickets raised and any service disruption will be dealt with after staff return on the 5th January. No routine changes to services will be made after Friday 19th December to avoid disruption during the festive period.
 
 The CEDA and JASMIN teams would like to take this opportunity to wish all our users a very Merry Christmas and a Happy New Year.
 
@@ -45,11 +46,11 @@ Additional notes:
 
 Work continues with our (huge!) task of moving Group Workspaces from old storage at `/gws/nopw/j04/*` to newer storage hardware. {{<link "https://docs.google.com/spreadsheets/d/1peHz7k3AfPAM_Z8pD-myX28S5bXAZMoZ_U3cAOC6ouo/edit?gid=1821731582#gid=1821731582">}}This sheet{{</link>}} provides an overview of progress and proposed dates for each group workspace. Please liaise with your GWS manager about the proposed dates: they can then liaise with JASMIN support on your behalf regarding any scheduling issues.
 
-Progress with archive migration and recovery from the recent data loss incident will be covered in a separate update.
+Progress with recovery from the recent data incident is [covered separately here](/tags/data-incident-nov25/).
 
 ## New single login service
 
-A new, single login service is now available at `login.jasmin.ac.uk`. Users can use this single name as the login host for onward connections to sci servers and other locations within JASMIN. Initially 2 additional login servers have been put in place behind this: you are assigned one of them automatically as you connect. If all goes well, we plan to decommission the individual servers `login-0[1,2,3,4]` (date TBC) and encourage users to connect to the single entity instead. Further updates to follow, but you are invited to try connecting to the new login service now.
+A new, single login service is now available at `login.jasmin.ac.uk`. Users can use this single name as the login host for onward connections to sci servers and other locations within JASMIN. Initially 3 new login servers have been put in place behind this: you are assigned one of them automatically as you connect. If all goes well, we plan to decommission the individual servers `login-0[1,2,3,4]` (date TBC) and encourage users to connect to the single entity instead. Further updates to follow, but you are invited to try connecting to the new login service now.
 
 - Some users may need to run `ssh-keygen -R login.jasmin.ac.uk` first to remove previous host key entries for that name from their `~/.ssh/authorized_keys`.
 
