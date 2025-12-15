@@ -45,7 +45,7 @@ Additional notes:
 
 ## Storage migration progress
 
-Work continues with our (huge!) task of moving Group Workspaces from old storage at `/gws/nopw/j04/*` to newer storage hardware. {{<link "https://docs.google.com/spreadsheets/d/1peHz7k3AfPAM_Z8pD-myX28S5bXAZMoZ_U3cAOC6ouo/edit?gid=1821731582#gid=1821731582">}}This sheet{{</link>}} provides an overview of progress and proposed dates for each group workspace. Please liaise with your GWS manager about the proposed dates: they can then liaise with JASMIN support on your behalf regarding any scheduling issues.
+Work continues with our (huge!) task of moving Group Workspaces from old storage at `/gws/nopw/j04/*` to newer storage hardware. {{<link "https://docs.google.com/spreadsheets/d/1qiZ6OQb4AXbj3QBm6M3H43obPInCnBw4lN9mdy3TmQg/edit?gid=0#gid=0">}}This sheet{{</link>}} provides an overview of progress and proposed dates for each group workspace. Please liaise with your GWS manager about the proposed dates: they can then liaise with JASMIN support on your behalf regarding any scheduling issues.
 
 Progress with recovery from the recent data incident is [covered separately here](/tags/data-incident-nov25/).
 
