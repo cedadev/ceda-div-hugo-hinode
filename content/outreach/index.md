@@ -36,7 +36,7 @@ Try to recycle and reuse wherever possible! Plan how many colours you’d like t
 
 #### Step 3: Get the data for your chosen location
 
-{{< button color="danger" href="https://ceda-wps-ui.ceda.ac.uk/processes/execute?wps=compliance_checker&process=PlotClimateStripes" button-size="sm" >}} Use this tool to create your own personalised climate stripes! (UK only) {{< /button >}}
+{{< button color="danger" href="https://ceda-wps-ui.ceda.ac.uk/processes/list?wps=5e6034da78814bcbbaed686b9dc4d375" button-size="sm" >}} Use this tool to create your own personalised climate stripes! {{< /button >}}
 
 It will create a PDF showing the data for a chosen UK location. You can choose the time period, how many colours to use and the latitude and longitude of your chosen location.
 
