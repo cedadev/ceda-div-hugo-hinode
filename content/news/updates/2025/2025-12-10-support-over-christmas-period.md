@@ -34,7 +34,7 @@ New scratch volumes are now available, please now use these:
 
 We previously announced closure of the old volumes `/work/scratch-pw2, /work/scratch-pw3` would be on 4th December 2025: revised dates are now as follows:
 
-- Made read-only by end of **Wed 17th December**
+- Made read-only by end of **16:00 on Wed 7th January 2026** *Deadline extended - ACT NOW!*
 - Removed from use by the [scheduled maintenance day in January 2026, see below](#jasmin-scheduled-maintenance-day-27-jan-2026).
 
 Additional notes:
@@ -42,6 +42,8 @@ Additional notes:
 - Scratch data older than 28 days is automatically deleted, and the use of tools like `touch` to re-age the data is not permitted - users found to be abusing this will be sanctioned. Users are able to store up to a maximum of 100 TB.
 
 - Scratch volumes are now accessible via our {{<link "https://help.jasmin.ac.uk/docs/data-transfer/globus-transfers-with-jasmin/">}}Globus data transfer service{{</link>}}, to help make data transfers easier between GWS, scratch and XFC volumes. Please remember to `chgrp` any data moved from scratch or XFC to a GWS, to appropriate `gws_<name>` group, to ensure correct ownership and permissions within the GWS, see the new help article about {{<link "https://help.jasmin.ac.uk/docs/getting-started/permissions-and-groups/">}}permissions and groups{{</link>}}.
+
+- **DO NOT** leave data with{{<link "https://help.jasmin.ac.uk/docs/getting-started/permissions-and-groups/#unsafe-permissions">}}unsafe/open permissions{{</link>}}.
 
 ## Storage migration progress
 
