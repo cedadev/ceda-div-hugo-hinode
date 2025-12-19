@@ -131,8 +131,9 @@
 <p class="lead mb-5">Status of CEDA services</p>
 <p>This webpage provides information about current and future incidents related to CEDA and JASMIN services.</p>
 <p>You may also wish to check our news feed for recent updates.</p>
+<div id=incident-tables>
+<p class=small>This tables below will automatically refresh in <span id=countdown>60</span> seconds.</p>
 <h2>Current incidents</h2>
-<p class=small>This page will automatically refresh in <span id=countdown>30</span> seconds.</p>
 <script>
                         
                         function updateCountdown() {
@@ -143,7 +144,10 @@
                                 seconds--;
                                 countdownElement.textContent = seconds;
                             } else {
-                                location.reload(true); 
+                                
+                                
+                                
+                                $("#incident-tables").load(location.href+" #incident-tables>*","");
                             }
                         }
 
@@ -177,6 +181,7 @@
 <tbody>
 </tbody>
 </table>
+</div>
 <script> 
                     $(document).ready(function () { 
 
