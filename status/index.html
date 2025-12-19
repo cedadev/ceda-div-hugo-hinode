@@ -132,28 +132,8 @@
 <p>This webpage provides information about current and future incidents related to CEDA and JASMIN services.</p>
 <p>You may also wish to check our news feed for recent updates.</p>
 <div id=incident-tables>
-<p class=small>This tables below will automatically refresh in <span id=countdown>60</span> seconds.</p>
+<p class=small>Please refresh in your browser to get the latest updates.</p>
 <h2>Current incidents</h2>
-<script>
-                        
-                        function updateCountdown() {
-                            const countdownElement = document.getElementById('countdown');
-                            let seconds = parseInt(countdownElement.textContent);
-
-                            if (seconds > 0) {
-                                seconds--;
-                                countdownElement.textContent = seconds;
-                            } else {
-                                
-                                
-                                
-                                $("#incident-tables").load(location.href+" #incident-tables>*","");
-                            }
-                        }
-
-                        
-                        setInterval(updateCountdown, 1000); 
-                    </script>
 <table id=current-table class="table table-sm table-striped table-responsive">
 <thead>
 <tr>
