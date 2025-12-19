@@ -9,10 +9,12 @@
                 {{- with $url := .Site.Params.statusData.sourceURL }}
                     {{ $jsonSource := $url }}
 
-                    <!-- TABLE CONSTRUCTION-->
-                <h2>Current incidents</h2>
-                <p class="small">This page will automatically refresh in <span id="countdown">30</span> seconds.</p>
+                
 
+                <!-- TABLE CONSTRUCTION-->
+                    <div id="incident-tables">
+                    <p class="small">This tables below will automatically refresh in <span id="countdown">60</span> seconds.</p>
+                    <h2>Current incidents</h2>
                     <script>
                         // Function to update the countdown and refresh the page
                         function updateCountdown() {
@@ -23,41 +25,46 @@
                                 seconds--;
                                 countdownElement.textContent = seconds;
                             } else {
-                                location.reload(true); // Reloads the page and bypasses cache
+                                // update just a specific div on the page, not the whole page
+                                // previously beacon was getting wiped with location.reload(true)
+                                // solution from # https://stackoverflow.com/a/25373840/20939086
+                                $("#incident-tables").load(location.href+" #incident-tables>*","");
                             }
                         }
 
                         // Set a 1-second timer for updating the countdown
                         setInterval(updateCountdown, 1000); // 1000 milliseconds = 1 second
                     </script>
-                <table id="current-table" class="table table-sm table-striped table-responsive">
-                    <thead>
-                        <tr> 
-                            <th>date</th> 
-                            <th>status</th>
-                            <th>summary</th> 
-                            <th>affected services</th> 
-                            <th>updates</th>               
-                        </tr>
-                    </thead>
-                    <tbody>
-                    </tbody>
-                </table>
 
-                <h2>Future incidents</h2>
-                <table id="future-table" class="table table-sm table-striped table-responsive">
-                    <thead>
-                        <tr> 
-                            <th>date</th> 
-                            <th>status</th>
-                            <th>summary</th> 
-                            <th>affected services</th> 
-                            <th>updates</th>               
-                        </tr>
-                    </thead>
-                    <tbody>
-                    </tbody>
-                </table>
+                    <table id="current-table" class="table table-sm table-striped table-responsive">
+                        <thead>
+                            <tr> 
+                                <th>date</th> 
+                                <th>status</th>
+                                <th>summary</th> 
+                                <th>affected services</th> 
+                                <th>updates</th>               
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+
+                    <h2>Future incidents</h2>
+                    <table id="future-table" class="table table-sm table-striped table-responsive">
+                        <thead>
+                            <tr> 
+                                <th>date</th> 
+                                <th>status</th>
+                                <th>summary</th> 
+                                <th>affected services</th> 
+                                <th>updates</th>               
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div> <!-- incident-tables -->
 
                 <script> 
                     $(document).ready(function () { 
