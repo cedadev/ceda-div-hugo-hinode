@@ -2,7 +2,7 @@
 title: Data Incident Christmas Update
 date: 2025-12-19 10:30:00
 tags: ['news', 'ceda', 'data-incident-nov25']
-icon: fas circle-info text-info
+icon: fa-solid fa-gifts text-info
 
 ---
 
