@@ -13,28 +13,8 @@
 
                 <!-- TABLE CONSTRUCTION-->
                     <div id="incident-tables">
-                    <p class="small">This tables below will automatically refresh in <span id="countdown">60</span> seconds.</p>
+                    <p class="small">Please refresh in your browser to get the latest updates.</p>
                     <h2>Current incidents</h2>
-                    <script>
-                        // Function to update the countdown and refresh the page
-                        function updateCountdown() {
-                            const countdownElement = document.getElementById('countdown');
-                            let seconds = parseInt(countdownElement.textContent);
-
-                            if (seconds > 0) {
-                                seconds--;
-                                countdownElement.textContent = seconds;
-                            } else {
-                                // update just a specific div on the page, not the whole page
-                                // previously beacon was getting wiped with location.reload(true)
-                                // solution from # https://stackoverflow.com/a/25373840/20939086
-                                $("#incident-tables").load(location.href+" #incident-tables>*","");
-                            }
-                        }
-
-                        // Set a 1-second timer for updating the countdown
-                        setInterval(updateCountdown, 1000); // 1000 milliseconds = 1 second
-                    </script>
 
                     <table id="current-table" class="table table-sm table-striped table-responsive">
                         <thead>
