@@ -47,12 +47,6 @@
       "thumbnail": "/img/people/rhys-evans.jpg",
       "title": "Software Engineer"
     },
-    "nicolafarmer": {
-      "bio": "Nicola joined the STFC graduate scheme in 2022 after completing an MPhys degree in Theoretical Physics at the University of York. At CEDA, Nicola is working on a variety of projects including development of the JASMIN Group Workspace Scanner and various tasks related to CEDA’s web services.",
-      "name": "Nicola Farmer",
-      "thumbnail": "/img/people/nicola-farmer.jpg",
-      "title": "Software Engineer"   
-     },
      "elliefisher": {
       "bio": "Ellie joined CEDA as a graduate data scientist in September 2023 after previously completing a summer placement with the team in 2022. She graduated with a BSc in Geology from Durham University in 2021, and a double MSc in Environmental Changes at Higher Latitudes from the University of Helsinki and Agricultural University of Iceland in 2023. She has a background in atmospheric science, Arctic meteorology and scientific programming, and her Master thesis focused on characterisation of microphysical and optical properties of atmospheric aerosols in Northeast Greenland. Within CEDA, Ellie is responsible for various atmospheric data management activities including processing of UK Met Office radiosonde datasets, archival of IPCC figure data, and developing help documentation for data reviewers at CEDA and other environmental data centres.",
       "name": "Ellie Fisher",
