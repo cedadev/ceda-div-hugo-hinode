@@ -132,9 +132,9 @@
 <p>This webpage provides information about current and future incidents related to CEDA and JASMIN services.</p>
 <p>You may also wish to check our news feed for recent updates.</p>
 <div id=incident-tables>
-<p class=small>Please refresh in your browser to get the latest updates.</p>
+<p class=small>This tables below will automatically refresh in <span id=countdown></span> seconds.</p>
 <h2>Current incidents</h2>
-<table id=current-table class="table table-sm table-striped table-responsive">
+<table class="table table-sm table-striped table-responsive">
 <thead>
 <tr>
 <th>date</th>
@@ -144,7 +144,7 @@
 <th>updates</th>
 </tr>
 </thead>
-<tbody>
+<tbody id=current-table-body>
 </tbody>
 </table>
 <h2>Future incidents</h2>
@@ -158,12 +158,34 @@
 <th>updates</th>
 </tr>
 </thead>
-<tbody>
+<tbody id=future-table-body>
 </tbody>
 </table>
 </div>
-<script> 
-                    $(document).ready(function () { 
+<script>
+
+                    
+                    function updateCountdown() {
+
+                        const initSeconds = 60; 
+
+                        const countdownElement = document.getElementById('countdown');
+                        let seconds = parseInt(countdownElement.textContent);
+
+                        if (seconds > 0) {
+                            seconds--;
+                            countdownElement.textContent = seconds;
+                        } else {
+                            countdownElement.textContent = initSeconds;
+                            getUpdatedStatusContent();
+                        }
+                    }
+
+                    
+                    setInterval(updateCountdown, 1000); 
+
+                    
+                    function getUpdatedStatusContent () { 
 
                         var DateTime = luxon.DateTime;
                         var statusClasses = {
@@ -180,7 +202,6 @@
                             a.date < b.date ? -1 : a.date > b.date ? 1 : 0;
 
                         
-
                         $.getJSON("https:\/\/cedadev.github.io\/ceda-status\/status.json?random="+randomString, 
                             function (dataObject) { 
                                 var incidents = [];
@@ -236,14 +257,18 @@
                                     
                                     
                                     if (ival.date <= now) {
-                                        $("#current-table").append(row);
+                                        $("#current-table-body").html(row);
                                     } else {
-                                        $("#future-table").append(row);
+                                        $("#future-table-body").html(row);
                                     }
                                 });
                             }
                         );
-                    }); 
+                    }
+
+
+                    $(document).ready( getUpdatedStatusContent() ); 
+
                 </script>
 <h2>Source data</h2>
 <p>
