@@ -1,10 +1,8 @@
 ---
 title: Status
-description: Status of CEDA services
+description: Information about current and future incidents related to CEDA and JASMIN services
 date: 2023-08-08
 showComments: false
 ---
 
-This webpage provides information about current and future incidents related to CEDA and JASMIN services.
-
-You may also wish to check our news feed for recent updates.
+You may also wish to check our [news feed](/news) feed for recent updates.

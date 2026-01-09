@@ -11,7 +11,7 @@
 
                 <!-- TABLE CONSTRUCTION-->
                     <div id="incident-tables">
-                    <p class="small">This tables below will automatically refresh in <span id="countdown"></span> seconds.</p>
+                    <div class="alert alert-info small" role="alert">The tables below will automatically refresh in <span id="countdown"></span> seconds.</div>
                     <h2>Current incidents</h2>
 
                     <table class="table table-sm table-striped table-responsive">
@@ -112,6 +112,9 @@
                                 // Set current time
                                 const now = DateTime.now()
 
+                                var currentRows = [];
+                                var futureRows = [];
+
                                 $.each(incidentsSorted, function(ikey, ival) {
                                     var row = "<tr>";
                                     row += "<th>" + ival.date.toFormat('yyyy-LL-dd HH:mm') + "</th>";
@@ -139,11 +142,16 @@
                                     
                                     // Decide which table the incident should be appended to.
                                     if (ival.date <= now) {
-                                        $("#current-table-body").html(row);
+                                        currentRows.push(row);
                                     } else {
-                                        $("#future-table-body").html(row);
+                                        //$("#future-table-body").html(row);
+                                        futureRows.push(row);
                                     }
                                 });
+
+                                // Outside of above loop, now replace the html of the relevant table div with the set of rows just created:
+                                $("#current-table-body").html( currentRows );
+                                $("#future-table-body").html( futureRows );
                             }
                         );
                     }
