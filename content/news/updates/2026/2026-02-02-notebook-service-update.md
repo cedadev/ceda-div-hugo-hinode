@@ -24,6 +24,6 @@ Breaking change: it will now be possible to create a virtual environment which w
 1. Running `pip install -r req.txt` in the new environment.
 
 The documentation has been updated please see:
-[Updated description of the notebook service](https://help.jasmin.ac.uk/docs/interactive-computing/jasmin-notebooks-service/)
-[General info about conda environments](https://help.jasmin.ac.uk/docs/software-on-jasmin/conda-environments-and-python-virtual-environments/)
-[How to create a virtual environment and turn it into a jupyter kernel](https://help.jasmin.ac.uk/docs/software-on-jasmin/python-virtual-environments/#in-the-jasmin-notebook-service)
+* [Updated description of the notebook service](https://help.jasmin.ac.uk/docs/interactive-computing/jasmin-notebooks-service/)
+* [General info about conda environments](https://help.jasmin.ac.uk/docs/software-on-jasmin/conda-environments-and-python-virtual-environments/)
+* [How to create a virtual environment and turn it into a jupyter kernel](https://help.jasmin.ac.uk/docs/software-on-jasmin/python-virtual-environments/#in-the-jasmin-notebook-service)
