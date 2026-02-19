@@ -20,7 +20,7 @@ These incredibly fast speeds were achieved by using JASMIN's Globus data transfe
 
 The transfer of this data into a holding location then allowed for checks to be computed locally on JASMIN and compared to the data catalogue records. The final movement of data to user-accessible archive locations is still in progress.
 
-{{< image src="../../../img/news/2025/2025-12-19-incident-xmas-update/incident-globus-transfer.png" caption="The central section of this graph shows the network traffic into the five data transfer notes during the period of the CMIP6 data transfer from Oak Ridge National Laboratory to JASMIN, compared to their normal, background levels of user data transfers." >}}
+{{< image src="img/news/2025/2025-12-19-incident-xmas-update/incident-globus-transfer.png" caption="The central section of this graph shows the network traffic into the five data transfer notes during the period of the CMIP6 data transfer from Oak Ridge National Laboratory to JASMIN, compared to their normal, background levels of user data transfers." >}}
 
 A further 100+ TB of CMIP6 data has been transferred from European sites. This was available via HTTP, with an overall transfer rate of approximately 0.5 GB per second - showing a stark difference between the Globus transfer rates.
 
@@ -29,6 +29,6 @@ A further 100+ TB of CMIP6 data has been transferred from European sites. This w
 Remaining missing data is being retrieved from CEDA's own tape backups. This is an ongoing process.
 Our data retrieval will also be reduced over the festive period. We will be able to share a more detailed update in the new year.
 
-Finally, a reminder that {{< link "/2025-12-10-support-over-christmas-period.md" >}} JASMIN and CEDA support will close for the Christmas period {{< /link >}} at 16:30 on Friday 19th December 2025 and reopen on 5th January 2026. Thank you for your understanding during this time.
+Finally, a reminder that {{< link "2025-12-10-support-over-christmas-period" >}} JASMIN and CEDA support will close for the Christmas period {{< /link >}} at 16:30 on Friday 19th December 2025 and reopen on 5th January 2026. Thank you for your understanding during this time.
 
 The CEDA and JASMIN team would like to take this opportunity to wish all our users a very Merry Christmas and a Happy New Year!

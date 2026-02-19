@@ -19,7 +19,7 @@ This message includes information about JASMIN and CEDA support arrangements ove
 
 ## JASMIN and CEDA support over the Christmas period
 
-JASMIN and CEDA support will close for the Christmas period at 16:30 on Friday 19th December 2025 and reopen on 5th January 2026. 
+JASMIN and CEDA support will close for the Christmas period at 16:30 on Friday 19th December 2025 and reopen on 5th January 2026.
 
 During that time, JASMIN and CEDA services will be running at risk; monitoring will remain in place for critical infrastructure, but any tickets raised and any service disruption will be dealt with after staff return on the 5th January. No routine changes to services will be made after Friday 19th December to avoid disruption during the festive period.
 

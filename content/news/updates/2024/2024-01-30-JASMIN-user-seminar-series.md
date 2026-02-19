@@ -36,4 +36,4 @@ We look forward to seeing you at the webinar next week!
 
 Note: If you are interested in contributing to the next seminar please contact us at support@jasmin.ac.uk
 
-{{< link "../../../events/past/JASMIN-user-seminar-series.md" >}} You can catch up on previous JASMIN seminars here! {{< /link >}}
+[You can catch up on previous JASMIN seminars here!]({{% ref "JASMIN-user-seminar-series" %}})
