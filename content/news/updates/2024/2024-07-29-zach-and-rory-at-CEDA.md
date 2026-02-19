@@ -2,7 +2,7 @@
 title: Data, docker and Django - Rory and Zach's Journey at CEDA
 date: 2024-07-29 10:00:00
 tags: ['news', 'ceda', 'placement']
-thumbnail: "../img/news/2024/2024-07-29-zach-and-rory/zach-rory-thumbnail.jpg"
+thumbnail: "img/news/2024/2024-07-29-zach-and-rory/zach-rory-thumbnail.jpg"
 
 ---
 
@@ -14,7 +14,7 @@ Zach, with his knack for enhancing user experiences, took on the task of develop
 
 Meanwhile, Rory focused on a novel implementation in data management: tagging datasets based on the classifications of their licences by what use they permit. This lets users, at a glance, tell if a dataset has a licence for their use (e.g. find data that permits academic or commercial usage).  “Changing the data model of the large legacy system comes with risk. So, using Docker, my first step was to ‘sandbox’ the catalogue, creating an isolated local environment to develop.” Rory’s changes also provide greater flexibility in access routes to data associated with different licensing options, allowing CEDA to cater for diverse options needed by data providers storing data in the CEDA archive.
 
-{{< image src="../img/news/2024/2024-07-29-zach-and-rory/zachs-big-dream.jpg" caption="Zach in front of RAL Space's BIG DREAM" >}}
+{{< image src="img/news/2024/2024-07-29-zach-and-rory/zachs-big-dream.jpg" caption="Zach in front of RAL Space's BIG DREAM" >}}
 
 #### Enhancing the Archival of Data
 
@@ -26,7 +26,7 @@ Following this, Rory created data workflows across services to automate common w
 
 At the same time, Zach revitalised our ‘FileOps server’, an internal system that has been part of our file processing pipeline for the past two decades. Recognizing the need for modernisation, Zach used a modern technology called FastAPI to simplify and improve the system. This new approach made it easier to develop and maintain, while also making the system more reliable and able to handle a greater volume of requests. This upgrade was a significant milestone for CEDA, ensuring our file operations would continue to be efficient and dependable. Zach's work prepared the ‘FileOps server’ for future growth and adaptability, maintaining high standards in our file management processes.
 
-{{< image src="../img/news/2024/2024-05-13-ncas-symposium/Rory-at-NCAS.jpg" caption="Rory presenting his work at the NCAS Harmony in the Skies 2024 Early Careers Symposium" >}}
+{{< image src="img/news/2024/2024-05-13-ncas-symposium/Rory-at-NCAS.jpg" caption="Rory presenting his work at the NCAS Harmony in the Skies 2024 Early Careers Symposium" >}}
 
 #### Engaging with External Partners
 
@@ -44,10 +44,10 @@ As their placements come to an end, Rory and Zach are heading back to university
 
 We’re incredibly proud of the contributions Rory and Zach have made during their time at CEDA and wish them all the best in their future endeavours. Their hard work and dedication have left a lasting impact, and we’re excited to see what they achieve next.
 
-{{< image src="../img/news/2024/2024-07-29-zach-and-rory/zach-rory-CEDA.jpg" caption="Rory and Zach on Zach’s final day. Pictured with some CEDA colleagues (and Tim Peake!)" >}}
+{{< image src="img/news/2024/2024-07-29-zach-and-rory/zach-rory-CEDA.jpg" caption="Rory and Zach on Zach’s final day. Pictured with some CEDA colleagues (and Tim Peake!)" >}}
 
 If you'd like to read more about the amazing work our other previous industrial placement students have done, you can check them out out here:
 
-- {{< link "../2023/2023-07-27-adrian-debskis-industrial-placement.md" >}} Check out how Adrian Dębski applied his speed-cubing skills to the CEDA catalogue search. {{< /link >}}
+- [Check out how Adrian Dębski applied his speed-cubing skills to the CEDA catalogue search.]({{% ref "2023-07-27-adrian-debskis-industrial-placement" %}})
 
-- {{< link "../2016/2016-07-29-high-flying-year-in-industry-student-kate-winfields-time-with-ceda.md" >}} Click here to read about Kate Winfield's major overhaul of CEDA's data catalogue. {{< /link >}}
+- [Click here to read about Kate Winfield's major overhaul of CEDA's data catalogue.]({{% ref "2016-07-29-high-flying-year-in-industry-student-kate-winfields-time-with-ceda" %}})

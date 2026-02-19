@@ -12,7 +12,7 @@ The recording from the latest JASMIN seminar series is available to watch on Yot
 {{<link "https://www.youtube.com/watch?v=nWd49mqX-qQ">}} You can click here to watch the JASMIN talks given from the UK Centre for Ecology and Hydrology {{< /link >}}
 
 All of the previous JASMIN Seminars have also been recorded and the slides saved.
- {{<link "../../../events/past/JASMIN-user-seminar-series.md">}} You can check out the other seminars on our event page here. {{</link>}}
+[You can check out the other seminars on our event page here.]({{% ref "JASMIN-user-seminar-series" %}})
 
 We would also like to thank all of the people who attended our JASMIN Group Workspace Managers webinar. The webinar reflected on the GWS survey and also covered tools that provide managers and users the ability to monitor and manage their workspace(s).
 

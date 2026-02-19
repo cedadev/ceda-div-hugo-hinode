@@ -2,7 +2,7 @@
 title: Applications are now open for 2 graduates to join CEDA!
 date: 2024-09-10 11:30:00
 tags: ['news', 'ceda']
-thumbnail: "../img/news/2024/2024-09-10-ceda-hiring/2024-09-10-CEDA-is-hiring.png"
+thumbnail: "img/news/2024/2024-09-10-ceda-hiring/2024-09-10-CEDA-is-hiring.png"
 ---
 
 We are currently accepting applications for 2 different graduate roles at CEDA:

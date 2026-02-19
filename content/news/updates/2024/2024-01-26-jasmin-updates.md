@@ -6,7 +6,7 @@ thumbnail:
 icon: fa-solid fa-seedling text-success
 ---
 
-{{< image src="/img/JASMIN.jpg" ratio="16x9" class="rounded" >}}
+{{< image src="img/JASMIN.jpg" ratio="16x9" class="rounded" >}}
 
 Dear Users,
 
@@ -16,11 +16,11 @@ We have some exciting JASMIN-related updates to share with you:
 
 We are restarting the JASMIN user seminar series on __Tuesday February 6th at 1pm!__ The format will be an online presentation from two JASMIN users for 20 minutes each followed by a Q&A session. Further details and joining instructions will be circulated by email.
 
-{{< link "../../../events/past/JASMIN-user-seminar-series.md" >}} You can catch up on previous JASMIN seminars here. {{< /link >}}
+[You can catch up on previous JASMIN seminars here.]({{% ref "JASMIN-user-seminar-series" %}})
 
 ##### JASMIN Conference Recordings
 
-All the slides and video recordings from the JASMIN User Conference 2023 are now available to watch and browse. {{< link "../../../events/past/jasmin-conference-2023.md" >}} Links to all these are available on our event page here. {{< /link >}}
+All the slides and video recordings from the JASMIN User Conference 2023 are now available to watch and browse. [Links to all these are available on our event page here.]({{% ref "jasmin-conference-2023" %}})
 
 These include updates on the latest tools and services you can use with JASMIN and exciting highlight sessions where users share their work with and on JASMIN.
 
