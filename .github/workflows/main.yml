@@ -52,15 +52,14 @@ jobs:
           key: hugo-${{ github.run_id }}
           restore-keys:
             hugo-
-      - name: Confirm build details
-        run: |
-          echo "BASE_URL: ${{ steps.pages.outputs.base_url }}/"
+      #- name: Confirm build details
+      #  run: |
+      #    echo "BASE_URL: ${{ steps.pages.outputs.base_url }}/"
       - name: Build the site
         run: |
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/" \
             --cacheDir "${{ runner.temp }}/hugo_cache"
       - name: Cache save
         id: cache-save
