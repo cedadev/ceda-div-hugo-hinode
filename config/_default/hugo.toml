@@ -3,7 +3,7 @@ copyright = "Copyright © 2025 Science and Technology Facilities Council."
 enableGitInfo = false
 
 # additional settings
-#baseURL = "https://www.ceda.ac.uk"
+baseURL = "https://ceda-div-test.ceda.ac.uk"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
