@@ -4,7 +4,7 @@ enableGitInfo = false
 
 # additional settings
 #baseURL = "https://www.ceda.ac.uk"
-canonifyURLs = true
+canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
