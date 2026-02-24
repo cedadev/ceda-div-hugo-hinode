@@ -73,9 +73,6 @@ buildFuture = true
     permalinkable = false
     name = "xml"
 
-[mediaTypes."text/netlify"]
-  delimiter = ""
-
 [outputs]
   home = ["HTML", "RSS", "server"]
 
@@ -98,7 +95,7 @@ buildFuture = true
   [segments.headers]
     [[segments.headers.includes]]
        kind = '{home}'
-       output = '{netlify,server}'
+       output = '{server}'
 
 [module]
   #[[module.imports]]
