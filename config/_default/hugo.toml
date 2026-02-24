@@ -64,7 +64,6 @@ buildFuture = true
     notAlternative = true
     permalinkable = true
     root = true
-    root = true
   [outputFormats.XML]
     isPlainText = false
     mediaType = "application/xml"
