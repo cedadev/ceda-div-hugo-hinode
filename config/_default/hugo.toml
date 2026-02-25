@@ -49,6 +49,10 @@ buildFuture = true
   [privacy.youtube]
     disabled = false
     privacyEnhanced = true
+    
+  [privacy.googleAnalytics]
+    disable = false
+    respectDoNotTrack = false
 
 [services]
   [services.instagram]
