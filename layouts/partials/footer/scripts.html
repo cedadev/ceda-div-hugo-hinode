@@ -211,39 +211,4 @@
 <script type="text/javascript">window.Beacon('init', 'ee96779a-5145-4761-be1a-b223307c1503')</script>
 
 <!-- civic cookie control-->
-<script>
-var config = {
-  apiKey: '94659ce343c70fcc0e2b702a8aeb52f594aefb67',
-  product: 'PRO_MULTISITE',
-  position: 'left',
-  //ccCookie: 'cookiecontrol-ceda',
-
-  statement : {
-    url: '/privacy-and-cookies/',
-    updated : '05/12/2024' // need DD/MM/YYYY format (inc trailing zeros)
-  },
-
-  necessaryCookies: [],
-
-  optionalCookies: [
-    {
-        name: 'analytics',
-        label: 'Google Analytics',
-        description: 'Analytical cookies help us to improve our website by collecting and reporting information on its usage.',
-        cookies: ['_ga', '_ga*', '_gid', '_gat', '__utma', '__utmt', '__utmb', '__utmc', '__utmz', '__utmv'],
-            onAccept: function(){
-                gtag('consent', 'update', {
-                    'analytics_storage': 'granted'
-                });
-            },
-            onRevoke: function(){
-                gtag('consent', 'update', {
-                    'analytics_storage': 'denied'
-                });
-            }
-    }
-  ]
-}
-
-CookieControl.load( config );
-</script>
+<!-- omit config for now -->

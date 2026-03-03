@@ -266,10 +266,10 @@
     "sourceURL" = "https://cedadev.github.io/ceda-status/status.json"
     "viewURL" = "https://github.com/cedadev/ceda-status/blob/main/status.json"
 
-[modules.GoogleAnalytics]
-  integration = "core" 
-  state = "immediate"
-  category = "analytics"
-  gcm = true
-  nonce = false
-  force = true
+#[modules.GoogleAnalytics]
+#  integration = "core" 
+#  state = "immediate"
+#  category = "analytics"
+#  gcm = true
+#  nonce = false
+#  force = true
