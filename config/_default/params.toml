@@ -276,7 +276,7 @@
 #  category = "necessary"
 #  gcm = false
 #  nonce = false
-[params.modules.GoogleAnalytics]
+[modules.GoogleAnalytics]
   integration = "core" 
   state = "immediate"
   category = "analytics"
