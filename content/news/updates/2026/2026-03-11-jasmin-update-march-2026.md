@@ -16,7 +16,7 @@ Please note the following updates for your attention:
 
 ## New high memory nodes
 
-A set of high memory nodes was added to the cluster LOTUS. Each node has 6TB of physical memory and 192 CPU cores. This is considered a special resource and access is controlled via the access role `additional services : lotus-special` on the JASMIN accounts portal. A new partition called `special` is able to submit jobs to the new set of nodes, with access controlled by holding the above access role. Further details of the `special` partition including resource limits/QoS are {{<link "https://help.jasmin.ac.uk/docs/batch-computing/slurm-queues/">}}documented here{{</link>}}.
+A set of high memory nodes was added to the cluster LOTUS. Each node has 6TB of physical memory and 192 CPU cores. This is considered a special resource and access is controlled via the access role {{<link "https://accounts.jasmin.ac.uk/services/additional_services/lotus-special/">}}`additional services : lotus-special`{{</link>}} on the JASMIN accounts portal. A new partition called `special` is able to submit jobs to the new set of nodes, with access controlled by holding the above access role. Further details of the `special` partition including resource limits/QoS are {{<link "https://help.jasmin.ac.uk/docs/batch-computing/slurm-queues/">}}documented here{{</link>}}.
 
 ## ORCHID restructured - new resource limit and new Slurm partition
 
