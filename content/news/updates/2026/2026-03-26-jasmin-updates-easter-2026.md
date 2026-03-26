@@ -82,7 +82,7 @@ The task is large and challenging, but feedback from workspaces that have now mi
 
 ## XFC guidance updated
 
-FOr users of the XFC (transfer cache) service, please note updated guidance reflecting the fact that the quota and notifications components of this service are not currently operating and therefore users are asked to clean up after themselves rather than rely on automatic deletion, and to ensure that they are not using large (multi-terabyte) amounts of storage for more than a few days/weeks.
+For users of the XFC (transfer cache) service, please note {{<link "https://help.jasmin.ac.uk/docs/short-term-project-storage/xfc/" >}}updated guidance{{</link>}} reflecting the fact that the quota and notifications components of this service are not currently operating and therefore users are asked to clean up after themselves rather than rely on automatic deletion, and to ensure that they are not using large (multi-terabyte) amounts of storage for more than a few days/weeks.
 
 ## Easter holiday period
 
