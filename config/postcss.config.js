@@ -26,7 +26,6 @@ const purgecss = purgeCSSPlugin({
       './assets/scss/components/_video.scss',
       './assets/scss/theme/fonts.scss',
       './assets/scss/theme/theme.scss',
-      './_vendor/github.com/gethinode/mod-cookieyes/v2/assets/scss/cookieyes.scss',
       './_vendor/github.com/gethinode/mod-flexsearch/v2/assets/scss/modules/flexsearch/flexsearch.scss',
       './_vendor/github.com/gethinode/mod-katex/dist/katex.scss',
       './_vendor/github.com/gethinode/mod-leaflet/dist/leaflet.scss',
