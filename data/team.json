@@ -45,7 +45,7 @@
       "bio": "Rhys joined the STFC apprentice scheme in 2018 after completing a MSc in Mathematical Physics at the University of Nottingham. At CEDA, Rhys is developing various web interfaces and services for both CEDA and JASMIN.",
       "name": "Rhys Evans",
       "thumbnail": "/img/people/rhys-evans.jpg",
-      "title": "Software Engineer"
+      "title": "Senior Software Engineer"
     },
      "elliefisher": {
       "bio": "Ellie joined CEDA as a graduate data scientist in September 2023 after previously completing a summer placement with the team in 2022. She graduated with a BSc in Geology from Durham University in 2021, and a double MSc in Environmental Changes at Higher Latitudes from the University of Helsinki and Agricultural University of Iceland in 2023. She has a background in atmospheric science, Arctic meteorology and scientific programming, and her Master thesis focused on characterisation of microphysical and optical properties of atmospheric aerosols in Northeast Greenland. Within CEDA, Ellie is responsible for various atmospheric data management activities including processing of UK Met Office radiosonde datasets, archival of IPCC figure data, and developing help documentation for data reviewers at CEDA and other environmental data centres.",
@@ -119,12 +119,6 @@
       "thumbnail": "/img/people/molly-macrae.jpg",
       "title": "Environmental Data Scientist"
     },
-    "alexmanning": {
-      "bio": "Alex joined CEDA as a software engineer in 2021 after completing a PhD at the University of Bristol where he modelled the carbon cycle in the ocean during oceanic anoxic event two, about ninety million years ago. He is responsible for improving and maintaining web applications for CEDA and JASMIN, as well as operational support for various JASMIN services such as accounts, cloud and notebooks, helping users to use JASMIN effectively for their scientific computing needs.",
-      "name": "Alex Manning",
-      "thumbnail": "/img/people/alex-manning.jpg",
-      "title": "Research Software Engineer / Operations Support for JASMIN"
-        },
     "neilmassey": {
       "bio": "Neil joined CEDA in 2016 after working on the climateprediction.net and weather@home projects at the University of Oxford for 12 years, during which he gained a DPhil. in Atmospheric Physics. At CEDA, Neil is using his experience of large datasets to develop solutions to storing and accessing the very large volume of data held on JASMIN at CEDA, both in user's group workspaces and in the archive. These solutions involve using new storage technology, such as object stores and scale-out filesystems, and novel methods to exploit existing technology such as tape and parallel file systems.",
       "name": "Neil Massey",
@@ -174,10 +168,10 @@
       "title": "Head of Curation"
         },
     "davepoulter": {
-      "bio": "Dave joined CEDA in 2024 as Technical Manager with over 20 years experience in software engineering in the scientific domain. He started in earth science at the National Oceanography Centre in 2002 as a Research Assistant working in ocean remote sensing under various ESA, EU and BNSC programmes before an internal move to the British Oceanographic Data Centre (Southampton) as a Data Scientist; in both these roles he developed interactive data inter-comparison systems for measurements of ocean temperature, wind and wave datasets. He took a temporary role at the Norwegian Meteorological Institute for 6 months in 2011/2012 before returning to the UK to start a software company - Pelamis Scientific Software Ltd - which built many software systems for various space agencies, meteorological agencies and universities. In 2016 he joined 2degrees Network Ltd, an environmental consultancy in Oxford to help develop a software tool for reducing energy wastage in generic industrial manufacturing processes, and in 2019 he joined Oxford Nanopore Technologies Ltd, eventually leading the Internal Applications Team as Principal Software Engineer. At CEDA, Dave leads the team of developers and oversees the technical aspects of many large projects using his experience as a scientist and a software engineer to bring in best practices from industry.",
+      "bio": "Dave joined CEDA in 2024 as Technical Manager with over 20 years experience in software engineering in the scientific domain. He started in earth science at the National Oceanography Centre in 2002 as a Research Assistant working in ocean remote sensing under various ESA, EU and BNSC programmes before an internal move to the British Oceanographic Data Centre (Southampton) as a Data Scientist; in both these roles he developed interactive data inter-comparison systems for measurements of ocean temperature, wind and wave datasets. He took a temporary role at the Norwegian Meteorological Institute for 6 months in 2011/2012 before returning to the UK to start a software company - Pelamis Scientific Software Ltd - which built many software systems for various space agencies, meteorological agencies and universities. In 2016 he joined 2degrees Network Ltd, an environmental consultancy in Oxford to help develop a software tool for reducing energy wastage in generic industrial manufacturing processes, and in 2019 he joined Oxford Nanopore Technologies Ltd, eventually leading the Internal Applications Team as Principal Software Engineer. At CEDA, Dave leads the team of developers and oversees the technical aspects of many large projects using his experience as a scientist and a software engineer to bring in best practices from industry. Since November 2025, Dave has been the leader of the Software Engineering Group across the whole of RAL Space, which includes all CEDA activity.",
       "name": "Dave Poulter",
       "thumbnail": "/img/people/dave-poulter.jpg",
-      "title": "Technical Manager"
+      "title": "RAL Space Software Engineering Group Leader & CEDA Technical Manager"
         },
     "mattpritchard": {
       "bio":  "Matt is responsible for the delivery of JASMIN as a service to its user community, including CEDA. He liaises with staff in STFC’s Scientific Computing Department responsible for operating JASMIN’s infrastructure components (storage, network, compute) and leads the team tasked with supporting users to gain access to, and exploit JASMIN effectively for their scientific needs. He started at RAL in 2000, initially helping to establish the NERC Earth Observation Data Centre (NEODC), now part of the CEDA Archive. He holds a BSc in Geophysics (Geological) from the University of Leicester and a PhD from the University of Durham, where he used global earthquake data to study the structure of the Earth’s mantle beneath Iceland.",
