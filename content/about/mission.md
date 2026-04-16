@@ -63,7 +63,8 @@ We aim to support environmental science, further environmental data archival pra
 
 ### Look at our previous Annual Reports:
 
-- CEDA Annual Report 2022-2023 - {{< link href="https://doi.org/10.5281/zenodo.14205181">}} Click here {{< /link >}}
+- CEDA Annual Report 2024-2025 - {{< link href="https://doi.org/10.5281/zenodo.17791624">}} Click here {{< /link >}}
+- CEDA Annual Report 2023-2024 - {{< link href="https://doi.org/10.5281/zenodo.14205181">}} Click here {{< /link >}}
 - CEDA Annual Report 2022-2023 - {{< link href="https://doi.org/10.5281/zenodo.10522821">}} Click here {{< /link >}}
 - CEDA Annual Report 2021-2022 - {{< link href="https://doi.org/10.5281/zenodo.7554901">}} Click here {{< /link >}}
 - CEDA Annual Report 2020-2021 - {{< link href="https://doi.org/10.5281/zenodo.5592465">}} Click here {{< /link >}}
