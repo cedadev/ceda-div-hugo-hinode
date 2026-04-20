@@ -74,6 +74,13 @@ Crochet
 
 ### Resources to support this activity
 
+<iframe
+  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-hL1JF_xeKf_XWeRdI_zy90nqdUeWsf-qb4EvCjGHdoLGZHjdawBUqE1Jwn6dDI9ObOEEhXaXA_gk/pubhtml?gid=0&single=true&widget=true&headers=false"
+  width="100%"
+  height="600"
+  frameborder="0">
+</iframe>
+
 #### Don't know if you can make a difference?
 
 Climate change can feel so huge and overwhelming that you may think local action isn’t enough to make a difference. But there are lots that individuals and communities can do.
