@@ -1,0 +1,36 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+site_url: https://www.ceda.ac.uk
+
+backend:
+  name: github
+  repo: cedadev/ceda-div-hugo-hinode
+  auth_methods: [token]
+
+media_folder: /assets/img
+public_folder: /img
+publish_mode: editorial_workflow
+
+collections:
+  
+  - name: news
+    label: news
+    folder: /content/news/updates/2026
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    media_folder: '{{media_folder}}/news/{{year}}/{{slug}}'
+    public_folder: '{{public_folder}}/news/{{year}}/{{slug}}'
+    fields:
+      - { label: title, name: title, widget: string }
+      - { label: date, name: date, widget: datetime, format: YYYY-MM-DD HH:mm:ss}
+      - { label: thumbnail, name: thumbnail, widget: image, required: false }
+      - { label: icon, name: icon, widget: string, required: false  }
+      - { label: body, name: body, widget: richtext }
+      - name: tags
+        label: tags
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - { label: "ceda", value: "ceda" }
+          - { label: "jasmin", value: "jasmin" }
+          - { label: "data incident", value : "data-incident-nov25" }
+
