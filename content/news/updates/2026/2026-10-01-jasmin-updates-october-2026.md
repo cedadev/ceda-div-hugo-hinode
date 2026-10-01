@@ -1,9 +1,9 @@
 ---
 title: JASMIN updates October 2026
 date: 2026-10-01 15:00:00
-thumbnail: ''
 icon: fas leaf text-warning
 tags:
+  - news
   - jasmin
   - ceda
 ---
