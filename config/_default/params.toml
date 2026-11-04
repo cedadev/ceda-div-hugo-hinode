@@ -5,6 +5,7 @@
     canonifyAssetsURLs = false
     footerBelowFold = true
     loading = "lazy"
+    breakpoint = "md"
     titleCase = false # keep this false to avoid issues with inline code in headings
     [main.padding]
         x = 4
@@ -12,14 +13,10 @@
     [main.externalLinks]
         cue = true
         tab = true
-    #[main.build]
-    #    transpiler = "dartsass"
-    #    silenceDeprecations = true
-    #endorse = true
-    #breakpoint = "md"
     [main.build]
-        transpiler = "libsass"
+        transpiler = "dartsass"
     [main.colorMode]
+        enabled = true
         modes = ["light", "dark"]
         toggle = false # setting seems wrong way round!
 
@@ -45,7 +42,8 @@
 
 [navigation]
     anchor = true
-    logo = "/img/logos/ceda-logo-light.png" # store -light and -dark variants
+    logo = "/img/logos/ceda-logo.png" # store -light and -dark variants
+    logo-mode = true
     logo-height = 80
     color = "body-tertiary"
     fixed = true
@@ -53,17 +51,17 @@
     overlayMode = "dark"
     horizontal = false
     offset = "5.5rem"
-    [search]
-        search.enabled = true
-        search.modal = true
     breadcrumb = true
     toc = true
     sidebar = true
     size = "md"
     # TOC options new with v1.10.0
-    startLevel = 2 # need to specify these ...
-    endLevel = 4 # to avoid spurious [ ] in TOC menu
+    #startLevel = 2 # need to specify these ...
+    #endLevel = 4 # to avoid spurious [ ] in TOC menu
     #maxNumHeadings = 4
+    [navigation.search]
+        enabled = true
+        modal = true
     [navigation.padding]
         x = 1
         y = 1
@@ -200,6 +198,7 @@
     themeFontPath = "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" # external path
     #themeFontPath = "/fonts" # local path
     purge = false
+    #fontSizeBase = "1rem"
 
 [schema]
     type = "Organization"
