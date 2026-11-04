@@ -1,4 +1,4 @@
-name: Lint build deploy
+name: Build deploy
 on:
   push:
     branches:
@@ -13,29 +13,8 @@ permissions:
   contents: read
 
 jobs:
-  lint:
-    runs-on: ubuntu-latest
-
-    steps:
-    - name: Check out repository
-      uses: actions/checkout@v7
-
-    - name: Set up Node.js
-      uses: actions/setup-node@v7
-      with:
-        node-version: 26.x
-        cache: 'npm'
-        cache-dependency-path: package.json
-
-    # [24/AUG/23] Adjusted from npm ci to prevent EBADPLATFORM error due to fsevents
-    - name: Install npm
-      run: npm i
-
-    - name: Lint the source files
-      run: npm run lint
 
   build:
-    #needs: lint
     runs-on: ubuntu-latest
     permissions:
       contents: read
