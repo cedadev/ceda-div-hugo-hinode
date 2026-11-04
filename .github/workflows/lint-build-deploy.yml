@@ -25,7 +25,7 @@ jobs:
       with:
         node-version: 26.x
         cache: 'npm'
-        cache-dependency-path: '**/package-lock.json'
+        cache-dependency-path: package.json
 
     # [24/AUG/23] Adjusted from npm ci to prevent EBADPLATFORM error due to fsevents
     - name: Install npm
@@ -58,7 +58,7 @@ jobs:
       with:
         node-version: 26.x
         cache: 'npm'
-        cache-dependency-path: '**/package-lock.json'
+        cache-dependency-path: package.json
 
     - name: Install Dart Sass
       env:
