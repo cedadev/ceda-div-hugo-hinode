@@ -22,6 +22,8 @@ jobs:
       HUGO_VERSION: 0.165.0
       TZ: Europe/London
     steps:
+      - name: Setup Dart Sass
+        uses: dw-labs-org/dart-sass-gha@v1
       - name: Checkout
         uses: actions/checkout@v6
         with:
