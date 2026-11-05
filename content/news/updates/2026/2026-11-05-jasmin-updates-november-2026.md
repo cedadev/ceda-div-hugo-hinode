@@ -8,12 +8,12 @@ tags:
   - jasmin
 ---
 
-- Scheduled maintenance day Tuesday 25 November 2026
+- Scheduled maintenance day Wednesday 25 November 2026
 - Changes to cron on JASMIN
 - Timetable for retirement of Elastic Tape/JDMA, migration to NLDS
 - Reminder: use interactive sessions in preference to sci servers
 
-## Scheduled maintenance day Tuesday 25 November 2026
+## Scheduled maintenance day Wednesday 25 November 2026
 
 An additional scheduled maintenance day is planned for Wednesday 25h November 2026. This will affect all JASMIN and CEDA services.
 
@@ -27,9 +27,9 @@ As usual, the LOTUS batch processing cluster will be unavailable for the duratio
 - `xfer-vm-03.jasmin.ac.uk` (for initiating automated transfers)
 
 Due to a system misconfiguration, it has recently been possible to run cron jobs elsewhere on JASMIN, but this will be corrected on the scheduled maintenance day announced above.
- 
+
 If you have cron tasks which reside in places other than those listed above, you must take action before that date when cron will be disabled in all other locations.
- 
+
 Please note that no heavy processing should take place on the cron hosts themselves, which are also liable to reboots at short notice.
 
 Please make sure you read and abide by the [“Cron on JASMIN” rules documented here](https://help.jasmin.ac.uk/docs/workflow-management/using-cron/#cron-on-jasmin), including mandatory use of the `crontamer` tool provided on both those hosts. 
