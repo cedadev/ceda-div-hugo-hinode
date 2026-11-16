@@ -1,16 +1,20 @@
 [main]
     separator = "-"
-    description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+    description = "The Centre for Environmental Data Analysis serves the environmental science community by the provision of data centres, data analysis & access, and research project participation."
     enableLanguageSelectionStorage = false
     canonifyAssetsURLs = false
-    endorse = true
-    footerBelowFold = false
+    #endorse = true
+    footerBelowFold = true
     loading = "lazy"
+    titlecase = false
     breakpoint = "md"
     [main.colorMode]
         enabled = true
         modes = ["light", "dark"]
         toggle = false
+    [main.padding]
+        x = 4
+        y = 4
     [main.internalLinks]
         validate = true
         pretty = false
@@ -23,26 +27,34 @@
 [debugging]
     showJS = false
     showSCSS = false
-    purgeHTMLComments = false
+    purgeHTMLComments = true
 
 [docs]
-    github = "https://github.com/gethinode/hinode"
-    release = "https://github.com/gethinode/hinode/releases/tag/"
+    #basePath = "_vendor/github.com/gethinode/hinode"
+    github = "https://github.com/cedadev/ceda-div-hugo-hinode"
+    #release = "https://github.com/gethinode/hinode/releases/tag/"
     checkVersion = false
 
 [navigation]
     anchor = true
-    logo = "/img/logo_icon.svg"
-    color = "body"
+    logo = "img/logos/ceda-logo-light.png" # store -light and -dark variants
+    logo-height = 80
+    color = "body-tertiary"
     fixed = true
     offset = "5.5rem"
+    #overlay = false
+    #overlayMode = "dark"
+    #horizontal = false
     breadcrumb = true
     toc = true
     sidebar = true
     size = "md"
     [navigation.search]
         enabled = true
-        modal = false
+        modal = true
+    [navigation.padding]
+        x = 1
+        y = 1
 
 [messages]
     placement = "bottom-right"
@@ -60,12 +72,6 @@
     weight = 10
 
 [[sharing.providers]]
-    name = "Twitter"
-    url = "https://twitter.com/home?status={url}"
-    icon = "fab x-twitter"
-    weight = 20
-
-[[sharing.providers]]
     name = "Facebook"
     url = "https://www.facebook.com/sharer.php?u={url}"
     icon = "fab facebook"
@@ -78,7 +84,7 @@
     weight = 40
 
 [[sharing.providers]]
-    name = "email"
+    name = "link"
     url = "{url}"
     icon = "fas link"
     weight = 50
@@ -89,50 +95,62 @@
     sizes = [16, 32, 48]
 
 [style]
-    primary = "#d43900"
-    secondary = "#6c757d"
-    success = "#198754"
-    info = "#0dcaf0"
-    warning = "#ffc107"
-    danger = "#dc3545"
-    light = "#f8f9fa"
-    dark = "#212529"
+    primary = "#446E9B"
+    secondary = "#999999"
+    success = "#3CB521"
+    info = "#3399F3"
+    warning = "#D47500"
+    danger = "#CD0200"
+    light = "#EEEEEE"
+    dark = "#333333"
+
     themeOpacity = "10"
     darkModeShade = "20%"
     darkModeTint = "40%"
-    themeFont = "Inter"
-    # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
-    themeFontPath = "/fonts" # local path
-    fontSizeBase = "1rem"
+    themeFont = "Lato"
+    themeFontPath = "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400&display=swap" # external path
+    #themeFontPath = "/fonts" # local path
+    #fontSizeBase = "1rem"
 
 [schema]
     type = "Organization"
-    name = "Hinode"
-    # locale = "en-US" # defaults to the locale of the current site language
-    # twitter = "https://twitter.com/gethinode"
-    # linkedIn = ""
-    github = "https://github.com/gethinode/hinode"
-    section = "blog"
+    name = "CEDA"
+    locale = "en-GB"
+    github = "https://github.com/cedadev"
+    #section = "news"
     [schema.author]
-        name = "Mark Dumay"
-        # twitter = "https://twitter.com/markdumay"
-        linkedin = "https://www.linkedin.com/in/markdumay/"
-        github = "https://github.com/markdumay"
+        name = "Matt Pritchard"
     [schema.logo]
-        url = "img/logo512x512.png"
-        width = 512
-        height = 512
+        url = "img/logos/ceda-logo-whitebg-small.png?source=schema.logo"
+        width = 48
+        height = 48
     [schema.image]
-        url = "img/logo1280x640.png"
-        width = 1280
-        height = 640
+        url = "img/logos/ceda-logo-whitebg-small.png?source=schema.image"
+        width = 48
+        height = 48
 
 [opengraph]
-    images = ["logo.png"]
-    # locale = "en_US" # defaults to the locale of the current site language
+    images = ["img/logos/ceda-logo-whitebg-small.png?source=opengraph"]
+    locale = "en_GB"
 
 [links]
     hinode = "https://gethinode.com"
+    hinode_docs = "https://gethinode.com/docs"
+    hugo = "https://gohugo.io"
+    # curated local links
+    ceda_site = "/"
+    ceda_archive = "https://archive.ceda.ac.uk"
+    ceda_catalogue = "https://catalogue.ceda.ac.uk"
+    ceda_helpdocs = "https://help.ceda.ac.uk"
+    ceda_helpdesk = "https://help.ceda.ac.uk"
+    ceda_status = "/status"
+    ceda_contact = "/contact"
+    nceo = "https://www.nceo.ac.uk"
+    ncas = "https://www.ncas.ac.uk"
+    jasmin = "https://www.jasmin.ac.uk"
+    stfc = "https://stfc.ukri.org"
+    nerc = "https://nerc.ukri.org"
+    ukri = "https://ukri.org"
 
 [statusClasses]
     "down" = "danger"
@@ -148,3 +166,11 @@
     #"sourceURL" = "https://raw.githubusercontent.com/mjpritchard/mjp-status/refs/heads/main/status.json"
     # https://stackoverflow.com/a/25373840/20939086
     "viewURL" = "https://github.com/cedadev/ceda-status/blob/main/status.json"
+
+[modules.GoogleAnalytics]
+  integration = "core" 
+  state = "immediate"
+  category = "analytics"
+  gcm = true
+  nonce = false
+  force = true

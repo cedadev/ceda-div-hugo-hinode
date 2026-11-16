@@ -1,0 +1,26 @@
+$theme-border-radius: 0 !important;
+$border-radius: 0 !important;
+
+// text size for home page hero box
+.fs-5 {
+    font-size: 1rem !important; // was 1.25
+}
+
+// padding for box where news etc is displayed
+#news {
+    padding: 2rem 0 !important; // was 3
+}
+
+.custom-cards .card-title {
+    font-weight: bold !important;
+}
+
+.org-logo-img-footer {
+    padding: 10px 15px !important;
+}
+
+.other-logo-img-footer {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+    padding-top: 10px !important;
+}
