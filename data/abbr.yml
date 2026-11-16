@@ -1,8 +1,0 @@
-# this file holds all abbreviations for use with the abbr shortcode
-# all id entries must be in lowercase
-
-- id: tla
-  long: three-letter acronym
-
-- id: ceda
-  long: Centre for Environmental Data Analysis
