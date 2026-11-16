@@ -1,22 +1,24 @@
-title = "Hinode"
-copyright = "Copyright © 2022 - 2026 Hinode Team."
-enableGitInfo = true
+title = "Centre for Environmental Data Analysis"
+copyright = "Copyright © 2025 Science and Technology Facilities Council."
+enableGitInfo = false
 
 # additional settings
-baseURL = "https://example.com/"
-canonifyURLs = false
+#baseURL = "https://www.ceda.ac.uk"
+canonifyURLs = true # for subdirectory deployment
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
 summaryLength = 20
+#Parser.wrapStandAloneImageWithinParagraph = false # see https://gethinode.com/docs/content/images-and-figures/
 
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
-ignoreErrors = ["error-remote-getjson"]
+ignoreErrors = ["error-remote-getjson", "warn-missing-page-argument"] # , "warn-invalid-arguments"
+#ignoreLogs = ['warn-missing-page-argument']
 
-timeout = "180s"
+timeout = "600s"
 
-locale = "en-us"
+locale = "en-gb"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
@@ -28,18 +30,6 @@ defaultContentLanguageInSubdir = false
     notAlternative = true
     permalinkable = true
     root = true
-  [outputFormats.netlify]
-    mediaType = "application/toml"
-    baseName = "netlify"
-    isPlainText = true
-    notAlternative = true
-    permalinkable = true
-    root = true
-  [outputFormats.REDIR]
-    mediaType = "text/netlify"
-    baseName = "_redirects"
-    isPlainText = true
-    notAlternative = true
   [outputFormats.XML]
     isPlainText = false
     mediaType = "application/xml"
@@ -48,11 +38,8 @@ defaultContentLanguageInSubdir = false
     permalinkable = false
     name = "xml"
 
-[mediaTypes."text/netlify"]
-delimiter = ""
-
 [outputs]
-home = ["HTML", "RSS", "REDIR", "netlify", "server"]
+home = ["HTML", "RSS", "server"]
 
 [build]
   writeStats = true
@@ -68,11 +55,6 @@ home = ["HTML", "RSS", "REDIR", "netlify", "server"]
     disabled = false
     simple = true
 
-  [privacy.x]
-    disabled = false
-    enableDNT = true
-    simple = true
-
   [privacy.instagram]
     disabled = false
     simple = true
@@ -80,6 +62,10 @@ home = ["HTML", "RSS", "REDIR", "netlify", "server"]
   [privacy.youtube]
     disabled = false
     privacyEnhanced = true
+
+  [privacy.googleAnalytics]
+    disable = false
+    respectDoNotTrack = false
 
 [services]
   [services.instagram]
@@ -89,12 +75,20 @@ home = ["HTML", "RSS", "REDIR", "netlify", "server"]
   [services.googleAnalytics]
     # ID = "G-xxxxxxxxxx"
 
-[minify]
-  [minify.tdewolff.js]
-    precision = 0
-    version = 2022
-  [minify.tdewolff.html]
-    keepWhitespace = true
+[minify] # see https://discourse.gohugo.io/t/minify-config-tutorials/28179/5
+  disableHTML = false
+  disableJS = true
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
+  [minify.tdewolff]
+    [minify.tdewolff.html]
+      keepWhitespace = true
+    [minify.tdewolff.js]
+      keepVarNames = true
+      precision = 0
+      keepWhitespace = true
 
 [module]
   [module.hugoVersion]
@@ -130,4 +124,4 @@ home = ["HTML", "RSS", "REDIR", "netlify", "server"]
   [segments.headers]
     [[segments.headers.includes]]
        kind = '{home}'
-       output = '{netlify,server}'
+       output = '{server}'
