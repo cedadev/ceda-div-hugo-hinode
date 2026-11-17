@@ -141,6 +141,8 @@
 
 [links]
     hinode = "https://gethinode.com"
+    hinode_docs = "https://gethinode.com/docs"
+    hugo = "https://gohugo.io"
     # curated local links
     ceda_site = "/"
     ceda_archive = "https://archive.ceda.ac.uk"
