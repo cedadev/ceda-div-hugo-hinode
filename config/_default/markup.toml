@@ -37,5 +37,5 @@ defaultMarkdownHandler = "goldmark"
         block = true
     [goldmark.renderer]
         hardWraps = false
-        unsafe = false
+        unsafe = false # was true # see https://discourse.gohugo.io/t/raw-html-getting-omitted-in-0-60-0/22032
         xhtml = false
