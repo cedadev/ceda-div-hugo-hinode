@@ -5,4 +5,4 @@ date: 2023-08-08
 showComments: false
 ---
 
-You may also wish to check our feed for recent updates.
+You may also wish to check our [news feed](/news) feed for recent updates.

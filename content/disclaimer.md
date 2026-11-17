@@ -1,5 +1,4 @@
 ---
-type: "external-redirect"
-external_url: "https://help.ceda.ac.uk/article/4642-disclaimer"
-title: "Disclaimer"
+type: redirect
+target: https://help.ceda.ac.uk/article/4642-disclaimer
 ---
