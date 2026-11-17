@@ -11,7 +11,6 @@ enableInlineShortcodes = true
 summaryLength = 20
 #Parser.wrapStandAloneImageWithinParagraph = false # see https://gethinode.com/docs/content/images-and-figures/
 
-
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson", "warn-missing-page-argument"] # , "warn-invalid-arguments"
@@ -38,11 +37,32 @@ defaultContentLanguageInSubdir = false
     noUgly = true
     permalinkable = false
     name = "xml"
+  [outputFormats.llmstxt]
+    mediaType = "text/plain"
+    baseName = "llms"
+    isPlainText = true
+    notAlternative = true
+    rel = "alternate"
+    root = true
+  [outputFormats.markdown]
+    mediaType = "text/markdown"
+    baseName = "index"
+    isPlainText = true
+    isHTML = false
+    noUgly = false
+    rel = "alternate"
+  # Optional: add llmscomponents for Hinode documentation sites
+  #[outputFormats.llmscomponents]
+  #  mediaType = "application/json"
+  #  baseName = "llms-components"
+  #  isPlainText = true
+  #  notAlternative = true
+  #  root = true
 
 [outputs]
-home = ["HTML", "RSS", "server"]
-
-buildFuture = true
+  home = ["HTML", "RSS", "server"] #, "llmstxt", "markdown"]   # add "llmscomponents" for documentation sites
+  #page = ["HTML", "markdown"]
+  #section = ["HTML", "markdown"]
 
 [build]
   writeStats = true
@@ -110,6 +130,8 @@ buildFuture = true
     path = "github.com/gethinode/mod-blocks/v2"
   [[module.imports]]
     path = "github.com/gethinode/hinode/v3"
+  [[module.imports]]
+    path = "github.com/gethinode/mod-llm/v2"
 
 [segments]
   [segments.headers]
