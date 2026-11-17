@@ -1,22 +1,24 @@
-title = "Hinode"
-copyright = "Copyright © 2022 - 2026 Hinode Team."
-enableGitInfo = true
+title = "Centre for Environmental Data Analysis"
+copyright = "Copyright © 2025 Science and Technology Facilities Council."
+enableGitInfo = false
 
 # additional settings
-baseURL = "https://example.com/"
-canonifyURLs = false
+#baseURL = "https://www.ceda.ac.uk"
+canonifyURLs = true
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
 summaryLength = 20
+#Parser.wrapStandAloneImageWithinParagraph = false # see https://gethinode.com/docs/content/images-and-figures/
+
 
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
 # See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 
-timeout = "180s"
+timeout = "600s"
 
-locale = "en-us"
+locale = "en-gb"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
@@ -39,6 +41,8 @@ defaultContentLanguageInSubdir = false
 [outputs]
 home = ["HTML", "RSS", "server"]
 
+buildFuture = true
+
 [build]
   writeStats = true
   
@@ -51,11 +55,6 @@ home = ["HTML", "RSS", "server"]
 [privacy]
   [privacy.vimeo]
     disabled = false
-    simple = true
-
-  [privacy.x]
-    disabled = false
-    enableDNT = true
     simple = true
 
   [privacy.instagram]
@@ -72,7 +71,7 @@ home = ["HTML", "RSS", "server"]
   [services.x]
     disableInlineCSS = true
   [services.googleAnalytics]
-    # ID = "G-xxxxxxxxxx"
+    #ID = "G-QQ8KP42QSR"
 
 [minify]
   [minify.tdewolff.js]
