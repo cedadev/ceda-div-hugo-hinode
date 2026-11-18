@@ -1,0 +1,5 @@
+{{- /*
+    Return an absolute URL so the search index works when GitHub Pages deploys
+    this site below a repository path.
+*/ -}}
+{{- return absURL (partial "utilities/GetSearchIndexPath.html" site) -}}

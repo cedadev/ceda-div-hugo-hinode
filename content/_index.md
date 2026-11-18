@@ -25,7 +25,7 @@ content_blocks:
         outline: true
     orientation: horizontal
     cover: true
-    overlay-mode: dark
+    overlay_mode: dark
     background: 
       backdrop: img/uk-cropped.jpg
 
@@ -35,8 +35,8 @@ content_blocks:
     input:
       section: news
       sort: date
-    hide-empty: false
-    header-style: none
+    hide_empty: false
+    header_style: none
     more:
       title: More news
     padding: 0
@@ -52,7 +52,7 @@ content_blocks:
       color: success
       subtle: true
     width: 12
-    tab-type: underline
+    tab_type: underline
     ratio: 16x9
     elements:
     - title: JASMIN
@@ -76,8 +76,8 @@ content_blocks:
       section: events
       reverse: true
       sort: date
-    hide-empty: false
-    header-style: none
+    hide_empty: false
+    header_style: none
     more:
       title: More events
     padding: 0
@@ -97,7 +97,7 @@ content_blocks:
       subtle: true
     illustration:
       image: img/CEDA-staff-30th.jpg
-    link-type: link
+    link_type: link
     links:
     - title: Our team
       url: '/about/team.md'
@@ -118,7 +118,7 @@ content_blocks:
       color: info
       subtle: true
     orientation: stacked
-    icon-rounded: true
+    icon_rounded: true
     class: text-center custom-cards
     elements:
     - title: Big data analysis & access
@@ -137,8 +137,8 @@ content_blocks:
     input:
       section: projects
       sort: date
-    hide-empty: false
-    header-style: none
+    hide_empty: false
+    header_style: none
     more:
       title: More projects
     padding: 0
