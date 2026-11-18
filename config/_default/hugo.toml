@@ -1,10 +1,10 @@
 title = "Centre for Environmental Data Analysis"
-copyright = "Copyright © 2025 Science and Technology Facilities Council."
+copyright = "Copyright © 2026 Science and Technology Facilities Council."
 enableGitInfo = false
 
 # additional settings
-#baseURL = "https://www.ceda.ac.uk"
-canonifyURLs = true
+baseURL = "https://www.ceda.ac.uk"
+canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
@@ -92,7 +92,7 @@ defaultContentLanguageInSubdir = false
   [services.x]
     disableInlineCSS = true
   [services.googleAnalytics]
-    #ID = "G-QQ8KP42QSR"
+    ID = "G-QQ8KP42QSR"
 
 [minify]
   [minify.tdewolff.js]
