@@ -1,6 +1,6 @@
 module github.com/gethinode/template
 
-go 1.20
+go 1.26
 
 require (
 	github.com/FortAwesome/Font-Awesome v0.0.0-20260715180930-14c65a3747d0 // indirect

@@ -9,6 +9,7 @@ enableEmoji = true
 enableRobotsTXT = true
 enableInlineShortcodes = true
 summaryLength = 20
+buildFuture = true
 #Parser.wrapStandAloneImageWithinParagraph = false # see https://gethinode.com/docs/content/images-and-figures/
 
 # prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
